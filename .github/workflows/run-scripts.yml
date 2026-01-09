@@ -79,7 +79,7 @@ jobs:
           sed -n '10,13p' src/utils/fileSystem.ts | cat -n
       
       - name: Run script
-        timeout-minutes: 60
+        timeout-minutes: 360  # 6 hours (maximum for GitHub Actions public repos)
         env:
           COMPANIES_HOUSE_API_KEY: ${{ secrets.COMPANIES_HOUSE_API_KEY }}
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
