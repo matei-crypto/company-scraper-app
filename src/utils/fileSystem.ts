@@ -2,55 +2,23 @@ import fs from 'fs-extra';
 import path from 'path';
 import { Company, CompanySchema, analyzeMSPLikelihood } from '../schemas/CompanySchema.js';
 
-// Use Blob Storage adapter in Vercel, filesystem locally
-const isVercel = !!process.env.BLOB_READ_WRITE_TOKEN;
+const COMPANIES_DIR = path.join(process.cwd(), 'data', 'companies');
 
-// Re-export from blob adapter if in Vercel, otherwise use local implementation
-if (isVercel) {
-  // In Vercel, use Blob Storage
-  export {
-    readCompany,
-    writeCompany,
-    listAllCompanies,
-    readAllCompanies,
-    deleteCompany,
-    getCompanyDocumentsDir,
-    ensureCompanyDocumentsDir,
-    getDocumentFilePath,
-    saveDocument,
-    documentExists,
-    listCompanyDocuments,
-  } from './fileSystemBlob.js';
-} else {
-  // Local filesystem implementation
-  const COMPANIES_DIR = path.join(process.cwd(), 'data', 'companies');
-
-/**
- * Get the documents directory for a company
- */
+// Document functions
 export function getCompanyDocumentsDir(companyNumber: string): string {
   return path.join(COMPANIES_DIR, companyNumber, 'documents');
 }
 
-/**
- * Ensure the documents directory exists for a company
- */
 export async function ensureCompanyDocumentsDir(companyNumber: string): Promise<void> {
   const documentsDir = getCompanyDocumentsDir(companyNumber);
   await fs.ensureDir(documentsDir);
 }
 
-/**
- * Get the file path for a document
- */
 export function getDocumentFilePath(companyNumber: string, transactionId: string, extension: string = 'pdf'): string {
   const documentsDir = getCompanyDocumentsDir(companyNumber);
   return path.join(documentsDir, `${transactionId}.${extension}`);
 }
 
-/**
- * Save a document to disk
- */
 export async function saveDocument(
   companyNumber: string,
   transactionId: string,
@@ -63,17 +31,11 @@ export async function saveDocument(
   return filePath;
 }
 
-/**
- * Check if a document exists
- */
 export async function documentExists(companyNumber: string, transactionId: string, extension: string = 'pdf'): Promise<boolean> {
   const filePath = getDocumentFilePath(companyNumber, transactionId, extension);
   return await fs.pathExists(filePath);
 }
 
-/**
- * List all documents for a company
- */
 export async function listCompanyDocuments(companyNumber: string): Promise<string[]> {
   const documentsDir = getCompanyDocumentsDir(companyNumber);
   if (!(await fs.pathExists(documentsDir))) {
@@ -83,38 +45,16 @@ export async function listCompanyDocuments(companyNumber: string): Promise<strin
   return files.filter(file => file.endsWith('.pdf') || file.endsWith('.json'));
 }
 
-/**
- * Ensure the companies directory exists
- */
-export async function ensureCompaniesDir(): Promise<void> {
-  await fs.ensureDir(COMPANIES_DIR);
-}
-
-/**
- * Get the file path for a company
- */
-export function getCompanyFilePath(companyNumber: string): string {
-  return path.join(COMPANIES_DIR, `${companyNumber}.json`);
-}
-
-/**
- * Read a company from the database
- */
+// Company data functions
 export async function readCompany(companyNumber: string): Promise<Company | null> {
-  const filePath = getCompanyFilePath(companyNumber);
-  
+  const filePath = path.join(COMPANIES_DIR, `${companyNumber}.json`);
   if (!(await fs.pathExists(filePath))) {
     return null;
   }
-  
   const data = await fs.readJson(filePath);
   return CompanySchema.parse(data);
 }
 
-/**
- * Write a company to the database with validation
- * Automatically recomputes MSP likelihood score if enrichment data is present
- */
 export async function writeCompany(company: Company): Promise<void> {
   // Validate before writing
   const validated = CompanySchema.parse(company);
@@ -138,23 +78,17 @@ export async function writeCompany(company: Company): Promise<void> {
     validated.enrichment.msp_likelihood_computed_at = new Date().toISOString();
   }
   
-  const filePath = getCompanyFilePath(validated.company_number);
-  await ensureCompaniesDir();
+  const filePath = path.join(COMPANIES_DIR, `${validated.company_number}.json`);
+  await fs.ensureDir(COMPANIES_DIR);
   await fs.writeJson(filePath, validated, { spaces: 2 });
 }
 
-/**
- * List all company files
- */
 export async function listAllCompanies(): Promise<string[]> {
-  await ensureCompaniesDir();
+  await fs.ensureDir(COMPANIES_DIR);
   const files = await fs.readdir(COMPANIES_DIR);
   return files.filter(file => file.endsWith('.json')).map(file => file.replace('.json', ''));
 }
 
-/**
- * Read all companies from the database
- */
 export async function readAllCompanies(): Promise<Company[]> {
   const companyNumbers = await listAllCompanies();
   const companies: Company[] = [];
@@ -173,13 +107,9 @@ export async function readAllCompanies(): Promise<Company[]> {
   return companies;
 }
 
-// Export local filesystem functions
-export {
-  getCompanyDocumentsDir,
-  ensureCompanyDocumentsDir,
-  getDocumentFilePath,
-  saveDocument,
-  documentExists,
-  listCompanyDocuments,
-};
+export async function deleteCompany(companyNumber: string): Promise<void> {
+  const filePath = path.join(COMPANIES_DIR, `${companyNumber}.json`);
+  if (await fs.pathExists(filePath)) {
+    await fs.remove(filePath);
+  }
 }
