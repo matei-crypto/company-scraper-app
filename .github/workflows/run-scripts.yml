@@ -70,6 +70,14 @@ jobs:
           fi
           echo "✓ CSV file found: $(ls -lh 'IT companies from Endole.csv' | awk '{print $5, $9}')"
       
+      - name: Debug fileSystem.ts (temporary)
+        if: github.event.inputs.script == 'load-csv'
+        run: |
+          echo "Checking fileSystem.ts..."
+          head -15 src/utils/fileSystem.ts | cat -n
+          echo "---"
+          sed -n '10,13p' src/utils/fileSystem.ts | cat -n
+      
       - name: Run script
         timeout-minutes: 60
         env:
