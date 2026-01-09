@@ -33,6 +33,21 @@ on:
         required: false
         type: string
         default: '0'
+      batch_number:
+        description: 'Batch number for automatic batch processing (1, 2, 3, etc.)'
+        required: false
+        type: string
+        default: '1'
+      batch_size:
+        description: 'Number of companies per batch (default: 1400 to fit in 6 hours)'
+        required: false
+        type: string
+        default: '1400'
+      auto_continue:
+        description: 'Automatically trigger next batch if this one succeeds (for load-csv)'
+        required: false
+        type: boolean
+        default: false
   schedule:
     # Run scrape daily at 2 AM UTC
     - cron: '0 2 * * *'
@@ -45,7 +60,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Needed for git push
-      actions: read
+      actions: write  # Needed to trigger workflows via API
     
     steps:
       - name: Checkout code
@@ -102,7 +117,13 @@ jobs:
             if [ "${{ github.event.inputs.enrich_websites }}" = "false" ] || [ "${{ github.event.inputs.enrich_websites }}" = "False" ]; then
               FLAGS="$FLAGS --no-enrich-websites"
             fi
-            if [ "${{ github.event.inputs.limit }}" != "0" ] && [ "${{ github.event.inputs.limit }}" != "" ]; then
+            
+            # Use batch processing if batch_number and batch_size are provided
+            if [ "${{ github.event.inputs.batch_number }}" != "" ] && [ "${{ github.event.inputs.batch_size }}" != "" ]; then
+              FLAGS="$FLAGS --batch-number=${{ github.event.inputs.batch_number }} --batch-size=${{ github.event.inputs.batch_size }}"
+              echo "Using batch processing: batch ${{ github.event.inputs.batch_number }}, size ${{ github.event.inputs.batch_size }}"
+            elif [ "${{ github.event.inputs.limit }}" != "0" ] && [ "${{ github.event.inputs.limit }}" != "" ]; then
+              # Use limit if no batch processing
               FLAGS="$FLAGS --limit=${{ github.event.inputs.limit }}"
             fi
             
@@ -127,3 +148,50 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "Auto-update: Run ${{ github.event.inputs.script || 'scheduled' }} script [skip ci]"
           git push
+      
+      - name: Trigger next batch (if auto_continue enabled)
+        if: |
+          github.event_name == 'workflow_dispatch' &&
+          github.event.inputs.script == 'load-csv' &&
+          github.event.inputs.auto_continue == 'true' &&
+          github.event.inputs.batch_number != '' &&
+          github.event.inputs.batch_number != '0' &&
+          github.event.inputs.batch_size != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Checking if next batch should be triggered..."
+          
+          BATCH_NUMBER="${{ github.event.inputs.batch_number }}"
+          BATCH_SIZE="${{ github.event.inputs.batch_size }}"
+          NEXT_BATCH=$((BATCH_NUMBER + 1))
+          
+          # Calculate total companies and batches
+          TOTAL_COMPANIES=9909  # Total companies in CSV
+          TOTAL_BATCHES=$(( (TOTAL_COMPANIES + BATCH_SIZE - 1) / BATCH_SIZE ))
+          
+          echo "Current batch: $BATCH_NUMBER"
+          echo "Next batch: $NEXT_BATCH"
+          echo "Total batches: $TOTAL_BATCHES"
+          
+          if [ "$NEXT_BATCH" -le "$TOTAL_BATCHES" ]; then
+            echo "✅ Triggering next batch: $NEXT_BATCH"
+            curl -X POST \
+              -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/repos/${{ github.repository }}/actions/workflows/222206068/dispatches \
+              -d "{
+                \"ref\": \"main\",
+                \"inputs\": {
+                  \"script\": \"load-csv\",
+                  \"skip_existing\": \"${{ github.event.inputs.skip_existing }}\",
+                  \"enrich_websites\": \"${{ github.event.inputs.enrich_websites }}\",
+                  \"batch_number\": \"$NEXT_BATCH\",
+                  \"batch_size\": \"$BATCH_SIZE\",
+                  \"auto_continue\": \"true\"
+                }
+              }" || echo "⚠️ Failed to trigger next batch (this is okay if we've reached the end)"
+            echo "Next batch triggered successfully!"
+          else
+            echo "✅ All batches complete! Processed all $TOTAL_COMPANIES companies across $TOTAL_BATCHES batches."
+          fi

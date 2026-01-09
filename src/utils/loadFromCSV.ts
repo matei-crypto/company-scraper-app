@@ -235,6 +235,8 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
   skipExisting?: boolean;
   limit?: number;
   enrichWebsites?: boolean; // Enable website enrichment (default: true, can be disabled with --no-enrich-websites)
+  batchNumber?: number; // Batch number (1-indexed) for batch processing
+  batchSize?: number; // Number of companies per batch
 } = {}) {
   console.log(chalk.bold.cyan('\n╔════════════════════════════════════════════════════════════╗'));
   console.log(chalk.bold.cyan('║           LOADING COMPANIES FROM CSV                       ║'));
@@ -253,9 +255,16 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     console.log(chalk.dim(`  - ${Array.from(csvData.values()).filter(r => r.ebitda !== undefined).length} with EBITDA`));
     console.log(chalk.dim(`  - ${Array.from(csvData.values()).filter(r => r.employees !== undefined).length} with employees\n`));
 
-    // Apply limit if specified
+    // Apply batch processing if batch number and size are specified
     let companyNumbers = allCompanyNumbers;
-    if (options.limit && options.limit > 0) {
+    if (options.batchNumber && options.batchSize && options.batchNumber > 0 && options.batchSize > 0) {
+      const startIndex = (options.batchNumber - 1) * options.batchSize;
+      const endIndex = startIndex + options.batchSize;
+      companyNumbers = allCompanyNumbers.slice(startIndex, endIndex);
+      const totalBatches = Math.ceil(allCompanyNumbers.length / options.batchSize);
+      console.log(chalk.yellow(`⚠ Batch processing: Batch ${options.batchNumber}/${totalBatches} (companies ${startIndex + 1}-${Math.min(endIndex, allCompanyNumbers.length)} of ${allCompanyNumbers.length})\n`));
+    } else if (options.limit && options.limit > 0) {
+      // Apply limit if specified (and no batch processing)
       companyNumbers = allCompanyNumbers.slice(0, options.limit);
       console.log(chalk.yellow(`⚠ Limited to first ${options.limit} companies\n`));
     }
@@ -536,13 +545,17 @@ if (import.meta.url.endsWith(process.argv[1]) || process.argv[1]?.includes('load
   const enrichWebsites = !process.argv.includes('--no-enrich-websites');
   const limitArg = process.argv.find(arg => arg.startsWith('--limit='));
   const limit = limitArg ? parseInt(limitArg.split('=')[1], 10) : undefined;
+  const batchNumberArg = process.argv.find(arg => arg.startsWith('--batch-number='));
+  const batchNumber = batchNumberArg ? parseInt(batchNumberArg.split('=')[1], 10) : undefined;
+  const batchSizeArg = process.argv.find(arg => arg.startsWith('--batch-size='));
+  const batchSize = batchSizeArg ? parseInt(batchSizeArg.split('=')[1], 10) : undefined;
 
   // Resolve path relative to project root
   const resolvedPath = csvPath.startsWith('/') 
     ? csvPath 
     : join(process.cwd(), csvPath);
 
-  loadCompaniesFromCSV(resolvedPath, { skipExisting, limit, enrichWebsites }).then(() => {
+  loadCompaniesFromCSV(resolvedPath, { skipExisting, limit, enrichWebsites, batchNumber, batchSize }).then(() => {
     process.exit(0);
   }).catch((error) => {
     console.error(chalk.red('\n✗ Fatal error:'), error);
