@@ -6,7 +6,6 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 import { readCompany, writeCompany } from './fileSystem.js';
 import type { Company } from '../schemas/CompanySchema.js';
-import { WebsiteAnalyzer } from '../enrichers/websiteAnalyzer.js';
 
 /**
  * CSV row data structure
@@ -235,7 +234,7 @@ function mergeCSVData(company: Company, csvRow: CSVRow): Company {
 async function loadCompaniesFromCSV(csvPath: string, options: {
   skipExisting?: boolean;
   limit?: number;
-  enrichWebsites?: boolean; // New option to enable website enrichment
+  enrichWebsites?: boolean; // Enable website enrichment (default: true, can be disabled with --no-enrich-websites)
 } = {}) {
   console.log(chalk.bold.cyan('\n╔════════════════════════════════════════════════════════════╗'));
   console.log(chalk.bold.cyan('║           LOADING COMPANIES FROM CSV                       ║'));
@@ -262,9 +261,9 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     }
 
     // Filter out existing companies if requested
+    let existingCount = 0;
     if (options.skipExisting) {
       const filtered: string[] = [];
-      let existingCount = 0;
       
       for (const companyNumber of companyNumbers) {
         const existing = await readCompany(companyNumber);
@@ -290,6 +289,14 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
 
     if (companyNumbers.length === 0) {
       console.log(chalk.yellow('No companies to load.'));
+      console.log(chalk.bold.cyan('\n╔════════════════════════════════════════════════════════════╗'));
+      console.log(chalk.bold.cyan('║                      LOAD SUMMARY                          ║'));
+      console.log(chalk.bold.cyan('╚════════════════════════════════════════════════════════════╝\n'));
+      console.log(chalk.green('✓ All companies already exist in database'));
+      if (existingCount > 0) {
+        console.log(chalk.green(`✓ Updated ${existingCount} existing companies with CSV data`));
+      }
+      console.log('');
       return;
     }
 
@@ -302,17 +309,21 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     const { RATE_LIMIT_DELAY_MS, DEFAULT_FILING_HISTORY_LIMIT } = await import('../config/constants.js');
     
     const scraper = new CompaniesHouseScraper();
-    let websiteAnalyzer: WebsiteAnalyzer | null = null;
+    let websiteAnalyzer: any = null;
     
-    // Initialize website analyzer if enrichment is enabled
-    if (options.enrichWebsites) {
+    // Website enrichment is enabled by default (unless explicitly disabled)
+    // Initialize website analyzer if enrichment is enabled (dynamic import)
+    if (options.enrichWebsites !== false) {
       try {
+        const { WebsiteAnalyzer } = await import('../enrichers/websiteAnalyzer.js');
         websiteAnalyzer = new WebsiteAnalyzer();
         console.log(chalk.green('✓ Website enrichment enabled\n'));
       } catch (error: any) {
         console.log(chalk.yellow(`⚠ Website enrichment disabled: ${error.message}\n`));
         options.enrichWebsites = false;
       }
+    } else {
+      console.log(chalk.dim('⚠ Website enrichment disabled (--no-enrich-websites flag)\n'));
     }
     
     let successCount = 0;
@@ -320,10 +331,12 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     let mergedCount = 0;
     let enrichedCount = 0;
     
-    // Wait 2 minutes before starting to ensure rate limit window is clear
-    console.log(chalk.yellow('\n⚠ Waiting 2 minutes for rate limit window to reset...\n'));
-    await new Promise(resolve => setTimeout(resolve, 120000));
-    console.log(chalk.green('✓ Rate limit window should be clear. Starting...\n'));
+    // Note: Companies House API has rate limits (600 requests per 5 minutes)
+    // For local testing with small limits, we don't need the wait
+    // Uncomment below if testing with larger batches:
+    // console.log(chalk.yellow('\n⚠ Waiting 2 minutes for rate limit window to reset...\n'));
+    // await new Promise(resolve => setTimeout(resolve, 120000));
+    // console.log(chalk.green('✓ Rate limit window should be clear. Starting...\n'));
     
     for (const companyNumber of companyNumbers) {
       console.log(chalk.cyan(`\nProcessing: ${companyNumber}`));
@@ -438,8 +451,8 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
           successCount++;
           success = true;
           
-          // Website enrichment (if enabled and company has a website)
-          if (options.enrichWebsites && websiteAnalyzer && validationResult.data.enrichment?.website) {
+          // Website enrichment (enabled by default, unless explicitly disabled)
+          if (options.enrichWebsites !== false && websiteAnalyzer && validationResult.data.enrichment?.website) {
             try {
               console.log(chalk.dim('  Enriching website...'));
               const enrichmentResult = await websiteAnalyzer.analyzeCompany(companyNumber);
@@ -500,7 +513,7 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     
     console.log(chalk.green(`✓ Successfully loaded: ${successCount} companies`));                                                                               
     console.log(chalk.green(`✓ CSV data merged: ${mergedCount} companies`));
-    if (options.enrichWebsites && enrichedCount > 0) {
+    if (options.enrichWebsites !== false && enrichedCount > 0) {
       console.log(chalk.green(`✓ Websites enriched: ${enrichedCount} companies`));
     }
     console.log(chalk.red(`✗ Failed: ${failCount} companies`));
@@ -519,7 +532,8 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
 if (import.meta.url.endsWith(process.argv[1]) || process.argv[1]?.includes('loadFromCSV')) {
   const csvPath = process.argv[2] || 'IT companies from Endole.csv';
   const skipExisting = process.argv.includes('--skip-existing');
-  const enrichWebsites = process.argv.includes('--enrich-websites');
+  // Website enrichment is enabled by default, unless --no-enrich-websites is specified
+  const enrichWebsites = !process.argv.includes('--no-enrich-websites');
   const limitArg = process.argv.find(arg => arg.startsWith('--limit='));
   const limit = limitArg ? parseInt(limitArg.split('=')[1], 10) : undefined;
 
