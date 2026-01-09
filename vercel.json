@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/run-script",
+      "dest": "/api/run-script.js"
+    },
+    {
+      "src": "/api/companies",
+      "dest": "/api/companies.js"
+    },
+    {
+      "src": "/api/migrate-blob",
+      "dest": "/api/migrate-blob.js"
+    }
+  ],
+  "functions": {
+    "api/run-script.js": {
+      "maxDuration": 300
+    },
+    "api/migrate-blob.js": {
+      "maxDuration": 300
+    }
+  },
+  "crons": [
+    {
+      "path": "/api/run-script",
+      "schedule": "0 2 * * *"
+    }
+  ]
+}

@@ -2,7 +2,28 @@ import fs from 'fs-extra';
 import path from 'path';
 import { Company, CompanySchema, analyzeMSPLikelihood } from '../schemas/CompanySchema.js';
 
-const COMPANIES_DIR = path.join(process.cwd(), 'data', 'companies');
+// Use Blob Storage adapter in Vercel, filesystem locally
+const isVercel = !!process.env.BLOB_READ_WRITE_TOKEN;
+
+// Re-export from blob adapter if in Vercel, otherwise use local implementation
+if (isVercel) {
+  // In Vercel, use Blob Storage
+  export {
+    readCompany,
+    writeCompany,
+    listAllCompanies,
+    readAllCompanies,
+    deleteCompany,
+    getCompanyDocumentsDir,
+    ensureCompanyDocumentsDir,
+    getDocumentFilePath,
+    saveDocument,
+    documentExists,
+    listCompanyDocuments,
+  } from './fileSystemBlob.js';
+} else {
+  // Local filesystem implementation
+  const COMPANIES_DIR = path.join(process.cwd(), 'data', 'companies');
 
 /**
  * Get the documents directory for a company
@@ -152,3 +173,13 @@ export async function readAllCompanies(): Promise<Company[]> {
   return companies;
 }
 
+// Export local filesystem functions
+export {
+  getCompanyDocumentsDir,
+  ensureCompanyDocumentsDir,
+  getDocumentFilePath,
+  saveDocument,
+  documentExists,
+  listCompanyDocuments,
+};
+}

@@ -1,0 +1,62 @@
+name: Run Company Scraper Scripts
+
+on:
+  workflow_dispatch:  # Manual trigger
+    inputs:
+      script:
+        description: 'Script to run'
+        required: true
+        type: choice
+        options:
+          - scrape
+          - analyze-websites
+          - compute-scores
+          - recompute-msp-scores
+          - extract-docs
+          - download-docs
+          - sync-docs
+          - load-csv
+          - dashboard
+          - scorecard-all
+          - top-companies
+  schedule:
+    # Run scrape daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run script
+        env:
+          COMPANIES_HOUSE_API_KEY: ${{ secrets.COMPANIES_HOUSE_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          MISTRAL_OCR_API_KEY: ${{ secrets.MISTRAL_OCR_API_KEY }}
+        run: |
+          SCRIPT=${INPUT_SCRIPT:-scrape}
+          npm run $SCRIPT
+      
+      - name: Commit and push changes
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Auto-update: Run ${{ github.event.inputs.script || 'scheduled' }} script [skip ci]"
+          git push

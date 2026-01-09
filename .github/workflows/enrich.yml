@@ -1,0 +1,43 @@
+name: Enrich Companies
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # 3 AM UTC daily (after scrape)
+  workflow_dispatch:
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Analyze websites
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          MISTRAL_OCR_API_KEY: ${{ secrets.MISTRAL_OCR_API_KEY }}
+        run: npm run analyze-websites
+      
+      - name: Compute scores
+        run: npm run compute-scores
+      
+      - name: Recompute MSP scores
+        run: npm run recompute-msp-scores
+      
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Auto-update: Enrichment and scoring [skip ci]"
+          git push
