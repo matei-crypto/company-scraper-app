@@ -82,7 +82,7 @@ jobs:
             if [ "${{ github.event.inputs.limit }}" != "0" ] && [ "${{ github.event.inputs.limit }}" != "" ]; then
               FLAGS="$FLAGS --limit=${{ github.event.inputs.limit }}"
             fi
-            npm run $SCRIPT "IT companies from Endole.csv" $FLAGS
+            npm run $SCRIPT -- "IT companies from Endole.csv" $FLAGS
           else
             npm run $SCRIPT
           fi
