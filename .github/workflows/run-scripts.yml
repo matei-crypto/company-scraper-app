@@ -20,10 +20,9 @@ on:
           - scorecard-all
           - top-companies
       enrich_websites:
-        description: 'Enable website enrichment (for load-csv script)'
+        description: 'Disable website enrichment (for load-csv script). Set to false to disable. Enrichment is enabled by default.'
         required: false
         type: boolean
-        default: false
       skip_existing:
         description: 'Skip existing companies (for load-csv script)'
         required: false
@@ -44,6 +43,9 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed for git push
+      actions: read
     
     steps:
       - name: Checkout code
@@ -72,8 +74,10 @@ jobs:
             if [ "${{ github.event.inputs.skip_existing }}" = "true" ]; then
               FLAGS="$FLAGS --skip-existing"
             fi
-            if [ "${{ github.event.inputs.enrich_websites }}" = "true" ]; then
-              FLAGS="$FLAGS --enrich-websites"
+            # Website enrichment is enabled by default in the script
+            # Only add --no-enrich-websites flag if explicitly disabled
+            if [ "${{ github.event.inputs.enrich_websites }}" = "false" ] || [ "${{ github.event.inputs.enrich_websites }}" = "False" ]; then
+              FLAGS="$FLAGS --no-enrich-websites"
             fi
             if [ "${{ github.event.inputs.limit }}" != "0" ] && [ "${{ github.event.inputs.limit }}" != "" ]; then
               FLAGS="$FLAGS --limit=${{ github.event.inputs.limit }}"
