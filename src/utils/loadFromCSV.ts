@@ -6,6 +6,7 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 import { readCompany, writeCompany } from './fileSystem.js';
 import type { Company } from '../schemas/CompanySchema.js';
+import { WebsiteAnalyzer } from '../enrichers/websiteAnalyzer.js';
 
 /**
  * CSV row data structure
@@ -234,6 +235,7 @@ function mergeCSVData(company: Company, csvRow: CSVRow): Company {
 async function loadCompaniesFromCSV(csvPath: string, options: {
   skipExisting?: boolean;
   limit?: number;
+  enrichWebsites?: boolean; // New option to enable website enrichment
 } = {}) {
   console.log(chalk.bold.cyan('\n╔════════════════════════════════════════════════════════════╗'));
   console.log(chalk.bold.cyan('║           LOADING COMPANIES FROM CSV                       ║'));
@@ -300,9 +302,23 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     const { RATE_LIMIT_DELAY_MS, DEFAULT_FILING_HISTORY_LIMIT } = await import('../config/constants.js');
     
     const scraper = new CompaniesHouseScraper();
+    let websiteAnalyzer: WebsiteAnalyzer | null = null;
+    
+    // Initialize website analyzer if enrichment is enabled
+    if (options.enrichWebsites) {
+      try {
+        websiteAnalyzer = new WebsiteAnalyzer();
+        console.log(chalk.green('✓ Website enrichment enabled\n'));
+      } catch (error: any) {
+        console.log(chalk.yellow(`⚠ Website enrichment disabled: ${error.message}\n`));
+        options.enrichWebsites = false;
+      }
+    }
+    
     let successCount = 0;
     let failCount = 0;
     let mergedCount = 0;
+    let enrichedCount = 0;
     
     // Wait 2 minutes before starting to ensure rate limit window is clear
     console.log(chalk.yellow('\n⚠ Waiting 2 minutes for rate limit window to reset...\n'));
@@ -418,9 +434,42 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
           
           // Save the company (with CSV data already merged)
           await writeCompany(validationResult.data);
-          console.log(chalk.green(`  ✓ Successfully saved: ${companyData.company_name}`));
+          console.log(chalk.green(`  ✓ Successfully saved: ${companyData.company_name}`));                                                                      
           successCount++;
           success = true;
+          
+          // Website enrichment (if enabled and company has a website)
+          if (options.enrichWebsites && websiteAnalyzer && validationResult.data.enrichment?.website) {
+            try {
+              console.log(chalk.dim('  Enriching website...'));
+              const enrichmentResult = await websiteAnalyzer.analyzeCompany(companyNumber);
+              
+              if (enrichmentResult.success && enrichmentResult.analysis) {
+                // Update company with enrichment data
+                const company = await readCompany(companyNumber);
+                if (company) {
+                  company.enrichment = {
+                    ...company.enrichment,
+                    business_keywords: enrichmentResult.analysis.business_keywords,
+                    services: enrichmentResult.analysis.services,
+                    customer_segments: enrichmentResult.analysis.customer_segments,
+                    business_description: enrichmentResult.analysis.business_description,
+                    tech_stack: enrichmentResult.analysis.tech_stack || company.enrichment?.tech_stack || [],
+                    enrichment_status: 'completed',
+                  };
+                  
+                  await writeCompany(company);
+                  enrichedCount++;
+                  console.log(chalk.green(`  ✓ Website enriched`));
+                }
+              } else {
+                console.log(chalk.yellow(`  ○ Website enrichment skipped: ${enrichmentResult.error || 'Unknown error'}`));
+              }
+            } catch (error: any) {
+              console.log(chalk.yellow(`  ○ Website enrichment failed: ${error.message}`));
+              // Don't fail the whole company load if enrichment fails
+            }
+          }
           
           // Rate limiting delay after completing a company
           // We make 6 API calls per company (1 profile + 5 additional)
@@ -449,8 +498,11 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
     console.log(chalk.bold.cyan('║                      LOAD SUMMARY                          ║'));
     console.log(chalk.bold.cyan('╚════════════════════════════════════════════════════════════╝\n'));
     
-    console.log(chalk.green(`✓ Successfully loaded: ${successCount} companies`));
+    console.log(chalk.green(`✓ Successfully loaded: ${successCount} companies`));                                                                               
     console.log(chalk.green(`✓ CSV data merged: ${mergedCount} companies`));
+    if (options.enrichWebsites && enrichedCount > 0) {
+      console.log(chalk.green(`✓ Websites enriched: ${enrichedCount} companies`));
+    }
     console.log(chalk.red(`✗ Failed: ${failCount} companies`));
     console.log('');
 
@@ -467,6 +519,7 @@ async function loadCompaniesFromCSV(csvPath: string, options: {
 if (import.meta.url.endsWith(process.argv[1]) || process.argv[1]?.includes('loadFromCSV')) {
   const csvPath = process.argv[2] || 'IT companies from Endole.csv';
   const skipExisting = process.argv.includes('--skip-existing');
+  const enrichWebsites = process.argv.includes('--enrich-websites');
   const limitArg = process.argv.find(arg => arg.startsWith('--limit='));
   const limit = limitArg ? parseInt(limitArg.split('=')[1], 10) : undefined;
 
@@ -475,7 +528,7 @@ if (import.meta.url.endsWith(process.argv[1]) || process.argv[1]?.includes('load
     ? csvPath 
     : join(process.cwd(), csvPath);
 
-  loadCompaniesFromCSV(resolvedPath, { skipExisting, limit }).then(() => {
+  loadCompaniesFromCSV(resolvedPath, { skipExisting, limit, enrichWebsites }).then(() => {
     process.exit(0);
   }).catch((error) => {
     console.error(chalk.red('\n✗ Fatal error:'), error);
