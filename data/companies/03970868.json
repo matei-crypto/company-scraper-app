@@ -1,0 +1,576 @@
+{
+  "company_name": "STRANGE CORPORATION LIMITED",
+  "company_number": "03970868",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-04-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Bourne Gardens, Exeter Park Road, Bournemouth, BH2 5BD, England",
+  "registered_address_structured": {
+    "address_line_1": "Bourne Gardens",
+    "address_line_2": "Exeter Park Road",
+    "country": "England",
+    "locality": "Bournemouth",
+    "postal_code": "BH2 5BD"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-21",
+    "last_made_up_to": "2025-04-07",
+    "next_made_up_to": "2026-04-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOSTON, Jonathan Edward",
+        "officer_role": "director",
+        "appointed_on": "2000-04-07",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dale Road",
+          "country": "United Kingdom",
+          "locality": "Poole",
+          "postal_code": "BH15 3NG",
+          "premises": "27",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "HONEY, Paul Christian St John",
+        "officer_role": "director",
+        "appointed_on": "2007-04-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "North Poulner Road",
+          "country": "United Kingdom",
+          "locality": "Ringwood",
+          "postal_code": "BH24 1SW",
+          "premises": "33",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "SERGEANT, Jamie Kingsley",
+        "officer_role": "director",
+        "appointed_on": "2000-04-07",
+        "resigned_on": "2012-10-15",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Flat 1",
+          "address_line_2": "28 Lindsay Road",
+          "locality": "Bournemouth",
+          "postal_code": "BH13 6AX"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BOSTON, Jonathan Edward",
+        "officer_role": "secretary",
+        "appointed_on": "2007-04-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Dale Road",
+          "country": "United Kingdom",
+          "locality": "Poole",
+          "postal_code": "BH15 3NG",
+          "premises": "27",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "BOSTON, Derek Adrian",
+        "officer_role": "secretary",
+        "appointed_on": "2000-04-07",
+        "resigned_on": "2007-04-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Ground Floor Unit Four",
+          "address_line_2": "Old Generator House",
+          "locality": "27 Bourne Valley Poole",
+          "postal_code": "BH12 1DZ",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "IGP CORPORATE NOMINEES LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-04-07",
+        "resigned_on": "2000-04-07",
+        "address": {
+          "address_line_1": "19 Kathleen Road",
+          "locality": "London",
+          "postal_code": "SW11 2JR"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Jonathan Edward Boston",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Exeter Park Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH2 5BD",
+          "premises": "Bourne Gardens"
+        }
+      },
+      {
+        "name": "Mr Paul Christian St John Honey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "North Poulner Road",
+          "country": "United Kingdom",
+          "locality": "Ringwood",
+          "postal_code": "BH24 1SW",
+          "premises": "33",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "039708680002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-10-31",
+        "delivered_on": "2019-11-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "All assets debenture"
+          }
+        ],
+        "created_on": "2004-03-26",
+        "delivered_on": "2004-04-03",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Commercial Finance Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEHZCGPD",
+        "transaction_id": "MzQ5NjAzMTc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE05QAKY",
+        "transaction_id": "MzQ2MjE1OTIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDICPJIW",
+        "transaction_id": "MzQ0ODU3ODkyNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-11-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "YDEQ1SI9",
+        "transaction_id": "WURFUTFTSTlhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-11-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 21,
+        "barcode": "YDEQ1TLV",
+        "transaction_id": "MzQ0MTI5MzUwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2ATRMH",
+        "transaction_id": "MzQyMDU3MjY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCWCKQCI",
+        "transaction_id": "MzQxMDI1NDQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2PWSOO",
+        "transaction_id": "MzM3ODQwNDA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBJUEQGZ",
+        "transaction_id": "MzM2MzkwMzk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1G0WXS",
+        "transaction_id": "MzMzNTU1MzQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAK0W13F",
+        "transaction_id": "MzMyNDc3MTIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAB7YP2P",
+        "transaction_id": "MzMxMTExMTExNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA7WAS8P",
+        "transaction_id": "MzMwNjU2MTU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA65W8X5",
+        "transaction_id": "MzMwMzYxNzE5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-07",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XA65UOY8",
+        "transaction_id": "MzMwMzYwMDMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA65ULQ0",
+        "transaction_id": "MzMwMzU5OTUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9XEZJ4Y",
+        "transaction_id": "MzI5MDE5ODg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X92HC5YZ",
+        "transaction_id": "MzI2MTkxMTY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KXDCS7",
+        "transaction_id": "MzI1MjkzMzg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-11-01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X8HAY4Z6",
+        "transaction_id": "MzI0ODMxNjQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X82YKJL5",
+        "transaction_id": "MzIzMTQ4NjkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7L9LL9U",
+        "transaction_id": "MzIyMjc5OTMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7432OMZ",
+        "transaction_id": "MzIwMjc0OTY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X6LRN2ND",
+        "transaction_id": "MzE5MzQ4NDU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-11-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6K971OR",
+        "transaction_id": "MzE5MTQzMTI4MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 80,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Strangecorp.com",
+    "headcount": 8,
+    "tech_stack": [
+      "Google ads",
+      "Microsoft ads",
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "TikTok",
+      "Pinterest",
+      "programmatic networks",
+      "Drupal",
+      "Magento",
+      "WordPress",
+      "Laravel"
+    ],
+    "business_keywords": [
+      "digital marketing",
+      "web development",
+      "digital strategies",
+      "campaign management",
+      "Google ads",
+      "Microsoft ads",
+      "paid social marketing",
+      "organic social marketing",
+      "search engine optimisation",
+      "SEO",
+      "Drupal development",
+      "Magento development",
+      "WordPress development",
+      "ecommerce development",
+      "custom framework development",
+      "PPC management",
+      "Google Grants management",
+      "content production",
+      "website audits"
+    ],
+    "services": [
+      "digital marketing services",
+      "Google and Microsoft ads campaign management",
+      "paid social marketing",
+      "organic social marketing",
+      "search engine optimisation (SEO)",
+      "strategy discussion for SEO",
+      "onsite audits",
+      "offsite audits",
+      "content gap analysis",
+      "content production",
+      "web development",
+      "website design",
+      "ecommerce system development",
+      "Drupal development",
+      "Magento development",
+      "WordPress development",
+      "custom framework development in Laravel",
+      "website maintenance",
+      "hosting for Magento",
+      "custom Magento module development",
+      "Google Grants PPC management"
+    ],
+    "customer_segments": [
+      "businesses",
+      "visitor attractions",
+      "museums",
+      "charities",
+      "travel businesses",
+      "holiday rental businesses"
+    ],
+    "business_description": "STRANGE CORPORATION LIMITED is a digital marketing and web development agency with 25 years of experience. They specialize in planning and managing digital strategies, campaigns, and SEO, as well as designing, developing, and maintaining websites and ecommerce systems using platforms like Drupal, Magento, and WordPress. The company also offers custom framework development and works across multiple digital advertising channels.",
+    "website_analyzed_at": "2025-12-29T17:41:57.461Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.401Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 41.33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.747785577118215,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 1,
+        "weight": 8.33
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:36:07.099Z"
+  },
+  "scraped_at": "2025-12-28T20:25:19.947Z",
+  "updated_at": "2026-01-09T19:08:22.401Z",
+  "version": 1
+}

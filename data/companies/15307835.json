@@ -1,0 +1,186 @@
+{
+  "company_name": "ALMURT LIMITED",
+  "company_number": "15307835",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-11-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "3 More London Place, London, SE1 2RE, England",
+  "registered_address_structured": {
+    "address_line_1": "3 More London Place",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 2RE"
+  },
+  "sic_codes": [
+    "58290",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-07",
+    "last_made_up_to": "2025-11-23",
+    "next_made_up_to": "2026-11-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MAMUCH-OGLY, Khassan",
+        "officer_role": "director",
+        "appointed_on": "2023-11-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 2004,
+        "nationality": "Kazakh",
+        "country_of_residence": "Kazakhstan",
+        "address": {
+          "address_line_1": "More London Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 2RE",
+          "premises": "3"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Khassan Mamuch-Ogly",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-11-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 2004,
+        "nationality": "Kazakh",
+        "country_of_residence": "Kazakhstan",
+        "address": {
+          "address_line_1": "More London Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 2RE",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHNQBX5",
+        "transaction_id": "MzQ5NTE0Njc3MWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-12-11",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ5MzQ2Mzc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEH4AA8Y",
+        "transaction_id": "MzQ5MzQ2Mzc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-10-21",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ4NDcyOTg1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHKPR03",
+        "transaction_id": "MzQ0NjUyODA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-11-24",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCGWJ1TC",
+        "transaction_id": "MzQwMTMzMzk2N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 6,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 50.5,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.1012261148211566,
+        "weight": 17.503213536460233
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 3.2,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:27.986Z",
+    "location_distance_km": 3.2
+  },
+  "scraped_at": "2025-12-28T17:19:55.992Z",
+  "updated_at": "2025-12-29T22:44:27.986Z",
+  "version": 1
+}

@@ -1,0 +1,507 @@
+{
+  "company_name": "SCIS UK LIMITED",
+  "company_number": "04364658",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2002-02-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "23 Algitha Road, Skegness, Lincolnshire, PE25 2AG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "23 Algitha Road",
+    "country": "United Kingdom",
+    "locality": "Skegness",
+    "postal_code": "PE25 2AG",
+    "region": "Lincolnshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-15",
+    "last_made_up_to": "2025-02-01",
+    "next_made_up_to": "2026-02-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CARTER, Michael David",
+        "officer_role": "director",
+        "appointed_on": "2002-02-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Skegness",
+          "postal_code": "PE25 2AG",
+          "premises": "23 Algitha Road",
+          "region": "Lincolnshire"
+        }
+      },
+      {
+        "name": "CARTER, Patricia",
+        "officer_role": "director",
+        "appointed_on": "2002-02-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Skegness",
+          "postal_code": "PE25 2AG",
+          "premises": "23 Algitha Road",
+          "region": "Lincolnshire"
+        }
+      },
+      {
+        "name": "CARTER, Simon Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2002-02-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Skegness",
+          "postal_code": "PE25 2AG",
+          "premises": "23 Algitha Road",
+          "region": "Lincolnshire"
+        }
+      },
+      {
+        "name": "SMALL FIRMS DIRECT SERVICES LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2002-02-01",
+        "resigned_on": "2002-02-01",
+        "address": {
+          "address_line_1": "1 Riverside House",
+          "address_line_2": "Heron Way",
+          "locality": "Truro",
+          "postal_code": "TR1 2XN",
+          "region": "Cornwall"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CARTER, Patricia",
+        "officer_role": "secretary",
+        "appointed_on": "2002-02-01",
+        "nationality": "British",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Skegness",
+          "postal_code": "PE25 2AG",
+          "premises": "23 Algitha Road",
+          "region": "Lincolnshire"
+        }
+      },
+      {
+        "name": "SMALL FIRMS SECRETARY SERVICES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2002-02-01",
+        "resigned_on": "2002-02-01",
+        "address": {
+          "address_line_1": "1 Riverside House",
+          "address_line_2": "Heron Way",
+          "locality": "Truro",
+          "postal_code": "TR1 2XN",
+          "region": "Cornwall"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Simon Geoffrey Carter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Skegness",
+          "postal_code": "PE25 2AG",
+          "premises": "23 Algitha Road",
+          "region": "Lincolnshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "043646580001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-03-03",
+        "delivered_on": "2021-03-09",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEG9ZTKW",
+        "transaction_id": "MzQ5MTQ5NzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVLUAMO",
+        "transaction_id": "MzQ1MzQ3MDYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDFXFQDE",
+        "transaction_id": "MzQ0MzU4OTk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD0MZPG3",
+        "transaction_id": "MzQxNzYxMDA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD0MZPD7",
+        "transaction_id": "MzQxNzYxMDA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW1TBQO",
+        "transaction_id": "MzQwOTc4MDIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCGTP1C3",
+        "transaction_id": "MzQwMTE1MDY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWL0B37",
+        "transaction_id": "MzM2ODE5NDA0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBGUO3M9",
+        "transaction_id": "MzM1ODUxNzM0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWYBB6W",
+        "transaction_id": "MzMyODQ2MDc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAHWZ3OQ",
+        "transaction_id": "MzMyMTE2MDA3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA2SO7IO",
+        "transaction_id": "MzI5ODI1OTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-20",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XA2SO7JK",
+        "transaction_id": "MzI5ODI1OTM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA2SO77U",
+        "transaction_id": "MzI5ODI1OTM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA2SO76I",
+        "transaction_id": "MzI5ODI1OTI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA2SO6MZ",
+        "transaction_id": "MzI5ODI1OTIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-04-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA2SO6J7",
+        "transaction_id": "MzI5ODI1OTIwNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-03-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 64,
+        "barcode": "X9ZVHX2J",
+        "transaction_id": "MzI5MzczMzk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9XPOPB6",
+        "transaction_id": "MzI5MDY0ODIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XEWB7N",
+        "transaction_id": "MzI5MDE3MDYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Y4YCXD",
+        "transaction_id": "MzI1NjQ4NzQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8J7NHBF",
+        "transaction_id": "MzI1MDU4MTA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8085GFH",
+        "transaction_id": "MzIyODIwNDIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X794H98A",
+        "transaction_id": "MzIwODY0NjU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6Z69X14",
+        "transaction_id": "MzE5Njk1NTY5NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 73,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Scisuk.com",
+    "headcount": 6,
+    "tech_stack": [
+      "Brother MFD-J6940DW",
+      "MacBook"
+    ],
+    "business_keywords": [
+      "IT support",
+      "IT problems",
+      "remote support",
+      "on-site support",
+      "engineer dispatch",
+      "SLA",
+      "IT issues",
+      "computer repair",
+      "file restoration",
+      "device supply",
+      "WiFi installation",
+      "email hosting",
+      "tech support",
+      "hardware supply",
+      "IT solutions"
+    ],
+    "services": [
+      "Fixing IT problems remotely or on-site",
+      "Hard disk drive failure recovery",
+      "File and program restoration",
+      "Supply of new devices",
+      "File transfer from old to new devices",
+      "Device setup assistance",
+      "WiFi installation and support",
+      "Email hosting",
+      "Scan to Email Server setup",
+      "IT support for businesses",
+      "Computer repair and diagnosis",
+      "Router installation and troubleshooting",
+      "Urgent IT supply and delivery"
+    ],
+    "customer_segments": [
+      "Businesses",
+      "Estate agents",
+      "Small businesses",
+      "Individuals",
+      "Companies with IT infrastructure",
+      "Customers requiring WiFi solutions",
+      "Customers needing email hosting"
+    ],
+    "business_description": "SCIS UK Limited provides nationwide IT support and services, including remote and on-site troubleshooting, computer repairs, device supply, file restoration, WiFi installation, and email hosting. The company focuses on delivering quality service and customer support, primarily through referrals and non-paid advertising.",
+    "website_analyzed_at": "2025-12-29T18:23:09.608Z",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.603Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 31,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 23.925880324105783,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:42:42.971Z"
+  },
+  "scraped_at": "2025-12-28T21:15:49.502Z",
+  "updated_at": "2026-01-09T19:08:22.603Z",
+  "version": 1
+}

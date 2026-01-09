@@ -1,0 +1,291 @@
+{
+  "company_name": "UNREAL SOLUTIONS LTD",
+  "company_number": "14451923",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-10-31",
+  "jurisdiction": "england-wales",
+  "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "sic_codes": [
+    "62011",
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-13",
+    "last_made_up_to": "2025-10-30",
+    "next_made_up_to": "2026-10-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LEONTEV, Petr",
+        "officer_role": "director",
+        "appointed_on": "2022-10-31",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1993,
+        "nationality": "Russian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "1ST SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2022-10-31",
+        "resigned_on": "2023-10-30",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71 - 75",
+          "region": "England"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Petr Leontev",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-10-31",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1993,
+        "nationality": "Russian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEEJ0H9M",
+        "transaction_id": "MzQ4NzI0NTIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-10-01",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEC9HK4R",
+        "transaction_id": "MzQ4MzQ3OTgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE7FXFVC",
+        "transaction_id": "MzQ3NTA1MDMzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE7FXFMP",
+        "transaction_id": "MzQ3NTA1MDMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XE177Z29",
+        "transaction_id": "MzQ2Mzk4MDM2N2FkaXF6a2N4",
+        "document_downloaded": true,
+        "document_path": "data/companies/14451923/documents/MzQ2Mzk4MDM2N2FkaXF6a2N4.pdf",
+        "document_downloaded_at": "2025-12-21T16:27:21.963Z"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDFEBL8G",
+        "transaction_id": "MzQ0MjM1NTUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD72VTCY",
+        "transaction_id": "MzQyODI2OTk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-10",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD72VSYG",
+        "transaction_id": "MzQyODI2OTg5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD340L37",
+        "transaction_id": "MzQyMTgyMTI0NmFkaXF6a2N4",
+        "document_downloaded": true,
+        "document_path": "data/companies/14451923/documents/MzQyMTgyMTI0NmFkaXF6a2N4.pdf",
+        "document_downloaded_at": "2025-12-21T16:27:22.302Z"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCF92T9D",
+        "transaction_id": "MzM5ODI3ODQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-30",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCF92APM",
+        "transaction_id": "MzM5ODI3NDM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBWY9QGZ",
+        "transaction_id": "MzM2ODYzMTU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBWY9PYQ",
+        "transaction_id": "MzM2ODYzMTQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-01",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XBFVX1P7",
+        "transaction_id": "MzM1NzE3Mzg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-10-31",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 28,
+        "barcode": "XBFT0OPE",
+        "transaction_id": "MzM1Njk5NDE2NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 15,
+    "recent_filings_count": 5
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 25,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 3.166978286719939,
+        "weight": 25
+      },
+      {
+        "factor": "Size",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:43:48.349Z"
+  },
+  "scraped_at": "2025-12-21T14:28:57.630Z",
+  "updated_at": "2025-12-29T22:43:48.350Z",
+  "version": 1
+}

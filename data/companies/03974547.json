@@ -1,0 +1,636 @@
+{
+  "company_name": "ZANSYS LTD",
+  "company_number": "03974547",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-04-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "2-4 Euston Grove, Prenton, Birkenhead, CH43 4TY",
+  "registered_address_structured": {
+    "address_line_1": "2-4 Euston Grove",
+    "address_line_2": "Prenton",
+    "locality": "Birkenhead",
+    "postal_code": "CH43 4TY"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "WEBPOINT INDUSTRIES LIMITED",
+      "ceased_on": "2024-09-11",
+      "effective_from": "2000-06-23"
+    },
+    {
+      "name": "BROOMCO (2171) LIMITED",
+      "ceased_on": "2000-06-23",
+      "effective_from": "2000-04-17"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-18",
+    "last_made_up_to": "2025-11-04",
+    "next_made_up_to": "2026-11-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARRINGTON, Andrew Richard",
+        "officer_role": "director",
+        "appointed_on": "2000-07-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Heron Road",
+          "address_line_2": "Meols",
+          "country": "United Kingdom",
+          "locality": "Wirral",
+          "postal_code": "CH47 9RU",
+          "premises": "7",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "KENWRIGHT, Samuel Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2000-07-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Forest Road",
+          "address_line_2": "Meols",
+          "country": "United Kingdom",
+          "locality": "Wirral",
+          "postal_code": "CH47 6AT",
+          "premises": "37",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "DLA NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-04-17",
+        "resigned_on": "2000-07-06",
+        "address": {
+          "address_line_1": "Fountain Precinct",
+          "address_line_2": "Balm Green",
+          "locality": "Sheffield",
+          "postal_code": "S1 1RZ"
+        }
+      },
+      {
+        "name": "DLA SECRETARIAL SERVICES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-04-17",
+        "resigned_on": "2000-07-06",
+        "address": {
+          "address_line_1": "Fountain Precinct",
+          "address_line_2": "Balm Green",
+          "locality": "Sheffield",
+          "postal_code": "S1 1RZ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BARRINGTON, Andrew",
+        "officer_role": "secretary",
+        "appointed_on": "2000-07-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Heron Road",
+          "address_line_2": "Meols",
+          "country": "United Kingdom",
+          "locality": "Wirral",
+          "postal_code": "CH47 9RU",
+          "premises": "7",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "DLA SECRETARIAL SERVICES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-04-17",
+        "resigned_on": "2000-07-06",
+        "address": {
+          "address_line_1": "Fountain Precinct",
+          "address_line_2": "Balm Green",
+          "locality": "Sheffield",
+          "postal_code": "S1 1RZ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Aveb Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2024-10-29",
+        "address": {
+          "address_line_1": "Heron Road",
+          "address_line_2": "Meols",
+          "country": "United Kingdom",
+          "locality": "Wirral",
+          "postal_code": "CH47 9RU",
+          "premises": "7"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "16041900"
+        }
+      },
+      {
+        "name": "Ndss Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2024-10-25",
+        "address": {
+          "address_line_1": "Forest Road",
+          "address_line_2": "Meols",
+          "country": "United Kingdom",
+          "locality": "Wirral",
+          "postal_code": "CH47 6AT",
+          "premises": "37"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "15901369"
+        }
+      },
+      {
+        "name": "Mr Samuel Geoffrey Kenwright",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2024-05-22",
+        "ceased_on": "2024-10-25",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Euston Grove",
+          "address_line_2": "Prenton",
+          "locality": "Birkenhead",
+          "postal_code": "CH43 4TY",
+          "premises": "2-4"
+        }
+      },
+      {
+        "name": "Mr Andrew Richard Barrington",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-04-01",
+        "ceased_on": "2024-10-29",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Euston Grove",
+          "address_line_2": "Prenton",
+          "locality": "Birkenhead",
+          "postal_code": "CH43 4TY",
+          "premises": "2-4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "039745470003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-09-04",
+        "delivered_on": "2020-09-04",
+        "particulars": {
+          "type": "brief-description",
+          "description": "88 grampian way, moreton, wirral, CH46 0PZ.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Topaz Finance Limited Trading as Zephyr Homeloans"
+          }
+        ],
+        "satisfied_on": "2021-03-15",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "039745470002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-11-02",
+        "delivered_on": "2017-11-03",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2021-11-16",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "039745470001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-05-17",
+        "delivered_on": "2013-05-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Merseyside Small Loans for Business Investment Fund Limited"
+          }
+        ],
+        "satisfied_on": "2018-06-08",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEELRFM3",
+        "transaction_id": "MzQ4NzM4NDYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE5XU54R",
+        "transaction_id": "MzQ3MjM0MzM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDGR45QX",
+        "transaction_id": "MzQ0NTE2MjcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDGAP100",
+        "transaction_id": "MzQ0NDI4NjczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDFUMSL5",
+        "transaction_id": "MzQ0MzQyNjU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDFP5O4R",
+        "transaction_id": "MzQ0MjgwNzkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDFP5NCR",
+        "transaction_id": "MzQ0MjgwNzcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-08",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDFH718Z",
+        "transaction_id": "MzQ0MjQ5OTYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-08",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDFH70TC",
+        "transaction_id": "MzQ0MjQ5OTU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2024-09-11",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XDBEU4IG",
+        "transaction_id": "MzQzNTI5NTMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XD3MZOO8",
+        "transaction_id": "MzQyMjg2ODM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1UAOX3",
+        "transaction_id": "MzQxOTgyMzc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCI689JF",
+        "transaction_id": "MzQwMzM5ODIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3R5EZM",
+        "transaction_id": "MzM3OTk1MjYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBJEPP35",
+        "transaction_id": "MzM2MzQzNDk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2UWYZ4",
+        "transaction_id": "MzMzNzcyNDkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAJ1H05H",
+        "transaction_id": "MzMyMzIyOTI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-11-16",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAHE5041",
+        "transaction_id": "MzMyMDI3MTAwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2VFXRS",
+        "transaction_id": "MzI5ODQ4NzMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-03-15",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XA0BM4SZ",
+        "transaction_id": "MzI5NDM2MDc1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9WINP5E",
+        "transaction_id": "MzI4ODk0NTAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "X9CUM27N",
+        "transaction_id": "MzI3NjkxNjAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93FHBEA",
+        "transaction_id": "MzI2Mjg1MDI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8KXB39T",
+        "transaction_id": "MzI1Mjg5MTgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X844TYIQ",
+        "transaction_id": "MzIzMjgzNDQ0NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 83,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Eworksmanager.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "EworksPay",
+      "Outlook (integration)"
+    ],
+    "business_keywords": [
+      "Job Management Software",
+      "Field Service Software",
+      "Scheduling Software",
+      "Quoting Software",
+      "Invoicing Software",
+      "Inventory Management",
+      "Asset Management",
+      "CRM Software",
+      "Mobile App",
+      "Payment Processing",
+      "Workforce Management",
+      "Lead Management",
+      "Purchase Order Management",
+      "Digital Documents",
+      "Route Planning"
+    ],
+    "services": [
+      "Job scheduling and planning",
+      "Quote management",
+      "Job management (from scheduling to invoicing)",
+      "Lead management",
+      "Customer support (online, telephone, ticketing system)",
+      "Training packages for onboarding",
+      "Embedded payment processing (EworksPay)",
+      "Advanced scheduling (Auto Planning)",
+      "Route planning",
+      "Digital document management",
+      "Asset management and maintenance tracking",
+      "Inventory management",
+      "Purchase order management",
+      "Invoice management",
+      "CRM (Customer Relationship Management)",
+      "Mobile workforce management (offline capabilities, job sheets, mobile quotes, expenses tracking, mobile invoices, mobile payments)",
+      "Help desk support ticket management",
+      "Real-time job tracking"
+    ],
+    "customer_segments": [
+      "Trades businesses",
+      "Service businesses",
+      "Field service industry"
+    ],
+    "business_description": "ZANSYS LTD provides Eworks Manager, a job management software designed for trades and service businesses in the field service industry. The platform offers an all-in-one solution for managing quotes, jobs, invoices, scheduling, assets, inventory, and workforce operations, with additional features like embedded payments, CRM, and a mobile app for field workers.",
+    "website_analyzed_at": "2025-12-29T17:42:22.415Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.402Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 31,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.720388416730085,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:36:10.133Z"
+  },
+  "scraped_at": "2025-12-28T20:25:46.455Z",
+  "updated_at": "2026-01-09T19:08:22.402Z",
+  "version": 1
+}

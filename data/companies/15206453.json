@@ -1,0 +1,307 @@
+{
+  "company_name": "SANNIK LTD",
+  "company_number": "15206453",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-10-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "3 The Quadrant, Warwick Road, Coventry, West Midlands, CV1 2DY, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "3 The Quadrant",
+    "address_line_2": "Warwick Road",
+    "country": "United Kingdom",
+    "locality": "Coventry",
+    "postal_code": "CV1 2DY",
+    "region": "West Midlands"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-23",
+    "last_made_up_to": "2025-07-09",
+    "next_made_up_to": "2026-07-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MEKHALA, Satyananda",
+        "officer_role": "director",
+        "appointed_on": "2025-07-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Quadrant",
+          "address_line_2": "Warwick Road",
+          "country": "United Kingdom",
+          "locality": "Coventry",
+          "postal_code": "CV1 2DY",
+          "premises": "3",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "ADEPU, Nikhil",
+        "officer_role": "director",
+        "appointed_on": "2023-10-12",
+        "resigned_on": "2025-07-07",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1995,
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Quadrant",
+          "address_line_2": "Warwick Road",
+          "country": "United Kingdom",
+          "locality": "Coventry",
+          "postal_code": "CV1 2DY",
+          "premises": "3",
+          "region": "West Midlands"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Satyananda Mekhala",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-07-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Quadrant",
+          "address_line_2": "Warwick Road",
+          "country": "United Kingdom",
+          "locality": "Coventry",
+          "postal_code": "CV1 2DY",
+          "premises": "3",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "Mr Nikhil Adepu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-10-12",
+        "ceased_on": "2025-07-07",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1995,
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Quadrant",
+          "address_line_2": "Warwick Road",
+          "country": "United Kingdom",
+          "locality": "Coventry",
+          "postal_code": "CV1 2DY",
+          "premises": "3",
+          "region": "West Midlands"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE6GOYSG",
+        "transaction_id": "MzQ3MzA4NTkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XE6GOY6T",
+        "transaction_id": "MzQ3MzA4NTgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-09",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE6GOWM9",
+        "transaction_id": "MzQ3MzA4NTU1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-09",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE6GOVFZ",
+        "transaction_id": "MzQ3MzA4NTE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE6GOUQZ",
+        "transaction_id": "MzQ3MzA4NTA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE5MMT3T",
+        "transaction_id": "MzQ3MTcyOTE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDX3WA5T",
+        "transaction_id": "MzQ1NjI5NDU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCWXY84W",
+        "transaction_id": "MzQxMTI4OTY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCWPXYHF",
+        "transaction_id": "MzQxMDgzMzk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCGJ49H5",
+        "transaction_id": "MzQwMDc1NjAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCGJ40M1",
+        "transaction_id": "MzQwMDc1NDIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCG0C1HL",
+        "transaction_id": "MzM5OTYwMjQ2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCFPCGHL",
+        "transaction_id": "MzM5ODk5MjQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-12",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCDWQJWO",
+        "transaction_id": "MzM5NjA5MjMzNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 14,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "headcount": 12,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 30.48,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.2190335708079654,
+        "weight": 18.484549644830352
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 12,
+        "weight": 12
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:03.504Z"
+  },
+  "scraped_at": "2025-12-28T17:19:46.978Z",
+  "updated_at": "2025-12-29T22:44:03.504Z",
+  "version": 1
+}

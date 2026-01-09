@@ -1,0 +1,209 @@
+{
+  "company_name": "PETM IT LTD",
+  "company_number": "15561369",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-03-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "48 Bullfinch Drive, Harleston, IP20 9FB",
+  "registered_address_structured": {
+    "address_line_1": "48 Bullfinch Drive",
+    "locality": "Harleston",
+    "postal_code": "IP20 9FB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-14",
+    "last_made_up_to": "2025-02-28",
+    "next_made_up_to": "2026-02-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PETKOV, Pavel Dimitrov, Mr.",
+        "officer_role": "director",
+        "appointed_on": "2024-03-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1990,
+        "nationality": "Bulgarian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "locality": "Cardiff",
+          "po_box": "4385",
+          "postal_code": "CF14 8LH",
+          "premises": "15561369 - Companies House Default Address"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr. Pavel Dimitrov Petkov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-03-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1990,
+        "nationality": "Bulgarian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "locality": "Cardiff",
+          "po_box": "4385",
+          "postal_code": "CF14 8LH",
+          "premises": "15561369 - Companies House Default Address"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEF57F2I",
+        "transaction_id": "MzQ4ODM5OTIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXCLWPV",
+        "transaction_id": "MzQ1NjkzMjc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-11-26",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ0NDc5OTczMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 3,
+        "barcode": "ADFCFTOQ",
+        "transaction_id": "MzQ0NDc5OTU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-10-01",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQzNjQ4MjE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-14",
+        "description": "default-companies-house-service-address-applied-psc",
+        "type": "RP10",
+        "pages": 1,
+        "barcode": "XD9GZIT5",
+        "transaction_id": "MzQzMjE0MTQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-14",
+        "description": "default-companies-house-service-address-applied-officer",
+        "type": "RP09",
+        "pages": 1,
+        "barcode": "XD9GZIHC",
+        "transaction_id": "MzQzMjE0MTQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-14",
+        "description": "default-companies-house-registered-office-address-applied",
+        "type": "RP05",
+        "pages": 1,
+        "barcode": "RD9HVC9F",
+        "transaction_id": "MzQzMjE0MTMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-03-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XCYIXKS9",
+        "transaction_id": "MzQxMzk0MTMwOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 9,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 30.97,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.7971177756849315,
+        "weight": 14.96999107145548
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 139.4,
+        "weight": 10
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:07.063Z",
+    "location_distance_km": 139.4
+  },
+  "scraped_at": "2025-12-28T17:20:10.730Z",
+  "updated_at": "2025-12-29T22:45:07.064Z",
+  "version": 1
+}

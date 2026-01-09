@@ -1,0 +1,591 @@
+{
+  "company_name": "BODONI SYSTEMS LIMITED",
+  "company_number": "02467939",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1990-02-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 19 Dwight Road, Orbital 25 Business Park, Watford, Hertfordshire, WD18 9DA",
+  "registered_address_structured": {
+    "address_line_1": "Unit 19 Dwight Road",
+    "address_line_2": "Orbital 25 Business Park",
+    "locality": "Watford",
+    "postal_code": "WD18 9DA",
+    "region": "Hertfordshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-21",
+    "last_made_up_to": "2025-02-07",
+    "next_made_up_to": "2026-02-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DEHING, Frederik, Mr.",
+        "officer_role": "director",
+        "appointed_on": "2025-03-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1972,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "Dwight Road",
+          "address_line_2": "Orbital 25 Business Park",
+          "locality": "Watford",
+          "postal_code": "WD18 9DA",
+          "premises": "Unit 19",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "GRANT, Andrew Francis",
+        "officer_role": "director",
+        "appointed_on": "2017-08-24",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Septestraat 27",
+          "country": "Belgium",
+          "locality": "Mortsel",
+          "premises": "27",
+          "region": "2640"
+        }
+      },
+      {
+        "name": "REID, Ian Murray",
+        "officer_role": "director",
+        "resigned_on": "2019-05-22",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "34 Meadow Road",
+          "locality": "Pinner",
+          "postal_code": "HA5 1EB",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "REID, Margaret",
+        "officer_role": "director",
+        "resigned_on": "2017-08-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "34 Meadow Road",
+          "locality": "Pinner",
+          "postal_code": "HA5 1EB",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "VERMEERSCH, Joan",
+        "officer_role": "director",
+        "appointed_on": "2017-08-24",
+        "resigned_on": "2025-03-28",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1958,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "Septestraat 27",
+          "country": "Belgium",
+          "locality": "Mortsel",
+          "premises": "27",
+          "region": "2640"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "REID, Margaret",
+        "officer_role": "secretary",
+        "resigned_on": "2017-08-15",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "34 Meadow Road",
+          "locality": "Pinner",
+          "postal_code": "HA5 1EB",
+          "region": "Middlesex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Eco3  Bv",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2023-05-03",
+        "address": {
+          "address_line_1": "Septestraat 27",
+          "country": "Belgium",
+          "locality": "Mortsel",
+          "premises": "Building 76"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Belgian Companies Law",
+          "country_registered": "Belgium",
+          "place_registered": "Mortsel",
+          "registration_number": "Fc038403"
+        }
+      },
+      {
+        "name": "Mr Christian Tebroke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-04-03",
+        "ceased_on": "2025-12-22",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1974,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "address_line_1": "Septestraat 27",
+          "country": "Belgium",
+          "locality": "Mortsel",
+          "premises": "2640"
+        }
+      },
+      {
+        "name": "Eco3 Bv",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-02-11",
+        "ceased_on": "2023-05-03",
+        "address": {
+          "address_line_1": "B2640",
+          "country": "Belgium",
+          "locality": "Mortsel",
+          "premises": "Septestraat 27"
+        },
+        "identification": {
+          "legal_form": "Limited Liability Company",
+          "legal_authority": "Register Of Legal Entities"
+        }
+      },
+      {
+        "name": "Mr Ian Murray Reid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-02-11",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Olds Approach",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD18 9TB",
+          "premises": "Lps Livingstone, Suite F3 Sunley House"
+        }
+      },
+      {
+        "name": "Maggi Reid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-08-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lachman Livingstone, 136 Pinner",
+          "address_line_2": "Road, Northwood",
+          "locality": "Middx",
+          "postal_code": "HA6 1BP"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-22",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEHYUKV5",
+        "transaction_id": "MzQ5NTc1NzE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-12-06",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ5MjU5MDg3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 3,
+        "barcode": "AEG9U0SX",
+        "transaction_id": "MzQ5MjU5MDkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 3,
+        "barcode": "AEG9U0T5",
+        "transaction_id": "MzQ5MjU5MDQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-12-02",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ5MDAwMDEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-10-15",
+        "description": "default-companies-house-service-address-applied-officer",
+        "type": "RP09",
+        "pages": 1,
+        "barcode": "XED8IRZM",
+        "transaction_id": "MzQ4NTA4NzY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-10-15",
+        "description": "default-companies-house-registered-office-address-applied",
+        "type": "RP05",
+        "pages": 1,
+        "barcode": "UED83RC2",
+        "transaction_id": "MzQ4NTA4NzU0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-26",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEBVNP5T",
+        "transaction_id": "MzQ4Mjg3NTI0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDZGNJIG",
+        "transaction_id": "MzQ2MDc3MjUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDZGQF9N",
+        "transaction_id": "MzQ2MDc5NTc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-28",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDZBA696",
+        "transaction_id": "MzQ2MDU5NjEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWQDS8P",
+        "transaction_id": "MzQ1NTY2MTE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XD0SH8MB",
+        "transaction_id": "MzQxNzkyODg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYQU4UG",
+        "transaction_id": "MzQxNDE1Mjg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-30",
+        "description": "second-filing-notification-of-a-person-with-significant-control",
+        "type": "RP04PSC02",
+        "pages": 7,
+        "barcode": "RCUZ75J6",
+        "transaction_id": "MzQwOTMxODM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-08",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCHYF3G9",
+        "transaction_id": "MzQwMzIwNTU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCGWJM3K",
+        "transaction_id": "MzQwMTMzODU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCGWJKXE",
+        "transaction_id": "MzQwMTMzODQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-11",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCBSZUR7",
+        "transaction_id": "MzM5MjU0MDIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYTL535",
+        "transaction_id": "MzM3MTc3ODEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-27",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBDEX0WG",
+        "transaction_id": "MzM1MzEyNTM4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYTAC6P",
+        "transaction_id": "MzMzMTI4MzI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAJVH1HF",
+        "transaction_id": "MzMyNDUzMjI0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9YWH3A3",
+        "transaction_id": "MzI5MjI1NzEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-18",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "X9WFY1ZK",
+        "transaction_id": "MzI4ODgyNjAyOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 103,
+    "recent_filings_count": 12
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Bodoni.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "X-Rite scanning instruments",
+      "X-Rite i1 Publish Pro 3 Plus",
+      "X-Rite i1 Basic Pro 3 Plus",
+      "X-Rite i1 Basic Pro 3",
+      "X-Rite eXact 2",
+      "X-Rite eXact Auto-Scan Pro",
+      "X-Rite Ci7860",
+      "X-Rite Ci64",
+      "X-Rite CAPSURE",
+      "X-Rite ColorChecker White Balance",
+      "X-Rite i1iSis 2",
+      "X-Rite IntelliTrax2 Pro",
+      "Epson SC-P7000V",
+      "Epson SC-P7500 Spectro",
+      "Epson SC-P7500STD",
+      "Epson SC-P9500 Spectro",
+      "Epson SC-P9500 STD",
+      "Epson UltraChrome Pro12 inkset",
+      "Pantone Formula Guide Coated and Uncoated",
+      "Pantone Color Bridge Coated",
+      "Pantone ColorManager Software",
+      "Color Logic ZePrA 13 MultiColour",
+      "Color Logic CoPrA",
+      "Color Logic ColorAnt L",
+      "Techkon DENS",
+      "pressSIGN",
+      "pressSIGN GPM",
+      "Open-GPM web submission portal",
+      "EFI Fiery XF",
+      "Hasselblad MYIRO",
+      "MYIRO-1",
+      "MYIRO-9",
+      "Barbieri spectrophotometers",
+      "Mitsubishi test equipment",
+      "Hahnemuhle proofing paper",
+      "NEC displays"
+    ],
+    "business_keywords": [
+      "color management",
+      "printing",
+      "proofing",
+      "scanning instruments",
+      "large format printers",
+      "spectrophotometers",
+      "DeviceLink profiles",
+      "ICC profiles",
+      "measurement data optimization",
+      "prepress",
+      "graphic design",
+      "print quality management",
+      "color measurement",
+      "densitometers",
+      "Pantone color guides"
+    ],
+    "services": [
+      "sale of color management software and hardware",
+      "sale of scanning instruments",
+      "sale of large format printers",
+      "sale of proofing paper",
+      "sale of spectrophotometers and densitometers",
+      "sale of Pantone color guides",
+      "web submission portal for measurement files (Open-GPM for pressSIGN®)",
+      "print quality management tools"
+    ],
+    "customer_segments": [
+      "designers",
+      "photographers",
+      "prepress professionals",
+      "imaging professionals",
+      "print professionals",
+      "brand owners",
+      "printing schools"
+    ],
+    "business_description": "Bodoni Systems Limited specializes in the sale of color management solutions, including software, hardware, and consumables for the printing and imaging industries. The company offers products such as spectrophotometers, large format printers, proofing paper, and Pantone color guides, alongside specialized software for color optimization, measurement data analysis, and print quality management. Bodoni Systems also provides tools like pressSIGN for print quality management and Open-GPM for web-based measurement file submissions.",
+    "website_analyzed_at": "2025-12-29T15:38:46.018Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.735Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 34,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 35.91761091942542,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 9,
+        "weight": 9
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:16:19.072Z"
+  },
+  "scraped_at": "2025-12-28T17:08:16.640Z",
+  "updated_at": "2026-01-09T19:08:21.734Z",
+  "version": 1
+}

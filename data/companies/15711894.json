@@ -1,0 +1,216 @@
+{
+  "company_name": "PVCASE UK LTD",
+  "company_number": "15711894",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-05-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "C/O Fieldfisher Llp Riverbank House, 2 Swan Lane, London, EC4R 3TT, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "C/O Fieldfisher Llp Riverbank House",
+    "address_line_2": "2 Swan Lane",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4R 3TT"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-23",
+    "last_made_up_to": "2025-05-09",
+    "next_made_up_to": "2026-05-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TAYLOR, Nigel",
+        "officer_role": "director",
+        "appointed_on": "2024-05-10",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Riverbank House",
+          "address_line_2": "2 Swan Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4R 3TT",
+          "premises": "C/O Fieldfisher Llp"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Deividas Trainavicius",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2024-05-10",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "Lithuanian",
+        "country_of_residence": "Lithuania",
+        "address": {
+          "address_line_1": "Riverbank House",
+          "address_line_2": "2 Swan Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4R 3TT",
+          "premises": "C/O Fieldfisher Llp"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE2H4BBF",
+        "transaction_id": "MzQ2NTkxNzcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-05-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE2H4ANN",
+        "transaction_id": "MzQ2NTkxNzQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-28",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "XDXCIM2A",
+        "transaction_id": "MzQ1NjkwNjQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-01-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDTKYBS3",
+        "transaction_id": "MzQ0OTk1ODY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-24",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XD7Z1020",
+        "transaction_id": "MzQyOTczNTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-23",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XD7Z1000",
+        "transaction_id": "MzQyOTczNTMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD7Z0LZC",
+        "transaction_id": "MzQyOTczMjM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-03",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD4GK8RV",
+        "transaction_id": "MzQyNDA3NTI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-05-10",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 21,
+        "barcode": "XD2LDEQ2",
+        "transaction_id": "MzQyMDg5MjQzM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 9,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 722734,
+    "ebitda": 66106,
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 21.67,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.640953869641045,
+        "weight": 13.669145734109906
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:22.132Z"
+  },
+  "scraped_at": "2025-12-28T17:20:16.133Z",
+  "updated_at": "2025-12-29T22:45:22.132Z",
+  "version": 1
+}

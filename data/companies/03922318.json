@@ -1,0 +1,813 @@
+{
+  "company_name": "BESTOUTCOME LIMITED",
+  "company_number": "03922318",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-02-09",
+  "jurisdiction": "england-wales",
+  "registered_address": "Europa House, 11 Marsham Way, Gerrards Cross, Buckinghamshire, SL9 8BQ",
+  "registered_address_structured": {
+    "address_line_1": "Europa House",
+    "address_line_2": "11 Marsham Way",
+    "locality": "Gerrards Cross",
+    "postal_code": "SL9 8BQ",
+    "region": "Buckinghamshire"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "AJDW LIMITED",
+      "ceased_on": "2006-10-24",
+      "effective_from": "2000-09-06"
+    },
+    {
+      "name": "EXTROPY LIMITED",
+      "ceased_on": "2000-09-06",
+      "effective_from": "2000-02-09"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-15",
+    "last_made_up_to": "2025-02-01",
+    "next_made_up_to": "2026-02-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HUNTER, Jonathan Albert",
+        "officer_role": "director",
+        "appointed_on": "2024-06-17",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "PRITCHARD, Neil Bartley",
+        "officer_role": "director",
+        "appointed_on": "2023-06-26",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Jewry Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3N 2EX",
+          "premises": "Dawson House, 5"
+        }
+      },
+      {
+        "name": "WALTON, David",
+        "officer_role": "director",
+        "appointed_on": "2000-09-08",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "YOUNG, David James",
+        "officer_role": "director",
+        "appointed_on": "2024-06-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "HUGHES, David Aled",
+        "officer_role": "director",
+        "appointed_on": "2023-06-26",
+        "resigned_on": "2024-06-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "14 Haddenham Business Park",
+          "address_line_2": "Pegasus Way",
+          "country": "England",
+          "locality": "Aylesbury",
+          "postal_code": "HP17 8LJ",
+          "premises": "Parkway House"
+        }
+      },
+      {
+        "name": "JACKSON, Chris Richard",
+        "officer_role": "director",
+        "appointed_on": "2008-03-01",
+        "resigned_on": "2008-09-30",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Links Lane",
+          "locality": "Rowlands Castle",
+          "postal_code": "PO9 6AF",
+          "premises": "58a",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "JACKSON, George Barry",
+        "officer_role": "director",
+        "appointed_on": "2007-08-06",
+        "resigned_on": "2008-12-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1934,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Willow Cottage Church Lane",
+          "address_line_2": "Boxgrove",
+          "locality": "Chichester",
+          "postal_code": "PO18 0ED",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "PAYNE, Thomas Francis",
+        "officer_role": "director",
+        "appointed_on": "2008-07-18",
+        "resigned_on": "2009-05-08",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Rickmansworth Lane",
+          "address_line_2": "Chalfont St. Peter",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 0JZ",
+          "premises": "Green Bank 58",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "RAJDEV, Anita",
+        "officer_role": "director",
+        "appointed_on": "2009-01-01",
+        "resigned_on": "2009-08-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "3 Norfolk Road",
+          "locality": "Harrow",
+          "postal_code": "HA1 4NL",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "SHELTON, Richard Paul",
+        "officer_role": "director",
+        "appointed_on": "2009-01-01",
+        "resigned_on": "2014-12-11",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "44 Nelson Road",
+          "locality": "New Malden",
+          "postal_code": "KT3 5EB",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "WALTON, Alison Jane",
+        "officer_role": "director",
+        "appointed_on": "2005-10-20",
+        "resigned_on": "2006-10-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Orchehill House",
+          "address_line_2": "61 Orchehill Avenue",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8QH",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WATMOUGH, Stephen John",
+        "officer_role": "director",
+        "appointed_on": "2013-10-01",
+        "resigned_on": "2014-04-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "country": "England",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WHEATLEY, Michael John",
+        "officer_role": "director",
+        "appointed_on": "2006-10-01",
+        "resigned_on": "2012-05-25",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "8 St.James Road",
+          "locality": "Tunbridge Wells",
+          "postal_code": "TN1 2JZ",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "YOUNG, David James",
+        "officer_role": "director",
+        "appointed_on": "2011-10-20",
+        "resigned_on": "2023-06-26",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "country": "United Kingdom",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "PROFESSIONAL FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-02-09",
+        "resigned_on": "2000-09-08",
+        "address": {
+          "address_line_1": "11 Kings Road",
+          "address_line_2": "Clifton",
+          "locality": "Bristol",
+          "postal_code": "BS8 4AB"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JACKSON, George Barry",
+        "officer_role": "secretary",
+        "appointed_on": "2008-07-18",
+        "resigned_on": "2008-12-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Willow Cottage Church Lane",
+          "address_line_2": "Boxgrove",
+          "locality": "Chichester",
+          "postal_code": "PO18 0ED",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "WALTON, Alison Jane",
+        "officer_role": "secretary",
+        "appointed_on": "2000-09-08",
+        "resigned_on": "2008-07-18",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Orchehill House",
+          "address_line_2": "61 Orchehill Avenue",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8QH",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WALTON, David",
+        "officer_role": "secretary",
+        "appointed_on": "2012-05-25",
+        "resigned_on": "2023-06-26",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "country": "United Kingdom",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WHEATLEY, Michael John",
+        "officer_role": "secretary",
+        "appointed_on": "2009-01-01",
+        "resigned_on": "2012-05-25",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "St. James Road",
+          "locality": "Tunbridge Wells",
+          "postal_code": "TN1 2JZ",
+          "premises": "8",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "ABC COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-02-09",
+        "resigned_on": "2000-09-08",
+        "address": {
+          "address_line_1": "11 Kings Road",
+          "address_line_2": "Clifton",
+          "locality": "Bristol",
+          "postal_code": "BS8 4AB"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Eleco Public Limited Company",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-06-26",
+        "address": {
+          "address_line_1": "5 Jewry Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3N 2EX",
+          "premises": "Dawson House"
+        },
+        "identification": {
+          "legal_form": "Public Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "00354915"
+        }
+      },
+      {
+        "name": "Mr David Walton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2023-06-26",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "11 Marsham Way",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8BQ",
+          "premises": "Europa House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "Mrs Alison Jane Walton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2023-06-26",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "61 Orchehill Avenue",
+          "country": "England",
+          "locality": "Gerrards Cross",
+          "postal_code": "SL9 8QH",
+          "premises": "Orchehill House",
+          "region": "Buckinghamshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2011-10-11",
+        "delivered_on": "2011-10-17",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£4,000.00 together with £800.00 being equivalent to vat see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Europa House Investments Limited"
+          }
+        ],
+        "satisfied_on": "2023-02-20",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "2008-07-17",
+        "delivered_on": "2008-07-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Coutts & Co"
+          }
+        ],
+        "satisfied_on": "2023-01-17",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-06",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "AEC7BSBU",
+        "transaction_id": "MzQ4MzYwODM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVWSPBN",
+        "transaction_id": "MzQ1NDA5NzI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "ADCQMIYG",
+        "transaction_id": "MzQzODUxNTA4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD63PFP6",
+        "transaction_id": "MzQyNjczNDUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD63PFQQ",
+        "transaction_id": "MzQyNjczNDUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD579TI8",
+        "transaction_id": "MzQyNTE0NDUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCVZ5O5D",
+        "transaction_id": "MzQwOTY1OTU1M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-07-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 9,
+        "barcode": "YC6L663S",
+        "transaction_id": "MzM4NDM0MzI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-07-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUM2TDY1VFRhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-07-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WUM2TDVWUThhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-07-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUM2TDRQSjdhZGlxemtjeA"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-05",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XC71N1EQ",
+        "transaction_id": "MzM4NTE4ODE4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC6L63FU",
+        "transaction_id": "MzM4NDM0MjY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-28",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC6L5Z6Z",
+        "transaction_id": "MzM4NDM0MTc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-28",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XC6L5ZGQ",
+        "transaction_id": "MzM4NDM0MTgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC6L644A",
+        "transaction_id": "MzM4NDM0Mjc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC6L5YRT",
+        "transaction_id": "MzM4NDM0MTY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC6L5X1E",
+        "transaction_id": "MzM4NDM0MTMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC6L4TMN",
+        "transaction_id": "MzM4NDMzMjQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-21",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 3,
+        "barcode": "AC5OMBTE",
+        "transaction_id": "MzM4MzcxNDUwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-13",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XC569TUY",
+        "transaction_id": "MzM4MjE4MzkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-12",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XC569UKQ",
+        "transaction_id": "MzM4MjE4NDEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-12",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XC569V2O",
+        "transaction_id": "MzM4MjE4NDI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-12",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XC569VS0",
+        "transaction_id": "MzM4MjE4NDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-12",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XC569WQ8",
+        "transaction_id": "MzM4MjE4NDYzNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 177,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "revenue": 1893509,
+    "ebitda": -191262,
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Bestoutcome.com",
+    "headcount": 24,
+    "tech_stack": [
+      "PM3",
+      "PM3Time"
+    ],
+    "business_keywords": [
+      "PPM tools",
+      "PMO",
+      "Project Portfolio Management",
+      "PM3",
+      "timesheet application",
+      "PM3Time",
+      "project delivery",
+      "operational transformation",
+      "public sector",
+      "private sector",
+      "healthcare",
+      "finance",
+      "IT",
+      "enterprises",
+      "case studies"
+    ],
+    "services": [
+      "PPM tools for PMOs",
+      "PMO empowerment",
+      "project delivery solutions",
+      "intuitive and scalable PPM solutions",
+      "timesheet application"
+    ],
+    "customer_segments": [
+      "complex PMOs in public sector enterprises",
+      "complex PMOs in private sector enterprises",
+      "healthcare organizations",
+      "finance organizations",
+      "IT organizations",
+      "UK retailers"
+    ],
+    "business_description": "Bestoutcome Limited provides powerful PPM (Project Portfolio Management) tools designed to help complex PMOs in public and private sector enterprises deliver top results. Their solutions, including PM3 and PM3Time, are intuitive, scalable, and built to empower teams in project delivery.",
+    "website_analyzed_at": "2025-12-29T17:35:49.836Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.373Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.906687865518773,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 24,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:35:09.202Z"
+  },
+  "scraped_at": "2025-12-28T20:18:01.960Z",
+  "updated_at": "2026-01-09T19:08:22.373Z",
+  "version": 1
+}

@@ -1,0 +1,170 @@
+{
+  "company_name": "BOYOS TECH LIMITED",
+  "company_number": "15525657",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-02-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 Princes Square, Harrogate, HG1 1ND, England",
+  "registered_address_structured": {
+    "address_line_1": "9 Princes Square",
+    "country": "England",
+    "locality": "Harrogate",
+    "postal_code": "HG1 1ND"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-12",
+    "last_made_up_to": "2025-02-26",
+    "next_made_up_to": "2026-02-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLAU, Boruch Yossef",
+        "officer_role": "director",
+        "appointed_on": "2024-02-27",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Princes Square",
+          "country": "England",
+          "locality": "Harrogate",
+          "postal_code": "HG1 1ND",
+          "premises": "9"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Boruch Yossef Blau",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-02-27",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Princes Square",
+          "country": "England",
+          "locality": "Harrogate",
+          "postal_code": "HG1 1ND",
+          "premises": "9"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-08",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEGYMOLM",
+        "transaction_id": "MzQ5Mjg5ODg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-11-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 3,
+        "barcode": "AEFN48BV",
+        "transaction_id": "MzQ5MDAzODk3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYPCMEA",
+        "transaction_id": "MzQ1OTQ3NzI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-27",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCXRLVK9",
+        "transaction_id": "MzQxMjU2MjU3MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 4,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 21.34,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.8409532496511922,
+        "weight": 15.335140569594431
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 292.1,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:02.172Z",
+    "location_distance_km": 292.1
+  },
+  "scraped_at": "2025-12-28T17:20:09.001Z",
+  "updated_at": "2025-12-29T22:45:02.173Z",
+  "version": 1
+}

@@ -1,0 +1,490 @@
+{
+  "company_name": "CARDONET LIMITED",
+  "company_number": "03788276",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-06-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "7 Stean Street, London, E8 4ED, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "7 Stean Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E8 4ED"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-04",
+    "last_made_up_to": "2025-01-21",
+    "next_made_up_to": "2026-01-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HEINRICH, Isaac",
+        "officer_role": "director",
+        "appointed_on": "1999-06-11",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E8 4ED",
+          "premises": "7 Stean Street"
+        }
+      },
+      {
+        "name": "SANTINI, Antonella",
+        "officer_role": "director",
+        "appointed_on": "2009-07-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1958,
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E8 4ED",
+          "premises": "7 Stean Street"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SANTINI, Antonella",
+        "officer_role": "secretary",
+        "appointed_on": "1999-06-11",
+        "nationality": "British",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E8 4ED",
+          "premises": "7 Stean Street"
+        }
+      },
+      {
+        "name": "SWIFT INCORPORATIONS LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1999-06-11",
+        "resigned_on": "1999-06-11",
+        "address": {
+          "address_line_1": "Church Street",
+          "locality": "London",
+          "postal_code": "NW8 8EP",
+          "premises": "26"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Sfh Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-01-21",
+        "address": {
+          "address_line_1": "7 Stean Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E8 4ED",
+          "premises": "Cardonet"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "2006 Companies Act",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "10922592"
+        }
+      },
+      {
+        "name": "Mr Isaac Heinrich",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-06-12",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W9 1ET",
+          "premises": "Flat 2 177 Sutherland Avenue"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Charge over credit balances"
+          }
+        ],
+        "created_on": "2000-06-12",
+        "delivered_on": "2000-06-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The sum of £5000 together with interest accrued now or to be held by the bank on an account numbered 40074854 and earmarked and designated by reference to the company."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEHCEYC1",
+        "transaction_id": "MzQ5Mzk1NTMxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVLXX4W",
+        "transaction_id": "MzQ1MzUwMjg1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-21",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDUPDWF5",
+        "transaction_id": "MzQ1MjA4MjU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDI6MPEZ",
+        "transaction_id": "MzQ0Nzk2OTg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD342KPM",
+        "transaction_id": "MzQyMTg0MDQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCIVOSKI",
+        "transaction_id": "MzQwNTQxNTcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-08-09",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM4ODc5MjkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-08-08",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM4ODA3NDQzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC9FEPE8",
+        "transaction_id": "MzM4ODc5MjgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBJEY3GI",
+        "transaction_id": "MzM2MzUwNTM5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4CDJOQ",
+        "transaction_id": "MzMzOTgxMDQ1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAJC6H9M",
+        "transaction_id": "MzMyMzU5MjE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7CXNQW",
+        "transaction_id": "MzMwNTUyMzgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9JLABWA",
+        "transaction_id": "MzI4NTY1MDA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X999AHQ9",
+        "transaction_id": "MzI3MzA2NzA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8L59OE0",
+        "transaction_id": "MzI1MzE3OTU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X87NZFRD",
+        "transaction_id": "MzIzNjk4NDU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X7L3WTFD",
+        "transaction_id": "MzIyMjUxNzczNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-12-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7L17MW8",
+        "transaction_id": "MzIyMjQyMjE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X76ZE06X",
+        "transaction_id": "MzIwNjA4OTc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-05-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X756PX6H",
+        "transaction_id": "MzIwNDE4MjMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-05-03",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X756PX4A",
+        "transaction_id": "MzIwNDE4MjI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-05-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X756PWI1",
+        "transaction_id": "MzIwNDE4MjI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X6K6XA8O",
+        "transaction_id": "MzE5MTQzODU2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X685JIY2",
+        "transaction_id": "MzE3NzcwMDM5NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Cardonet.co.uk",
+    "headcount": 9,
+    "business_keywords": [
+      "IT support",
+      "managed IT support",
+      "IT services",
+      "IT strategy",
+      "IT consulting",
+      "cloud",
+      "cyber security",
+      "IT management",
+      "IT solutions",
+      "technology services",
+      "systems integration",
+      "hotel IT solutions",
+      "hotel management IT solutions",
+      "restaurant IT solutions",
+      "pub & bar IT solutions"
+    ],
+    "services": [
+      "IT support",
+      "managed IT services",
+      "IT strategy",
+      "IT consulting",
+      "cloud services",
+      "cyber security",
+      "day-to-day management and support of IT",
+      "systems and solutions integration",
+      "business outsourced IT",
+      "hotel IT solutions",
+      "hotel management IT solutions",
+      "restaurant IT solutions",
+      "pub & bar IT solutions"
+    ],
+    "customer_segments": [
+      "organisations in London",
+      "organisations in the UK",
+      "organisations in Europe",
+      "organisations in the US",
+      "hotels",
+      "restaurants",
+      "pubs & bars"
+    ],
+    "business_description": "Cardonet Limited provides IT support and managed IT services to organisations in London, the UK, Europe, and the US. Established in 1999, the company offers IT strategy, consulting, cloud, cyber security, and day-to-day IT management, specializing in solutions for industries such as hotels, restaurants, and pubs & bars.",
+    "website_analyzed_at": "2025-12-29T17:17:28.759Z",
+    "msp_likelihood_score": 26,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.291Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 34,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.572435553811516,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 9,
+        "weight": 9
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:32:08.137Z"
+  },
+  "scraped_at": "2025-12-28T19:54:53.340Z",
+  "updated_at": "2026-01-09T19:08:22.291Z",
+  "version": 1
+}

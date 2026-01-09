@@ -1,0 +1,510 @@
+{
+  "company_name": "DE BANKE GROUP LIMITED",
+  "company_number": "04025383",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-07-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 9 & 10 Rosemary Court, Oldwich Lane West Chadwick End, Solihull, West Midlands, B93 0BJ",
+  "registered_address_structured": {
+    "address_line_1": "Unit 9 & 10 Rosemary Court",
+    "address_line_2": "Oldwich Lane West Chadwick End",
+    "locality": "Solihull",
+    "postal_code": "B93 0BJ",
+    "region": "West Midlands"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SCOOBYNET LIMITED",
+      "ceased_on": "2011-03-17",
+      "effective_from": "2001-06-01"
+    },
+    {
+      "name": "NAYCROFT LIMITED",
+      "ceased_on": "2001-06-01",
+      "effective_from": "2000-07-03"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-17",
+    "last_made_up_to": "2025-07-03",
+    "next_made_up_to": "2026-07-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DEBANKE, Simon Victor",
+        "officer_role": "director",
+        "appointed_on": "2000-08-02",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Rosemary Court",
+          "address_line_2": "Oldwich Lane West Chadwick End",
+          "country": "England",
+          "locality": "Solihull",
+          "postal_code": "B93 0BJ",
+          "premises": "Unit 9 & 10",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "FENNINGS, Shaun Mark",
+        "officer_role": "director",
+        "appointed_on": "2003-03-31",
+        "resigned_on": "2009-01-16",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "53 Elder Drive",
+          "address_line_2": "Arbury Park",
+          "locality": "Daventry",
+          "postal_code": "NN11 5XE",
+          "region": "Northamptonshire"
+        }
+      },
+      {
+        "name": "MCGIVERON, Adam Thomas",
+        "officer_role": "director",
+        "appointed_on": "2023-04-27",
+        "resigned_on": "2024-05-15",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Street",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B3 2RT",
+          "premises": "C/O Penningtons Manches Cooper Llp, 11th Floor, 45",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "CHETTLEBURGH'S LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-07-03",
+        "resigned_on": "2000-08-02",
+        "address": {
+          "address_line_1": "Temple House",
+          "address_line_2": "20 Holywell Row",
+          "locality": "London",
+          "postal_code": "EC2A 4JB"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DEBANKE, Simon Victor",
+        "officer_role": "secretary",
+        "appointed_on": "2003-03-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Rosemary Court",
+          "address_line_2": "Oldwich Lane West Chadwick End",
+          "country": "England",
+          "locality": "Solihull",
+          "postal_code": "B93 0BJ",
+          "premises": "Unit 9 & 10",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "DEBANKE, Emma Louise",
+        "officer_role": "secretary",
+        "appointed_on": "2000-08-02",
+        "resigned_on": "2002-05-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Barn 4 Park Farm",
+          "address_line_2": "Rugby Road, Lower Harlestone",
+          "locality": "Northampton",
+          "postal_code": "NN7 4ER",
+          "region": "Northamptonshire"
+        }
+      },
+      {
+        "name": "CHETTLEBURGH INTERNATIONAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-07-03",
+        "resigned_on": "2000-08-02",
+        "address": {
+          "address_line_1": "Temple House",
+          "address_line_2": "20 Holywell Row",
+          "locality": "London",
+          "postal_code": "EC2A 4JB"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Simon Victor De Banke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Oldwich Lane West",
+          "address_line_2": "Chadwick End",
+          "country": "England",
+          "locality": "Solihull",
+          "postal_code": "B93 0BJ",
+          "premises": "Unit 9 & 10, Rosemary Court",
+          "region": "West Midlands"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE60IQXL",
+        "transaction_id": "MzQ3MjQ2NDkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE60IQR6",
+        "transaction_id": "MzQ3MjQ2NDgyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE1KZLR6",
+        "transaction_id": "MzQ2NDY4MjUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD7J74DD",
+        "transaction_id": "MzQyOTIzNTEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-16",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD7GGJO8",
+        "transaction_id": "MzQyODkzNDkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-04",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD4J73M2",
+        "transaction_id": "MzQyNDE2OTYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XC8WNV9V",
+        "transaction_id": "MzM4ODExMDg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC74BKXF",
+        "transaction_id": "MzM4NTMzODYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC2F0V7C",
+        "transaction_id": "MzM3Nzg5NTQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBFT9S7E",
+        "transaction_id": "MzM1NzA3MjQyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8YQLEJ",
+        "transaction_id": "MzM0NjY3MjgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA9TOSGX",
+        "transaction_id": "MzMwOTMxNjEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA89DPQ2",
+        "transaction_id": "MzMwNjk2OTc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9GUG7OI",
+        "transaction_id": "MzI4MjE4ODMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X98VWXY3",
+        "transaction_id": "MzI3MjYyOTE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8ATZV63",
+        "transaction_id": "MzI0MDcwNTUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X88ZR269",
+        "transaction_id": "MzIzODU3ODkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7BBD0AI",
+        "transaction_id": "MzIxMTA2NTU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X79SY5GB",
+        "transaction_id": "MzIwOTI4ODM4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6BUM3U0",
+        "transaction_id": "MzE4MTgzNzEwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X69VI5Y1",
+        "transaction_id": "MzE3OTU0NDIyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X5CE3IZF",
+        "transaction_id": "MzE1NDEyMzIwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-07-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X5BAT9G9",
+        "transaction_id": "MzE1MzAxNTEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X4CRT2SH",
+        "transaction_id": "MzEyODIwNzU3NGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-07-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X4B3S4Y0",
+        "transaction_id": "MzEyNjYyMDI5OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 80,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 22
+  },
+  "enrichment": {
+    "website": "https://Debanke.com",
+    "headcount": 22,
+    "tech_stack": [
+      "Bluetooth music streaming receiver",
+      "internet technology"
+    ],
+    "business_keywords": [
+      "business building",
+      "partnerships",
+      "innovation",
+      "technology investment",
+      "web-enablement",
+      "intellectual property administration",
+      "Bluetooth music streaming",
+      "motorsport technology",
+      "data and information services",
+      "entertainment technology",
+      "patent services",
+      "internet technology",
+      "start-ups",
+      "established businesses",
+      "quality focus"
+    ],
+    "services": [
+      "Building businesses from the ground up",
+      "Partnering with established businesses",
+      "Internet technology development",
+      "Intellectual Property Administration",
+      "Bluetooth music streaming receiver solutions",
+      "Motorsport data, information, and entertainment services",
+      "Timing and Safety Tracking for motorsport",
+      "Technology and specialist expertise for patent professionals"
+    ],
+    "customer_segments": [
+      "start-ups",
+      "established businesses",
+      "patent professionals",
+      "hi-fi users",
+      "motorsport fans",
+      "drivers",
+      "governing bodies",
+      "organisers",
+      "sponsors"
+    ],
+    "business_description": "de Banke Group builds and develops businesses from the ground up and partners with established companies, focusing on innovation, quality, and customer improvement. The group operates across diverse markets, offering services such as internet technology development, intellectual property administration, Bluetooth music streaming, and motorsport data and entertainment solutions, all driven by modern practices and technology investment.",
+    "website_analyzed_at": "2025-12-29T17:46:59.916Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.421Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.509430968353627,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 22,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:36:55.336Z"
+  },
+  "scraped_at": "2025-12-28T20:31:36.573Z",
+  "updated_at": "2026-01-09T19:08:22.421Z",
+  "version": 1
+}

@@ -1,0 +1,529 @@
+{
+  "company_name": "STRUCTURED SOFTWARE SYSTEMS LIMITED",
+  "company_number": "02153654",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1987-08-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "College House, Howard Street, Barrow-In-Furness, Cumbria, LA14 1NB, England",
+  "registered_address_structured": {
+    "address_line_1": "College House",
+    "address_line_2": "Howard Street",
+    "country": "England",
+    "locality": "Barrow-In-Furness",
+    "postal_code": "LA14 1NB",
+    "region": "Cumbria"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SORTRACE LIMITED",
+      "ceased_on": "1987-09-25",
+      "effective_from": "1987-08-10"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-17",
+    "last_made_up_to": "2025-06-03",
+    "next_made_up_to": "2026-06-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WALKER, Mark Gerald",
+        "officer_role": "director",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "2 Highfield Road",
+          "locality": "Barrow In Furness",
+          "postal_code": "LA14 5PA",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "BOHROMAN, John Russell",
+        "officer_role": "director",
+        "appointed_on": "1992-05-01",
+        "resigned_on": "1993-11-26",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1946,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "2 Highfield Road",
+          "locality": "Foxfield",
+          "postal_code": "LA14 5NZ",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "TODD, Andrew Larmour",
+        "officer_role": "director",
+        "appointed_on": "1992-06-01",
+        "resigned_on": "1995-12-20",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Tintagel Close",
+          "locality": "Basingstoke",
+          "postal_code": "RG23 8JE",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WALKER, Janet Mary",
+        "officer_role": "secretary",
+        "resigned_on": "2019-09-02",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "2 Highfield Road",
+          "locality": "Barrow In Furness",
+          "postal_code": "LA14 5PA",
+          "region": "Cumbria"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mark Gerald Walker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-11-15",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Howard Street",
+          "country": "England",
+          "locality": "Barrow-In-Furness",
+          "postal_code": "LA14 1NB",
+          "premises": "College House",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "Mrs Janet Mary Walker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-12-01",
+        "ceased_on": "2019-09-02",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Highfield Road",
+          "country": "England",
+          "locality": "Barrow-In-Furness",
+          "postal_code": "LA14 5PA",
+          "premises": "2",
+          "region": "Cumbria"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "021536540002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-12-07",
+        "delivered_on": "2020-12-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2022-03-28",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "1987-11-19",
+        "delivered_on": "1987-11-25",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "A specific equitable charge over all freehold and leasehold properties and/or the proceeds of sale thereof fixed and floating charges over undertaking and all property and assets present and future including goodwill bookdebts and the benefits of any licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2011-08-10",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3WJCGG",
+        "transaction_id": "MzQ2ODczOTMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDI9UIIZ",
+        "transaction_id": "MzQ0ODM0MTk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD63MFJD",
+        "transaction_id": "MzQyNjcxMDU4OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD48CEJN",
+        "transaction_id": "MzQyMzY5NjI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 5,
+        "barcode": "RCIA3Q0Z",
+        "transaction_id": "MzQwNDYxNjU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCHVRNLF",
+        "transaction_id": "MzQwMzAyOTUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6NV8QA",
+        "transaction_id": "MzM4NDQ4NzQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBYAUK8A",
+        "transaction_id": "MzM3MTAzNDAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB73TX57",
+        "transaction_id": "MzM0NDAxNjYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XB73TG02",
+        "transaction_id": "MzM0NDAxMjkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-28",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XB0RB6K9",
+        "transaction_id": "MzMzNDI5OTg1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA92JSOY",
+        "transaction_id": "MzMwODAwNzM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A9KLFXFS",
+        "transaction_id": "MzI4Nzg4MzM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-12-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X9JFULCG",
+        "transaction_id": "MzI4NTQwNzA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X96LL5JN",
+        "transaction_id": "MzI2Njc0MjMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A8WD0FAA",
+        "transaction_id": "MzI1NDMyNzg5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-03",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X8D8NW4B",
+        "transaction_id": "MzI0MzI3NTAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-09-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X8D8NVUO",
+        "transaction_id": "MzI0MzI3NDkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X872R2PE",
+        "transaction_id": "MzIzNjI2NDMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A7WQAKLL",
+        "transaction_id": "MzIyNDE3MTg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-11-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X7IRMBII",
+        "transaction_id": "MzIxOTQ4OTEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X77HKOQH",
+        "transaction_id": "MzIwNjY3NDU5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A6LPTY1M",
+        "transaction_id": "MzE5MzYzNjQ0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X688MIJS",
+        "transaction_id": "MzE3Nzc0Njc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-02-10",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A5ZTZ6R7",
+        "transaction_id": "MzE2ODY2Njk3NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 109,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Threesl.com",
+    "headcount": 12,
+    "tech_stack": [
+      "SysML",
+      "SASD",
+      "UML",
+      "ADARTS",
+      "eFFBD",
+      "IDEF"
+    ],
+    "business_keywords": [
+      "requirements management",
+      "systems engineering",
+      "MBSE",
+      "agile development",
+      "model based systems engineering",
+      "document management",
+      "project management",
+      "test management",
+      "configuration management",
+      "change control",
+      "feature driven development",
+      "through-life system support",
+      "information assurance",
+      "Information Security Management System",
+      "traceability"
+    ],
+    "services": [
+      "Agile development management (needs, epics, user stories, features, product backlog, sprints)",
+      "Requirements management software",
+      "Systems engineering software with MBSE",
+      "Document management with full traceability",
+      "Project management with Work Breakdown Structure (WBS) integration",
+      "Test management",
+      "Change tracking and configuration management",
+      "Formal change control",
+      "Automatic generation of reports, documents, metrics, and KPIs",
+      "Information reuse and sharing between projects",
+      "Model building using SysML, SASD, UML, ADARTS, architecture, eFFBD, IDEF, and process notations",
+      "Linking models to requirements, tests, issues, and defects",
+      "Traceability across engineering processes",
+      "Information assurance and security management"
+    ],
+    "customer_segments": [],
+    "business_description": "STRUCTURED SOFTWARE SYSTEMS LIMITED (3SL) provides Cradle, a software tool for requirements management and systems engineering. The tool supports agile development, model-based systems engineering (MBSE), document and project management, and ensures traceability, security, and information assurance across engineering processes.",
+    "website_analyzed_at": "2025-12-29T15:25:46.027Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.540Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 37,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 38.41623726981862,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 12,
+        "weight": 12
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:14:19.484Z"
+  },
+  "scraped_at": "2025-12-28T16:45:27.871Z",
+  "updated_at": "2026-01-09T19:08:21.540Z",
+  "version": 1
+}

@@ -1,0 +1,256 @@
+{
+  "company_name": "OPENBUILD TECH SERVICES LTD",
+  "company_number": "15469720",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-02-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "39 Lilestone Street, London, NW8 8SS, England",
+  "registered_address_structured": {
+    "address_line_1": "39 Lilestone Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW8 8SS"
+  },
+  "sic_codes": [
+    "62020",
+    "62030"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-08-25",
+    "next_accounts_period_end_on": "2026-11-25",
+    "next_accounts_period_start_on": "2025-11-26",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-11-25",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 25,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-19",
+    "last_made_up_to": "2025-02-05",
+    "next_made_up_to": "2026-02-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLACK, John",
+        "officer_role": "director",
+        "appointed_on": "2024-02-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 2001,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Lilestone Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW8 8SS",
+          "premises": "39"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BLACK, John",
+        "officer_role": "secretary",
+        "appointed_on": "2024-02-06",
+        "address": {
+          "address_line_1": "Lilestone Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW8 8SS",
+          "premises": "39"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr John Black",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-02-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 2001,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Speckledwood Way",
+          "country": "United Kingdom",
+          "locality": "Newcastle Upon Tyne",
+          "postal_code": "NE13 9EB",
+          "premises": "21",
+          "region": "Tyne And Wear"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEG4I8CZ",
+        "transaction_id": "MzQ5MTE0MjM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-22",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEFW6EJ6",
+        "transaction_id": "MzQ5MDU0ODkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XECN33HK",
+        "transaction_id": "MzQ4NDAzMTA0MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-07",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XECN32NS",
+        "transaction_id": "MzQ4NDAzMDg0MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-10-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XECN31GA",
+        "transaction_id": "MzQ4NDAzMDY2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1I4FAR",
+        "transaction_id": "MzQ2NDQ0MjM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDY6AA3V",
+        "transaction_id": "MzQ1ODI4NTA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDY6AAVF",
+        "transaction_id": "MzQ1ODI4NjcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-12",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XDY6AAZ0",
+        "transaction_id": "MzQ1ODI4NjcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDY6AATN",
+        "transaction_id": "MzQ1ODI4NjcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDXKGKIO",
+        "transaction_id": "MzQ1NzA4NTI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-06",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 29,
+        "barcode": "XCW9RXY1",
+        "transaction_id": "MzQxMDAzNzYzMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 12,
+    "recent_filings_count": 11
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 47.81,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.8984871955225773,
+        "weight": 15.814398338703068
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 3.4,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:53.158Z",
+    "location_distance_km": 3.4
+  },
+  "scraped_at": "2025-12-28T17:20:05.729Z",
+  "updated_at": "2025-12-29T22:44:53.162Z",
+  "version": 1
+}

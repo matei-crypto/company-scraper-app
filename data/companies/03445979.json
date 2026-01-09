@@ -1,0 +1,548 @@
+{
+  "company_name": "INTEGRATED TECHNOLOGY CORPORATION LIMITED",
+  "company_number": "03445979",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1997-10-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Fanz House 4th Floor, 99 Gray's Inn Road, London, WC1X 8TY, England",
+  "registered_address_structured": {
+    "address_line_1": "Fanz House 4th Floor",
+    "address_line_2": "99 Gray's Inn Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1X 8TY"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NETWORK SYSTEMS CONSULTING LIMITED",
+      "ceased_on": "2000-07-06",
+      "effective_from": "1997-10-07"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-19",
+    "last_made_up_to": "2025-10-05",
+    "next_made_up_to": "2026-10-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HUGGINS, Neil Gregory Vernon",
+        "officer_role": "director",
+        "appointed_on": "1997-10-10",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Squirrels Chase",
+          "address_line_2": "Harthall Lane",
+          "locality": "Pimlico",
+          "postal_code": "HP3 8SE",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "MORRIS, Dean",
+        "officer_role": "director",
+        "appointed_on": "2001-06-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Calder Avenue",
+          "address_line_2": "Brookmans Park",
+          "country": "England",
+          "locality": "Hatfield",
+          "postal_code": "AL9 7AG",
+          "premises": "46",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "BRIGHTON DIRECTOR LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1997-10-07",
+        "resigned_on": "1997-10-10",
+        "address": {
+          "address_line_1": "381 Kingsway",
+          "locality": "Hove",
+          "postal_code": "BN3 4QD",
+          "region": "East Sussex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HUGGINS, Sarah Caroline",
+        "officer_role": "secretary",
+        "appointed_on": "1997-10-10",
+        "resigned_on": "2011-12-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Squirrels Chase",
+          "address_line_2": "Harthall Lane",
+          "locality": "Pimlico",
+          "postal_code": "HP3 8SE",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "BRIGHTON SECRETARY LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1997-10-07",
+        "resigned_on": "1997-10-10",
+        "address": {
+          "address_line_1": "381 Kingsway",
+          "locality": "Hove",
+          "postal_code": "BN3 4QD",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2010-12-23",
+        "delivered_on": "2011-01-06",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit and the tenant's interest in the account."
+        },
+        "persons_entitled": [
+          {
+            "name": "Blue Clothing Company Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2008-12-24",
+        "delivered_on": "2009-01-06",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The amount from time to time standing to the credit of an interest bearing account."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank Pension Trust (UK) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2006-09-05",
+        "delivered_on": "2006-09-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "By way of first fixed charge the deposit being £5,875."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank Pension Trust (UK) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2003-06-19",
+        "delivered_on": "2003-06-20",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Rent deposit sum of £5,875."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank Pension Trust (UK) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 4,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XECSI1JS",
+        "transaction_id": "MzQ4NDMwMzU1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEB6FALM",
+        "transaction_id": "MzQ4MTA2OTMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDD9T9N",
+        "transaction_id": "MzQzODkxMzAwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDC0BM2G",
+        "transaction_id": "MzQzNjU1MDMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCE9U3JT",
+        "transaction_id": "MzM5NjU4NDU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCAM9AM8",
+        "transaction_id": "MzM5MDY5MjI3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBE3SO4G",
+        "transaction_id": "MzM1NDQ0NTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBDF441D",
+        "transaction_id": "MzM1MzE5Mjk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFTZUVS",
+        "transaction_id": "MzMxODAzODU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA6M1STT",
+        "transaction_id": "MzMwNDMwMTg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9G3HU7S",
+        "transaction_id": "MzI4MTAzMjU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9BQXJY9",
+        "transaction_id": "MzI3NTYyNDg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8HTE82H",
+        "transaction_id": "MzI0ODg4OTI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8CFVMCW",
+        "transaction_id": "MzI0MjQ0OTI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7HKF25L",
+        "transaction_id": "MzIxODA4NDU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7CSQV6W",
+        "transaction_id": "MzIxMjUzODc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-10-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6HOJUFD",
+        "transaction_id": "MzE4ODQxODc1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6EDHVVS",
+        "transaction_id": "MzE4NDc3OTAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-10-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5I2D7M9",
+        "transaction_id": "MzE2MDIxMTIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-09-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5F5GNC0",
+        "transaction_id": "MzE1NzA5MzgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-03-14",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X52PKZE9",
+        "transaction_id": "MzE0NDAxNjY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-10-14",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 6,
+        "barcode": "X4HZ6E4R",
+        "transaction_id": "MzEzMzAzMjkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-06-26",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X4ADO70H",
+        "transaction_id": "MzEyNTk2MjI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-11-05",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 6,
+        "barcode": "X3K1JBK3",
+        "transaction_id": "MzExMDc2NDMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2014-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X36HBMVL",
+        "transaction_id": "MzA5ODcxODIxMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 94,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Itcorporation.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "Microsoft (licensing)"
+    ],
+    "business_keywords": [
+      "IT products",
+      "IT services",
+      "IT solutions",
+      "cloud migration",
+      "IT support",
+      "business continuity",
+      "customer service",
+      "trusted relationships",
+      "tailored IT solutions",
+      "tech refresh",
+      "end user computing",
+      "cloud-based IT service",
+      "Microsoft licensing",
+      "hardware supply",
+      "software systems"
+    ],
+    "services": [
+      "IT products supply",
+      "IT services provision",
+      "IT solutions",
+      "cloud migration guidance",
+      "tailored IT support packages",
+      "business continuity solutions",
+      "tech refresh (end user computing) projects",
+      "fully-managed cloud services",
+      "systems and applications consolidation",
+      "Microsoft licensing review and strategy"
+    ],
+    "customer_segments": [
+      "businesses throughout the UK",
+      "charitable organisations",
+      "government or international organisations (e.g., Commonwealth Secretariat)",
+      "solicitors or law firms",
+      "accounting or professional services firms",
+      "educational institutions (e.g., schools)"
+    ],
+    "business_description": "IT Corporation provides IT products, services, and solutions to a diverse range of businesses across the UK, with over 20 years of experience. The company specializes in cloud migration, tailored IT support, business continuity solutions, and tech refresh projects, focusing on building long-term trusted relationships and delivering exemplary customer service.",
+    "website_analyzed_at": "2025-12-29T16:44:28.889Z",
+    "msp_likelihood_score": 17,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.136Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 40.33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 28.249138261478944,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 1,
+        "weight": 8.33
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:27:04.936Z"
+  },
+  "scraped_at": "2025-12-28T19:15:09.382Z",
+  "updated_at": "2026-01-09T19:08:22.136Z",
+  "version": 1
+}

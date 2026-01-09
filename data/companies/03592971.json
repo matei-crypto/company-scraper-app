@@ -1,0 +1,507 @@
+{
+  "company_name": "GRAPHITAS LIMITED",
+  "company_number": "03592971",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1998-07-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "Lorem House, The Marina, Lowestoft, Suffolk, NR32 1HH",
+  "registered_address_structured": {
+    "address_line_1": "Lorem House",
+    "address_line_2": "The Marina",
+    "locality": "Lowestoft",
+    "postal_code": "NR32 1HH",
+    "region": "Suffolk"
+  },
+  "sic_codes": [
+    "62090",
+    "73110",
+    "90030"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TAYLORMADE DESIGN LIMITED",
+      "ceased_on": "2010-08-16",
+      "effective_from": "1998-07-06"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-20",
+    "last_made_up_to": "2025-07-06",
+    "next_made_up_to": "2026-07-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TAYLOR, Justin Robert",
+        "officer_role": "director",
+        "appointed_on": "1999-05-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Marina",
+          "country": "United Kingdom",
+          "locality": "Lowestoft",
+          "postal_code": "NR32 1HH",
+          "premises": "Lorem House",
+          "region": "Suffolk"
+        }
+      },
+      {
+        "name": "TAYLOR, Robert",
+        "officer_role": "director",
+        "appointed_on": "1998-07-06",
+        "resigned_on": "2015-12-02",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Marina",
+          "country": "United Kingdom",
+          "locality": "Lowestoft",
+          "postal_code": "NR32 1HH",
+          "premises": "Lorem House",
+          "region": "Suffolk"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BREWER, Kevin, Dr",
+        "officer_role": "nominee-secretary",
+        "appointed_on": "1998-07-06",
+        "resigned_on": "1998-07-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Somerset House",
+          "address_line_2": "40-49 Price Street",
+          "locality": "Birmingham",
+          "postal_code": "B4 6LZ"
+        }
+      },
+      {
+        "name": "TAYLOR, Annette",
+        "officer_role": "secretary",
+        "appointed_on": "1998-07-06",
+        "resigned_on": "2013-12-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "The Marina",
+          "country": "United Kingdom",
+          "locality": "Lowestoft",
+          "postal_code": "NR32 1HH",
+          "premises": "Lorem House",
+          "region": "Suffolk"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Justin Robert Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-07-07",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Marina",
+          "locality": "Lowestoft",
+          "postal_code": "NR32 1HH",
+          "premises": "Lorem House",
+          "region": "Suffolk"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2012-09-26",
+        "delivered_on": "2012-09-29",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2003-05-06",
+        "delivered_on": "2003-05-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Governor and Company of the Bank of Scotland"
+          }
+        ],
+        "satisfied_on": "2012-11-09",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE72963S",
+        "transaction_id": "MzQ3NDI5ODAyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE728MP6",
+        "transaction_id": "MzQ3NDI4NjIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE1KYU2Z",
+        "transaction_id": "MzQ2NDY3NjY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD702HAH",
+        "transaction_id": "MzQyODA3MDQzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD2584QW",
+        "transaction_id": "MzQyMDI1MzkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC76XROH",
+        "transaction_id": "MzM4NTQxODE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC29O32W",
+        "transaction_id": "MzM3NzY1NTExMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB7P9YGB",
+        "transaction_id": "MzM0NDg0MjQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB2UVKC0",
+        "transaction_id": "MzMzNzcxMjg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA8S5HHE",
+        "transaction_id": "MzMwNzc4NzU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA3BD9S0",
+        "transaction_id": "MzI5OTA1Mjg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X99ZPB22",
+        "transaction_id": "MzI3MzgyNTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X99H899K",
+        "transaction_id": "MzI3MzMwODYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-04-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X932F9FS",
+        "transaction_id": "MzI2MjU2NjQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X89KT7EJ",
+        "transaction_id": "MzIzOTE5ODkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8428KMG",
+        "transaction_id": "MzIzMjczMTY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X79M0XMG",
+        "transaction_id": "MzIwOTE3NDgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X6LS6122",
+        "transaction_id": "MzE5MzUwMTE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6A401EX",
+        "transaction_id": "MzE3OTg4NDIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-05-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A65EL31F",
+        "transaction_id": "MzE3NTIzMjcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-07-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5APWVS9",
+        "transaction_id": "MzE1MjQ4MzMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-03-22",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X53AEX2O",
+        "transaction_id": "MzE0NDU1NDY1NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-03-03",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X51ZFPYB",
+        "transaction_id": "MzE0MzI5MTcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2016-01-20",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A4Y5B7NQ",
+        "transaction_id": "MzE0MDEwNjI5N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2015-12-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 8,
+        "transaction_id": "QTRMRzg5V1BhZGlxemtjeA"
+      }
+    ],
+    "total_count": 75,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Graphitas.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "Adobe XD",
+      "Facebook",
+      "Google Tag Manager"
+    ],
+    "business_keywords": [
+      "creative design",
+      "digital marketing",
+      "brand building",
+      "UX",
+      "online solutions",
+      "360 marketing",
+      "experiential marketing",
+      "digital disruption",
+      "web development",
+      "SEO",
+      "rapid prototyping",
+      "creative agency",
+      "marketing agency",
+      "collaboration",
+      "creative thinking"
+    ],
+    "services": [
+      "creative design",
+      "marketing solutions",
+      "online solutions",
+      "brand building",
+      "experiential marketing",
+      "digital disruption",
+      "web development",
+      "UX design",
+      "SEO",
+      "rapid prototyping"
+    ],
+    "customer_segments": [],
+    "business_description": "Graphitas is a creative design and digital marketing agency that delivers expert creative, marketing, and online solutions. They focus on brand building, UX design, and 360-degree marketing, combining beauty with strategy to create emotional connections between clients and customers.",
+    "website_analyzed_at": "2025-12-29T16:57:20.189Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.204Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 27.503936555936072,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:29:04.226Z"
+  },
+  "scraped_at": "2025-12-28T19:30:43.746Z",
+  "updated_at": "2026-01-09T19:08:22.204Z",
+  "version": 1
+}

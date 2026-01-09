@@ -1,0 +1,492 @@
+{
+  "company_name": "COOL-SYTE LIMITED",
+  "company_number": "03880747",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-11-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 The Cobalt Centre Siskin Parkway East, Middlemarch Business Park, Coventry, CV3 4PE",
+  "registered_address_structured": {
+    "address_line_1": "5 The Cobalt Centre Siskin Parkway East",
+    "address_line_2": "Middlemarch Business Park",
+    "locality": "Coventry",
+    "postal_code": "CV3 4PE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-15",
+    "last_made_up_to": "2025-05-01",
+    "next_made_up_to": "2026-05-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SMITH, Philip Michael",
+        "officer_role": "director",
+        "appointed_on": "2000-04-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Cobalt Centre Siskin Parkway East",
+          "address_line_2": "Middlemarch Business Park",
+          "locality": "Coventry",
+          "postal_code": "CV3 4PE",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "ARTHUR, Lee Robert",
+        "officer_role": "director",
+        "appointed_on": "1999-11-22",
+        "resigned_on": "2001-02-28",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "22 Woodcote Avenue",
+          "locality": "Nuneaton",
+          "postal_code": "CV11 6DE",
+          "region": "Warwickshire"
+        }
+      },
+      {
+        "name": "MCGURK, Liam James",
+        "officer_role": "director",
+        "appointed_on": "1999-11-22",
+        "resigned_on": "2022-02-17",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Cobalt Centre Siskin Parkway East",
+          "address_line_2": "Middlemarch Business Park",
+          "locality": "Coventry",
+          "postal_code": "CV3 4PE",
+          "premises": "5"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SMITH, Philip Michael",
+        "officer_role": "secretary",
+        "appointed_on": "2001-02-28",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "The Cobalt Centre Siskin Parkway East",
+          "address_line_2": "Middlemarch Business Park",
+          "locality": "Coventry",
+          "postal_code": "CV3 4PE",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "ARTHUR, Lee Robert",
+        "officer_role": "secretary",
+        "appointed_on": "1999-11-22",
+        "resigned_on": "2001-02-28",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "22 Woodcote Avenue",
+          "locality": "Nuneaton",
+          "postal_code": "CV11 6DE",
+          "region": "Warwickshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Headred Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-02-17",
+        "address": {
+          "address_line_1": "Siskin Parkway East",
+          "address_line_2": "Middlemarch Business Park",
+          "country": "England",
+          "locality": "Coventry",
+          "postal_code": "CV3 4PE",
+          "premises": "5 The Cobalt Centre"
+        },
+        "identification": {
+          "legal_form": "A Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "07383603"
+        }
+      },
+      {
+        "name": "Mr Liam James Mcgurk",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-05-01",
+        "ceased_on": "2022-02-17",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Cobalt Centre Siskin Parkway East",
+          "address_line_2": "Middlemarch Business Park",
+          "locality": "Coventry",
+          "postal_code": "CV3 4PE",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "Mr Philip Michael Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-05-01",
+        "ceased_on": "2022-02-17",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Cobalt Centre Siskin Parkway East",
+          "address_line_2": "Middlemarch Business Park",
+          "locality": "Coventry",
+          "postal_code": "CV3 4PE",
+          "premises": "5"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XECPF0UJ",
+        "transaction_id": "MzQ4Mzk4MDk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE20OL6W",
+        "transaction_id": "MzQ2NTEyOTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDDTCIEP",
+        "transaction_id": "MzQzOTU5NTg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2LCNBS",
+        "transaction_id": "MzQyMDg4NjIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCECJPJ5",
+        "transaction_id": "MzM5NjgyOTEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3DSSEY",
+        "transaction_id": "MzM3OTM1MzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBVTNT34",
+        "transaction_id": "MzM2Njc5Nzc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB443PJ6",
+        "transaction_id": "MzMzOTM1ODc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-03-22",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUFaV0JXNlJhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2022-02-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAY06GWZ",
+        "transaction_id": "MzMzMDIwMTg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XAY06GO9",
+        "transaction_id": "MzMzMDIwMTg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-17",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAY06FRC",
+        "transaction_id": "MzMzMDIwMTYyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-17",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAY06G0B",
+        "transaction_id": "MzMzMDIwMTYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAWVIS0P",
+        "transaction_id": "MzMyODMxOTM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4DAZ9K",
+        "transaction_id": "MzMwMDc3Mjg3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA3HAZTX",
+        "transaction_id": "MzI5OTU5MzU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X951OL43",
+        "transaction_id": "MzI2NDc4Nzk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-06",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X90A26CB",
+        "transaction_id": "MzI1OTE3ODA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X90A24NV",
+        "transaction_id": "MzI1OTE3NzY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X90A24AH",
+        "transaction_id": "MzI1OTE3NzU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8XM5BW1",
+        "transaction_id": "MzI1NTczNTEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85GH4BE",
+        "transaction_id": "MzIzNDMwODg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-05-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X85GH22A",
+        "transaction_id": "MzIzNDMwODE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-05-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X85GH0AP",
+        "transaction_id": "MzIzNDMwNzg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7Y8JH6O",
+        "transaction_id": "MzIyNTc0NDg3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 81,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Exhibit3sixty.co.uk",
+    "headcount": 11,
+    "business_keywords": [
+      "exhibition stand builders",
+      "exhibition contractors",
+      "exhibition stand design",
+      "exhibition stand build",
+      "exhibition stand installation",
+      "exhibition stands",
+      "shell scheme stands",
+      "lighting",
+      "electrical",
+      "exhibition graphic design",
+      "exhibition services",
+      "ESSA accredited",
+      "full service exhibition contractors"
+    ],
+    "services": [
+      "exhibition stand design",
+      "exhibition stand build",
+      "exhibition stand installation",
+      "shell scheme stands",
+      "lighting",
+      "electrical",
+      "exhibition graphic design"
+    ],
+    "customer_segments": [],
+    "business_description": "Exhibit 3Sixty is a full-service exhibition contractor based in Coventry, West Midlands, specializing in the design, build, and installation of exhibition stands for clients throughout the UK. The company is ESSA accredited and offers services including shell scheme stands, lighting, electrical, and exhibition graphic design.",
+    "website_analyzed_at": "2025-12-29T17:29:16.653Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.349Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 36,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.12312423173516,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 11,
+        "weight": 11
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:34:06.709Z"
+  },
+  "scraped_at": "2025-12-28T20:10:12.225Z",
+  "updated_at": "2026-01-09T19:08:22.349Z",
+  "version": 1
+}

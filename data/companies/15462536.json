@@ -1,0 +1,245 @@
+{
+  "company_name": "DATA SCIENCE LTD",
+  "company_number": "15462536",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-02-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "27 Old Gloucester Street, London, WC1N 3AX, England",
+  "registered_address_structured": {
+    "address_line_1": "27 Old Gloucester Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1N 3AX"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-15",
+    "last_made_up_to": "2025-02-01",
+    "next_made_up_to": "2026-02-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RASHEED, Muhammad",
+        "officer_role": "director",
+        "appointed_on": "2025-01-30",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1990,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "COBBINAH, Frank",
+        "officer_role": "director",
+        "appointed_on": "2024-02-02",
+        "resigned_on": "2025-01-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brunswick Road",
+          "country": "England",
+          "locality": "Enfield",
+          "postal_code": "EN3 6UL",
+          "premises": "51"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Muhammad Rasheed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2025-01-30",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1990,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "Mr Frank Cobbinah",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2024-02-02",
+        "ceased_on": "2025-01-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brunswick Road",
+          "country": "England",
+          "locality": "Enfield",
+          "postal_code": "EN3 6UL",
+          "premises": "51"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XEEGC2FM",
+        "transaction_id": "MzQ4NzE3OTg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDX6QSEY",
+        "transaction_id": "MzQ1NjUzNjU4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-02-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDVWSSRK",
+        "transaction_id": "MzQ1NDA5NzkxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-31",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDVE4RVN",
+        "transaction_id": "MzQ1MzM1MDU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-31",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDVE4QS1",
+        "transaction_id": "MzQ1MzM1MDM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-31",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDVE4P6X",
+        "transaction_id": "MzQ1MzM1MDAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-31",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDVE4P41",
+        "transaction_id": "MzQ1MzM0OTk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-02",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCW1UI6I",
+        "transaction_id": "MzQwOTc5MTI1N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 8,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 5833478,
+    "ebitda": 52230,
+    "employees": 11
+  },
+  "enrichment": {
+    "headcount": 11,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 65.91,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.9094460686516996,
+        "weight": 15.905685751868658
+      },
+      {
+        "factor": "Size (revenue)",
+        "value": 5833478,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 1.5,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:52.191Z",
+    "location_distance_km": 1.5
+  },
+  "scraped_at": "2025-12-28T17:20:05.382Z",
+  "updated_at": "2025-12-29T22:44:52.191Z",
+  "version": 1
+}

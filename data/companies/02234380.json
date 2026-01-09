@@ -1,0 +1,616 @@
+{
+  "company_name": "E C COMPUTERS LIMITED",
+  "company_number": "02234380",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1988-03-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 2 The Grove Industrial Estate, Gloucester Road, Patchway, Bristol, BS34 5BB, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 2 The Grove Industrial Estate",
+    "address_line_2": "Gloucester Road, Patchway",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS34 5BB"
+  },
+  "sic_codes": [
+    "62020",
+    "62030",
+    "62090",
+    "95110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-11",
+    "last_made_up_to": "2025-07-28",
+    "next_made_up_to": "2026-07-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WILLIAMS, Jan Kitty",
+        "officer_role": "director",
+        "appointed_on": "2023-11-02",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Grove Industrial Estate",
+          "address_line_2": "Gloucester Road, Patchway",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS34 5BB",
+          "premises": "Unit 2"
+        }
+      },
+      {
+        "name": "WILLIAMS, John Paul",
+        "officer_role": "director",
+        "appointed_on": "2023-11-02",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Grove Industrial Estate",
+          "address_line_2": "Gloucester Road, Patchway",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS34 5BB",
+          "premises": "Unit 2"
+        }
+      },
+      {
+        "name": "EVELEIGH, Helen Diana",
+        "officer_role": "director",
+        "resigned_on": "1994-11-14",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "17 Canterbury Close",
+          "address_line_2": "Yate",
+          "locality": "Bristol",
+          "postal_code": "BS17 5TJ",
+          "region": "Avon"
+        }
+      },
+      {
+        "name": "EVELEIGH, John Robert",
+        "officer_role": "director",
+        "resigned_on": "2004-05-12",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Barnhill Close",
+          "address_line_2": "North Yate",
+          "locality": "Bristol",
+          "postal_code": "BS37 7RQ"
+        }
+      },
+      {
+        "name": "SMITH, Jonathan David",
+        "officer_role": "director",
+        "resigned_on": "2023-11-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hortham Lane",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4JW",
+          "premises": "The Granary"
+        }
+      },
+      {
+        "name": "SMITH, Stella Mary",
+        "officer_role": "director",
+        "appointed_on": "2004-05-12",
+        "resigned_on": "2023-11-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hortham Lane",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4JW",
+          "premises": "The Granary"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "EVELEIGH, Helen Diana",
+        "officer_role": "secretary",
+        "resigned_on": "1994-11-14",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "17 Canterbury Close",
+          "address_line_2": "Yate",
+          "locality": "Bristol",
+          "postal_code": "BS17 5TJ",
+          "region": "Avon"
+        }
+      },
+      {
+        "name": "EVELEIGH, John Robert",
+        "officer_role": "secretary",
+        "appointed_on": "1994-11-14",
+        "resigned_on": "2004-05-12",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Barnhill Close",
+          "address_line_2": "North Yate",
+          "locality": "Bristol",
+          "postal_code": "BS37 7RQ"
+        }
+      },
+      {
+        "name": "SMITH, Jonathan David",
+        "officer_role": "secretary",
+        "appointed_on": "2004-05-12",
+        "resigned_on": "2023-11-02",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Hortham Lane",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4JW",
+          "premises": "The Granary"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Passion For Excellence Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2023-11-02",
+        "address": {
+          "address_line_1": "Gloucester Road",
+          "address_line_2": "Patchway",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS34 5BB",
+          "premises": "Unit 1 The Grove"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England And Wales Companies Registry",
+          "registration_number": "15127244"
+        }
+      },
+      {
+        "name": "Mrs Stella Mary Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2023-11-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hortham Lane",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4JW",
+          "premises": "The Granary"
+        }
+      },
+      {
+        "name": "Mr Jonathan David Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2023-11-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hortham Lane",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4JW",
+          "premises": "The Granary"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-06-08",
+        "delivered_on": "2010-06-10",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7YQILN",
+        "transaction_id": "MzQ3NTc5Mjg3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDZGRWC3",
+        "transaction_id": "MzQ2MDgwNzc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD9U9H1N",
+        "transaction_id": "MzQzMjY0MTMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-12-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCIPLZPV",
+        "transaction_id": "MzQwNDg1MjI1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-08",
+        "description": "accounts-amended-with-accounts-type-micro-entity",
+        "type": "AAMD",
+        "pages": 3,
+        "barcode": "ACFGT354",
+        "transaction_id": "MzM5OTI1NTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-02",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCFETTHM",
+        "transaction_id": "MzM5ODc0NDUyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-02",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCFETLC9",
+        "transaction_id": "MzM5ODc0MjcwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-02",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCFETHN2",
+        "transaction_id": "MzM5ODc0MTgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-02",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCFETHC1",
+        "transaction_id": "MzM5ODc0MTc3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-02",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCFETEPV",
+        "transaction_id": "MzM5ODc0MTEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-02",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCFETBVD",
+        "transaction_id": "MzM5ODc0MDU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-02",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCFETBOW",
+        "transaction_id": "MzM5ODc0MDM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-02",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCFETALE",
+        "transaction_id": "MzM5ODc0MDE0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-06",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCDJE0CJ",
+        "transaction_id": "MzM5NTUyMDk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC927WUA",
+        "transaction_id": "MzM4ODQ0Nzg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8WONM1",
+        "transaction_id": "MzM4ODExNjgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-31",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC8WOANF",
+        "transaction_id": "MzM4ODExMzgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XC066494",
+        "transaction_id": "MzM3NDExNDcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9N22I8",
+        "transaction_id": "MzM0NzcxMzE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XB55WWOG",
+        "transaction_id": "MzM0MTA4OTI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAHUCQ5C",
+        "transaction_id": "MzMyMTAwMjQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAA1GKKR",
+        "transaction_id": "MzMwOTQ2MDE4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-09",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA4592ZU",
+        "transaction_id": "MzMwMDQxNzM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ANFR15",
+        "transaction_id": "MzI3NDQzODQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X91B3KMO",
+        "transaction_id": "MzI2MDQzMTQyNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 111,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Eccomputers.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "Cyber Essentials"
+    ],
+    "business_keywords": [
+      "IT Support",
+      "Managed IT Services",
+      "Computer Support",
+      "IT Solutions",
+      "Cyber Security",
+      "Telecoms",
+      "Connectivity",
+      "Professional Services",
+      "Web Design",
+      "Digital Marketing",
+      "Software Licensing",
+      "Cloud Services",
+      "IT Audit",
+      "Cyber Essentials",
+      "Remote Working"
+    ],
+    "services": [
+      "Ad-hoc computer support",
+      "Fully managed IT support services",
+      "IT solutions",
+      "Cyber security",
+      "Telecoms and connectivity",
+      "Web design",
+      "Digital marketing",
+      "Software licensing",
+      "Cloud file storage",
+      "Free IT Audit",
+      "Cyber Essentials certification assistance",
+      "Telephone support",
+      "Remote support",
+      "On-site assistance",
+      "IT consultation",
+      "Project management",
+      "General IT advice"
+    ],
+    "customer_segments": [
+      "SMEs",
+      "Micro businesses",
+      "Large businesses",
+      "Organisations",
+      "Charities",
+      "Businesses in Bristol",
+      "Businesses in South West",
+      "Businesses in South Wales",
+      "Businesses in Bath",
+      "Businesses in Gloucester"
+    ],
+    "business_description": "EC Computers is an IT support and business services company based in Bristol, providing ad-hoc and fully managed IT support, cyber security, telecoms, connectivity, and professional services such as web design and digital marketing. They serve SMEs, micro, large businesses, organisations, and charities in Bristol, the South West, and South Wales, offering reliable and fast IT solutions to improve business efficiency and security.",
+    "website_analyzed_at": "2025-12-29T15:28:50.214Z",
+    "msp_likelihood_score": 22,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.550Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 34,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 37.79706013907915,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 9,
+        "weight": 9
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:14:49.774Z"
+  },
+  "scraped_at": "2025-12-28T16:45:52.927Z",
+  "updated_at": "2026-01-09T19:08:21.550Z",
+  "version": 1
+}

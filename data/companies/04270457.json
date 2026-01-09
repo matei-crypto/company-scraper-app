@@ -1,0 +1,450 @@
+{
+  "company_name": "SOMETHING INTERESTING LIMITED",
+  "company_number": "04270457",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2001-08-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Old Treasury, 7 Kings Road, Portsmouth, Hampshire, PO5 4DJ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "The Old Treasury",
+    "address_line_2": "7 Kings Road",
+    "country": "United Kingdom",
+    "locality": "Portsmouth",
+    "postal_code": "PO5 4DJ",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-29",
+    "last_made_up_to": "2025-08-15",
+    "next_made_up_to": "2026-08-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PIPER, Steven James",
+        "officer_role": "director",
+        "appointed_on": "2001-08-15",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "7 Kings Road",
+          "country": "United Kingdom",
+          "locality": "Portsmouth",
+          "postal_code": "PO5 4DJ",
+          "premises": "The Old Treasury",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "NASON, Kieren Drew",
+        "officer_role": "secretary",
+        "appointed_on": "2003-04-30",
+        "resigned_on": "2010-03-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "26 Cromwell Road",
+          "address_line_2": "Eastney",
+          "locality": "Southsea",
+          "postal_code": "PO4 9PN",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "SHELDON, Emily Rachael",
+        "officer_role": "secretary",
+        "appointed_on": "2001-08-15",
+        "resigned_on": "2003-04-30",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "88 Mafeking Road",
+          "address_line_2": "Southsea",
+          "locality": "Portsmouth",
+          "postal_code": "PO4 9BG",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "CHETTLEBURGHS SECRETARIAL LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2001-08-15",
+        "resigned_on": "2001-08-15",
+        "address": {
+          "address_line_1": "20 Holywell Row",
+          "locality": "London",
+          "postal_code": "EC2A 4XH",
+          "premises": "Temple House"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Steven James Piper",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "7 Kings Road",
+          "country": "United Kingdom",
+          "locality": "Portsmouth",
+          "postal_code": "PO5 4DJ",
+          "premises": "The Old Treasury",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEBSGEHT",
+        "transaction_id": "MzQ4MjUyNTIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE14GUQ8",
+        "transaction_id": "MzQ2MzgxMjU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDAVWJUZ",
+        "transaction_id": "MzQzNDMyMDc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XD48FOV6",
+        "transaction_id": "MzQyMzcyNTkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCB286VM",
+        "transaction_id": "MzM5MTQyNzY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC244K0R",
+        "transaction_id": "MzM3NzMyMTAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBAYOPOW",
+        "transaction_id": "MzM0OTMyNTAwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAIW5THU",
+        "transaction_id": "MzMyMjk0NjQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAAZYGVE",
+        "transaction_id": "MzMxMDc2Nzc0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA0X60SR",
+        "transaction_id": "MzI5NTM5NzcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9C6O6FL",
+        "transaction_id": "MzI3NjA3MTI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A8JL8ULM",
+        "transaction_id": "MzI1MTMwNDc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8C804S3",
+        "transaction_id": "MzI0MjEyMjYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "A84QZGXV",
+        "transaction_id": "MzIzNDAwMDE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7CG3QUH",
+        "transaction_id": "MzIxMjI1OTQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-10-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X6HPNTVE",
+        "transaction_id": "MzE4ODUxOTM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-08-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6DAGQAI",
+        "transaction_id": "MzE4MzM0NDQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-02-14",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "A601RLCJ",
+        "transaction_id": "MzE2ODg2ODcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-10-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5I2BM2R",
+        "transaction_id": "MzE2MDE5MzQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5DP7GLV",
+        "transaction_id": "MzE1NTQ1NTkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-06-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X58R5RW1",
+        "transaction_id": "MzE1MDQyNzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-10-26",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X4IU98C3",
+        "transaction_id": "MzEzMzc3Nzk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-09-10",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X4FNKLAP",
+        "transaction_id": "MzEzMDc0MDM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-05-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X48FCXJF",
+        "transaction_id": "MzEyNDE3NjgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-09-22",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X3GXMUFE",
+        "transaction_id": "MzEwNzkzNTQ0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 67,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Somethinginteresting.co.uk",
+    "headcount": 11,
+    "tech_stack": [
+      "Salesforce",
+      "Payload"
+    ],
+    "business_keywords": [
+      "digital agency",
+      "websites",
+      "apps",
+      "software",
+      "brand impact",
+      "technical requirements",
+      "SaaS systems",
+      "internal efficiency",
+      "customer experience",
+      "business goals",
+      "growth plans",
+      "data security",
+      "hosting",
+      "development",
+      "bespoke development",
+      "custom software",
+      "mobile apps",
+      "Salesforce integration"
+    ],
+    "services": [
+      "Building websites",
+      "Building apps",
+      "Building software",
+      "Technical requirements collaboration",
+      "SaaS systems integration",
+      "Long-term business goal definition",
+      "Growth planning for future integrations",
+      "Data security planning",
+      "Hosting planning",
+      "Bespoke development (Payload websites, custom software, mobile apps)",
+      "Salesforce integration"
+    ],
+    "customer_segments": [
+      "ambitious global businesses",
+      "fast-growing companies",
+      "brands that demand more"
+    ],
+    "business_description": "Si digital is a digital agency that builds websites, apps, and software to bring clarity, efficiency, and brand impact to ambitious global businesses. They offer services including technical collaboration, SaaS system integration, bespoke development, and long-term business support for growth, data security, and hosting.",
+    "website_analyzed_at": "2025-12-29T18:11:24.575Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.553Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 36,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 24.39163040093861,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 11,
+        "weight": 11
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:40:57.268Z"
+  },
+  "scraped_at": "2025-12-28T21:01:55.102Z",
+  "updated_at": "2026-01-09T19:08:22.553Z",
+  "version": 1
+}

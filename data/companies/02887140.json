@@ -1,0 +1,497 @@
+{
+  "company_name": "CAREERWISE (U.K.) LIMITED",
+  "company_number": "02887140",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1994-01-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "2 Gypsy Hill, Upper Norwood, SE19 1NL",
+  "registered_address_structured": {
+    "address_line_1": "2 Gypsy Hill",
+    "address_line_2": "Upper Norwood",
+    "postal_code": "SE19 1NL"
+  },
+  "sic_codes": [
+    "62090",
+    "78109"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-27",
+    "last_made_up_to": "2025-01-13",
+    "next_made_up_to": "2026-01-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NORRIS, Kieran",
+        "officer_role": "director",
+        "appointed_on": "1994-01-14",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1965,
+        "nationality": "Irish",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "2 Gypsy Hill",
+          "address_line_2": "Upper Norwood",
+          "postal_code": "SE19 1NL"
+        }
+      },
+      {
+        "name": "DOUGLAS NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1994-01-13",
+        "resigned_on": "1994-01-13",
+        "address": {
+          "address_line_1": "Regent House",
+          "address_line_2": "316 Beulah Hill",
+          "locality": "London",
+          "postal_code": "SE19 3HF"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "NORRIS, Helen Maria",
+        "officer_role": "secretary",
+        "appointed_on": "1994-01-14",
+        "nationality": "Irish",
+        "address": {
+          "address_line_1": "2 Gypsy Hill",
+          "address_line_2": "Upper Norwood",
+          "postal_code": "SE19 1NL"
+        }
+      },
+      {
+        "name": "M W DOUGLAS & COMPANY LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1994-01-13",
+        "resigned_on": "1994-01-13",
+        "address": {
+          "address_line_1": "Regent House",
+          "address_line_2": "316 Beulah Hill",
+          "locality": "London",
+          "postal_code": "SE19 3HP"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Kieran Norris",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1965,
+        "nationality": "Irish",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Upper Norwood",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE19 1NL",
+          "premises": "2 Gipsy Hill"
+        }
+      },
+      {
+        "name": "Mrs Helen Maria Norris",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1963,
+        "nationality": "Irish",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Upper Norwood",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE19 1NL",
+          "premises": "2 Gypsy Hill"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "028871400002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-05-27",
+        "delivered_on": "2016-06-03",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2025-06-17",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2001-11-06",
+        "delivered_on": "2001-11-13",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-12-10",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEAYOYW2",
+        "transaction_id": "MzQ4MDgyNzc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-06-17",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE4VLL22",
+        "transaction_id": "MzQ3MDM2MjcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDUMMKJV",
+        "transaction_id": "MzQ1MTkwMjM4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDAD1NGW",
+        "transaction_id": "MzQzMzUwMDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCURLPDC",
+        "transaction_id": "MzQwNzQ3NDU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCCMMJL6",
+        "transaction_id": "MzM5NDA4NjIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBVB0W8Q",
+        "transaction_id": "MzM2NTgyNzg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBDNGAQP",
+        "transaction_id": "MzM1MzcxMTIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAWI9UM1",
+        "transaction_id": "MzMyNzkyMTY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XADYU46P",
+        "transaction_id": "MzMxNTI4NDI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9WO6LEA",
+        "transaction_id": "MzI4OTMzMjI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9JIKV6R",
+        "transaction_id": "MzI4NTUzNTA4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8X0Z60O",
+        "transaction_id": "MzI1NDk3NTg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-12-10",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X8K11E57",
+        "transaction_id": "MzI1MTcyNjc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8F31RDD",
+        "transaction_id": "MzI0NTUzMDQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7XA73LE",
+        "transaction_id": "MzIyNDYwNDM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7E6U6RE",
+        "transaction_id": "MzIxNDE2OTI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6XVV3MY",
+        "transaction_id": "MzE5NTU1ODEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X6FIJMAX",
+        "transaction_id": "MzE4NjAwMTU4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-01-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "X5Y0UEU8",
+        "transaction_id": "MzE2NjYwNTEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-09-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X5GB7W49",
+        "transaction_id": "MzE1ODIyMDU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2016-06-03",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 26,
+        "barcode": "X58E2WBN",
+        "transaction_id": "MzE1MDAzOTEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-01-19",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X4YXCJPD",
+        "transaction_id": "MzEzOTk3MjEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X4H163UZ",
+        "transaction_id": "MzEzMjA4MDUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-02-04",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X40J453D",
+        "transaction_id": "MzExNjY4NjQwMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 82,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Careerwise.com",
+    "headcount": 9,
+    "tech_stack": [
+      "SaaS"
+    ],
+    "business_keywords": [
+      "IT industry",
+      "applied thinking",
+      "architectural design",
+      "software",
+      "CIO office setup",
+      "SaaS migration",
+      "IT consulting",
+      "IT innovators",
+      "architectural decisions",
+      "IT network",
+      "IT projects",
+      "IT careers",
+      "digital transformation",
+      "IT architecture"
+    ],
+    "services": [
+      "Applied thinking in IT",
+      "Building office of CIO from scratch",
+      "SaaS estate migration enablement",
+      "IT consulting services"
+    ],
+    "customer_segments": [
+      "multibillion turnover software houses"
+    ],
+    "business_description": "Careerwise specializes in applied thinking within the IT industry, focusing on architectural decisions and design. They provide IT consulting services, including building offices of CIO from scratch and enabling migration to new SaaS estates for large-scale software companies.",
+    "website_analyzed_at": "2025-12-29T16:04:46.550Z",
+    "msp_likelihood_score": 17,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.937Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 34,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 31.98337259890284,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 9,
+        "weight": 9
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:20:39.474Z"
+  },
+  "scraped_at": "2025-12-28T18:26:24.456Z",
+  "updated_at": "2026-01-09T19:08:21.937Z",
+  "version": 1
+}

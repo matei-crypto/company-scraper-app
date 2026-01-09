@@ -1,0 +1,717 @@
+{
+  "company_name": "LUMESCA GROUP LIMITED",
+  "company_number": "02850281",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1993-09-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "Spectrum Point, 164 Clapgate Lane, Birmingham, B32 3DE",
+  "registered_address_structured": {
+    "address_line_1": "Spectrum Point",
+    "address_line_2": "164 Clapgate Lane",
+    "locality": "Birmingham",
+    "postal_code": "B32 3DE"
+  },
+  "sic_codes": [
+    "46510",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TYPEMAKER LIMITED",
+      "ceased_on": "2020-09-25",
+      "effective_from": "1999-07-02"
+    },
+    {
+      "name": "TYPEMAKER SOFTWARE LIMITED",
+      "ceased_on": "1999-07-02",
+      "effective_from": "1999-06-25"
+    },
+    {
+      "name": "INVASION LIMITED",
+      "ceased_on": "1999-06-25",
+      "effective_from": "1993-09-03"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "group",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-28",
+    "last_made_up_to": "2025-05-14",
+    "next_made_up_to": "2026-05-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CLEMENTS, Geoffrey Ian",
+        "officer_role": "director",
+        "appointed_on": "1999-03-04",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "164 Clapgate Lane",
+          "locality": "Birmingham",
+          "postal_code": "B32 3DE",
+          "premises": "Spectrum Point"
+        }
+      },
+      {
+        "name": "PRAIS, Simon Martin",
+        "officer_role": "director",
+        "appointed_on": "1999-03-08",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "164 Clapgate Lane",
+          "locality": "Birmingham",
+          "postal_code": "B32 3DE",
+          "premises": "Spectrum Point"
+        }
+      },
+      {
+        "name": "RUDER, Mathias",
+        "officer_role": "director",
+        "appointed_on": "2022-09-07",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1969,
+        "nationality": "German",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "164 Clapgate Lane",
+          "locality": "Birmingham",
+          "postal_code": "B32 3DE",
+          "premises": "Spectrum Point"
+        }
+      },
+      {
+        "name": "WOODWARD, Gordon John",
+        "officer_role": "director",
+        "appointed_on": "1993-12-31",
+        "resigned_on": "1999-03-04",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1940,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Oakley Wood",
+          "address_line_2": "Temples Close",
+          "locality": "Farnham",
+          "postal_code": "GU10 1RB",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "EXPRESS DIRECTORS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1993-09-03",
+        "resigned_on": "1993-12-31",
+        "address": {
+          "address_line_1": "4 Blackett Drive",
+          "address_line_2": "Heather",
+          "locality": "Coalville",
+          "postal_code": "LE67 2RL",
+          "region": "Leicestershire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CLEMENTS, Geoffrey Ian",
+        "officer_role": "secretary",
+        "appointed_on": "1999-07-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "164 Clapgate Lane",
+          "locality": "Birmingham",
+          "postal_code": "B32 3DE",
+          "premises": "Spectrum Point"
+        }
+      },
+      {
+        "name": "PRAIS, Simon Martin",
+        "officer_role": "secretary",
+        "appointed_on": "1999-03-04",
+        "resigned_on": "1999-07-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Sardon House",
+          "address_line_2": "103 Bristol Road",
+          "locality": "Edgbaston",
+          "postal_code": "B5 7TX",
+          "region": "Birmingham"
+        }
+      },
+      {
+        "name": "SULLIVAN, Daniel James",
+        "officer_role": "secretary",
+        "appointed_on": "1993-12-31",
+        "resigned_on": "1999-03-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "The Cottage",
+          "address_line_2": "Sandy Lane",
+          "locality": "Caldwell",
+          "postal_code": "DE12 6RL"
+        }
+      },
+      {
+        "name": "EXPRESS SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1993-09-03",
+        "resigned_on": "1993-12-31",
+        "address": {
+          "address_line_1": "4 Blackett Drive",
+          "address_line_2": "Heather",
+          "locality": "Coalville",
+          "postal_code": "LE67 2RL",
+          "region": "Leicestershire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Geoffrey Ian Clements",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-09-03",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "164 Clapgate Lane",
+          "locality": "Birmingham",
+          "postal_code": "B32 3DE",
+          "premises": "Spectrum Point"
+        }
+      },
+      {
+        "name": "Mr Simon Martin Prais",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-09-03",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "164 Clapgate Lane",
+          "locality": "Birmingham",
+          "postal_code": "B32 3DE",
+          "premises": "Spectrum Point"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "028502810008",
+        "charge_number": 8,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-07-03",
+        "delivered_on": "2024-07-22",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Unit 3 wd boxhub cakemore road rowley regis west midlands registered under title numbered MM164293."
+        },
+        "persons_entitled": [
+          {
+            "name": "Geoffrey Ian Clements"
+          },
+          {
+            "name": "Deborah Jane Clements"
+          },
+          {
+            "name": "Simon Martin Prais"
+          },
+          {
+            "name": "Sybil Mozelle Prais"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "028502810007",
+        "charge_number": 7,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-12-20",
+        "delivered_on": "2021-12-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "028502810006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-12-20",
+        "delivered_on": "2021-12-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Legal charge relating to unit 3 at wd.boxhub, cakemore road, rowley regis.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "satisfied_on": "2024-07-05",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "028502810005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-11-27",
+        "delivered_on": "2020-12-14",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Christopher Whittle as Security Trustee"
+          }
+        ],
+        "satisfied_on": "2021-11-26",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2009-10-09",
+        "delivered_on": "2009-10-27",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, plant & machinery and investments."
+        },
+        "persons_entitled": [
+          {
+            "name": "Geoffrey Clements & Deborah Clements, Simon Prais & Sybil Prais"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2002-08-08",
+        "delivered_on": "2002-08-10",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage deed"
+          }
+        ],
+        "created_on": "2001-12-11",
+        "delivered_on": "2001-12-19",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The freehold property known as or being 18 aboyne close edgbaston birmingham B5 7PQ title number WM411194. Together with all buildings and fixtures (including trade fixtures) fixed plant and machinery by way of fixed charge all present and future book and other debts floating charge over all moveable plant machinery implements utensils furniture and equipment by way of assignment the goodwill of the business (if any) the full benefit of all licences and all guarantees."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "satisfied_on": "2017-02-28",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal mortgage"
+          }
+        ],
+        "created_on": "1994-09-19",
+        "delivered_on": "1994-09-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The leasehold property know as 25 kingscourt , cox street ,st pauls square, birmingham t/n WM542155 and the proceeds of sale thereof. Floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC,"
+          }
+        ],
+        "satisfied_on": "1999-08-11",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 8,
+    "unsatisfied_count": 4,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 37,
+        "barcode": "XEC6BO0R",
+        "transaction_id": "MzQ4MzE5MzYxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE2JTROA",
+        "transaction_id": "MzQ2NjE2MTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-23",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 38,
+        "barcode": "XDC886QA",
+        "transaction_id": "MzQzNjgxNzg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 22,
+        "barcode": "XD7W9D56",
+        "transaction_id": "MzQyOTU2MDk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "AD6OMQPM",
+        "transaction_id": "MzQyODI1MTU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD33XI17",
+        "transaction_id": "MzQyMTczMjgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-25",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 39,
+        "barcode": "XCCUEUXC",
+        "transaction_id": "MzM5NDI0OTA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-20",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YC7N1KLM",
+        "transaction_id": "MzM4NjE1MTI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3LL8RL",
+        "transaction_id": "MzM3OTQ4MTMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "XBDNJKMG",
+        "transaction_id": "MzM1MzczOTc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBC32CEI",
+        "transaction_id": "MzM1MTIxNDQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBC32BUR",
+        "transaction_id": "MzM1MTIxNDM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-08",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XBC32B0B",
+        "transaction_id": "MzM1MTIxNDI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBC0HFEA",
+        "transaction_id": "MzM1MTEyNTUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB448INN",
+        "transaction_id": "MzMzOTQwNTMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "XAJY6S14",
+        "transaction_id": "MzMyNDY1Mjk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 38,
+        "barcode": "XAJSGUNS",
+        "transaction_id": "MzMyNDI2NDEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 30,
+        "barcode": "XAJSGUOO",
+        "transaction_id": "MzMyNDI2NDE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-14",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAJC66UA",
+        "transaction_id": "MzMyMzU4OTU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-11-26",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAI2FGDL",
+        "transaction_id": "MzMyMTQ3MTc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4Z53L7",
+        "transaction_id": "MzMwMTg2Nzc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XA1AI1PE",
+        "transaction_id": "MzI5NjAxMjc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-12-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 22,
+        "barcode": "A9JV8P35",
+        "transaction_id": "MzI4NjI3NDExMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-09-25",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X9EBQMYJ",
+        "transaction_id": "MzI3ODc5MDYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X951N5GR",
+        "transaction_id": "MzI2NDc3NDQ1M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 118,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "revenue": 12247000,
+    "ebitda": -8000,
+    "employees": 49
+  },
+  "enrichment": {
+    "website": "https://Typemaker.co.uk",
+    "headcount": 49,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 36.63,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 32.34501573417681,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 49,
+        "weight": 11.625
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:20:17.301Z"
+  },
+  "scraped_at": "2025-12-28T18:23:28.359Z",
+  "updated_at": "2025-12-29T22:20:17.302Z",
+  "version": 1
+}

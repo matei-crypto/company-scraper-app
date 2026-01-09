@@ -1,0 +1,543 @@
+{
+  "company_name": "KOGO LIMITED",
+  "company_number": "04185782",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2001-03-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 1 Charlwoods Road, East Grinstead, West Sussex, RH19 2HG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Unit 1 Charlwoods Road",
+    "country": "United Kingdom",
+    "locality": "East Grinstead",
+    "postal_code": "RH19 2HG",
+    "region": "West Sussex"
+  },
+  "sic_codes": [
+    "62020",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-18",
+    "last_made_up_to": "2025-02-04",
+    "next_made_up_to": "2026-02-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BANNISTER, Martin Anthony",
+        "officer_role": "director",
+        "appointed_on": "2001-04-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Charlwoods Road",
+          "country": "United Kingdom",
+          "locality": "East Grinstead",
+          "postal_code": "RH19 2HG",
+          "premises": "Unit 1",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "BANNISTER, Vladimira",
+        "officer_role": "director",
+        "appointed_on": "2010-04-01",
+        "resigned_on": "2020-12-07",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Charlwoods Road",
+          "country": "United Kingdom",
+          "locality": "East Grinstead",
+          "postal_code": "RH19 2HG",
+          "premises": "Unit 1",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "BANNISTER, Vladimira",
+        "officer_role": "director",
+        "appointed_on": "2002-09-01",
+        "resigned_on": "2020-08-30",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Lewes Road",
+          "country": "United Kingdom",
+          "locality": "East Grinstead",
+          "postal_code": "RH19 3TU",
+          "premises": "Pasquamond",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "RAPID NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2001-03-23",
+        "resigned_on": "2001-03-23",
+        "address": {
+          "address_line_1": "209a Station Lane",
+          "locality": "Hornchurch",
+          "postal_code": "RM12 6LL",
+          "region": "Essex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BANNISTER, Vladimira",
+        "officer_role": "secretary",
+        "appointed_on": "2001-04-01",
+        "resigned_on": "2020-08-30",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Lewes Road",
+          "country": "United Kingdom",
+          "locality": "East Grinstead",
+          "postal_code": "RH19 3TU",
+          "premises": "Pasquamond",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "RAPID COMPANY SERVICES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2001-03-23",
+        "resigned_on": "2001-03-23",
+        "address": {
+          "address_line_1": "209a Station Lane",
+          "locality": "Hornchurch",
+          "postal_code": "RM12 6LL",
+          "region": "Essex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Martin Anthony Bannister",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Charlwoods Road",
+          "country": "United Kingdom",
+          "locality": "East Grinstead",
+          "postal_code": "RH19 2HG",
+          "premises": "Unit 1",
+          "region": "West Sussex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "041857820004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-03-01",
+        "delivered_on": "2017-03-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "041857820003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-04-29",
+        "delivered_on": "2016-05-06",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Aldermore Bank PLC"
+          }
+        ],
+        "satisfied_on": "2017-10-05",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-06-26",
+        "delivered_on": "2012-07-17",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Monies standing to the credit of the account see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Pinton Securities Limited"
+          }
+        ],
+        "satisfied_on": "2017-10-05",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2002-10-21",
+        "delivered_on": "2002-10-26",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Sme Invoice Finance Limited"
+          }
+        ],
+        "satisfied_on": "2015-03-09",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVOJS1T",
+        "transaction_id": "MzQ1MzYyMDUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDHSZKRC",
+        "transaction_id": "MzQ0NzA1MTcyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW9MEGR",
+        "transaction_id": "MzQwOTkzMjE5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCH6Y7W1",
+        "transaction_id": "MzQwMTU4MTgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYZ97RU",
+        "transaction_id": "MzM3MjI0NTk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBDV9LIX",
+        "transaction_id": "MzM1Mzg3MjQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAX40SOW",
+        "transaction_id": "MzMyODg4OTI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA83ZAK9",
+        "transaction_id": "MzMwNjY4MTkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA7D3EHS",
+        "transaction_id": "MzMwNTYzNjUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-06-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA7D3E0Z",
+        "transaction_id": "MzMwNTYzNjUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA3ZZ9YY",
+        "transaction_id": "MzMwMDI2MDEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA100AKG",
+        "transaction_id": "MzI5NTU3NjUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA100B4P",
+        "transaction_id": "MzI5NTU3NzQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9XN1BY9",
+        "transaction_id": "MzI5MDU3MDk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-12-07",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9JDBTJD",
+        "transaction_id": "MzI4NTM3MzUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-02",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9EUE4R7",
+        "transaction_id": "MzI3OTQ1MDExNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-30",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9CJVUDU",
+        "transaction_id": "MzI3NjQ3ODM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-30",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X9CJVUC6",
+        "transaction_id": "MzI3NjQ3ODM2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X98DE9Z6",
+        "transaction_id": "MzI3MjEzNTU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X91O8KER",
+        "transaction_id": "MzI2MDg5OTE3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8BRZL9V",
+        "transaction_id": "MzI0MTU4MTQ1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X81ZQKS0",
+        "transaction_id": "MzIzMDIwODk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X7AU1PZE",
+        "transaction_id": "MzIxMDQwODE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X72D3CI2",
+        "transaction_id": "MzIwMDgyMzk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-10-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X6GFVX89",
+        "transaction_id": "MzE4NzEzMzMxNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 82,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Kogo.co.uk",
+    "headcount": 14,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 39,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 24.788887761732624,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 14,
+        "weight": 14
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:39:25.400Z"
+  },
+  "scraped_at": "2025-12-28T20:50:14.963Z",
+  "updated_at": "2025-12-29T22:39:25.401Z",
+  "version": 1
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "DATACABLE LTD",
+  "company_number": "03105581",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1995-09-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 19 Parkwood Business Park, Keighley, BD21 4WD, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 19 Parkwood Business Park",
+    "country": "England",
+    "locality": "Keighley",
+    "postal_code": "BD21 4WD"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-30",
+    "next_accounts_period_end_on": "2025-03-30",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-06",
+    "last_made_up_to": "2025-09-22",
+    "next_made_up_to": "2026-09-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MARTINS, John Richard",
+        "officer_role": "director",
+        "appointed_on": "1995-09-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Highfield Lane",
+          "country": "England",
+          "locality": "Keighley",
+          "postal_code": "BD21 2HU",
+          "premises": "160"
+        }
+      },
+      {
+        "name": "MARTINS, Peter Lawrence",
+        "officer_role": "director",
+        "appointed_on": "1995-09-22",
+        "resigned_on": "2015-01-07",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "17 Northend",
+          "address_line_2": "Batheaston",
+          "locality": "Bath",
+          "postal_code": "BA1 7EE"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MARTINS, John Richard",
+        "officer_role": "secretary",
+        "appointed_on": "1995-09-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "160 Highfield Lane",
+          "locality": "Keighley",
+          "postal_code": "BD21 2HU",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr John Richard Martins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-09-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Parkwood Business Park",
+          "country": "England",
+          "locality": "Keighley",
+          "postal_code": "BD21 4WD",
+          "premises": "Unit 19"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "031055810002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-02-11",
+        "delivered_on": "2015-02-11",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "2006-03-14",
+        "delivered_on": "2006-03-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Co-Operative Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDM3A0I",
+        "transaction_id": "MzQ4NTcyNjgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-06",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDTNJKA1",
+        "transaction_id": "MzQ0OTk5NzA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDG81A8X",
+        "transaction_id": "MzQ0NDE0MjE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDFRU102",
+        "transaction_id": "MzQ0MzAzNjY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-13",
+        "description": "capital-return-purchase-own-shares-treasury-capital-date",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADB6DGJV",
+        "transaction_id": "MzQzNTUwNTQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-29",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YDAFL3EO",
+        "transaction_id": "MzQzMzYwNzkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCCUKGCB",
+        "transaction_id": "MzM5NDQwNDg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC85TNMA",
+        "transaction_id": "MzM4NzAxNzk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC835L3N",
+        "transaction_id": "MzM4NjkxNTY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBG9H2RV",
+        "transaction_id": "MzM1NzcyOTM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBDNFHHS",
+        "transaction_id": "MzM1MzcwMjY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XADL6KYO",
+        "transaction_id": "MzMxNDU5ODY3OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XADL6J1E",
+        "transaction_id": "MzMxNDU5ODE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA7QLYUY",
+        "transaction_id": "MzMwNjI2NTIxMmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-06-29",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMwNTg3NDc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA7KXPCI",
+        "transaction_id": "MzMwNTg3NDY2OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-06-01",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMwMTQ0OTMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9E3IFF5",
+        "transaction_id": "MzI3ODMyMDczOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X918EV09",
+        "transaction_id": "MzI2MDMzMzEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8KPKTZD",
+        "transaction_id": "MzI1MjczOTYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8EMTXXF",
+        "transaction_id": "MzI0NDg4OTg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7LZGWA3",
+        "transaction_id": "MzIyMzMyODUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7FY8MQ3",
+        "transaction_id": "MzIxNjI3OTM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2018-08-29",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "A7CXLCPF",
+        "transaction_id": "MzIxMzE2ODQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2018-08-29",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A7CXLCP7",
+        "transaction_id": "MzIxMzE2ODM5NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 78,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 28
+  },
+  "enrichment": {
+    "website": "https://Datacable.co.uk",
+    "headcount": 28,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: Hostname/IP does not match certificate's altnames: Host: datacable.co.uk. is not in the cert's altnames: DNS:*.squarespace.com, DNS:squarespace.com, DNS:*.campaign-preferences.com, DNS:campaign-preferences.com, DNS:*.sqsp.net, DNS:sqsp.net, DNS:*.sqspcdn.com, DNS:static1.1.sqspcdn.com, DNS:static2.1.sqspcdn.com, DNS:static1.2.sqspcdn.com, DNS:cdn1.1.sqspcdn.com, DNS:sqspcdn.com, DNS:*.engage.squarespace-mail.com, DNS:engage.squarespace-mail.com"
+    ]
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 30.29296538993531,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 28,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:22:38.566Z"
+  },
+  "scraped_at": "2025-12-28T18:41:14.816Z",
+  "updated_at": "2025-12-29T22:22:38.566Z",
+  "version": 1
+}

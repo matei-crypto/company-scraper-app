@@ -1,0 +1,623 @@
+{
+  "company_name": "MAKE REAL LTD",
+  "company_number": "04253279",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2001-07-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "30-34 North Street, Hailsham, East Sussex, BN27 1DW",
+  "registered_address_structured": {
+    "address_line_1": "30-34 North Street",
+    "locality": "Hailsham",
+    "postal_code": "BN27 1DW",
+    "region": "East Sussex"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MAKE MEDIA LTD",
+      "ceased_on": "2019-01-03",
+      "effective_from": "2004-12-06"
+    },
+    {
+      "name": "FLATEDGE LIMITED",
+      "ceased_on": "2004-12-06",
+      "effective_from": "2001-07-17"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-31",
+    "last_made_up_to": "2025-07-17",
+    "next_made_up_to": "2026-07-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ALEXANDER, Benjamin Charles",
+        "officer_role": "director",
+        "appointed_on": "2018-05-24",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "BURGESS, Jane Elizabeth",
+        "officer_role": "director",
+        "appointed_on": "2018-05-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "DYKES, Ben",
+        "officer_role": "director",
+        "appointed_on": "2001-07-17",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "MARTINDALE, Clare Elizabeth",
+        "officer_role": "director",
+        "appointed_on": "2018-05-18",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "SCOTT, Robin",
+        "officer_role": "director",
+        "appointed_on": "2001-07-17",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "JACK, Graham Mckenzie",
+        "officer_role": "director",
+        "appointed_on": "2007-07-10",
+        "resigned_on": "2008-06-30",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Kendall Court",
+          "locality": "Haywards Heath",
+          "postal_code": "RH16 4SX",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "LONGFOOT, George",
+        "officer_role": "director",
+        "appointed_on": "2010-06-18",
+        "resigned_on": "2018-03-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bristol Street",
+          "country": "England",
+          "locality": "Brighton",
+          "postal_code": "BN2 5JT",
+          "premises": "29"
+        }
+      },
+      {
+        "name": "NICHOLLS, Stuart",
+        "officer_role": "director",
+        "appointed_on": "2005-01-18",
+        "resigned_on": "2009-09-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "The Coach House 1 Cornish Mews",
+          "address_line_2": "Exeter Street",
+          "locality": "Brighton",
+          "postal_code": "BN1 5PH"
+        }
+      },
+      {
+        "name": "WOOD, Nicholas Stefan",
+        "officer_role": "director",
+        "appointed_on": "2007-07-10",
+        "resigned_on": "2015-10-21",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "300 Mile Oak Road",
+          "country": "United Kingdom",
+          "locality": "Brighton",
+          "postal_code": "BN41 2RA",
+          "premises": "White Hill",
+          "region": "East Sussex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DYKES, Ben",
+        "officer_role": "secretary",
+        "appointed_on": "2001-07-17",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Robin Scott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-05-18",
+        "ceased_on": "2019-03-27",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "Mr Ben Dykes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-05-18",
+        "ceased_on": "2019-03-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "Mr Nicholas Macnay",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-05-18",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "North Street",
+          "locality": "Hailsham",
+          "postal_code": "BN27 1DW",
+          "premises": "30-34",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-09-15",
+        "delivered_on": "2010-09-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7VYT8W",
+        "transaction_id": "MzQ3NTY1NzQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE1KUDMI",
+        "transaction_id": "MzQ2NDYzODk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD8KWA3S",
+        "transaction_id": "MzQzMDg3NjQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8KWA21",
+        "transaction_id": "MzQzMDg3NjQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD258DSB",
+        "transaction_id": "MzQyMDI1NjM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC80CJVU",
+        "transaction_id": "MzM4NjcxODQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC2F6UAH",
+        "transaction_id": "MzM3Nzk3MTE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8LAQIQ",
+        "transaction_id": "MzM0NjA1MDY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB2UUYRC",
+        "transaction_id": "MzMzNzcwNzYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA9DDUVL",
+        "transaction_id": "MzMwODU4MzUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-05-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 36,
+        "barcode": "AA2Z2BI2",
+        "transaction_id": "MzI5OTExMTExMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-05-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUEyWjJCSFVhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA3HCDQ1",
+        "transaction_id": "MzI5OTY3MDEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X99P11CG",
+        "transaction_id": "MzI3MzQ0ODY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X98T9ITD",
+        "transaction_id": "MzI3MjUzODkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8K12MTV",
+        "transaction_id": "MzI1MTczODY5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8AJ5Q2G",
+        "transaction_id": "MzI0MDMyMzMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X84I3UEJ",
+        "transaction_id": "MzIzMzI1MzA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-04-24",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X84284RS",
+        "transaction_id": "MzIzMjcyNzYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-24",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X8427821",
+        "transaction_id": "MzIzMjcxODI0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X84276HD",
+        "transaction_id": "MzIzMjcxNzUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X84275VS",
+        "transaction_id": "MzIzMjcxNzE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-01-03",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "A7KYSW7M",
+        "transaction_id": "MzIyMzYwMDc2OGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2019-01-03",
+        "description": "change-of-name-notice",
+        "type": "CONNOT",
+        "pages": 2,
+        "barcode": "A7KYSW82",
+        "transaction_id": "MzIyMzYwMDQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7AU9B0A",
+        "transaction_id": "MzIxMDQxNjk0NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 109,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 29
+  },
+  "enrichment": {
+    "website": "https://Wemakemedia.co.uk",
+    "headcount": 29,
+    "tech_stack": [
+      "WordPress",
+      "Google Tag Manager (GTM-NS62Z45)"
+    ],
+    "business_keywords": [
+      "website design",
+      "print specialist",
+      "digital marketing",
+      "SEO",
+      "content-driven websites",
+      "magazine publishing",
+      "book publishing",
+      "copywriting",
+      "graphic design",
+      "photography",
+      "illustration",
+      "content marketing",
+      "responsive web design",
+      "bespoke websites",
+      "WordPress"
+    ],
+    "services": [
+      "website design",
+      "bespoke website creation",
+      "SEO-driven website development",
+      "magazine publishing",
+      "book publishing",
+      "professional copywriting for web and print",
+      "content creation for websites, blogs, social media, and brochures",
+      "content marketing campaigns",
+      "graphic design",
+      "photography",
+      "illustration"
+    ],
+    "customer_segments": [
+      "small businesses",
+      "businesses looking to generate enquiries",
+      "businesses seeking customer awareness and loyalty",
+      "businesses targeting a specific audience"
+    ],
+    "business_description": "We Make Media is a Devon-based company specializing in website design, print, and digital marketing. They offer bespoke, SEO and content-driven websites, as well as magazine and book publishing services to build customer awareness and loyalty. The company also provides professional copywriting, graphic design, photography, and illustration for web and print.",
+    "website_analyzed_at": "2025-12-29T18:09:40.965Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.548Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 65,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 24.471082072456873,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 29,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 76.4,
+        "weight": 15
+      }
+    ],
+    "computed_at": "2025-12-29T22:40:45.263Z",
+    "location_distance_km": 76.4
+  },
+  "scraped_at": "2025-12-28T21:00:18.907Z",
+  "updated_at": "2026-01-09T19:08:22.547Z",
+  "version": 1
+}

@@ -1,0 +1,640 @@
+
+> buy-build-strategy-engine@1.0.0 load-csv
+> tsx src/utils/loadFromCSV.ts IT companies from Endole.csv --skip-existing
+
+
+╔════════════════════════════════════════════════════════════╗
+║           LOADING COMPANIES FROM CSV                       ║
+╚════════════════════════════════════════════════════════════╝
+
+Reading CSV: /Users/user/Downloads/Company Scraper App/IT companies from Endole.csv
+
+✓ Found 9909 companies in CSV
+  - 8255 with website
+  - 1124 with turnover
+  - 1163 with EBITDA
+  - 9909 with employees
+
+✓ Updated 102 existing companies with CSV data
+  9807 new companies to load
+
+
+╔════════════════════════════════════════════════════════════╗
+║           RE-FETCHING COMPANIES - VALIDATION TEST           ║
+╚════════════════════════════════════════════════════════════╝
+
+
+Processing: 01695445
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01697294
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01698238
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01698588
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01701233
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01704819
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01715616
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01718131
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01721031
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01722490
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01723151
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01727463
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01728605
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01729565
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01741640
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01742451
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01743307
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01743627
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01744016
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01748035
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01755090
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01763900
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01767817
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01775753
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01778540
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01792081
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01795183
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01799296
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01802610
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01803342
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01806531
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01807741
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01811556
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01824648
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01825474
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01826787
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01829485
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01830940
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01831793
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01835753
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01836276
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01840463
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01850989
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01856515
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01861024
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01862322
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01863022
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01866581
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01866704
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01869439
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01870101
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01870663
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01871557
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01889028
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01889967
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01892391
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01896503
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01896712
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01901091
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01906537
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01908197
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01920946
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01923854
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01925981
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01932302
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01935856
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01940170
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01940849
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01941071
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01947860
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01949563
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01949728
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01950612
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01954260
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01955749
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01955756
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01964830
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01967601
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01973600
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01974010
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01975062
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01976620
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01980455
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01985278
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01994310
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01997397
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01997581
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 01998874
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02001329
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02012615
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02012831
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02016131
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02016850
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02023383
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02027301
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02028133
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02029183
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02033042
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02042907
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02050982
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02058845
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02065241
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02075641
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02078429
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02093269
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02095011
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02095504
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02096524
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02098378
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02098396
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02105579
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02110018
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02110245
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02113767
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02117319
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02118274
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02119811
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02120059
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02126033
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02127544
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02132710
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02134862
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02136247
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02136682
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02139995
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02150138
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02153654
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02154023
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02154212
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02170222
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02173860
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02175510
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02179329
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02180151
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02180497
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02181500
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02182174
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02184289
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02185809
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02198424
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02201006
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02202414
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02204802
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02205514
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02207340
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02208213
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02209455
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02218358
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02218746
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02220263
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02221362
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02221664
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02230816
+────────────────────────────────────────────────────────────
+  ✗ Error: Companies House API error: 403 - Forbidden
+
+Processing: 02233595
+────────────────────────────────────────────────────────────

@@ -1,0 +1,977 @@
+{
+  "company_name": "BUNNYFOOT LTD",
+  "company_number": "03916863",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-01-31",
+  "jurisdiction": "england-wales",
+  "registered_address": "Avalon, Oxford Road, Bournemouth, BH8 8EZ, England",
+  "registered_address_structured": {
+    "address_line_1": "Avalon",
+    "address_line_2": "Oxford Road",
+    "country": "England",
+    "locality": "Bournemouth",
+    "postal_code": "BH8 8EZ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "FREECELL LIMITED",
+      "ceased_on": "2002-02-22",
+      "effective_from": "2000-01-31"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-06",
+    "last_made_up_to": "2025-02-20",
+    "next_made_up_to": "2026-02-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ASHMORE, Tamsin Nicola",
+        "officer_role": "director",
+        "appointed_on": "2025-02-14",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "26-32, Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "RUSSELL, Jonathan Lansdowne",
+        "officer_role": "director",
+        "appointed_on": "2022-09-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "SHER, Craig Lance",
+        "officer_role": "director",
+        "appointed_on": "2025-02-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British,American",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "26-32, Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "CARTER, Neil",
+        "officer_role": "director",
+        "appointed_on": "2000-01-31",
+        "resigned_on": "2000-07-09",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "22 Leavesley Road",
+          "locality": "Blackpool",
+          "postal_code": "FY1 2QP",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "DODD, Jon Vincent",
+        "officer_role": "director",
+        "appointed_on": "2000-08-01",
+        "resigned_on": "2021-03-31",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Croft",
+          "address_line_2": "Marsh Baldon",
+          "country": "United Kingdom",
+          "locality": "Oxford",
+          "postal_code": "OX44 9LN",
+          "premises": "16",
+          "region": "Oxfordshire"
+        }
+      },
+      {
+        "name": "EPPS, Mark Adam",
+        "officer_role": "director",
+        "appointed_on": "2024-03-01",
+        "resigned_on": "2024-07-12",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "FEHRENBACHER, Sandra Uta",
+        "officer_role": "director",
+        "appointed_on": "2018-08-15",
+        "resigned_on": "2021-02-26",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "German",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "HILL, Tony",
+        "officer_role": "director",
+        "appointed_on": "2018-08-15",
+        "resigned_on": "2025-02-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "PAVLOVICH, Stephen Michael",
+        "officer_role": "director",
+        "appointed_on": "2021-02-26",
+        "resigned_on": "2024-01-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        }
+      },
+      {
+        "name": "STEVENS, Robert Kieron",
+        "officer_role": "director",
+        "appointed_on": "2000-01-31",
+        "resigned_on": "2018-08-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Harwell Innovation Centre",
+          "address_line_2": "173 Curie Avenue",
+          "locality": "Didcot",
+          "postal_code": "OX11 0QG",
+          "region": "Oxfordshire"
+        }
+      },
+      {
+        "name": "THOMSON, Maggie",
+        "officer_role": "director",
+        "appointed_on": "2005-06-01",
+        "resigned_on": "2008-02-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "25 Verlam Grove",
+          "locality": "Didcot",
+          "postal_code": "OX11 7SW",
+          "region": "Oxfordshire"
+        }
+      },
+      {
+        "name": "DEANSGATE COMPANY FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-01-31",
+        "resigned_on": "2000-01-31",
+        "address": {
+          "address_line_1": "The Britannia Suite",
+          "address_line_2": "Lauren Court",
+          "country": "Greater Manchester",
+          "locality": "Wharf Road",
+          "postal_code": "M33 2AF",
+          "region": "Sale"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "STEVENS, Robert Kieron",
+        "officer_role": "secretary",
+        "appointed_on": "2000-01-31",
+        "resigned_on": "2018-08-15",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Harwell Innovation Centre",
+          "address_line_2": "173 Curie Avenue",
+          "locality": "Didcot",
+          "postal_code": "OX11 0QG",
+          "region": "Oxfordshire"
+        }
+      },
+      {
+        "name": "BRITANNIA COMPANY FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-01-31",
+        "resigned_on": "2000-01-31",
+        "address": {
+          "address_line_1": "The Britannia Suite",
+          "address_line_2": "Lauren Court",
+          "country": "Greater Manchester",
+          "locality": "Wharf Road",
+          "postal_code": "M33 2AF",
+          "region": "Sale"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Eleven Miles Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-08-15",
+        "address": {
+          "address_line_1": "Oxford Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH8 8EZ",
+          "premises": "Avalon"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "England",
+          "place_registered": "England & Wales",
+          "registration_number": "06661625"
+        }
+      },
+      {
+        "name": "Mr Jon Vincent Dodd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-08-15",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "25 St. Clair Road",
+          "country": "England",
+          "locality": "Poole",
+          "postal_code": "BH13 7JP",
+          "premises": "Mindrum House",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "Mr Robert Kieron Stevens",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-08-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "25 St. Clair Road",
+          "country": "England",
+          "locality": "Poole",
+          "postal_code": "BH13 7JP",
+          "premises": "Mindrum House",
+          "region": "Dorset"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "039168630011",
+        "charge_number": 11,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-10-20",
+        "delivered_on": "2022-10-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No specific land, ship, aircraft or intellectual property has been charged. For full details of the charges, please refer to the charging document directly.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Glas Trust Corporation Limited as Security Agent (As Defined in the Instrument)"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "039168630010",
+        "charge_number": 10,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-10-06",
+        "delivered_on": "2022-10-07",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No specific land, ship, aircraft or intellectual property has been charged. For full details of the charges, please refer to the charging document directly.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Glas Trust Corporation Limited as Security Agent"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "039168630009",
+        "charge_number": 9,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-08-31",
+        "delivered_on": "2021-08-31",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No specific land, ship, aircraft or intellectual property has been charged. For full details of the charges, please refer to the charging document directly.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Glas Trust Corporation Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "039168630008",
+        "charge_number": 8,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-04-29",
+        "delivered_on": "2021-04-30",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No specific land, ship, aircraft or intellectual property has been charged. For full details of the charges, please refer to the charging document directly.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Glas Trust Corporation Limited (As Security Agent)"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "039168630007",
+        "charge_number": 7,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-02-26",
+        "delivered_on": "2021-03-02",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Standbyco 21 Bv (As Security Trustee)"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "039168630006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-11-29",
+        "delivered_on": "2017-12-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All intellectual property.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Archover Limited"
+          }
+        ],
+        "satisfied_on": "2018-09-27",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "039168630005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-08-29",
+        "delivered_on": "2017-08-31",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All intellectual property.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Archover Limited"
+          }
+        ],
+        "satisfied_on": "2018-08-08",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2012-11-07",
+        "delivered_on": "2012-11-10",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2017-10-02",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-04-18",
+        "delivered_on": "2012-04-24",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The initial deposit and also the interest in the account in which the deposit is held."
+        },
+        "persons_entitled": [
+          {
+            "name": "Threadneedle Pensions Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2007-08-14",
+        "delivered_on": "2007-08-16",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Cattles Invoice Finance (Oxford) Limited"
+          }
+        ],
+        "satisfied_on": "2017-06-16",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2003-02-24",
+        "delivered_on": "2003-02-28",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2017-08-25",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 11,
+    "unsatisfied_count": 6,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-17",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XEHKYXA1",
+        "transaction_id": "MzQ5NDk4NDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDY692FD",
+        "transaction_id": "MzQ1ODI1NjIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDY68E83",
+        "transaction_id": "MzQ1ODI0MDQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDY3J3I1",
+        "transaction_id": "MzQ1ODAwOTc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDY3J34J",
+        "transaction_id": "MzQ1ODAwOTc3MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDY3J24Q",
+        "transaction_id": "MzQ1ODAwOTUyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-11",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDFMFR5E",
+        "transaction_id": "MzQ0MjY3MDIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD7Z01MX",
+        "transaction_id": "MzQyOTcyNzYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-23",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD3PQBB5",
+        "transaction_id": "MzQyMzAwMjU0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD3PQB56",
+        "transaction_id": "MzQyMzAwMjQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXH2K7L",
+        "transaction_id": "MzQxMjI0Njk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-08",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ACIX9KC3",
+        "transaction_id": "MzQwNTkxOTU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBXRI9H8",
+        "transaction_id": "MzM2OTg3MjI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBJ66XTD",
+        "transaction_id": "MzM2Mjg0Njk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-10-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 75,
+        "barcode": "XBF2MM4R",
+        "transaction_id": "MzM1NjExMjAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-10-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 75,
+        "barcode": "XBE3T8YA",
+        "transaction_id": "MzM1NDQ1MDQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-23",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBD4HO4W",
+        "transaction_id": "MzM1MjgwNzQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XB3TEK1N",
+        "transaction_id": "MzMzODk2Mjk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAYAGJUQ",
+        "transaction_id": "MzMzMDQ0MjEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-02-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAXZYXZ6",
+        "transaction_id": "MzMzMDA4NDIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-08",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AAE6VYYX",
+        "transaction_id": "MzMxNjIzMDg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-08-31",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 67,
+        "barcode": "XAC1DS4W",
+        "transaction_id": "MzMxMjM1Mzc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-04-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 66,
+        "barcode": "XA3HG09C",
+        "transaction_id": "MzI5OTYyODk0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA30XRIY",
+        "transaction_id": "MzI5ODc5NjA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AA0XGKQG",
+        "transaction_id": "MzI5NjIwOTU1MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 122,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 38
+  },
+  "enrichment": {
+    "website": "https://Bunnyfoot.com",
+    "headcount": 38,
+    "tech_stack": [
+      "Digital Experience Platforms (DXP)",
+      "Content Management Systems (CMS)",
+      "Drupal",
+      "LocalGov Drupal",
+      "AI-driven automation"
+    ],
+    "business_keywords": [
+      "UX",
+      "CX",
+      "Accessibility",
+      "Digital Strategy",
+      "Human Insight",
+      "Digital Experience",
+      "User Experience Design",
+      "Customer Experience",
+      "Digital Transformation",
+      "Usability Testing",
+      "Information Architecture",
+      "Content Design",
+      "Interaction Design",
+      "Service Design",
+      "Ethnographic Studies",
+      "Behavioural Analysis",
+      "Digital Delivery",
+      "Research & Insights"
+    ],
+    "services": [
+      "Research & Design",
+      "Digital transformation",
+      "Accessibility",
+      "Service Design",
+      "User experience design",
+      "Usability testing",
+      "Information architecture",
+      "Content design",
+      "Interaction design",
+      "Customer Experience",
+      "Digital Delivery Partner",
+      "Drupal Specialists",
+      "Government Design System",
+      "Embedded Capability",
+      "Discovery/Alpha/Beta",
+      "LocalGov Drupal CMS implementation",
+      "Research & Insights",
+      "Experience Design & Digital Strategy",
+      "UX & CX Consultancy",
+      "Usability & Evaluation",
+      "Technology design and build",
+      "AI-driven automation",
+      "Immersive interfaces"
+    ],
+    "customer_segments": [
+      "Public Sector",
+      "Government",
+      "Finance",
+      "Consumer Goods",
+      "Culture & Society",
+      "Local Government",
+      "Health & Wellbeing",
+      "Travel & Holiday",
+      "Tech & Telco"
+    ],
+    "business_description": "GAIN Ltd blends human insight with cutting-edge technology to design intuitive, accessible, and transformational digital experiences. The company delivers experience excellence through research, design, digital strategy, and consultancy, focusing on user needs, accessibility, and measurable organisational impact across sectors like government, finance, and consumer goods.",
+    "website_analyzed_at": "2025-12-29T17:35:06.060Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.371Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 60,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.93134509772958,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 38,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 149.2,
+        "weight": 10
+      }
+    ],
+    "computed_at": "2025-12-29T22:35:00.031Z",
+    "location_distance_km": 149.2
+  },
+  "scraped_at": "2025-12-28T20:16:50.468Z",
+  "updated_at": "2026-01-09T19:08:22.371Z",
+  "version": 1
+}

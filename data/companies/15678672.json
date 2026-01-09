@@ -1,0 +1,161 @@
+{
+  "company_name": "CLOCKZ CONSULTANCY LTD",
+  "company_number": "15678672",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-04-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "2 Beauchamp Road, London, E7 9PD, England",
+  "registered_address_structured": {
+    "address_line_1": "2 Beauchamp Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E7 9PD"
+  },
+  "sic_codes": [
+    "62020",
+    "78200"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-08",
+    "last_made_up_to": "2025-04-24",
+    "next_made_up_to": "2026-04-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KARIPI, Satya Narayana",
+        "officer_role": "director",
+        "appointed_on": "2024-04-25",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beauchamp Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E7 9PD",
+          "premises": "2"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Satya Narayana Karipi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-04-25",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beauchamp Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E7 9PD",
+          "premises": "2"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE98NR6Z",
+        "transaction_id": "MzQ3NzkxOTQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE1I4360",
+        "transaction_id": "MzQ2NDQzOTQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-04-25",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XD1OYUV4",
+        "transaction_id": "MzQxOTYxMjI4NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 3,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 48.01,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.6820495414129883,
+        "weight": 14.011472679970193
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 9,
+        "weight": 9
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 11.4,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:15.151Z",
+    "location_distance_km": 11.4
+  },
+  "scraped_at": "2025-12-28T17:20:13.458Z",
+  "updated_at": "2025-12-29T22:45:15.152Z",
+  "version": 1
+}

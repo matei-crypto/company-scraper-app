@@ -1,0 +1,708 @@
+{
+  "company_name": "TRIAL SYSTEMS LIMITED",
+  "company_number": "01994310",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1986-03-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "11a Faraday Court, Centrum One Hundred, Burton-On-Trent, DE14 2WX, England",
+  "registered_address_structured": {
+    "address_line_1": "11a Faraday Court",
+    "address_line_2": "Centrum One Hundred",
+    "country": "England",
+    "locality": "Burton-On-Trent",
+    "postal_code": "DE14 2WX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "GRADESTREAM LIMITED",
+      "ceased_on": "1990-02-05",
+      "effective_from": "1986-03-03"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-06",
+    "last_made_up_to": "2025-07-23",
+    "next_made_up_to": "2026-07-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOYCE, Peter",
+        "officer_role": "director",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      },
+      {
+        "name": "PEARCE, Steven John",
+        "officer_role": "director",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "24 Bramling Cross Road",
+          "address_line_2": "Stretton",
+          "locality": "Burton On Trent",
+          "postal_code": "DE14 1DH",
+          "region": "Staffordshire"
+        }
+      },
+      {
+        "name": "BOYCE, Elaine Jane",
+        "officer_role": "director",
+        "resigned_on": "1997-03-31",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1 The Croft Main Street",
+          "address_line_2": "Clifton Campville",
+          "locality": "Tamworth",
+          "postal_code": "B79 0AT",
+          "region": "Staffordshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BOYCE, Peter",
+        "officer_role": "secretary",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Emma Richmond Coggan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-05-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      },
+      {
+        "name": "Mr Peter Boyce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      },
+      {
+        "name": "Mrs Elaine Jane Boyce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1955,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      },
+      {
+        "name": "Mrs Emma Richmond Coggan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1979,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      },
+      {
+        "name": "Mr Steven John Pearce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1962,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Faraday Court",
+          "address_line_2": "Centrum One Hundred",
+          "country": "England",
+          "locality": "Burton-On-Trent",
+          "postal_code": "DE14 2WX",
+          "premises": "11a"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 7,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2009-04-01",
+        "delivered_on": "2009-04-03",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The l/h property k/a first avenue centrum 100 burton upon trent staffordshire t/no SF407749."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-01-13",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2009-03-11",
+        "delivered_on": "2009-03-20",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-01-13",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal mortgage"
+          }
+        ],
+        "created_on": "2000-06-08",
+        "delivered_on": "2000-06-14",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The freehold property known as first avenue centrum 100 burton on trent staffordshire t/no: SF407749. And the proceeds of sale thereof floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2009-07-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "2000-03-15",
+        "delivered_on": "2000-03-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "A specific equitable charge over all freehold and leasehold properties and/or the proceeds of sale thereof fixed and floating charges over undertaking and all property and assets present and future including goodwill bookdebts and the benefits of any licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2009-07-22",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "1999-03-04",
+        "delivered_on": "1999-03-12",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Parcel of land at first avenue centrum 100 burton upon trent staffordshire."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2000-06-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "1995-05-30",
+        "delivered_on": "1995-06-09",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Unit 9, pebble close, amington, tamworth, staffordshire t/no: SF345160."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2000-06-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "1990-01-29",
+        "delivered_on": "1990-02-06",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2000-06-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 7,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AEGK1KXT",
+        "transaction_id": "MzQ5MjE3MjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7FKZHN",
+        "transaction_id": "MzQ3NDg2ODIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDYPGCRC",
+        "transaction_id": "MzQ1OTUxMDYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "ADB1BO9E",
+        "transaction_id": "MzQzNTA2Njc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD81RHGX",
+        "transaction_id": "MzQyOTkyMjQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAM6FQP",
+        "transaction_id": "MzM5MDY2NzQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AC94JFLU",
+        "transaction_id": "MzM4ODc5ODg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "ABB4HHEX",
+        "transaction_id": "MzM0OTg3ODIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBB4GESW",
+        "transaction_id": "MzM0OTgxMTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-01-13",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAVM8DJK",
+        "transaction_id": "MzMyNjYxNjIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-01-13",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAVM8E6B",
+        "transaction_id": "MzMyNjYxNjM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AAIN7ZKA",
+        "transaction_id": "MzMyMjc2MTI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAC13O36",
+        "transaction_id": "MzMxMjI1ODYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A9DNN9BM",
+        "transaction_id": "MzI3ODE0MDE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9AFNY4P",
+        "transaction_id": "MzI3NDMxMzE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-19",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A8I8LHBT",
+        "transaction_id": "MzI0OTQwMjYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ADSM63",
+        "transaction_id": "MzI0MDA4MzAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-05-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8563HQZ",
+        "transaction_id": "MzIzNDEwNjc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-18",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A7EHOU0Q",
+        "transaction_id": "MzIxNDczNzUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7BINJVC",
+        "transaction_id": "MzIxMTIzMTI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-11-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6JKKCY3",
+        "transaction_id": "MzE5MDU2OTkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-08-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6DVN2JV",
+        "transaction_id": "MzE4Mzk3NTc4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "A6BT43VE",
+        "transaction_id": "MzE4MjM2Nzc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6BHL0G8",
+        "transaction_id": "MzE4MTQ2NTQxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-07-26",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X6BHKP5K",
+        "transaction_id": "MzE4MTQ2NTA5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 117,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Trial-systems.co.uk",
+    "headcount": 7,
+    "business_keywords": [
+      "CAD software",
+      "Drawing Express",
+      "Landscape Express",
+      "2D CAD software",
+      "3D CAD software",
+      "tablet interface",
+      "software development",
+      "software support",
+      "software training",
+      "pen & tablet",
+      "Landscape Design",
+      "portable CAD software",
+      "software trial",
+      "software demonstration",
+      "CAD training"
+    ],
+    "services": [
+      "software development",
+      "software support",
+      "software training",
+      "three-month software trial",
+      "no obligation software demonstration at customer premises",
+      "basic training courses",
+      "advanced training courses"
+    ],
+    "customer_segments": [
+      "anyone looking to use a CAD package",
+      "Landscape Design market"
+    ],
+    "business_description": "Trial Systems Limited develops and produces 2D and 3D CAD software packages, including Drawing Express and Landscape Express, which utilize an intuitive tablet interface. The company specializes in software development, support, and training, and offers trials, demonstrations, and training courses for its products.",
+    "website_analyzed_at": "2025-12-29T15:21:26.307Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.506Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 32,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 39.85459198750634,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:13:34.103Z"
+  },
+  "scraped_at": "2025-12-28T16:33:02.451Z",
+  "updated_at": "2026-01-09T19:08:21.506Z",
+  "version": 1
+}

@@ -1,0 +1,615 @@
+{
+  "company_name": "ARC SOFTWARE CONSULTANCY LIMITED",
+  "company_number": "02537923",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1990-09-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "62 Kings Drive, Surbiton, Surrey, KT5 8NH",
+  "registered_address_structured": {
+    "address_line_1": "62 Kings Drive",
+    "locality": "Surbiton",
+    "postal_code": "KT5 8NH",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "RB SOFTWARE MANAGEMENT LIMITED",
+      "ceased_on": "1991-10-25",
+      "effective_from": "1990-09-07"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-29",
+    "next_accounts_period_end_on": "2025-09-29",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-29",
+    "last_made_up_to": "2025-04-15",
+    "next_made_up_to": "2026-04-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DAVITT, Claire Elizabeth",
+        "officer_role": "director",
+        "appointed_on": "2021-04-09",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Drive",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8NH",
+          "premises": "62",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "DAVITT, James Robert",
+        "officer_role": "director",
+        "appointed_on": "2020-10-16",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Drive",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8NH",
+          "premises": "62",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BOYD, Caroline Frances Maud, Dr",
+        "officer_role": "director",
+        "appointed_on": "2009-02-16",
+        "resigned_on": "2021-03-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Aldeburgh",
+          "postal_code": "IP15 5HF",
+          "premises": "4 Beaconsfield Road",
+          "region": "Suffolk"
+        }
+      },
+      {
+        "name": "BOYD, Robert Crighton Gordon",
+        "officer_role": "director",
+        "resigned_on": "2009-02-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1951,
+        "nationality": "Other",
+        "address": {
+          "address_line_1": "29 Marlborough Road",
+          "locality": "Richmond",
+          "postal_code": "TW10 6JT",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BOYD, Caroline",
+        "officer_role": "secretary",
+        "resigned_on": "2009-02-16",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "29 Marlborough Road",
+          "locality": "Richmond",
+          "postal_code": "TW10 6JT",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BOYD, Robert Crighton Gordon",
+        "officer_role": "secretary",
+        "appointed_on": "2009-02-16",
+        "resigned_on": "2021-03-30",
+        "nationality": "Other",
+        "address": {
+          "country": "England",
+          "locality": "Aldeburgh",
+          "postal_code": "IP15 5HF",
+          "premises": "4 Beaconsfield Road",
+          "region": "Suffolk"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr James Robert Davitt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-01-18",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Drive",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8NH",
+          "premises": "62",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Dr Caroline Frances Maud Boyd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-09-07",
+        "ceased_on": "2021-01-18",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Drive",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8NH",
+          "premises": "62",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Mr Robert Crighton Gordon Boyd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-09-07",
+        "ceased_on": "2021-01-18",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Drive",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8NH",
+          "premises": "62",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2009-03-03",
+        "delivered_on": "2009-03-05",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£7,500.00."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Trustees of Richmond Parish Lands Charity"
+          }
+        ],
+        "satisfied_on": "2016-10-22",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£7,500.00 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2008-05-29",
+        "delivered_on": "2008-06-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Rent deposit of £2,333 as security for payment of rent under a lease."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Trustees of Richmond Parish Lands Charity"
+          }
+        ],
+        "satisfied_on": "2013-10-02",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£2,333 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2003-02-21",
+        "delivered_on": "2003-02-28",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The rent deposit as security."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Trustees of Richmond Parish Lands Chartity"
+          }
+        ],
+        "satisfied_on": "2013-10-02",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£7,500 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE4FBHCQ",
+        "transaction_id": "MzQ2OTQ4NTAwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE421UFC",
+        "transaction_id": "MzQ2OTA2MjgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD66DQV6",
+        "transaction_id": "MzQyNjg4MTE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3K692A",
+        "transaction_id": "MzQyMjY0NjM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC5MAG2R",
+        "transaction_id": "MzM4Mjc0NDgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC47CH61",
+        "transaction_id": "MzM4MDcwMzc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4CGVRK",
+        "transaction_id": "MzMzOTgzOTU0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAXX3KGB",
+        "transaction_id": "MzMyOTg3MDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-04-21",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "AA1HSJAZ",
+        "transaction_id": "MzI5Nzg1NDgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA2I17RM",
+        "transaction_id": "MzI5NzkxNjc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-09",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA2204CY",
+        "transaction_id": "MzI5NzM0NDM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA2202VE",
+        "transaction_id": "MzI5NzM0NDA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-09",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XA2201OG",
+        "transaction_id": "MzI5NzM0Mzg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-04-09",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "YA1DBWOY",
+        "transaction_id": "MzI5NjE3NTE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA1TP8S2",
+        "transaction_id": "MzI5Njg3ODM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-10",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X9ZYA5JM",
+        "transaction_id": "MzI5Mzk1MjM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-10",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9ZYA3V6",
+        "transaction_id": "MzI5Mzk1MjA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-10",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9ZYA3RT",
+        "transaction_id": "MzI5Mzk1MTk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-10-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9FT5DU0",
+        "transaction_id": "MzI4MDc5NDQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-10-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9FT5DDU",
+        "transaction_id": "MzI4MDc5NDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-10-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9FT56DE",
+        "transaction_id": "MzI4MDc5Mjc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-16",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9FT54VE",
+        "transaction_id": "MzI4MDc5MjU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9D2GGH7",
+        "transaction_id": "MzI3NzA2NDE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9802MO1",
+        "transaction_id": "MzI2ODMyNzEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DLY3JL",
+        "transaction_id": "MzI0Mzc4NjYxOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 103,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Arcsoftwareconsultancy.com",
+    "headcount": 6,
+    "tech_stack": [
+      "ONIX XML"
+    ],
+    "business_keywords": [
+      "bespoke software development",
+      "software consultancy",
+      "London software development",
+      "web-based software applications",
+      "systems integration",
+      "database development",
+      "management reporting",
+      "IT consultancy",
+      "project rescue",
+      "prototyping",
+      "MVPs",
+      "business analysis",
+      "feasibility studies",
+      "requirements gathering",
+      "system design specifications",
+      "IT procurement consultancy",
+      "graphic design",
+      "UI design",
+      "usability services",
+      "software testing",
+      "repertoire management",
+      "ONIX XML data consultancy",
+      "AI"
+    ],
+    "services": [
+      "Bespoke Software Development",
+      "Website Design and Content Management Systems",
+      "Graphic Design, U.I Design & Usability Services",
+      "Database Development and Management Reporting Services",
+      "Systems Integration",
+      "Software Testing",
+      "Prototyping & MVPs",
+      "IT Consultancy",
+      "Envisioning Consultancy",
+      "Business Analysis and Feasibility Studies",
+      "Requirements Gathering and Evaluation",
+      "System and Design Specifications",
+      "IT Procurement Consultancy",
+      "Bids and Supplier Evaluations",
+      "Graphic Design & Usability Consultancy",
+      "IT Project Rescue",
+      "Label Copy and Repertoire Clearances",
+      "Online Permissions Clearing System",
+      "Repertoire Management System",
+      "ONIX XML Data Consultancy"
+    ],
+    "customer_segments": [],
+    "business_description": "Arc Software Consultancy is a London-based boutique software development company specializing in bespoke web-based software applications, systems integration, and database and management reporting. The company provides independent IT and system design consultancy, project rescue services, and expertise in prototyping, specifications, and supplier selection, with a 30-year track record of delivering projects on time and on budget.",
+    "website_analyzed_at": "2025-12-29T15:42:04.607Z",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.774Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 31,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 35.33679036177702,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:17:01.879Z"
+  },
+  "scraped_at": "2025-12-28T17:13:05.480Z",
+  "updated_at": "2026-01-09T19:08:21.774Z",
+  "version": 1
+}

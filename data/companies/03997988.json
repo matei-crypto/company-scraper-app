@@ -1,0 +1,607 @@
+{
+  "company_name": "CINTRA CORPORATION UK LIMITED",
+  "company_number": "03997988",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-05-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "Freshford House, Redcliffe Way, Bristol, BS1 6NL, England",
+  "registered_address_structured": {
+    "address_line_1": "Freshford House",
+    "address_line_2": "Redcliffe Way",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS1 6NL"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-03",
+    "last_made_up_to": "2025-05-20",
+    "next_made_up_to": "2026-05-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MCNAMEE, Brendan",
+        "officer_role": "director",
+        "appointed_on": "2001-08-21",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "Grenada",
+        "address": {
+          "address_line_1": "St. Vincent Street",
+          "address_line_2": "Cintra Corporation Uk Ltd",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5LQ",
+          "premises": "144"
+        }
+      },
+      {
+        "name": "RAOOF SHEIKH, Abdul",
+        "officer_role": "director",
+        "appointed_on": "2001-08-21",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "3 Brook Street",
+          "locality": "Gloucester",
+          "postal_code": "GL1 4UP",
+          "region": "Gloucestershire"
+        }
+      },
+      {
+        "name": "LAING, Matthew",
+        "officer_role": "director",
+        "appointed_on": "2000-05-19",
+        "resigned_on": "2001-08-21",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "35 Upton Road",
+          "address_line_2": "Southville",
+          "locality": "Bristol",
+          "postal_code": "BS3 1LW"
+        }
+      },
+      {
+        "name": "NAUGHTON, Aidan Anthony",
+        "officer_role": "director",
+        "appointed_on": "2000-05-19",
+        "resigned_on": "2007-09-21",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1 Marlborough Hill Place",
+          "address_line_2": "Kingsdown",
+          "locality": "Bristol",
+          "postal_code": "BS2 8HA"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "NAUGHTON, Aidan Anthony",
+        "officer_role": "secretary",
+        "appointed_on": "2000-05-19",
+        "resigned_on": "2007-09-21",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1 Marlborough Hill Place",
+          "address_line_2": "Kingsdown",
+          "locality": "Bristol",
+          "postal_code": "BS2 8HA"
+        }
+      },
+      {
+        "name": "BRISTOL LEGAL SERVICES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-05-19",
+        "resigned_on": "2000-05-19",
+        "address": {
+          "address_line_1": "Pembroke House",
+          "address_line_2": "7 Brunswick Square",
+          "locality": "Bristol",
+          "postal_code": "BS2 8PE",
+          "region": "Avon"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Abdul Raoof Sheikh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-05-09",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brook Street",
+          "country": "England",
+          "locality": "Gloucester",
+          "postal_code": "GL1 4UP",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "Mr Brendan Mcnamee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-05-09",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Vincent Street",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5LQ",
+          "premises": "144"
+        }
+      },
+      {
+        "name": "Cintra Group Holdings Llc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2017-08-31",
+        "address": {
+          "address_line_1": "32nd Floor",
+          "address_line_2": "New York",
+          "country": "United States",
+          "locality": "Ny 10016",
+          "premises": "3 Park Avenue"
+        },
+        "identification": {
+          "legal_form": "Delaware Llc",
+          "legal_authority": "New York Department Of State"
+        }
+      },
+      {
+        "name": "Mr Brendan Mcnamee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-08-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Redcliffe Way",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS1 6NL",
+          "premises": "Freshford House"
+        }
+      },
+      {
+        "name": "Mr Abdul Raoof Sheikh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-08-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Redcliffe Way",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS1 6NL",
+          "premises": "Freshford House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "039979880002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-08-22",
+        "delivered_on": "2020-08-25",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2003-05-07",
+        "delivered_on": "2003-05-13",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-04-23",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-16",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 30,
+        "barcode": "XEHHVB9U",
+        "transaction_id": "MzQ5NDQ2NTQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5H38UP",
+        "transaction_id": "MzQ3MTQ1MDAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 29,
+        "barcode": "XDICQC6Z",
+        "transaction_id": "MzQ0ODU4NTI4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD63K3K2",
+        "transaction_id": "MzQyNjY4OTg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD63K357",
+        "transaction_id": "MzQyNjY4OTc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-29",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 30,
+        "barcode": "XCZW7O8G",
+        "transaction_id": "MzQxNjYzMDM0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC44OFOZ",
+        "transaction_id": "MzM4MDUxMDE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-31",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 29,
+        "barcode": "XC0HENBS",
+        "transaction_id": "MzM3NDg0NTEwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4SBDK1",
+        "transaction_id": "MzM0MDQ1MzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XB0XD4V5",
+        "transaction_id": "MzMzNDg3NzUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA5Y4KNM",
+        "transaction_id": "MzMwMzQzNjU2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-31",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XA1GEHHM",
+        "transaction_id": "MzI5NjQzODA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-08-25",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 8,
+        "barcode": "X9C6NGWP",
+        "transaction_id": "MzI3NjA2MzgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X98G9WX5",
+        "transaction_id": "MzI3MjI3NjQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8KPN07N",
+        "transaction_id": "MzI1Mjc1NjkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X86K73PE",
+        "transaction_id": "MzIzNTcwNDg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-05-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "X86K706G",
+        "transaction_id": "MzIzNTcwMzgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-05-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X853EA96",
+        "transaction_id": "MzIzNDAxNDUwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-05-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X853E8QI",
+        "transaction_id": "MzIzNDAxNDE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-04-23",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X83ZEON4",
+        "transaction_id": "MzIzMjU0NDMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "A81P713M",
+        "transaction_id": "MzIzMDA2MDg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-21",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X81PD5CW",
+        "transaction_id": "MzIyOTk0OTMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7L9KDZD",
+        "transaction_id": "MzIyMjc4OTEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7FVNQ61",
+        "transaction_id": "MzIxNjI1MjYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7FVNN9M",
+        "transaction_id": "MzIxNjI1MjU3MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 81,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "revenue": 13883000,
+    "ebitda": 103000,
+    "employees": 78
+  },
+  "enrichment": {
+    "website": "https://Cintra.com",
+    "headcount": 78,
+    "tech_stack": [
+      "Oracle Database",
+      "Oracle Exadata",
+      "AWS ODB@AWS",
+      "Microsoft SQL Server",
+      "AWS Aurora PostgreSQL",
+      "Microsoft Azure",
+      "Oracle Multi-Cloud"
+    ],
+    "business_keywords": [
+      "Oracle",
+      "Oracle License Optimization",
+      "modernization",
+      "legacy Oracle estate",
+      "cloud migration",
+      "database modernization",
+      "SQL Server",
+      "Aurora PostgreSQL",
+      "Azure",
+      "Oracle Multi-Cloud",
+      "ODB@AWS",
+      "Exadata",
+      "webinar",
+      "cost savings",
+      "performance optimization"
+    ],
+    "services": [
+      "Oracle License[IQ] Optimization",
+      "modernization of legacy Oracle estate",
+      "cloud migration",
+      "database modernization",
+      "SQL Server to Aurora PostgreSQL modernization",
+      "Azure+Oracle Multi-Cloud solutions"
+    ],
+    "customer_segments": [
+      "companies globally",
+      "enterprises with legacy Oracle estates",
+      "businesses seeking cloud migration and modernization"
+    ],
+    "business_description": "Cintra Corporation UK Limited provides Oracle license optimization, modernization of legacy Oracle estates, and cloud migration services. The company helps businesses achieve cost savings and performance improvements through database modernization and multi-cloud solutions, including Azure and AWS.",
+    "website_analyzed_at": "2025-12-29T17:43:48.936Z",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.407Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 47.41,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.63271762455606,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 78,
+        "weight": 0.75
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 2,
+        "weight": 16.66
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 170.6,
+        "weight": 5
+      }
+    ],
+    "computed_at": "2025-12-29T22:36:23.970Z",
+    "location_distance_km": 170.6
+  },
+  "scraped_at": "2025-12-28T20:27:37.606Z",
+  "updated_at": "2026-01-09T19:08:22.407Z",
+  "version": 1
+}

@@ -1,0 +1,55 @@
+{
+  "name": "buy-build-strategy-engine",
+  "version": "1.0.0",
+  "description": "Buy & Build Strategy Engine for identifying acquisition targets",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts",
+    "check": "tsc --noEmit && npm run test",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "dashboard": "tsx src/dashboard.ts",
+    "scorecard": "tsx src/scorecard.ts",
+    "scorecard:all": "tsx src/scorecardAll.ts",
+    "scrape": "tsx src/scrapers/companiesHouse.ts",
+    "refetch": "tsx src/utils/reFetchCompany.ts",
+    "load-csv": "tsx src/utils/loadFromCSV.ts",
+    "download-docs": "tsx src/utils/downloadDocuments.ts",
+    "sync-docs": "tsx src/utils/syncDocuments.ts",
+    "extract-docs": "tsx src/enrichers/documentExtractor.ts",
+    "analyze-websites": "tsx src/enrichers/websiteAnalyzer.ts",
+    "clear-website-enrichments": "tsx src/utils/clearWebsiteEnrichments.ts",
+    "recompute-msp-scores": "tsx src/utils/recomputeMSPScores.ts",
+    "msp-breakdown": "tsx src/utils/showMSPBreakdown.ts",
+    "show-top-msps": "tsx src/utils/showTopMSPScores.ts",
+    "msp-statistics": "tsx src/utils/mspScoreStatistics.ts",
+    "scorecard-statistics": "tsx src/utils/scorecardStatistics.ts",
+    "compute-scores": "tsx src/utils/computeAndStoreScores.ts"
+  },
+  "keywords": [
+    "acquisition",
+    "scraper",
+    "companies-house",
+    "investment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.5",
+    "fs-extra": "^11.2.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.0"
+  }
+}

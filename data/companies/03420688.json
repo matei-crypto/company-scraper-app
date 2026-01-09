@@ -1,0 +1,562 @@
+{
+  "company_name": "HIRESERVE LIMITED",
+  "company_number": "03420688",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1997-08-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "Worting House Church Lane, Worting, Basingstoke, Hampshire, RG23 8PY, England",
+  "registered_address_structured": {
+    "address_line_1": "Worting House Church Lane",
+    "address_line_2": "Worting",
+    "country": "England",
+    "locality": "Basingstoke",
+    "postal_code": "RG23 8PY",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "HAZELWEB SYSTEMS LIMITED",
+      "ceased_on": "2004-12-02",
+      "effective_from": "1997-08-18"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-01",
+    "last_made_up_to": "2025-08-18",
+    "next_made_up_to": "2026-08-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRAY, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2023-08-15",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Lane",
+          "address_line_2": "Worting",
+          "country": "England",
+          "locality": "Basingstoke",
+          "postal_code": "RG23 8PY",
+          "premises": "Worting House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "GIBSON, Paul David",
+        "officer_role": "director",
+        "appointed_on": "2021-06-28",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Church Lane",
+          "address_line_2": "Worting",
+          "country": "England",
+          "locality": "Basingstoke",
+          "postal_code": "RG23 8PY",
+          "premises": "Worting House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "FOWLER, Simon Richard",
+        "officer_role": "director",
+        "appointed_on": "2021-06-28",
+        "resigned_on": "2023-08-15",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Lutyens Close",
+          "address_line_2": "Lychpit",
+          "country": "England",
+          "locality": "Basingstoke",
+          "postal_code": "RG24 8AG",
+          "premises": "Grove House"
+        }
+      },
+      {
+        "name": "OVENDEN, Jeremy John",
+        "officer_role": "director",
+        "appointed_on": "1997-08-18",
+        "resigned_on": "2021-06-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stewart Road",
+          "country": "United Kingdom",
+          "locality": "Basingstoke",
+          "postal_code": "RG24 8NF",
+          "premises": "Norton House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "OVENDEN, Karen",
+        "officer_role": "director",
+        "appointed_on": "1997-08-18",
+        "resigned_on": "2021-06-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stewart Road",
+          "country": "United Kingdom",
+          "locality": "Basingstoke",
+          "postal_code": "RG24 8NF",
+          "premises": "Norton House",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "OVENDEN, Karen",
+        "officer_role": "secretary",
+        "appointed_on": "1997-11-14",
+        "resigned_on": "2021-06-28",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Stewart Road",
+          "country": "United Kingdom",
+          "locality": "Basingstoke",
+          "postal_code": "RG24 8NF",
+          "premises": "Norton House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "SEYMOUR MACINTYRE LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "1997-08-18",
+        "resigned_on": "1997-11-14",
+        "address": {
+          "address_line_1": "2 The Green",
+          "address_line_2": "Whorlton",
+          "locality": "Barnard Castle",
+          "postal_code": "DL12 8XE",
+          "region": "Co Durham"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Xcd Hr Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-06-28",
+        "address": {
+          "address_line_1": "Shurdington Road",
+          "country": "England",
+          "locality": "Cheltenham",
+          "postal_code": "GL51 4GA",
+          "premises": "Chargrove House",
+          "region": "Gloucestershire"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Registrar Of Companies (England And Wales)",
+          "registration_number": "07418327"
+        }
+      },
+      {
+        "name": "Mr Jeremy John Ovenden",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-06-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stewart Road",
+          "locality": "Basingstoke",
+          "postal_code": "RG24 8NF",
+          "premises": "Norton House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "Mrs Karen Ovenden",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-06-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stewart Road",
+          "locality": "Basingstoke",
+          "postal_code": "RG24 8NF",
+          "premises": "Norton House",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHCEU9C",
+        "transaction_id": "MzQ5Mzk1NDUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE9ZCGSO",
+        "transaction_id": "MzQ3OTExMzM0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDIKSGO0",
+        "transaction_id": "MzQ0ODgwNjg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDAIEBRU",
+        "transaction_id": "MzQzMzgwMTQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD4GHPAR",
+        "transaction_id": "MzQyNDA1MTc1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCXEBG55",
+        "transaction_id": "MzQxMjA4NzEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAWVK9F",
+        "transaction_id": "MzM5MTEyNTE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-29",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCAWVIOZ",
+        "transaction_id": "MzM5MTEyNDc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-29",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCAWVFMR",
+        "transaction_id": "MzM5MTEyNDEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBJEY4QO",
+        "transaction_id": "MzM2MzUwNTk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-23",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBB1FB0E",
+        "transaction_id": "MzM0OTQ2NzE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBAOC5P4",
+        "transaction_id": "MzM0OTA3NDIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-02-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAY06O03",
+        "transaction_id": "MzMzMDIwMzUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XABL8D1S",
+        "transaction_id": "MzMxMTU2ODkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-08-11",
+        "description": "second-filing-of-annual-return-with-made-up-date",
+        "type": "RP04AR01",
+        "pages": 20,
+        "barcode": "AAA5XGCP",
+        "transaction_id": "MzMxMDM3NDg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-08-11",
+        "description": "second-filing-of-annual-return-with-made-up-date",
+        "type": "RP04AR01",
+        "pages": 20,
+        "barcode": "AAA5XGCX",
+        "transaction_id": "MzMxMDM3NDQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-08-11",
+        "description": "second-filing-of-annual-return-with-made-up-date",
+        "type": "RP04AR01",
+        "pages": 20,
+        "barcode": "AAA5XGD5",
+        "transaction_id": "MzMxMDM3Mzk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-08-11",
+        "description": "second-filing-of-annual-return-with-made-up-date",
+        "type": "RP04AR01",
+        "pages": 20,
+        "barcode": "AAA5XGDD",
+        "transaction_id": "MzMxMDM3MzE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-08-11",
+        "description": "second-filing-of-annual-return-with-made-up-date",
+        "type": "RP04AR01",
+        "pages": 20,
+        "barcode": "AAA5XGDL",
+        "transaction_id": "MzMxMDM3MjA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-08-05",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUE5SVM2QkthZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA8MPHOJ",
+        "transaction_id": "MzMwNzU0NzIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XA8MURH4",
+        "transaction_id": "MzMwNzU0NDQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA8MPD0G",
+        "transaction_id": "MzMwNzU0MjIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA8MPIA2",
+        "transaction_id": "MzMwNzUzOTc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA8MPI6Q",
+        "transaction_id": "MzMwNzUzOTcyN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 112,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Hireserve.com",
+    "headcount": 10,
+    "business_keywords": [
+      "applicant tracking system",
+      "ATS",
+      "recruitment software",
+      "in-house recruitment",
+      "talent management",
+      "recruitment efficiency",
+      "hiring process automation",
+      "candidate experience",
+      "recruitment metrics",
+      "diversity & inclusivity",
+      "HR expertise",
+      "recruitment workflows",
+      "talent pools",
+      "job requisition",
+      "UK-based ATS"
+    ],
+    "services": [
+      "applicant tracking system (ATS) for in-house recruitment",
+      "automation of recruitment tasks",
+      "streamlining recruitment workflows",
+      "candidate sourcing",
+      "talent evaluation",
+      "hiring process management",
+      "custom reporting for recruitment metrics",
+      "interview scheduling",
+      "candidate communication management",
+      "recruitment compliance support",
+      "dedicated implementation support",
+      "technical support",
+      "customer training",
+      "feature updates",
+      "enhanced services for ATS performance"
+    ],
+    "customer_segments": [
+      "in-house recruitment teams",
+      "education sector (universities, colleges)",
+      "not-for-profit organizations",
+      "public sector (local authorities, public bodies)",
+      "charities",
+      "lean HR teams",
+      "ambitious recruitment teams"
+    ],
+    "business_description": "Hireserve Limited provides a UK-based applicant tracking system (ATS) designed specifically for in-house recruitment teams. The company offers recruitment software that automates tasks, streamlines workflows, and manages the entire hiring process, with a focus on efficiency, candidate experience, and compliance. Hireserve serves sectors such as education, not-for-profit, and public sector organizations.",
+    "website_analyzed_at": "2025-12-29T16:41:56.740Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.123Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 35,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 28.386123845414765,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 10,
+        "weight": 10
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:26:42.458Z"
+  },
+  "scraped_at": "2025-12-28T19:12:20.981Z",
+  "updated_at": "2026-01-09T19:08:22.123Z",
+  "version": 1
+}

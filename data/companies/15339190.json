@@ -1,0 +1,292 @@
+{
+  "company_name": "ILKARI UK LTD",
+  "company_number": "15339190",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-12-09",
+  "jurisdiction": "england-wales",
+  "registered_address": "14 Farnborough Street, Farnborough, Hampshire, GU14 8AG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "14 Farnborough Street",
+    "country": "United Kingdom",
+    "locality": "Farnborough",
+    "postal_code": "GU14 8AG",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-06",
+    "last_made_up_to": "2025-02-20",
+    "next_made_up_to": "2026-02-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MCLEOD, James Alexander",
+        "officer_role": "director",
+        "appointed_on": "2024-07-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1978,
+        "nationality": "British,Irish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Farnborough Street",
+          "country": "United Kingdom",
+          "locality": "Farnborough",
+          "postal_code": "GU14 8AG",
+          "premises": "14",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "PATERSON, Shane Andrew Suranjan",
+        "officer_role": "director",
+        "appointed_on": "2023-12-09",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Farnborough Street",
+          "country": "United Kingdom",
+          "locality": "Farnborough",
+          "postal_code": "GU14 8AG",
+          "premises": "14",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ilkari Holding Company Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2024-02-12",
+        "address": {
+          "address_line_1": "The Mill Enterprise Hub",
+          "address_line_2": "Newtown Link Road",
+          "country": "Ireland",
+          "locality": "Drogheda",
+          "premises": "The Mill Enterprise Hub"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2014",
+          "country_registered": "Ireland",
+          "place_registered": "Ireland",
+          "registration_number": "753885"
+        }
+      },
+      {
+        "name": "Mr Shane Andrew Suranjan Paterson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-12-09",
+        "ceased_on": "2024-02-12",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Duncannon Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2N 4JF",
+          "premises": "Golden Cross House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE8PL61T",
+        "transaction_id": "MzQ3Njc1ODYyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDXSUWUO",
+        "transaction_id": "MzQ1NzY5MDgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWT2XF4",
+        "transaction_id": "MzQ1NTc5MzAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-17",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD7J63RL",
+        "transaction_id": "MzQyOTIyNTU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD39IMSJ",
+        "transaction_id": "MzQyMjE4OTM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD2811UP",
+        "transaction_id": "MzQyMDQxMTIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCY59KUP",
+        "transaction_id": "MzQxMzI2OTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCXGXDMP",
+        "transaction_id": "MzQxMjIwMTkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-21",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCXBKI4O",
+        "transaction_id": "MzQxMTkyMjg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCXBKHF7",
+        "transaction_id": "MzQxMTkyMjcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-20",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCX8VXV4",
+        "transaction_id": "MzQxMTc1MTEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCX8SKCP",
+        "transaction_id": "MzQxMTcyMzgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-12-09",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCHVRKAA",
+        "transaction_id": "MzQwMzAyNTkyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 13,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 27.16,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.0601305912290715,
+        "weight": 17.160887824938165
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 10,
+        "weight": 10
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:39.446Z"
+  },
+  "scraped_at": "2025-12-28T17:19:59.825Z",
+  "updated_at": "2025-12-29T22:44:39.447Z",
+  "version": 1
+}

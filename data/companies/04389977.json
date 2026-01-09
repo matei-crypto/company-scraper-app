@@ -1,0 +1,511 @@
+{
+  "company_name": "MPBA LIMITED",
+  "company_number": "04389977",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2002-03-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Whitehouse, Greenalls Avenue, Warrington, Cheshire, WA4 6HL, England",
+  "registered_address_structured": {
+    "address_line_1": "The Whitehouse",
+    "address_line_2": "Greenalls Avenue",
+    "country": "England",
+    "locality": "Warrington",
+    "postal_code": "WA4 6HL",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-14",
+    "last_made_up_to": "2025-07-31",
+    "next_made_up_to": "2026-07-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PRICE, David Andrew",
+        "officer_role": "director",
+        "appointed_on": "2015-07-23",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Greenalls Avenue",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA4 6HL",
+          "premises": "The Whitehouse",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "EDBROOKE, Roger Michael",
+        "officer_role": "director",
+        "appointed_on": "2002-04-19",
+        "resigned_on": "2006-04-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Windmill Cottage",
+          "address_line_2": "Lilley Bottom",
+          "locality": "Kings Walden",
+          "postal_code": "SG4 8LW",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "JACKSON, Trevor Edward",
+        "officer_role": "director",
+        "appointed_on": "2002-04-19",
+        "resigned_on": "2019-07-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "119 London Road",
+          "locality": "Burgess Hill",
+          "postal_code": "RH15 8LU",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "MULLENGER, Roger Arthur",
+        "officer_role": "director",
+        "appointed_on": "2002-04-19",
+        "resigned_on": "2019-07-31",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Woodbine Cottage Hawkley Road",
+          "locality": "Liss",
+          "postal_code": "GU33 6JP",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "PARKIN, Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2003-11-07",
+        "resigned_on": "2006-04-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "7 Shillington Road",
+          "address_line_2": "Pirton",
+          "locality": "Hitchin",
+          "postal_code": "SG5 3QJ",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "BRIGHTON DIRECTOR LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2002-03-08",
+        "resigned_on": "2002-03-11",
+        "address": {
+          "address_line_1": "381 Kingsway",
+          "locality": "Hove",
+          "postal_code": "BN3 4QD",
+          "region": "East Sussex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MULLENGER, Elisabeth Anne",
+        "officer_role": "secretary",
+        "appointed_on": "2002-04-19",
+        "resigned_on": "2019-07-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Woodbine Cottage Hawkley Road",
+          "locality": "Liss",
+          "postal_code": "GU33 6JP",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "BRIGHTON SECRETARY LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2002-03-08",
+        "resigned_on": "2002-03-11",
+        "address": {
+          "address_line_1": "381 Kingsway",
+          "locality": "Hove",
+          "postal_code": "BN3 4QD",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Roger Arthur Mullenger",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-07-31",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Road",
+          "country": "England",
+          "locality": "Burgess Hill",
+          "postal_code": "RH15 8LU",
+          "premises": "119",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "Mr Trevor Edward Jackson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-07-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Road",
+          "country": "England",
+          "locality": "Burgess Hill",
+          "postal_code": "RH15 8LU",
+          "premises": "119",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "Mr David Andrew Price",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Greenalls Avenue",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA4 6HL",
+          "premises": "The Whitehouse",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE8HSG8X",
+        "transaction_id": "MzQ3NjYyNTIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDWAGFUY",
+        "transaction_id": "MzQ1NDk0MTI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD9BNA5E",
+        "transaction_id": "MzQzMTg3NjAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCZQ3MNM",
+        "transaction_id": "MzQxNjA3NTM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC9Y4X9E",
+        "transaction_id": "MzM4OTU3MTAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBFYVKMY",
+        "transaction_id": "MzM1NzQzMjI0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBDKI7QZ",
+        "transaction_id": "MzM1MzUyNjc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBDKI78P",
+        "transaction_id": "MzM1MzUyNjU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9EWQCW",
+        "transaction_id": "MzM0NzM3MDQ2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAF0ND42",
+        "transaction_id": "MzMxNjkyNTY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAA1EB1C",
+        "transaction_id": "MzMwOTQzOTkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA0UFW9K",
+        "transaction_id": "MzI5NTIwMDkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9AFO77N",
+        "transaction_id": "MzI3NDMxNTM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-07-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9AFNYDM",
+        "transaction_id": "MzI3NDMxMzI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8YI329V",
+        "transaction_id": "MzI1NjgzNzQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-08-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8AWQGFL",
+        "transaction_id": "MzI0MDgyNjQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8ATVH9V",
+        "transaction_id": "MzI0MDY2Nzk2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-07-31",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X8ATV228",
+        "transaction_id": "MzI0MDY2NDAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-07-31",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X8ATV1GR",
+        "transaction_id": "MzI0MDY2MzkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-07-31",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X8ATV1MU",
+        "transaction_id": "MzI0MDY2Mzg5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-07-31",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X8ATV0QB",
+        "transaction_id": "MzI0MDY2Mzc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-07-31",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X8ATV0PN",
+        "transaction_id": "MzI0MDY2MzczNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X831E5LK",
+        "transaction_id": "MzIzMTYzMjM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X814175D",
+        "transaction_id": "MzIyOTE2ODIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-04-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A739R4SY",
+        "transaction_id": "MzIwMjM0MzQ4MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 77,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Mpba.co.uk",
+    "headcount": 7,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 32,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 23.829990804318875,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:43:10.931Z"
+  },
+  "scraped_at": "2025-12-28T21:19:29.233Z",
+  "updated_at": "2025-12-29T22:43:10.931Z",
+  "version": 1
+}

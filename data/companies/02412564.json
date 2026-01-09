@@ -1,0 +1,620 @@
+{
+  "company_name": "ABBEY ICT LTD",
+  "company_number": "02412564",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1989-08-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "Logic House, Ordnance Street, Blackburn, Lancashire, BB1 3AE",
+  "registered_address_structured": {
+    "address_line_1": "Logic House",
+    "address_line_2": "Ordnance Street",
+    "locality": "Blackburn",
+    "postal_code": "BB1 3AE",
+    "region": "Lancashire"
+  },
+  "sic_codes": [
+    "61100",
+    "61900",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ABBEY TELECOM LIMITED",
+      "ceased_on": "2022-09-28",
+      "effective_from": "1989-12-18"
+    },
+    {
+      "name": "ACCESS PAYPHONES LIMITED",
+      "ceased_on": "1989-12-18",
+      "effective_from": "1989-11-08"
+    },
+    {
+      "name": "EUROHMS LIMITED",
+      "ceased_on": "1989-11-08",
+      "effective_from": "1989-08-10"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-24",
+    "last_made_up_to": "2025-08-10",
+    "next_made_up_to": "2026-08-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOTHAM, Andrew Derek",
+        "officer_role": "director",
+        "appointed_on": "2018-10-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Clayton Business Park",
+          "country": "United Kingdom",
+          "locality": "Clayton Le Moors",
+          "postal_code": "BB5 5JR",
+          "premises": "Reception 1, First Floor Offices, Red Rose Court",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "WILSON, Andrew George",
+        "officer_role": "director",
+        "appointed_on": "2014-12-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ordnance Street",
+          "country": "England",
+          "locality": "Blackburn",
+          "postal_code": "BB1 3AE",
+          "premises": "Logic House",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "RAYNOR, Alison Jane",
+        "officer_role": "director",
+        "appointed_on": "2003-04-01",
+        "resigned_on": "2018-10-03",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "200 Clifton Drive South",
+          "locality": "Lytham St. Annes",
+          "postal_code": "FY8 1HX",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "RAYNOR, Antony Simon",
+        "officer_role": "director",
+        "resigned_on": "2018-10-03",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "200 Clifton Drive South",
+          "locality": "Lytham St. Annes",
+          "postal_code": "FY8 1HX",
+          "region": "Lancashire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WILSON, Andrew George",
+        "officer_role": "secretary",
+        "appointed_on": "2014-02-03",
+        "address": {
+          "address_line_1": "Ordnance Street",
+          "country": "England",
+          "locality": "Blackburn",
+          "postal_code": "BB1 3AE",
+          "premises": "Logic House",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "RAYNOR, Alison Jane",
+        "officer_role": "secretary",
+        "appointed_on": "2000-09-22",
+        "resigned_on": "2018-10-03",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "200 Clifton Drive South",
+          "locality": "Lytham St. Annes",
+          "postal_code": "FY8 1HX",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "RAYNOR, Deborah Louise",
+        "officer_role": "secretary",
+        "resigned_on": "2002-03-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "High Fold",
+          "address_line_2": "Kettlewell",
+          "locality": "Skipton",
+          "postal_code": "BD23 5RJ",
+          "region": "North Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Abbey Telecom Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2018-10-03",
+        "ceased_on": "2018-10-03",
+        "address": {
+          "address_line_1": "Ordnance Street",
+          "country": "England",
+          "locality": "Blackburn",
+          "postal_code": "BB1 3AE",
+          "premises": "Logic House",
+          "region": "Lancashire"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "11440945"
+        }
+      },
+      {
+        "name": "Abbey Ict Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2018-10-03",
+        "address": {
+          "address_line_1": "Ordnance Street",
+          "country": "United Kingdom",
+          "locality": "Blackburn",
+          "postal_code": "BB1 3AE",
+          "premises": "Logic House",
+          "region": "Lancashire"
+        },
+        "identification": {
+          "legal_form": "Limited",
+          "legal_authority": "England & Wales",
+          "country_registered": "England",
+          "place_registered": "England",
+          "registration_number": "11440945"
+        }
+      },
+      {
+        "name": "Mrs Alison Jane Raynor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-08-10",
+        "ceased_on": "2018-10-03",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Lytham St Annes",
+          "postal_code": "FY8 1HX",
+          "premises": "200 Clifton Drive South",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "Mr Antony Simon Raynor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2016-08-10",
+        "ceased_on": "2018-10-03",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Lytham St Annes",
+          "postal_code": "FY8 1HX",
+          "premises": "200 Clifton Drive South",
+          "region": "Lancashire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "024125640003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-02-26",
+        "delivered_on": "2025-02-27",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All other freehold and leasehold property now or in the future belonging to the company together with all buildings, trade and other fixtures, fixed plant and machinery of the company from time to time on such property and;. All patents, copyrights, marks, service marks, designs and other intellectual property rights (including without limitation business names, know-how, formulae, inventions, confidential information, trade secrets, computer software, programs and systems), claims and all fees, royalties and other rights of every kind deriving from such intellectual property now or in the future belonging to the company.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Npif Ii -Debt Nw LP Acting by Fwc Npifii Debt Gp Limited, as the General Partner of Npif Ii Debt Nw LP, Acting by Fw Capital Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "024125640002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-07-21",
+        "delivered_on": "2020-07-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2025-02-19",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "024125640001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-10-03",
+        "delivered_on": "2018-10-08",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All estates or interests in any freehold, leasehold or commonhold property in england and wales now belonging to the chargor.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Evbl (General Partner Ev Sme Loans) Limited Acting on Behalf of and in Its Capacity as General Partner to Enterprise Ventures Sme Loans LP"
+          }
+        ],
+        "satisfied_on": "2025-02-25",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-10-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XED8FB1R",
+        "transaction_id": "MzQ4NTA1Njk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEC6G90R",
+        "transaction_id": "MzQ4MzIyOTU0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE9BAV8A",
+        "transaction_id": "MzQ3ODA3NzgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE7FL02A",
+        "transaction_id": "MzQ3NDg2ODM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE7FKYNF",
+        "transaction_id": "MzQ3NDg2ODAzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-06-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE44UM56",
+        "transaction_id": "MzQ2OTIwMTI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-27",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 36,
+        "barcode": "XDX9LLGH",
+        "transaction_id": "MzQ1NjcxOTkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-25",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDX3YDPT",
+        "transaction_id": "MzQ1NjMxMzI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-19",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDWQJ4P7",
+        "transaction_id": "MzQ1NTcwODkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD9WVA3L",
+        "transaction_id": "MzQzMjcyODkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD81R9G1",
+        "transaction_id": "MzQyOTkyMDYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-18",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XCECOAEI",
+        "transaction_id": "MzM5Njg3MDE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCECOZG0",
+        "transaction_id": "MzM5Njg3NjE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCECOBAJ",
+        "transaction_id": "MzM5Njg3MDQyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC9L2MS9",
+        "transaction_id": "MzM4OTIyODEyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-02",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XBW1TH75",
+        "transaction_id": "MzM2NzI0MjM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-09-28",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 2,
+        "barcode": "ABDD3G7S",
+        "transaction_id": "MzM1MzMzMDYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-09-28",
+        "description": "change-of-name-notice",
+        "type": "CONNOT",
+        "pages": 2,
+        "barcode": "ABDD3G7K",
+        "transaction_id": "MzM1MzMyODY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBA5PO7V",
+        "transaction_id": "MzM0ODQzOTY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBA3081C",
+        "transaction_id": "MzM0ODMyMzA1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAGVJULM",
+        "transaction_id": "MzMxOTU5MjcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAAK2VQ8",
+        "transaction_id": "MzMxMDIzOTIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9G3UOTL",
+        "transaction_id": "MzI4MTIzNTAwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9B5QY0R",
+        "transaction_id": "MzI3NDk0OTI1OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-07-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X99WYGNS",
+        "transaction_id": "MzI3MzcxOTAxMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 119,
+    "recent_filings_count": 9
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Abbeytelecom.co.uk",
+    "headcount": 13,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 38,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 36.41350046626078,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 13,
+        "weight": 13
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:15:51.375Z"
+  },
+  "scraped_at": "2025-12-28T17:04:58.719Z",
+  "updated_at": "2025-12-29T22:15:51.375Z",
+  "version": 1
+}

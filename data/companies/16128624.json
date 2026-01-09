@@ -1,0 +1,184 @@
+{
+  "company_name": "NXTROOOT LIMITED",
+  "company_number": "16128624",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-12-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "100 Mile End Road, London, E1 4UN, England",
+  "registered_address_structured": {
+    "address_line_1": "100 Mile End Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 4UN"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "STILT0N SHOP LIMITED",
+      "ceased_on": "2025-11-17",
+      "effective_from": "2024-12-10"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-07-31",
+    "next_accounts_period_end_on": "2026-10-31",
+    "next_accounts_period_start_on": "2025-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-29",
+    "last_made_up_to": "2025-11-15",
+    "next_made_up_to": "2026-11-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GHOSH, Shimul",
+        "officer_role": "director",
+        "appointed_on": "2024-12-10",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mile End Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 4UN",
+          "premises": "100"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Shimul Ghosh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-12-10",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mile End Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 4UN",
+          "premises": "100"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "change-of-name",
+        "date": "2025-11-17",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XEFDEVFL",
+        "transaction_id": "MzQ4OTEyNTE2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEFDEVDD",
+        "transaction_id": "MzQ4OTA2NTIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEFDEV7C",
+        "transaction_id": "MzQ4OTA2NTE5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-15",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEFDEUWQ",
+        "transaction_id": "MzQ4OTA2NTEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-12-10",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XDHKNFB4",
+        "transaction_id": "MzQ0NjUwNDk1N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 5,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 39.79,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.0546529262747337,
+        "weight": 8.785258875868532
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 5.4,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:35.565Z",
+    "location_distance_km": 5.4
+  },
+  "scraped_at": "2025-12-28T18:00:59.850Z",
+  "updated_at": "2025-12-29T22:45:35.566Z",
+  "version": 1
+}

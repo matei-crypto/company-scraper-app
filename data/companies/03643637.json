@@ -1,0 +1,533 @@
+{
+  "company_name": "FORFRONT LIMITED",
+  "company_number": "03643637",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1998-10-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "3rd Floor Paternoster House, 65 St Paul's Churchyard, London, EC4M 8AB",
+  "registered_address_structured": {
+    "address_line_1": "3rd Floor Paternoster House",
+    "address_line_2": "65 St Paul's Churchyard",
+    "locality": "London",
+    "postal_code": "EC4M 8AB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NET FORMATION LIMITED",
+      "ceased_on": "2014-01-24",
+      "effective_from": "1998-10-05"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-19",
+    "last_made_up_to": "2025-10-05",
+    "next_made_up_to": "2026-10-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KELLERMANN, Ron",
+        "officer_role": "director",
+        "appointed_on": "1998-10-05",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Paternoster House",
+          "address_line_2": "65 St Paul's Churchyard",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 8AB",
+          "premises": "3rd Floor"
+        }
+      },
+      {
+        "name": "THOMSON, John Alexander",
+        "officer_role": "director",
+        "appointed_on": "1998-10-05",
+        "resigned_on": "2009-11-03",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1944,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Green Cottage",
+          "address_line_2": "Godstone Green",
+          "locality": "Godstone",
+          "postal_code": "RH9 8DZ",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "DEANSGATE COMPANY FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1998-10-05",
+        "resigned_on": "1998-10-05",
+        "address": {
+          "address_line_1": "The Britannia Suite International House",
+          "address_line_2": "82-86 Deansgate",
+          "locality": "Manchester",
+          "postal_code": "M3 2ER"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "KELLERMANN, Ron",
+        "officer_role": "secretary",
+        "appointed_on": "2008-05-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Paternoster House",
+          "address_line_2": "65 St Paul's Churchyard",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 8AB",
+          "premises": "3rd Floor"
+        }
+      },
+      {
+        "name": "THOMSON, John Alexander",
+        "officer_role": "secretary",
+        "appointed_on": "1998-10-05",
+        "resigned_on": "2008-05-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Green Cottage",
+          "address_line_2": "Godstone Green",
+          "locality": "Godstone",
+          "postal_code": "RH9 8DZ",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BRITANNIA COMPANY FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1998-10-05",
+        "resigned_on": "1998-10-05",
+        "address": {
+          "address_line_1": "The Britannia Suite International House",
+          "address_line_2": "82-86 Deansgate",
+          "locality": "Manchester",
+          "postal_code": "M3 2ER"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ron Kellermann",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Paternoster House",
+          "address_line_2": "65 St Paul's Churchyard",
+          "locality": "London",
+          "postal_code": "EC4M 8AB",
+          "premises": "3rd Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "036436370002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-12-21",
+        "delivered_on": "2018-12-24",
+        "particulars": {
+          "type": "brief-description",
+          "description": "N/A.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Carolyn Corporation"
+          }
+        ],
+        "satisfied_on": "2023-01-18",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "036436370001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-09-18",
+        "delivered_on": "2014-09-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC (As Security Trustee)"
+          }
+        ],
+        "satisfied_on": "2019-01-07",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECMUSBU",
+        "transaction_id": "MzQ4Mzg5Mjk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "ADYECJGR",
+        "transaction_id": "MzQ2MTE1MjI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDITS9N",
+        "transaction_id": "MzQzOTE5NjA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "ACZT1UIW",
+        "transaction_id": "MzQxNzE1MDExN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "ACZT1UJ4",
+        "transaction_id": "MzQxNzE1MDEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-29",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCZQMTBN",
+        "transaction_id": "MzQxNjMyMTU3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-25",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XCX0SME9",
+        "transaction_id": "MzQxMTQ2OTc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-25",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 4,
+        "barcode": "XCX0MTUX",
+        "transaction_id": "MzQxMTM4NzI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCDR5UCG",
+        "transaction_id": "MzM5NTY5MTQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-06",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC0PN3D5",
+        "transaction_id": "MzM3NTE3NDgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-01-25",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 7,
+        "transaction_id": "QUJWV05VQTFhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-01-25",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 23,
+        "barcode": "ABVWNU9T",
+        "transaction_id": "MzM2NzA5NjI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-01-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XBVTMMHD",
+        "transaction_id": "MzM2Njc4NzM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-18",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBVGFFY8",
+        "transaction_id": "MzM2NjI4MTM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-01-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBVGG320",
+        "transaction_id": "MzM2NjI5MTQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEBL2Y1",
+        "transaction_id": "MzM1NDYyMzc1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "AB13JOLF",
+        "transaction_id": "MzMzNTI0MjQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEN8PFD",
+        "transaction_id": "MzMxNjM4NjUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "A9XP1C4G",
+        "transaction_id": "MzI5MTQwMzQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A9X1UREI",
+        "transaction_id": "MzI5MDY4MTc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9F540HK",
+        "transaction_id": "MzI3OTkxMDE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-27",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8XJEBAH",
+        "transaction_id": "MzI1NTYxMDI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "L8KMBQ8A",
+        "transaction_id": "MzI1MjY5OTQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8FOG780",
+        "transaction_id": "MzI0NjMwNTgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-01-07",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X7WMF9JX",
+        "transaction_id": "MzIyMzg3MDUwNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 89,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 27
+  },
+  "enrichment": {
+    "website": "https://Forfront.com",
+    "headcount": 27,
+    "tech_stack": [
+      "DoS2 framework"
+    ],
+    "business_keywords": [
+      "bespoke software development",
+      "software development",
+      "digital communications",
+      "email solutions",
+      "SMS solutions",
+      "marketing automation",
+      "legacy systems modernisation",
+      "SaaS solutions",
+      "project rescue",
+      "web development",
+      "mobile development",
+      "white label software",
+      "business process development",
+      "multi-channel communication",
+      "UK-based software development"
+    ],
+    "services": [
+      "Bespoke software development",
+      "e-shot marketing automation (integrated email and SMS solution)",
+      "Legacy systems modernisation",
+      "SaaS solutions development",
+      "Project rescue",
+      "Scoping and requirements definition",
+      "MVP (Minimum Viable Product) development",
+      "Rapid prototyping",
+      "UX design",
+      "Software development for web and mobile",
+      "White label software development",
+      "Software support and maintenance"
+    ],
+    "customer_segments": [
+      "Organisations needing digital communication solutions",
+      "Businesses with outdated or ineffective operational software",
+      "Funded start-ups",
+      "Established businesses looking for new routes to market",
+      "Organisations with stalled or failing projects",
+      "Businesses of all sizes (large and small)",
+      "Companies requiring business-critical software solutions"
+    ],
+    "business_description": "Forfront is a UK-based bespoke software development company specializing in tailored solutions for complex challenges. They provide integrated email and SMS marketing automation, legacy systems modernisation, SaaS solutions, and project rescue services. Their focus is on developing custom software to increase productivity, improve efficiency, and support business growth for organizations of all sizes.",
+    "website_analyzed_at": "2025-12-29T17:01:53.541Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.225Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 27.25462310657661,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 27,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:29:55.205Z"
+  },
+  "scraped_at": "2025-12-28T19:37:14.928Z",
+  "updated_at": "2026-01-09T19:08:22.225Z",
+  "version": 1
+}

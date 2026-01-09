@@ -1,0 +1,499 @@
+{
+  "company_name": "CATALINA SOFTWARE LIMITED",
+  "company_number": "03343768",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1997-04-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Milton Hall Ely Road, Milton, Cambridge, CB24 6WZ, England",
+  "registered_address_structured": {
+    "address_line_1": "Milton Hall Ely Road",
+    "address_line_2": "Milton",
+    "country": "England",
+    "locality": "Cambridge",
+    "postal_code": "CB24 6WZ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-04",
+    "last_made_up_to": "2025-04-20",
+    "next_made_up_to": "2026-04-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WHITING, Graeme John",
+        "officer_role": "director",
+        "appointed_on": "1997-04-02",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ely Road",
+          "address_line_2": "Milton",
+          "country": "England",
+          "locality": "Cambridge",
+          "postal_code": "CB24 6WZ",
+          "premises": "Milton Hall"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WHITING, Caroline",
+        "officer_role": "secretary",
+        "appointed_on": "1997-04-02",
+        "resigned_on": "2013-03-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Manor Farm House",
+          "address_line_2": "30 West End Northwold",
+          "locality": "Thetford",
+          "postal_code": "IP26 5LE",
+          "region": "Norfolk"
+        }
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1997-04-02",
+        "resigned_on": "1997-04-02",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Graeme John Whiting",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bell Meadow",
+          "country": "England",
+          "locality": "Bury St Edmunds",
+          "postal_code": "IP32 6AU",
+          "premises": "1a",
+          "region": "Suffolk"
+        }
+      },
+      {
+        "name": "Nelson West Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "London Road",
+          "country": "England",
+          "locality": "Downham Market",
+          "postal_code": "PE38 9BJ",
+          "premises": "23"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "033437680001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-01-17",
+        "delivered_on": "2015-01-27",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEI1PLXS",
+        "transaction_id": "MzQ5NTk5MjM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE14CIP2",
+        "transaction_id": "MzQ2MzcwNzc2NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE0OIT1D",
+        "transaction_id": "MzQ2MzA4ODQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE0LRF3V",
+        "transaction_id": "MzQ2Mjk1NTgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDFEFKLT",
+        "transaction_id": "MzQ0MjM5MDQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2YLGBF",
+        "transaction_id": "MzQyMTM1MDYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCIV85BT",
+        "transaction_id": "MzQwNTI0NjA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2SN3HS",
+        "transaction_id": "MzM3ODU2MDAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBJEV5IB",
+        "transaction_id": "MzM2MzQ4MDI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2UU4D6",
+        "transaction_id": "MzMzNzY5OTg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AB0TCADM",
+        "transaction_id": "MzMzNDYzMzY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA5Q1DUE",
+        "transaction_id": "MzMwMjk4MTkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA5CGVDS",
+        "transaction_id": "MzMwMjM2NjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A9ZMLYNE",
+        "transaction_id": "MzI5Mzc1MzUzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94380YR",
+        "transaction_id": "MzI2MzYzMjQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A8KNQOBL",
+        "transaction_id": "MzI1MjY0MDMwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X84KXPTD",
+        "transaction_id": "MzIzMzQzNDI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A7KOKOPN",
+        "transaction_id": "MzIyMjUwMzMyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X74LV3IZ",
+        "transaction_id": "MzIwMzQzOTgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A6LSS8NV",
+        "transaction_id": "MzE5NDIwMTMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X65RJICB",
+        "transaction_id": "MzE3NTE2MzQ2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X5MG3UZM",
+        "transaction_id": "MzE2NTIxMDE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-05-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X57NSFAI",
+        "transaction_id": "MzE0OTIwODQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-04-21",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X55ELRGO",
+        "transaction_id": "MzE0Njg1NDU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A4M0Q8RN",
+        "transaction_id": "MzEzNzQ4OTI2N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 73,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Catalina-software.co.uk",
+    "headcount": 11,
+    "tech_stack": [
+      "Google Maps",
+      "iOS",
+      "Android"
+    ],
+    "business_keywords": [
+      "logistics software",
+      "transportation software",
+      "ground transportation",
+      "executive travel software",
+      "private hire software",
+      "chauffeur software",
+      "courier software",
+      "booking management",
+      "route planning",
+      "scheduling software",
+      "non-emergency patient transport software",
+      "SEND transport software",
+      "rail replacement software",
+      "taxi management system",
+      "mobility software"
+    ],
+    "services": [
+      "logistics software solutions",
+      "booking management",
+      "scheduling",
+      "route planning",
+      "online booking system",
+      "pricing and invoicing",
+      "customer reporting",
+      "software consultancy",
+      "real-time driver tracking",
+      "E-commerce delivery solution",
+      "credit card payment processing",
+      "customisable reporting",
+      "loyalty and rewards schemes",
+      "driver pay models",
+      "automated payment and invoice processes",
+      "business intelligence dashboard",
+      "customer service management",
+      "flight information integration",
+      "resource allocation",
+      "historical data and reporting",
+      "customisable web booking system",
+      "mobile driver app",
+      "customer passenger app"
+    ],
+    "customer_segments": [
+      "executive travel providers",
+      "private hire companies",
+      "chauffeur companies",
+      "courier companies",
+      "transport companies",
+      "non-emergency patient transport providers",
+      "special educational needs transport operators",
+      "rail operators",
+      "taxi operators",
+      "SME clients",
+      "corporate clients",
+      "public sector clients"
+    ],
+    "business_description": "Catalina Software Limited provides expertly tailored logistics software solutions for logistics and ground transportation, including executive travel, private hire, chauffeur, and courier companies. Their flagship product, Freedom Logistics Software, offers unrivalled functionality for planning, managing, and delivering the entire logistics process, supporting various sectors such as non-emergency patient transport, SEND transport, rail replacement, and courier services.",
+    "website_analyzed_at": "2025-12-29T16:35:11.827Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.088Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 51,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 28.764203966007102,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 11,
+        "weight": 11
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 84.5,
+        "weight": 15
+      }
+    ],
+    "computed_at": "2025-12-29T22:25:37.334Z",
+    "location_distance_km": 84.5
+  },
+  "scraped_at": "2025-12-28T19:04:03.894Z",
+  "updated_at": "2026-01-09T19:08:22.088Z",
+  "version": 1
+}

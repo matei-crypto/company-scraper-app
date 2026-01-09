@@ -1,0 +1,590 @@
+{
+  "company_name": "CDVI LTD",
+  "company_number": "03719229",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-02-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit B1 Knaves Beech Business Centre, Loudwater, High Wycombe, Buckinghamshire, HP10 9QR",
+  "registered_address_structured": {
+    "address_line_1": "Unit B1 Knaves Beech Business Centre",
+    "address_line_2": "Loudwater",
+    "locality": "High Wycombe",
+    "postal_code": "HP10 9QR",
+    "region": "Buckinghamshire"
+  },
+  "sic_codes": [
+    "25720",
+    "27900",
+    "62090",
+    "96090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CDV (UK) LIMITED",
+      "ceased_on": "2008-05-06",
+      "effective_from": "1999-03-17"
+    },
+    {
+      "name": "SPEED 7525 LIMITED",
+      "ceased_on": "1999-03-17",
+      "effective_from": "1999-02-24"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-10",
+    "last_made_up_to": "2025-02-24",
+    "next_made_up_to": "2026-02-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BENHAMMOU, David",
+        "officer_role": "director",
+        "appointed_on": "2004-04-13",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "20 Rue Colette Audry",
+          "country": "France",
+          "locality": "Le Pre Saint Gervais",
+          "postal_code": "93310",
+          "region": "93310"
+        }
+      },
+      {
+        "name": "BENHAMMOU, Yoram",
+        "officer_role": "director",
+        "appointed_on": "2016-04-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "Knaves Beech Business Centre",
+          "address_line_2": "Loudwater",
+          "locality": "High Wycombe",
+          "postal_code": "HP10 9QR",
+          "premises": "Unit B1",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "OLIVERIO, Alessandro",
+        "officer_role": "director",
+        "appointed_on": "2016-04-04",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1977,
+        "nationality": "Italian",
+        "country_of_residence": "Italy",
+        "address": {
+          "address_line_1": "Knaves Beech Business Centre",
+          "address_line_2": "Loudwater",
+          "locality": "High Wycombe",
+          "postal_code": "HP10 9QR",
+          "premises": "Unit B1",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "ASSOULINE, Eric",
+        "officer_role": "director",
+        "appointed_on": "2004-04-13",
+        "resigned_on": "2016-04-04",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "22 Boulevard Gambetta",
+          "country": "France",
+          "locality": "Noisy Le Sec",
+          "postal_code": "93130",
+          "region": "93130"
+        }
+      },
+      {
+        "name": "WALKER, Alan Charles",
+        "officer_role": "director",
+        "appointed_on": "1999-03-10",
+        "resigned_on": "2017-10-29",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Always",
+          "address_line_2": "Spurlands End Road, Great Kingshill",
+          "locality": "High Wycombe",
+          "postal_code": "HP15 6JA",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WATERLOW NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1999-02-24",
+        "resigned_on": "1999-03-10",
+        "address": {
+          "address_line_1": "6-8 Underwood Street",
+          "locality": "London",
+          "postal_code": "N1 7JQ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BINGLE, Timothy Mark",
+        "officer_role": "secretary",
+        "appointed_on": "1999-03-10",
+        "resigned_on": "1999-03-10",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "57 London Road",
+          "locality": "High Wycombe",
+          "postal_code": "HP11 1BS",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "SMITH, Trudi Diane",
+        "officer_role": "secretary",
+        "appointed_on": "1999-11-01",
+        "resigned_on": "2023-03-30",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "7 Fowlers Farm Road",
+          "address_line_2": "Stokenchurch",
+          "locality": "High Wycombe",
+          "postal_code": "HP14 3PU",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WALKER, Helen Lucy",
+        "officer_role": "secretary",
+        "appointed_on": "1999-03-10",
+        "resigned_on": "1999-11-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "4 Highworth Close",
+          "locality": "High Wycombe",
+          "postal_code": "HP13 7PJ",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WATERLOW SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1999-02-24",
+        "resigned_on": "1999-03-10",
+        "address": {
+          "address_line_1": "6-8 Underwood Street",
+          "locality": "London",
+          "postal_code": "N1 7JQ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr David Benhammou",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "Knaves Beech Business Centre",
+          "address_line_2": "Loudwater",
+          "locality": "High Wycombe",
+          "postal_code": "HP10 9QR",
+          "premises": "Unit B1",
+          "region": "Buckinghamshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Fixed charge on purchased debts which fail to vest and other debts and floating charge on banked proceeds of other debts"
+          }
+        ],
+        "created_on": "2001-04-26",
+        "delivered_on": "2001-05-03",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "By way of fixed equitable charge any debt together with its related rights purchased or purported to be purchased by the security holder pursuant to the agreement which fails to vest absolutely and effectively in the security holder for any reason (\"purchased debts\") and all indebtedness now or at any time afterwards owing or becoming due to the company on any account (together with the related rights pertaining thereto) other than the purchased debts pursuant to the agreement (\"other debts\") and by way of floating charge all of the moneys which the company may receive in respect of the other debts."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland Commercial Services Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever whether arising under the agreement for the purchase of debts or otherwise"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "1999-08-16",
+        "delivered_on": "1999-08-26",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "A specific equitable charge over all freehold and leasehold properties and/or the proceeds of sale thereof fixed and floating charges over undertaking and all property and assets present and future including goodwill bookdebts and the benefits of any licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEDM5I8Z",
+        "transaction_id": "MzQ4NTc0NDc4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXSTAFC",
+        "transaction_id": "MzQ1NzY3NzI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-18",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDG592HF",
+        "transaction_id": "MzQ0MzczNzMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCYDL5GB",
+        "transaction_id": "MzQxMzc0NDA0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ACB3CMJT",
+        "transaction_id": "MzM5MTkzMTAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-30",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XC0EH6T5",
+        "transaction_id": "MzM3NDY2Mzc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYG7WR7",
+        "transaction_id": "MzM3MTMyNDgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-11",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "AB3F87A0",
+        "transaction_id": "MzMzODY5NDk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZCAX1M",
+        "transaction_id": "MzMzMjE4Mjc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-23",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "AAD71837",
+        "transaction_id": "MzMxNDc4NDAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-23",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 36,
+        "barcode": "AAD7182R",
+        "transaction_id": "MzMxNDc4Mzg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2021-09-23",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 2,
+        "barcode": "AAD7182J",
+        "transaction_id": "MzMxNDc4MzMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2021-09-23",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AAD7182B",
+        "transaction_id": "MzMxNDc4MzE3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1J8N0O",
+        "transaction_id": "MzI5NjYwNjIxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-09",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A9H48THF",
+        "transaction_id": "MzI4Mjg3NDI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-09",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 23,
+        "barcode": "A9H48TKR",
+        "transaction_id": "MzI4Mjg3MzkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2020-10-16",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 2,
+        "barcode": "A9F53DKJ",
+        "transaction_id": "MzI4MDc4MjkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2020-10-16",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "A9F53DKR",
+        "transaction_id": "MzI4MDc4Mjg0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZJ73LE",
+        "transaction_id": "MzI1ODE1OTE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-22",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A8FR9VUP",
+        "transaction_id": "MzI0NzM0MjIxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-22",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 18,
+        "barcode": "A8FR9VUX",
+        "transaction_id": "MzI0NzM0MTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2019-09-18",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "R8DPTCLD",
+        "transaction_id": "MzI0NDUzMTI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2019-09-18",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "A8DOP7Y0",
+        "transaction_id": "MzI0NDUzMTEzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80O4XOO",
+        "transaction_id": "MzIyODY5MTUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-12",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A7F9TLQW",
+        "transaction_id": "MzIxNjg3OTQ4M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 104,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Cdvi.co.uk",
+    "headcount": 24,
+    "tech_stack": [
+      "MIFARE DESFire EV2"
+    ],
+    "business_keywords": [
+      "access control solutions",
+      "security solutions",
+      "residential access control",
+      "commercial access control",
+      "public buildings access control",
+      "manufacturer",
+      "KPROX",
+      "KPAD",
+      "SL1-33",
+      "MIFARE DESFire EV2",
+      "encrypted reader",
+      "high security",
+      "access control products",
+      "CDVI Academy",
+      "training sessions"
+    ],
+    "services": [
+      "manufacturing access control solutions",
+      "providing flexible access control and security solutions",
+      "training sessions (CDVI Academy Sessions)"
+    ],
+    "customer_segments": [
+      "residential",
+      "commercial",
+      "public buildings"
+    ],
+    "business_description": "CDVI LTD is a manufacturer of flexible access control and security solutions for residential, commercial, and public buildings. The company offers products such as encrypted MIFARE DESFire EV2 readers and provides training sessions through the CDVI Academy.",
+    "website_analyzed_at": "2025-12-29T17:09:41.526Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.261Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.86558413216641,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 24,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:31:02.384Z"
+  },
+  "scraped_at": "2025-12-28T19:46:12.953Z",
+  "updated_at": "2026-01-09T19:08:22.261Z",
+  "version": 1
+}

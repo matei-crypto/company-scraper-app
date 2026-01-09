@@ -1,0 +1,742 @@
+{
+  "company_name": "IQUAL LIMITED",
+  "company_number": "02672825",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1991-12-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "Hilden Park House 79 Tonbridge Road, Hildenborough, Tonbridge, Kent, TN11 9BH",
+  "registered_address_structured": {
+    "address_line_1": "Hilden Park House 79 Tonbridge Road",
+    "address_line_2": "Hildenborough",
+    "locality": "Tonbridge",
+    "postal_code": "TN11 9BH",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "HITEL LIMITED",
+      "ceased_on": "1992-03-23",
+      "effective_from": "1992-02-14"
+    },
+    {
+      "name": "SPEED 2261 LIMITED",
+      "ceased_on": "1992-02-14",
+      "effective_from": "1991-12-18"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2023-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2023-11-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-01",
+    "last_made_up_to": "2024-12-18",
+    "next_made_up_to": "2025-12-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLUNDELL, Paul Thomas",
+        "officer_role": "director",
+        "appointed_on": "1992-07-08",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "79 Tonbridge Road",
+          "address_line_2": "Hildenborough",
+          "locality": "Tonbridge",
+          "postal_code": "TN11 9BH",
+          "premises": "Hilden Park House",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "PERRY, Scott James",
+        "officer_role": "director",
+        "appointed_on": "2001-10-18",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "79 Tonbridge Road",
+          "address_line_2": "Hildenborough",
+          "locality": "Tonbridge",
+          "postal_code": "TN11 9BH",
+          "premises": "Hilden Park House",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "BARTLETT, Richard George",
+        "officer_role": "director",
+        "appointed_on": "1995-04-06",
+        "resigned_on": "1999-05-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Brunkards Lane",
+          "locality": "Pewsey",
+          "postal_code": "SN9 5AP",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "BROOKS, Lorraine Kay",
+        "officer_role": "director",
+        "appointed_on": "1992-02-03",
+        "resigned_on": "1995-08-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "142 High Street",
+          "address_line_2": "Burbage",
+          "locality": "Marlborough",
+          "postal_code": "SN8 3AB",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "BROOKS, Michael Colin",
+        "officer_role": "director",
+        "appointed_on": "1992-07-08",
+        "resigned_on": "2001-10-18",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "142 High Street",
+          "address_line_2": "Burbage",
+          "locality": "Marlborough",
+          "postal_code": "SN8 3AB",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "CHAPPELL, Brian John",
+        "officer_role": "director",
+        "appointed_on": "1994-06-01",
+        "resigned_on": "1996-01-03",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1949,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Greenview 13 The Links",
+          "address_line_2": "Addington",
+          "locality": "West Malling",
+          "postal_code": "ME19 5RX",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "COGGLE, Ranald Ogilvie",
+        "officer_role": "director",
+        "appointed_on": "1996-04-01",
+        "resigned_on": "1998-02-10",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "30 Park Avenue",
+          "locality": "Bedford",
+          "postal_code": "MK40 2LR",
+          "region": "Bedfordshire"
+        }
+      },
+      {
+        "name": "MOWAT, Timothy Richard",
+        "officer_role": "director",
+        "appointed_on": "1999-09-01",
+        "resigned_on": "2000-10-18",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1946,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Wychbury House Totterdown Lane",
+          "locality": "Fairford",
+          "postal_code": "GL7 4DF",
+          "region": "Gloucestershire"
+        }
+      },
+      {
+        "name": "MBC NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1991-12-18",
+        "resigned_on": "1992-02-03",
+        "address": {
+          "address_line_1": "Classic House",
+          "address_line_2": "174-180 Old Street",
+          "locality": "London",
+          "postal_code": "EC1V 9BP"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "PERRY, Scott James",
+        "officer_role": "secretary",
+        "appointed_on": "2004-08-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "79 Tonbridge Road",
+          "address_line_2": "Hildenborough",
+          "locality": "Tonbridge",
+          "postal_code": "TN11 9BH",
+          "premises": "Hilden Park House",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "BROOKS, Michael Colin",
+        "officer_role": "secretary",
+        "appointed_on": "1992-07-08",
+        "resigned_on": "2001-10-18",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "142 High Street",
+          "address_line_2": "Burbage",
+          "locality": "Marlborough",
+          "postal_code": "SN8 3AB",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "KNAPP, Stephen John",
+        "officer_role": "secretary",
+        "appointed_on": "1992-02-03",
+        "resigned_on": "1992-07-08",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "12 Bovingdon Heights",
+          "locality": "Marlow",
+          "postal_code": "SL7 2JS",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "WINSLOW, Michelle",
+        "officer_role": "secretary",
+        "appointed_on": "2001-10-18",
+        "resigned_on": "2004-08-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "14 Dinmore Road",
+          "locality": "Swindon",
+          "postal_code": "SN25 4TX",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "MBC SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1991-12-18",
+        "resigned_on": "1992-02-03",
+        "address": {
+          "address_line_1": "Classic House",
+          "address_line_2": "174-180 Old Street",
+          "locality": "London",
+          "postal_code": "EC1V 9BP"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Othello (Uk) Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "79 Tonbridge Road",
+          "address_line_2": "Hildenborough",
+          "country": "England",
+          "locality": "Tonbridge",
+          "postal_code": "TN11 9BH",
+          "premises": "Hilden Park House"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "1998-09-07",
+        "delivered_on": "1998-09-15",
+        "particulars": {
+          "type": "short-particulars",
+          "description": ".. fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2020-05-12",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "1996-11-08",
+        "delivered_on": "1996-11-14",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "satisfied_on": "1998-10-19",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Deed of charge over credit balances"
+          }
+        ],
+        "created_on": "1994-06-13",
+        "delivered_on": "1994-06-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed charge over all the deposits together with all interest in account no 60477060. see the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "1996-09-17",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "1993-07-20",
+        "delivered_on": "1993-07-29",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All amounts standing to the credit of a deposit account in the joint names of the land lord and the company ay barclays bank PLC. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Landene Investments Limited"
+          }
+        ],
+        "satisfied_on": "1996-10-10",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "The rent reserved by a lease dated 20/07/93 and all other monies due or to become due from the company to the chargee under the terms of the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "1993-02-05",
+        "delivered_on": "1993-02-16",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All amounts standing to the credit of an account with barclays bank PLC 54 lombard street london (please refer to form 395 M182C for full details)."
+        },
+        "persons_entitled": [
+          {
+            "name": "Landene Investments Limited"
+          }
+        ],
+        "satisfied_on": "1996-10-10",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "The rents reserved by a lease dated 5TH february 1993 abd all other monies due or to become due from the company to the chargee under the terms of the lease and this deed"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-18",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE98FRSU",
+        "transaction_id": "MzQ3NzYxODEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDI71IPE",
+        "transaction_id": "MzQ0ODE5NDkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDDTO1IA",
+        "transaction_id": "MzQzOTg1ODM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIVSOHL",
+        "transaction_id": "MzQwNTQ0OTQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIPKDTE",
+        "transaction_id": "MzQwNDgzODI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBJHJ841",
+        "transaction_id": "MzM2MzU5Njg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBJ6AGY2",
+        "transaction_id": "MzM2Mjg4MTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAWYJKSJ",
+        "transaction_id": "MzMyODYxNTc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJSKVJS",
+        "transaction_id": "MzMyNDMwMTA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA5CU469",
+        "transaction_id": "MzMwMjU0NTQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9KEVDWA",
+        "transaction_id": "MzI4NjY1MDA5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-12-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "X9KEVAQQ",
+        "transaction_id": "MzI4NjY0OTI5N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-05-12",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 2,
+        "barcode": "X94WD0BK",
+        "transaction_id": "MzI2NDU4NzQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KXBAIX",
+        "transaction_id": "MzI1Mjg5MzQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8KJWCAY",
+        "transaction_id": "MzI1MjQ3Mzk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7L3WSJT",
+        "transaction_id": "MzIyMjUxNzQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7KYIRMO",
+        "transaction_id": "MzIyMjMyMTIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2018-11-17",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzIxOTYwMzQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2018-10-30",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzIxNzU2ODQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6LS8060",
+        "transaction_id": "MzE5MzUwMTE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X6DYTS2J",
+        "transaction_id": "MzE4NDI3MDU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5M813GI",
+        "transaction_id": "MzE2NDg3NTU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-12-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X5M80RJV",
+        "transaction_id": "MzE2NDg3MjY2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-12-20",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X5M80R5L",
+        "transaction_id": "MzE2NDg3MjUyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-12-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X5M80R1C",
+        "transaction_id": "MzE2NDg3MjU2OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 128,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Iqual.co.uk",
+    "headcount": 10,
+    "tech_stack": [
+      "NCSC backed security credentials",
+      "Microsoft Teams"
+    ],
+    "business_keywords": [
+      "IT Support",
+      "Managed Service Provider",
+      "Telephony",
+      "Cyber Security",
+      "Business Continuity",
+      "Cloud Services",
+      "ITIL",
+      "Service Desk",
+      "RMM",
+      "PSA",
+      "Access Control",
+      "Unified Communication",
+      "VOIP",
+      "SIP",
+      "NCSC"
+    ],
+    "services": [
+      "Managed IT Support",
+      "ITIL-aligned Service Desk",
+      "Proactive IT management",
+      "Routine IT support services",
+      "Incident response",
+      "Cyber Security",
+      "Multi-layered managed cyber security",
+      "Business Continuity",
+      "Cloud Services",
+      "Private cloud solutions",
+      "Hybrid cloud solutions",
+      "Business phone systems",
+      "Managed telephony",
+      "VOIP",
+      "SIP",
+      "Teams integration",
+      "Call recording",
+      "Access Control",
+      "24/7 IT support"
+    ],
+    "customer_segments": [
+      "SMEs",
+      "Businesses across numerous industries"
+    ],
+    "business_description": "iQual Limited is a UK-based IT and telephony managed service provider offering fast, proactive, and unlimited IT support with a focus on cyber security, business continuity, and cloud services. They provide strategic IT solutions, including managed IT support, cyber security, access control, and unified communication systems, tailored to business needs.",
+    "website_analyzed_at": "2025-12-29T15:50:58.267Z",
+    "msp_likelihood_score": 39,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.872Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 43.33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 34.057341134037294,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 10,
+        "weight": 10
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 1,
+        "weight": 8.33
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:18:31.027Z"
+  },
+  "scraped_at": "2025-12-28T18:10:06.477Z",
+  "updated_at": "2026-01-09T19:08:21.871Z",
+  "version": 1
+}

@@ -1,0 +1,785 @@
+{
+  "company_name": "PARAGON HDX LIMITED",
+  "company_number": "03031787",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1995-03-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "Lincoln House, Wellington Crescent, Fradley Park, Lichfield, WS13 8RZ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Lincoln House",
+    "address_line_2": "Wellington Crescent",
+    "country": "United Kingdom",
+    "locality": "Fradley Park",
+    "postal_code": "WS13 8RZ",
+    "region": "Lichfield"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "AXIDA LIMITED",
+      "ceased_on": "2016-05-06",
+      "effective_from": "1999-10-07"
+    },
+    {
+      "name": "AXENT INTERNATIONAL LIMITED",
+      "ceased_on": "1999-10-07",
+      "effective_from": "1995-03-10"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "audit-exemption-subsidiary",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-14",
+    "last_made_up_to": "2025-02-28",
+    "next_made_up_to": "2026-02-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MARRISON, Nicola",
+        "officer_role": "director",
+        "appointed_on": "2020-07-21",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wellington Crescent",
+          "country": "United Kingdom",
+          "locality": "Fradley Park",
+          "postal_code": "WS13 8RZ",
+          "premises": "Lincoln House",
+          "region": "Lichfield"
+        }
+      },
+      {
+        "name": "STEIN, Hellen Maria",
+        "officer_role": "director",
+        "appointed_on": "2020-03-11",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wellington Crescent",
+          "country": "United Kingdom",
+          "locality": "Fradley Park",
+          "postal_code": "WS13 8RZ",
+          "premises": "Lincoln House",
+          "region": "Lichfield"
+        }
+      },
+      {
+        "name": "COOPER, Graham Mark",
+        "officer_role": "director",
+        "appointed_on": "2015-01-08",
+        "resigned_on": "2020-07-21",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Axida House",
+          "address_line_2": "350 Preston Road",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH"
+        }
+      },
+      {
+        "name": "HARRISON, Anthony Harvey",
+        "officer_role": "director",
+        "appointed_on": "2000-07-13",
+        "resigned_on": "2001-03-02",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Little Gaynes Hound House Road",
+          "locality": "Shere",
+          "postal_code": "GU5 9JG",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "HOLGATE, Jennifer Lynn",
+        "officer_role": "director",
+        "appointed_on": "1995-05-25",
+        "resigned_on": "2000-07-13",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "306a Beverley Road",
+          "address_line_2": "Anlaby",
+          "locality": "Hull",
+          "postal_code": "HU10 7BG",
+          "region": "North Humberside"
+        }
+      },
+      {
+        "name": "HOLGATE, Wayne James",
+        "officer_role": "director",
+        "appointed_on": "1995-05-25",
+        "resigned_on": "2020-03-11",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "350 Preston Road",
+          "country": "United Kingdom",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH",
+          "premises": "Axida House",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "MCADAMS, Kevin James",
+        "officer_role": "director",
+        "appointed_on": "2020-03-11",
+        "resigned_on": "2022-06-09",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1964,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Poplar Way",
+          "country": "United Kingdom",
+          "locality": "Sheffield",
+          "postal_code": "S60 5TR",
+          "premises": "Sanderson House",
+          "region": "South Yorkshire"
+        }
+      },
+      {
+        "name": "ROBINSON, Leonard Noel",
+        "officer_role": "director",
+        "appointed_on": "1995-05-25",
+        "resigned_on": "2015-01-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "350 Preston Road",
+          "country": "United Kingdom",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH",
+          "premises": "Axida House",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "ROBINSON, Lynda",
+        "officer_role": "director",
+        "appointed_on": "1995-05-25",
+        "resigned_on": "2000-07-13",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Grange Cottage",
+          "address_line_2": "Field Lane",
+          "locality": "Sproatley",
+          "postal_code": "HU11 4QF",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "ROTHBARTH, Eric Walter",
+        "officer_role": "director",
+        "appointed_on": "2000-07-13",
+        "resigned_on": "2001-10-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1955,
+        "nationality": "Dutch",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Peppard Cottage",
+          "address_line_2": "Peppard Common",
+          "locality": "Henley On Thames",
+          "postal_code": "RG9 5LB",
+          "region": "Oxfordshire"
+        }
+      },
+      {
+        "name": "ROYLES, Howard Glyn",
+        "officer_role": "director",
+        "appointed_on": "2015-01-08",
+        "resigned_on": "2020-03-11",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Axida House",
+          "address_line_2": "350 Preston Road",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH"
+        }
+      },
+      {
+        "name": "SALTER, William Basdell",
+        "officer_role": "director",
+        "appointed_on": "2015-01-08",
+        "resigned_on": "2020-03-11",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Axida House",
+          "address_line_2": "350 Preston Road",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH"
+        }
+      },
+      {
+        "name": "WALKER, Timothy John",
+        "officer_role": "director",
+        "appointed_on": "1998-04-03",
+        "resigned_on": "2007-07-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Abbeyville",
+          "address_line_2": "Westwood Road",
+          "locality": "Beverley",
+          "postal_code": "HU17 8EL",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "YORK PLACE COMPANY NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1995-03-10",
+        "resigned_on": "1995-05-25",
+        "address": {
+          "address_line_1": "12 York Place",
+          "locality": "Leeds",
+          "postal_code": "LS1 2DS",
+          "region": "West Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "COOPER, Graham Mark",
+        "officer_role": "secretary",
+        "appointed_on": "2015-01-08",
+        "resigned_on": "2020-03-11",
+        "address": {
+          "address_line_1": "Axida House",
+          "address_line_2": "350 Preston Road",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH"
+        }
+      },
+      {
+        "name": "HOLGATE, Wayne James",
+        "officer_role": "secretary",
+        "appointed_on": "1995-05-25",
+        "resigned_on": "1996-03-21",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Nunthorpe",
+          "address_line_2": "15 Godmans Lane",
+          "locality": "Kirk Ella",
+          "postal_code": "HU10 7NX",
+          "region": "North Humberside"
+        }
+      },
+      {
+        "name": "ROBINSON, Leonard Noel",
+        "officer_role": "secretary",
+        "appointed_on": "1995-05-25",
+        "resigned_on": "2015-01-08",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "350 Preston Road",
+          "country": "United Kingdom",
+          "locality": "Kingston Upon Hull",
+          "postal_code": "HU9 5HH",
+          "premises": "Axida House",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "STEIN, Hellen Maria",
+        "officer_role": "secretary",
+        "appointed_on": "2020-03-11",
+        "resigned_on": "2020-12-11",
+        "address": {
+          "address_line_1": "Rushmills",
+          "country": "England",
+          "locality": "Northampton",
+          "postal_code": "NN4 7YB",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "YORK PLACE COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1995-03-10",
+        "resigned_on": "1995-05-25",
+        "address": {
+          "address_line_1": "12 York Place",
+          "locality": "Leeds",
+          "postal_code": "LS1 2DS",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Axant Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Wellington Crescent",
+          "country": "United Kingdom",
+          "locality": "Fradley Park",
+          "postal_code": "WS13 8RZ",
+          "premises": "Lincoln House",
+          "region": "Lichfield"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "04038357"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "030317870005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-01-30",
+        "delivered_on": "2024-02-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "N/A.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Golub Capital Markets Llc"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "030317870004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-04-25",
+        "delivered_on": "2023-05-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Golub Capital Markets Llc (As Collateral Agent)"
+          }
+        ],
+        "satisfied_on": "2024-02-06",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "030317870003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-15",
+        "delivered_on": "2020-06-26",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Golub Capital Markets Llc as Collateral Agent"
+          }
+        ],
+        "satisfied_on": "2024-02-06",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "030317870002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-15",
+        "delivered_on": "2020-06-26",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Golub Capital Markets Llc as Collateral Agent"
+          }
+        ],
+        "satisfied_on": "2024-02-06",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Composite guarantee and debenture (the \"charge\") between rts networks group PLC,the companies named therein as the original charging subsidiaries (including the chargor) and robotic technology systems PLC (the \"chargee\")"
+          }
+        ],
+        "created_on": "2001-01-17",
+        "delivered_on": "2001-02-02",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Robotic Technology Systems PLC"
+          }
+        ],
+        "satisfied_on": "2002-03-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All indebtedness,liabilities and obligations in respect of the loan (as defined) due or to become due in any manner whatsoever from the company (the \"chargor\") to the chargee"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AEBH71OB",
+        "transaction_id": "MzQ4MjU2NDQ0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 64,
+        "barcode": "AEBH71QR",
+        "transaction_id": "MzQ4MjU2NDQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-09-24",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AEBH71QZ",
+        "transaction_id": "MzQ4MjU2NDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-09-24",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AEBH71O3",
+        "transaction_id": "MzQ4MjU2NDM5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYBQ42X",
+        "transaction_id": "MzQ1ODY2Nzc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-30",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "ADID9YGQ",
+        "transaction_id": "MzQ0OTM2MDQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-30",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 62,
+        "barcode": "ADID9YGI",
+        "transaction_id": "MzQ0OTM2MDI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-12-30",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ADID9YBM",
+        "transaction_id": "MzQ0OTM1OTk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-12-30",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ADID9YBU",
+        "transaction_id": "MzQ0OTM1OTg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZNIO2H",
+        "transaction_id": "MzQxNTk4NjU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-02-06",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCW9QPBU",
+        "transaction_id": "MzQwOTk5NzY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-02-06",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCW9QPG1",
+        "transaction_id": "MzQwOTk5NzY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-02-06",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCW9QPDT",
+        "transaction_id": "MzQwOTk5NzY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-02-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 74,
+        "barcode": "XCW1TFSZ",
+        "transaction_id": "MzQwOTc4MTI4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-20",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "ACD2BHYX",
+        "transaction_id": "MzM5NzI3NTQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-20",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 56,
+        "barcode": "ACD2BHZ5",
+        "transaction_id": "MzM5NzI3NTQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-10-20",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ACD2BHYP",
+        "transaction_id": "MzM5NzI3NTQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-10-20",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ACD2BHYH",
+        "transaction_id": "MzM5NzI3NTQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-05-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 59,
+        "barcode": "XC331HBC",
+        "transaction_id": "MzM3ODc5NjY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZFCH4N",
+        "transaction_id": "MzM3MzAyOTA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-01",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "SBDJ74WP",
+        "transaction_id": "MzM1MzYxNDE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-01",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 53,
+        "barcode": "SBDJ74WX",
+        "transaction_id": "MzM1MzYxNDE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-10-01",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "SBDJ74XD",
+        "transaction_id": "MzM1MzYxNDE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-10-01",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "SBDJ74X5",
+        "transaction_id": "MzM1MzYxNDE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XBAO9PJ7",
+        "transaction_id": "MzM0OTA1MDQzNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 159,
+    "recent_filings_count": 9
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Paragonrouting.com",
+    "headcount": 15,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+    ]
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 30.829950535800354,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 15,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:22:01.046Z"
+  },
+  "scraped_at": "2025-12-28T18:36:58.737Z",
+  "updated_at": "2025-12-29T22:22:01.047Z",
+  "version": 1
+}

@@ -1,0 +1,527 @@
+{
+  "company_name": "ACCOUNTS COMPUTERS LIMITED",
+  "company_number": "04306831",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2001-10-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "11 London Road, Sevenoaks, Kent, TN13 1AH",
+  "registered_address_structured": {
+    "address_line_1": "11 London Road",
+    "locality": "Sevenoaks",
+    "postal_code": "TN13 1AH",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "THAMESHIRE LIMITED",
+      "ceased_on": "2001-12-11",
+      "effective_from": "2001-10-18"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-13",
+    "last_made_up_to": "2025-09-29",
+    "next_made_up_to": "2026-09-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HERD, Robert Duncan",
+        "officer_role": "director",
+        "appointed_on": "2001-11-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "7 Victory Cottages",
+          "address_line_2": "Morleys Road",
+          "locality": "Weald",
+          "postal_code": "TN14 6QS",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "DOUGLAS NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2001-10-18",
+        "resigned_on": "2001-12-10",
+        "address": {
+          "address_line_1": "Regent House",
+          "address_line_2": "316 Beulah Hill",
+          "locality": "London",
+          "postal_code": "SE19 3HF"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HERD, Frances Clare",
+        "officer_role": "secretary",
+        "appointed_on": "2001-11-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "7 Victory Cottages",
+          "address_line_2": "Morleys Road",
+          "locality": "Weald",
+          "postal_code": "TN14 6QS",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "M W DOUGLAS & COMPANY LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2001-10-18",
+        "resigned_on": "2001-12-10",
+        "address": {
+          "address_line_1": "Regent House",
+          "address_line_2": "316 Beulah Hill",
+          "locality": "London",
+          "postal_code": "SE19 3HP"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Frances Clare Herd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-10-13",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Road",
+          "locality": "Sevenoaks",
+          "postal_code": "TN13 1AH",
+          "premises": "11",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "Mr Robbie Herd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "London Road",
+          "locality": "Sevenoaks",
+          "postal_code": "TN13 1AH",
+          "premises": "11",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2003-10-03",
+        "delivered_on": "2003-10-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The sum of £2,300.00."
+        },
+        "persons_entitled": [
+          {
+            "name": "L.A.G.Hawkes (Lands) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£2,300.00 due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDDX07M",
+        "transaction_id": "MzQ4NTMyNDMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XED30RDZ",
+        "transaction_id": "MzQ4NDU4MTYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XED30JWH",
+        "transaction_id": "MzQ4NDU3OTc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XE7NS8MO",
+        "transaction_id": "MzQ3NTI1NzAyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDIOU2G",
+        "transaction_id": "MzQzOTE1MjQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XD8I7LEA",
+        "transaction_id": "MzQzMDc0NzIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCEA16NT",
+        "transaction_id": "MzM5NjY2NzQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC8WTFDU",
+        "transaction_id": "MzM4ODE1NTg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBH0FQ1D",
+        "transaction_id": "MzM1OTAzMDIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBFT9MAO",
+        "transaction_id": "MzM1NzA3MTE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAGI7PPT",
+        "transaction_id": "MzMxOTA5OTI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XABO2SFM",
+        "transaction_id": "MzMxMTg1NjMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9G3K3B4",
+        "transaction_id": "MzI4MTA1MTk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9B5TNAI",
+        "transaction_id": "MzI3NDk3NDgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8H2GUW9",
+        "transaction_id": "MzI0NzgwMTk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8ATR2FV",
+        "transaction_id": "MzI0MDU3NTk2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7H4IWEW",
+        "transaction_id": "MzIxNzUxOTYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7B2SC0R",
+        "transaction_id": "MzIxMDc3ODk3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-10-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6HS3FVT",
+        "transaction_id": "MzE4ODY3MDUwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X6BU33RF",
+        "transaction_id": "MzE4MTgyMDE1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-11-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5IV0KGH",
+        "transaction_id": "MzE2MDkyMTI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-07-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X5CBKFII",
+        "transaction_id": "MzE1NDEwMTM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-10-28",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X4IZOB3E",
+        "transaction_id": "MzEzNDAzMTU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-07-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X4CRLH8O",
+        "transaction_id": "MzEyODEwOTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-10-22",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X3J16TH6",
+        "transaction_id": "MzEwOTg4MzAxMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Sevenoakscomputers.com",
+    "headcount": 7,
+    "tech_stack": [
+      "Windows 11",
+      "Epson EcoTank printers (ET 2850, ET 2814)",
+      "Apple iMac",
+      "Apple MacBook",
+      "Apple iPad",
+      "Apple iPhone"
+    ],
+    "business_keywords": [
+      "IT support",
+      "computer sales",
+      "IT hardware sales",
+      "laptop sales",
+      "computer repairs",
+      "onsite support",
+      "remote support",
+      "IT upgrades",
+      "cybersecurity",
+      "Windows 11 upgrades",
+      "Apple repairs",
+      "MacBook repairs",
+      "iMac repairs",
+      "iPad repairs",
+      "iPhone repairs",
+      "VOIP phone systems",
+      "cloud services",
+      "managed security",
+      "computer maintenance",
+      "IT monitoring",
+      "printer sales",
+      "EcoTank printers",
+      "custom-built PCs",
+      "photo recovery",
+      "data recovery",
+      "small business IT support"
+    ],
+    "services": [
+      "Onsite support",
+      "Remote support",
+      "Laptop and computer sales",
+      "IT hardware sales",
+      "Computer upgrades",
+      "Computer repairs",
+      "Small business IT support (acting as IT department)",
+      "IT maintenance and monitoring",
+      "Home visits and onsite support",
+      "Cybersecurity solutions (on-premise and cloud)",
+      "IT system servicing",
+      "Backup solutions",
+      "Telephone systems (VOIP)",
+      "Email services",
+      "Print and data services",
+      "Apple device supply (new and refurbished)",
+      "Apple device installation, repair, and upgrade",
+      "Windows machine repairs and upgrades",
+      "Tablet and phone repairs",
+      "Motherboard repairs",
+      "Computer workshop services",
+      "Managed security (anti-malware, anti-ransomware, behavior blocker, web protection)",
+      "IT budget planning and scaling",
+      "Custom-built PCs",
+      "Photo recovery",
+      "Data recovery"
+    ],
+    "customer_segments": [
+      "Businesses",
+      "Small businesses",
+      "Home users",
+      "Small offices",
+      "Apple device users"
+    ],
+    "business_description": "Sevenoaks Computers provides onsite and remote IT support, computer sales, upgrades, and repairs for businesses and home users. They offer small business IT support, cybersecurity solutions, managed security services, and act as an IT department for small offices. The company also supplies and repairs Apple and Windows devices, sells custom-built PCs, and provides IT hardware and printer solutions.",
+    "website_analyzed_at": "2025-12-29T18:15:08.984Z",
+    "msp_likelihood_score": 17,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.570Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 52,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 24.216288985001267,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 34.5,
+        "weight": 20
+      }
+    ],
+    "computed_at": "2025-12-29T22:41:30.525Z",
+    "location_distance_km": 34.5
+  },
+  "scraped_at": "2025-12-28T21:06:33.592Z",
+  "updated_at": "2026-01-09T19:08:22.570Z",
+  "version": 1
+}

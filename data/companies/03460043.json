@@ -1,0 +1,549 @@
+{
+  "company_name": "CAST SOFTWARE LIMITED",
+  "company_number": "03460043",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1997-11-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "International House, 36-38 Cornhill, London, EC3V 3NG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "International House",
+    "address_line_2": "36-38 Cornhill",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC3V 3NG"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-23",
+    "last_made_up_to": "2025-10-09",
+    "next_made_up_to": "2026-10-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ALLMANG, Arnauld",
+        "officer_role": "director",
+        "appointed_on": "2025-03-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1971,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "Rue Jouffroy D'Abbans",
+          "country": "France",
+          "locality": "75017 Paris",
+          "premises": "22b"
+        }
+      },
+      {
+        "name": "KARSENTI, Gerard",
+        "officer_role": "director",
+        "appointed_on": "1997-11-04",
+        "resigned_on": "2013-03-31",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1961,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "126 Rue Du Lieutenant",
+          "address_line_2": "Colonel De Montbrison",
+          "country": "France",
+          "locality": "92500",
+          "region": "Rueil Malmaison"
+        }
+      },
+      {
+        "name": "REROLLE, Alexandre Claude",
+        "officer_role": "director",
+        "appointed_on": "2013-03-31",
+        "resigned_on": "2025-03-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1973,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "No.1 Royal Exchange",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3V 3DG",
+          "premises": "C/O Las Accountants Llp"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DELAROCHE, Vincent Jean Jacques",
+        "officer_role": "secretary",
+        "appointed_on": "1997-11-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "No.1 Royal Exchange",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3V 3DG",
+          "premises": "C/O Goldwyns London Llp"
+        }
+      },
+      {
+        "name": "CHETTLEBURGH INTERNATIONAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1997-11-04",
+        "resigned_on": "1997-11-04",
+        "address": {
+          "address_line_1": "Temple House",
+          "address_line_2": "20 Holywell Row",
+          "locality": "London",
+          "postal_code": "EC2A 4JB"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Cast Sa",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Rue Marcel Allegot",
+          "country": "France",
+          "locality": "Meudon",
+          "postal_code": "92190",
+          "premises": "3"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "French",
+          "country_registered": "France",
+          "place_registered": "France",
+          "registration_number": "379668809"
+        }
+      },
+      {
+        "name": "Bridgepoint Group Plc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Marble Arch",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1H 7EJ",
+          "premises": "5"
+        },
+        "identification": {
+          "legal_form": "Plc",
+          "legal_authority": "England And Wales",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "11443992"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent security deposit deed"
+          }
+        ],
+        "created_on": "2010-07-06",
+        "delivered_on": "2010-07-16",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit which is defined in the rent security deposit deed as the sum of £14,628.75 together with any interest added to the deposit account and in which the deposit is from time to time held."
+        },
+        "persons_entitled": [
+          {
+            "name": "Market Building Limited and the London Underwriting Centre Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent security deposit deed"
+          }
+        ],
+        "created_on": "1999-09-24",
+        "delivered_on": "1999-10-01",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The interest deposit account into which the deposit of £21,670 is paid. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Finova Capital PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee in respect of the lease (as defined in the deed)"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDE2DDS",
+        "transaction_id": "MzQ4NTM3MjMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-05",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDXPS8CY",
+        "transaction_id": "MzQ1NzM5MjE4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-03",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDXKEK2W",
+        "transaction_id": "MzQ1NzA2OTM0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-14",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "XDWD4GYB",
+        "transaction_id": "MzQ1NTA0ODYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDE9NLXF",
+        "transaction_id": "MzQ0MDQ5Njk1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-18",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDDYY49U",
+        "transaction_id": "MzQ0MDA0NjIxNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-18",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDDYY0GI",
+        "transaction_id": "MzQ0MDA0NTMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-19",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XD7OJCE2",
+        "transaction_id": "MzQyOTQ0Mzc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD3SB7VF",
+        "transaction_id": "MzQyMzA3MjQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD1UFRLE",
+        "transaction_id": "MzQxOTg2OTQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD1UFREB",
+        "transaction_id": "MzQxOTg2OTQ3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-26",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XD1UFRE3",
+        "transaction_id": "MzQxOTg2OTQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-03",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCFHHYJK",
+        "transaction_id": "MzM5ODgzOTMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCFEU0XC",
+        "transaction_id": "MzM5ODc0NjYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCE9SGEH",
+        "transaction_id": "MzM5NjU3MjAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC837PYI",
+        "transaction_id": "MzM4NjkzMjA4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBHDLDMZ",
+        "transaction_id": "MzM1OTQ5MDY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHB00IH",
+        "transaction_id": "MzM1OTM4NTE0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAF0S7GW",
+        "transaction_id": "MzMxNzAxOTAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAF0PFE8",
+        "transaction_id": "MzMxNjk0Mzc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9FAIV96",
+        "transaction_id": "MzI4MDExNTI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-01",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9EP5PJC",
+        "transaction_id": "MzI3OTM0NTI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X96LFQ2P",
+        "transaction_id": "MzI2NjY1OTU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8I9FLNE",
+        "transaction_id": "MzI0OTQzODQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8EPODZ4",
+        "transaction_id": "MzI0NTA2Mzk1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 78,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 518000,
+    "ebitda": -874000,
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Castsoftware.com",
+    "headcount": 7,
+    "tech_stack": [
+      "AWS",
+      "Microsoft"
+    ],
+    "business_keywords": [
+      "software mapping",
+      "software intelligence",
+      "application insight",
+      "technical debt analysis",
+      "cloud maturity assessment",
+      "code efficiency analysis",
+      "software portfolio governance",
+      "application modernization",
+      "AI context provision",
+      "software architecture mapping",
+      "software interactions analysis",
+      "software fault detection",
+      "software repair guidance",
+      "software transformation",
+      "codebase analysis"
+    ],
+    "services": [
+      "CAST Highlight for software portfolio governance",
+      "CAST Highlight for technical debt analysis and payoff paths",
+      "CAST Highlight for cloud maturity improvement",
+      "CAST Highlight for legal exposure elimination",
+      "CAST Highlight for code inefficiency reduction",
+      "CAST Imaging for application stack element analysis",
+      "CAST Imaging for application interaction analysis",
+      "CAST Imaging for modernization path identification",
+      "CAST Imaging for change impact assessment",
+      "CAST Imaging for faulty construction repair guidance",
+      "CAST Imaging for architectural context provision to AI",
+      "CAST for AI to map software architecture",
+      "CAST for AI to provide deterministic context for AI",
+      "CAST for AI to improve and transform complex applications"
+    ],
+    "customer_segments": [
+      "CIOs",
+      "executives",
+      "architects",
+      "engineers",
+      "AI agents",
+      "developers"
+    ],
+    "business_description": "CAST SOFTWARE LIMITED provides software mapping and intelligence solutions to help organizations govern software portfolios, analyze application architecture, and improve software efficiency. Their tools, CAST Highlight and CAST Imaging, offer insights into technical debt, cloud maturity, code inefficiencies, and application interactions, while also enabling AI to understand and transform complex applications.",
+    "website_analyzed_at": "2025-12-29T16:45:40.623Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.140Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 40.33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 28.172426231449773,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 1,
+        "weight": 8.33
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:27:14.779Z"
+  },
+  "scraped_at": "2025-12-28T19:16:31.411Z",
+  "updated_at": "2026-01-09T19:08:22.140Z",
+  "version": 1
+}

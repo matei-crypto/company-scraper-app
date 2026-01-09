@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://xbrl.frc.org.uk/FRS-102/2023-01-01" xmlns:c="http://xbrl.frc.org.uk/cd/2023-01-01/business" xmlns:d="http://xbrl.frc.org.uk/fr/2023-01-01/core" xmlns:e="http://xbrl.frc.org.uk/cd/2023-01-01/currencies" xmlns:f="http://xbrl.frc.org.uk/reports/2023-01-01/direp" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2010-04-20" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>ACCOUNTS - Final Accounts preparation</title>
+		<meta content="text-html; charset=utf-8" http-equiv="Content-Type"/>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<style type="text/css">
+.fontid5 { font-family: 'Arial'; font-size: 8.50pt; font-weight: 700; }
+.fontid6 { font-family: 'Arial'; font-size: 8.50pt; }
+.fontid52 { font-family: 'Arial'; font-size: 8.50pt; font-weight: 700; color: #a0a0a0; }
+.fontid53 { font-family: 'Wide Latin'; font-size: 13.60pt; font-weight: 700; color: #a0a0a0; }
+.fontid60 { font-family: 'Arial'; font-size: 11.90pt; font-weight: 700; }
+.fontid28 { font-family: 'Arial'; font-size: 10.20pt; font-weight: 700; }
+.fontid3 { font-family: 'Times New Roman'; font-size: 10.20pt; }
+.fontid198 { font-family: 'Arial'; font-size: 13.60pt; font-weight: 700; }
+.fontid4 { font-family: 'Tahoma'; font-size: 6.80pt; }
+.fontid14 { font-family: 'Arial'; font-size: 8.50pt; font-style: italic; }
+.fontid11 { font-family: 'Tahoma'; font-size: 8.50pt; }
+.fontid0 { font-family: 'Arial'; font-size: 6.80pt; }
+@page PageId0 { size: 8.30in 11.70in; margin-left: 10.84%; margin-right: 6.63%; margin-top: 3.42%; margin-bottom: 2.56%; }
+@page PageId1 { size: 8.30in 11.70in; margin-left: 10.84%; margin-right: 6.63%; margin-top: 3.42%; margin-bottom: 2.56%; }
+@page PageId2 { size: 8.30in 11.70in; margin-left: 10.84%; margin-right: 6.63%; margin-top: 3.42%; margin-bottom: 2.56%; }
+@page PageId3 { size: 8.30in 11.70in; margin-left: 10.84%; margin-right: 6.63%; margin-top: 3.42%; margin-bottom: 2.56%; }
+			@page { size: 8.30in 11.70in; margin-top: 0.5cm; margin-bottom: 0.5cm; }
+@media print { hr.pagebreak { display: none; } }
+			div[style*="text-align: justify;"] br {display:block;}
+</style>
+	</head>
+	<body>
+		<div style="display:none">
+			<ix:header>
+				<ix:hidden>
+					<ix:nonNumeric contextRef="c1" name="c:NameProductionSoftware">Caseware UK (AP4) 2024.0.164</ix:nonNumeric>
+					<ix:nonNumeric contextRef="c1" name="c:VersionProductionSoftware"> 2024.0.164</ix:nonNumeric>
+					<ix:nonNumeric contextRef="c3" name="c:EndDateForPeriodCoveredByReport">2024-12-31</ix:nonNumeric><ix:nonNumeric contextRef="c3" name="c:BalanceSheetDate">2024-12-31</ix:nonNumeric><ix:nonNumeric contextRef="c1" name="c:EntityDormantTruefalse">true</ix:nonNumeric><ix:nonNumeric contextRef="c3" name="c:StartDateForPeriodCoveredByReport">2024-01-01</ix:nonNumeric><ix:nonFraction contextRef="c1" decimals="0" name="d:AverageNumberEmployeesDuringPeriod" unitRef="u8">0</ix:nonFraction><ix:nonFraction contextRef="c2" decimals="0" name="d:AverageNumberEmployeesDuringPeriod" unitRef="u8">0</ix:nonFraction><ix:nonNumeric contextRef="c1" name="c:ReportAnAmendedRevisedVersionPreviouslyFiledReportTruefalse">false</ix:nonNumeric><ix:nonNumeric contextRef="c1" id="ParaIndex_75419_CellNumber_MT1.B1_CellInstance_0" name="c:EntityTradingStatus"/><ix:nonNumeric contextRef="c603" id="ParaIndex_75427_CellNumber_MT1.B2A_CellInstance_0" name="c:AccountingStandardsApplied"/><ix:nonNumeric contextRef="c610" id="ParaIndex_75446_CellNumber_MT1.B5A_CellInstance_0" name="c:AccountsStatusAuditedOrUnaudited"/><ix:nonNumeric contextRef="c614" id="ParaIndex_75456_CellNumber_MT1.B6_CellInstance_0" name="c:AccountsType"/><ix:nonNumeric contextRef="c617" id="ParaIndex_75463_CellNumber_MT1.B7_CellInstance_0" name="c:LegalFormEntity"/><ix:nonNumeric contextRef="c1" id="ParaIndex_75484_CellNumber_MT1.B8_CellInstance_0" name="c:DescriptionPrincipalActivities">No description of principal activity</ix:nonNumeric><ix:nonNumeric contextRef="c1" name="d:EntityHasClaimedExemptionFromPresentingCashFlowStatementNotesInLineWithFRS1021.12bTruefalse">false</ix:nonNumeric><ix:nonNumeric contextRef="c1" name="f:EntityHasTakenExemptionUnderCompaniesActInNotPublishingItsOwnProfitLossAccountTruefalse">true</ix:nonNumeric><ix:nonNumeric contextRef="c1772" id="ParaIndex_75535_CellNumber_MT1.C23A_CellInstance_0" name="c:PrincipalCurrencyUsedInBusinessReport"/>
+				</ix:hidden>
+				<ix:references>
+					<link:schemaRef xlink:href="https://xbrl.frc.org.uk/FRS-102/2023-01-01/FRS-102-2023-01-01.xsd" xlink:type="simple"/>
+				</ix:references>
+				<ix:resources>
+					<xbrli:context id="c1">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c2">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2023-05-26</xbrli:startDate>
+							<xbrli:endDate>2023-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c3">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2024-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c4">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2023-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c89">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="c:EntityOfficersDimension">
+c:Director1
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c316">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:FinancialInstrumentCurrentNon-currentDimension">
+d:CurrentFinancialInstruments
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2024-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c317">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:FinancialInstrumentCurrentNon-currentDimension">
+d:CurrentFinancialInstruments
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2023-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c344">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:FinancialInstrumentCurrentNon-currentDimension">
+d:CurrentFinancialInstruments
+</xbrldi:explicitMember>
+								<xbrldi:explicitMember dimension="d:MaturitiesOrExpirationPeriodsDimension">
+d:WithinOneYear
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2024-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c345">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:FinancialInstrumentCurrentNon-currentDimension">
+d:CurrentFinancialInstruments
+</xbrldi:explicitMember>
+								<xbrldi:explicitMember dimension="d:MaturitiesOrExpirationPeriodsDimension">
+d:WithinOneYear
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2023-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c385">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:EquityClassesDimension">
+d:ShareCapital
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2024-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c387">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:EquityClassesDimension">
+d:ShareCapital
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2023-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c509">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:EquityClassesDimension">
+d:RetainedEarningsAccumulatedLosses
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2024-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c516">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="d:EquityClassesDimension">
+d:RetainedEarningsAccumulatedLosses
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:instant>2023-12-31</xbrli:instant>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c603">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="c:AccountingStandardsDimension">
+c:FRS102
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c610">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="c:AccountsStatusDimension">
+c:AuditExempt-NoAccountantsReport
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c614">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="c:AccountsTypeDimension">
+c:FullAccounts
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c617">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="c:LegalFormEntityDimension">
+c:PrivateLimitedCompanyLtd
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:context id="c1772">
+						<xbrli:entity>
+							<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">14897055</xbrli:identifier>
+							<xbrli:segment>
+								<xbrldi:explicitMember dimension="e:CurrenciesDimension">
+e:PoundSterling
+</xbrldi:explicitMember>
+							</xbrli:segment>
+						</xbrli:entity>
+						<xbrli:period>
+							<xbrli:startDate>2024-01-01</xbrli:startDate>
+							<xbrli:endDate>2024-12-31</xbrli:endDate>
+						</xbrli:period>
+					</xbrli:context>
+					<xbrli:unit id="u1">
+						<xbrli:measure>iso4217:GBP</xbrli:measure>
+					</xbrli:unit>
+					<xbrli:unit id="u8">
+						<xbrli:measure>xbrli:pure</xbrli:measure>
+					</xbrli:unit>
+				</ix:resources>
+			</ix:header>
+		</div>
+		<table style="width: 100%; padding: 0;">
+			<tbody>
+				<tr>
+					<td style="position: relative; height: 1080px; vertical-align: top;">
+						<a id="CoverOwn"/>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px; width: 417.60pt; text-align: right;">Registered number: </span><span style="display: none;"/><ix:nonNumeric contextRef="c1" id="ParaIndex_30_CellNumber_REGNOA_CellInstance_0" name="c:UKCompaniesHouseRegisteredNumber"><span style="display: inline-block; margin-right: 0px; text-align: right;">14897055</span></ix:nonNumeric></span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<div class="fontid52" style="min-height: 1em; text-align: center;">
+							<span class="fontid52"/><span class="fontid53" style="display: inline-block; white-space: nowrap; width: 489.60pt; text-align: center;"><span style="display: inline-block; min-height: 1em;"/></span><span class="fontid52"/>
+						</div>
+						<div class="fontid52" style="min-height: 1em; text-align: center;">
+							<span class="fontid52"/><span class="fontid52" style="display: inline-block; white-space: nowrap; width: 489.60pt; text-align: center;"><span style="display: inline-block; min-height: 1em;"/></span><span class="fontid52"/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<div class="fontid60" style="min-height: 1em; text-align: center;">
+							<span class="fontid60"><span style="display: none;"/><ix:nonNumeric contextRef="c1" id="ParaIndex_39_CellNumber_OWNCLNAME_CellInstance_0" name="c:EntityCurrentLegalOrRegisteredName"><span>ADVANCING MANAGED SERVICES LIMITED</span></ix:nonNumeric></span>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<span class="fontid28"><span style="display: inline-block; margin-top: 0px; text-align: center;">UNAUDITED</span></span>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<span class="fontid28"><span style="display: none;"/><ix:nonNumeric contextRef="c1" id="ParaIndex_42_CellNumber_OWNCOVSH1_CellInstance_0" name="c:ReportTitle"><span style="margin-top: 0px;">FINANCIAL STATEMENTS</span></ix:nonNumeric></span>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<span class="fontid28"><span style="margin-top: 0px;">FOR THE YEAR ENDED</span> <span style="margin-top: 0px;">31 DECEMBER 2024</span></span>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<br/>
+						</div>
+						<div class="fontid28" style="min-height: 1em; text-align: center; margin-top: 7.20pt;">
+							<img alt="img3953.png" src="data:image/png;base64,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" style="border: none; height: 1.04in; width: 2.17in;"/>
+						</div>
+						<div style="page-break-before: always;">
+							<hr class="pagebreak"/>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="position: relative; height: 1080px; vertical-align: top;">
+						<div class="fontid3" style="min-height: 1em; margin-bottom: 1.44pt; margin-right: 3.60pt;">
+							<span class="fontid3"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<table style="border-collapse: collapse; width: 100.00%;">
+							<tr>
+								<td style="width: 15.30%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 2.93%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid198" style="min-height: 1em; ">
+											<span class="fontid198"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 81.03%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3" style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: center;">
+											<span class="fontid5"><span>ADVANCING MANAGED SERVICES LIMITED</span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">REGISTERED NUMBER:</span><span style="margin-right: 0px;">14897055</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 2.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 2.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<a id="BalanceSheet"/>
+						<div class="fontid4" style="min-height: 1em; ">
+						</div>
+						<div class="fontid6" style="height: 7.20pt; ">
+							<br/>
+						</div>
+						<a id="BalSheet"/>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"><span style="margin-right: 0px;">BALANCE SHEET</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center;">
+							<span class="fontid5"><span>AS AT </span><span>31 DECEMBER 2024</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 11.00pt; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; top: 10.00pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 47.08%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">2024</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid14"><span style="margin-right: 0px;">2023</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 47.08%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">Note</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">£</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid14"><span style="margin-right: 0px;">£</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="BASE_1"/>
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Current assets</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 7.20pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Debtors: amounts falling due within one year</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span>4<span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" format="ixt:numcommadot" name="d:Debtors" unitRef="u1">9,500</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c317" decimals="0" name="d:Debtors" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c3" decimals="0" format="ixt:numcommadot" name="d:CurrentAssets" unitRef="u1">9,500</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c4" decimals="0" name="d:CurrentAssets" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 7.20pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Creditors: amounts falling due within one year</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span>5<span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c344" decimals="0" format="ixt:numcommadot" name="d:Creditors" unitRef="u1">58,400</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c345" decimals="0" format="ixt:numcommadot" name="d:Creditors" unitRef="u1">1,200</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Net current liabilities</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="margin-right: 0px;"> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="margin-right: 0px;"> </span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c3" decimals="0" format="ixt:numcommadot" name="d:NetCurrentAssetsLiabilities" sign="-" unitRef="u1">48,900</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="margin-right: 0px;"> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="margin-right: 0px;"> </span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c4" decimals="0" format="ixt:numcommadot" name="d:NetCurrentAssetsLiabilities" sign="-" unitRef="u1">1,100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Total assets less current liabilities</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c3" decimals="0" format="ixt:numcommadot" name="d:TotalAssetsLessCurrentLiabilities" sign="-" unitRef="u1">48,900</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c4" decimals="0" format="ixt:numcommadot" name="d:TotalAssetsLessCurrentLiabilities" sign="-" unitRef="u1">1,100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Net liabilities</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c3" decimals="0" format="ixt:numcommadot" name="d:NetAssetsLiabilities" sign="-" unitRef="u1">48,900</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c4" decimals="0" format="ixt:numcommadot" name="d:NetAssetsLiabilities" sign="-" unitRef="u1">1,100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="DifftoApply"/>
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: BASE_1 -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Capital and reserves</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 7.20pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Called up share capital </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c385" decimals="0" name="d:Equity" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c387" decimals="0" name="d:Equity" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Profit and loss account</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c509" decimals="0" format="ixt:numcommadot" name="d:Equity" sign="-" unitRef="u1">49,000</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c516" decimals="0" format="ixt:numcommadot" name="d:Equity" sign="-" unitRef="u1">1,200</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: center;">
+											<span class="fontid6"><span> </span><span> </span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c3" decimals="0" format="ixt:numcommadot" name="d:Equity" sign="-" unitRef="u1">48,900</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;">(<ix:nonFraction contextRef="c4" decimals="0" format="ixt:numcommadot" name="d:Equity" sign="-" unitRef="u1">1,100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;">)</span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 39.84%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: DifftoApply -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 7.23%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<ix:nonNumeric contextRef="c1" id="ParaIndex_19314" name="f:StatementThatCompanyEntitledToExemptionFromAuditUnderSection480CompaniesAct2006RelatingToDormantCompanies"><span class="fontid6">For the <span>year</span> ended <span>31 December 2024</span> the <span>Company</span> was entitled to exemption from audit under section 480 of the <span>Companies Act 2006</span>.</span></ix:nonNumeric>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<ix:nonNumeric contextRef="c1" id="ParaIndex_19316" name="f:StatementThatMembersHaveNotRequiredCompanyToObtainAnAudit"><span class="fontid6">Members have not required the <span>Company</span> to obtain an audit for the <span>year</span> in question in accordance with section 476 of the <span>Companies Act 2006</span>.</span></ix:nonNumeric>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<ix:nonNumeric contextRef="c1" id="ParaIndex_19318" name="f:StatementThatDirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct"><span class="fontid6">The <span>directors</span> <span>acknowledge</span> <span>their</span> responsibilities for complying with the requirements of the <span>Companies Act 2006</span> with respect to accounting records and the preparation of <span>financial statements</span>.</span></ix:nonNumeric>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<ix:nonNumeric contextRef="c1" id="ParaIndex_19331" name="f:StatementThatAccountsHaveBeenPreparedInAccordanceWithProvisionsSmallCompaniesRegime"><span class="fontid6">The<span> </span><span>financial statements</span> have been prepared in accordance with the provisions applicable to companies subject to the <span>small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities</span>.</span></ix:nonNumeric>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<span class="fontid6">The <span>financial statements</span> have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<span class="fontid6">The <span>Company</span> has opted not to file the <span>profit and loss account</span> in accordance with provisions applicable to companies subject to the small companies' regime.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<span class="fontid6">The <span>financial statements</span> were approved and authorised for issue by the <span>board</span> and were signed on <span>its</span> behalf<span> on</span> <span style="display: none;"/><ix:nonNumeric contextRef="c3" format="ixt:datelonguk" name="d:DateAuthorisationFinancialStatementsForIssue"><span>26 September 2025</span></ix:nonNumeric><span>.</span></span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid11" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<div class="fontid11" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<div class="fontid11" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 99.31%;">
+							<tr>
+								<td style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: justify;">
+											<span class="fontid5"><span style="display: none;"/><ix:nonNumeric contextRef="c89" id="ParaIndex_19681_CellNumber_BSA100_CellInstance_1" name="c:NameEntityOfficer"><span style="display: inline-block; min-width: 57.60pt; text-align: left;">T McCann</span></ix:nonNumeric></span><span class="fontid6"><span style="display: none;"><span style="display: inline-block; min-height: 1em;"/></span><ix:nonNumeric contextRef="c89" id="ParaIndex_19681_CellNumber_BSA100BL_CellInstance_1" name="d:DirectorSigningFinancialStatements"><span style="display: inline-block; white-space: nowrap; min-width: 7.20pt; text-align: left;"/></ix:nonNumeric></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<span class="fontid6"><span style="display: inline-block; min-width: 57.60pt; text-align: left;">Director</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; position: absolute; bottom: 10px; right: 0;">
+							<span class="fontid6"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+							<div class="fontid6" style="min-height: 1em; text-align: right;">
+								<span class="fontid6">Page 1</span>
+							</div>
+						</div>
+						<div style="page-break-before: always;">
+							<hr class="pagebreak"/>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="position: relative; height: 1080px; vertical-align: top;">
+						<div class="fontid3" style="min-height: 1em; margin-bottom: 1.44pt; margin-right: 3.60pt;">
+							<span class="fontid3"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<table style="border-collapse: collapse; width: 100.00%;">
+							<tr>
+								<td style="width: 15.30%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 2.93%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid198" style="min-height: 1em; ">
+											<span class="fontid198"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 81.03%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3" style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: center;">
+											<span class="fontid5"><span>ADVANCING MANAGED SERVICES LIMITED</span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">REGISTERED NUMBER:</span><span style="margin-right: 0px;">14897055</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 2.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 2.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<a id="BalShCfwd"/>
+						<div class="fontid6" style="height: 7.20pt; text-align: center;">
+							<span class="fontid6">    </span>
+						</div>
+						<!-- Bookmark with duplicate id: BalShCfwd -->
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"><span style="margin-right: 0px;">BALANCE SHEET</span><span style="margin-right: 0px;"> (CONTINUED)</span></span>
+						</div>
+						<!-- Bookmark with duplicate id: BalShCfwd -->
+						<div class="fontid5" style="min-height: 1em; text-align: center;">
+							<span class="fontid5"><span>AS AT </span><span>31 DECEMBER 2024</span></span>
+						</div>
+						<!-- Bookmark with duplicate id: BalShCfwd -->
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 11.00pt; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; top: 10.00pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Bookmark with duplicate id: BalShCfwd -->
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<br/>
+						</div>
+						<a id="ED"/>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<span class="fontid6">The notes on pages 3 to 5 form part of these financial statements.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; position: absolute; bottom: 10px; right: 0;">
+							<span class="fontid6"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+							<div class="fontid6" style="min-height: 1em; text-align: right;">
+								<span class="fontid6">Page 2</span>
+							</div>
+						</div>
+						<div style="page-break-before: always;">
+							<hr class="pagebreak"/>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="position: relative; height: 1080px; vertical-align: top;">
+						<div class="fontid3" style="min-height: 1em; margin-bottom: 1.44pt; margin-right: 3.60pt;">
+							<span class="fontid3"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<table style="border-collapse: collapse; width: 100.00%;">
+							<tr>
+								<td style="width: 15.30%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 2.93%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid198" style="min-height: 1em; ">
+											<span class="fontid198"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 81.03%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3" style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: center;">
+											<span class="fontid5"><span>ADVANCING MANAGED SERVICES LIMITED</span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right;">
+											<span class="fontid5"> </span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 2.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 2.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="fontid6" style="height: 7.20pt; ">
+							<span class="fontid6"> </span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"><span style="margin-right: 0px;">NOTES TO THE FINANCIAL STATEMENTS</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center;">
+							<span class="fontid5"><span>FOR THE YEAR ENDED 31 DECEMBER 2024</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 11.00pt; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; top: 10.00pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<a id="NotesStart"/><a id="AccPolicies"/>
+						<div class="fontid4" style="min-height: 1em; ">
+						</div>
+						<table style="border-collapse: collapse; width: 95.75%;">
+							<tr>
+								<td style="width: 4.70%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="GenInfo"/><a id="NOTTTL"/><a id="JUMPTOGN1"/>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<a id="GENINFO"/>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">1.</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 93.77%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>General information</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 28.80pt;">
+							<span class="fontid6">Advancing Managed Services Limited is a private company, limited by shares, domiciled in England, registration number 14897055. The registered office is 25 Newman Street, Fitzrovia, London, England, W1T 1PN.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<a id="APolicies-Heading"/><a id="APHEADER"/>
+						<div class="fontid5" style="min-height: 1em; ">
+							<span style="min-width: 28.80pt; display: inline-block;"><span class="fontid5">2.</span></span><span class="fontid5"><span>Accounting policies</span></span>
+						</div>
+						<div class="fontid4" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 5.82%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="APolicies-Basis"/>
+										<!-- Bookmark with duplicate id: NOTTTL -->
+										<a id="APBASISPREP"/>
+										<div class="fontid4" style="min-height: 1em; ">
+											<span class="fontid4"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 4.33%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">2.1</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 89.85%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Basis of preparation of financial statements</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">The <span style="margin-left: 0px;">financial statements</span> have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland' and the requirements of the <span style="display: inline-block; margin-left: 0px; text-align: center;">Companies Act 2006</span>. The disclosure requirements of Section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 5.82%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="APolicies-GoingConcern"/>
+										<!-- Bookmark with duplicate id: NOTTTL -->
+										<a id="APGOINGCONCERN"/>
+										<div class="fontid4" style="min-height: 1em; ">
+											<span class="fontid4"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 4.33%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">2.2</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 89.85%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span style="display: inline-block; min-width: 70.80pt; text-align: left;">Going concern</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">The company is supported as part of a group structure, in which the directors confirm that, having considered their expectations and intentions for the next twelve months, and the availability of working capital, the company is a going concern.  </span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 5.82%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="APolicies-Debtors"/>
+										<!-- Bookmark with duplicate id: NOTTTL -->
+										<a id="APDEBTORS"/>
+										<div class="fontid4" style="min-height: 1em; ">
+											<span class="fontid4"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 4.33%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">2.3</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 89.85%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span style="display: inline-block; min-width: 70.80pt; text-align: left;">Debtors</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<ix:nonNumeric contextRef="c1" continuedAt="SectionStart_20272_SectionEnd_20279_SectionUID_1417438729_ParaIndex_20275" id="SectionStart_20272_SectionEnd_20279_SectionUID_1417438729_ParaIndex_20274" name="d:TradeReceivablesPolicy"><span class="fontid6">Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.</span></ix:nonNumeric>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<ix:continuation id="SectionStart_20272_SectionEnd_20279_SectionUID_1417438729_ParaIndex_20275">
+								<br/>
+							</ix:continuation>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 5.82%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="APolicies-Creditors"/>
+										<!-- Bookmark with duplicate id: NOTTTL -->
+										<a id="APCREDITORS"/>
+										<div class="fontid4" style="min-height: 1em; ">
+											<span class="fontid4"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 4.33%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">2.4</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 89.85%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span style="display: inline-block; min-width: 70.80pt; text-align: left;">Creditors</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<ix:nonNumeric contextRef="c1" continuedAt="SectionStart_20299_SectionEnd_20310_SectionUID_1417438624_ParaIndex_20302" id="SectionStart_20299_SectionEnd_20310_SectionUID_1417438624_ParaIndex_20301" name="d:TradePayablesPolicy"><span class="fontid6">Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.</span></ix:nonNumeric>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<ix:continuation id="SectionStart_20299_SectionEnd_20310_SectionUID_1417438624_ParaIndex_20302">
+								<br/>
+							</ix:continuation>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 5.82%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="APolicies-FinancialInstruments"/>
+										<!-- Bookmark with duplicate id: NOTTTL -->
+										<a id="APFININSTRUMENTS"/>
+										<div class="fontid4" style="min-height: 1em; ">
+											<span class="fontid4"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 4.33%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">2.5</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 89.85%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Financial instruments</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">The <span style="margin-left: 0px;">Company</span> has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Financial instruments are recognised in the <span style="margin-left: 0px;">Company's</span> <span style="margin-left: 0px;">Balance sheet</span> when the <span style="margin-left: 0px;">Company</span> becomes party to the contractual provisions of the instrument.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid5" style="min-height: 1em; margin-left: 50.40pt;">
+							<span class="fontid5">Basic financial assets</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+<br/>
+								<span style="display: inline-block; visibility: hidden;"> </span></span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; position: absolute; bottom: 10px; right: 0;">
+							<span class="fontid6"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+							<div class="fontid6" style="min-height: 1em; text-align: right;">
+								<span class="fontid6">Page 3</span>
+							</div>
+						</div>
+						<div style="page-break-before: always;">
+							<hr class="pagebreak"/>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="position: relative; height: 1080px; vertical-align: top;">
+						<div class="fontid3" style="min-height: 1em; margin-bottom: 1.44pt; margin-right: 3.60pt;">
+							<span class="fontid3"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<table style="border-collapse: collapse; width: 100.00%;">
+							<tr>
+								<td style="width: 15.30%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 2.93%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid198" style="min-height: 1em; ">
+											<span class="fontid198"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 81.03%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3" style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: center;">
+											<span class="fontid5"><span>ADVANCING MANAGED SERVICES LIMITED</span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right;">
+											<span class="fontid5"> </span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 2.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 2.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="fontid6" style="height: 7.20pt; ">
+							<span class="fontid6"> </span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"><span style="margin-right: 0px;">NOTES TO THE FINANCIAL STATEMENTS</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center;">
+							<span class="fontid5"><span>FOR THE YEAR ENDED 31 DECEMBER 2024</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 11.00pt; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; top: 10.00pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="fontid6" style="height: 14.40pt; ">
+							<br/>
+						</div>
+						<div class="fontid5" style="min-height: 1em; ">
+							<span style="min-width: 28.80pt; display: inline-block;"><span class="fontid5">2.</span></span><span class="fontid5"><span>Accounting policies (continued)</span></span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 4.37%; padding: 0 3.60pt 0 3.60pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="JUMPTOZBA"/>
+										<div class="fontid4" style="min-height: 1em; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 4.33%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="APFICfwd"/>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">2.5</span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 89.85%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: APFICfwd -->
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Financial instruments (continued)</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<!-- Bookmark with duplicate id: APFICfwd -->
+						<div class="fontid5" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<div style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6"/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid5" style="min-height: 1em; margin-left: 50.40pt;">
+							<span class="fontid5">Impairment of financial assets</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss. </span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid5" style="min-height: 1em; margin-left: 50.40pt;">
+							<span class="fontid5">Financial liabilities</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the <span style="margin-left: 0px;">Company</span> after the deduction of all its liabilities.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Basic financial liabilities, which include trade and other creditors, bank loans<span style="margin-left: 0px;"> and</span> other loans are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify; margin-left: 50.40pt;">
+							<span class="fontid6">Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade creditors are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade creditors are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.</span>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="Notes-StaffCosts"/><a id="JUMPTOST5"/>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">3.</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 93.46%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<a id="StaffCosts"/>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span style="display: inline-block; min-width: 70.80pt; text-align: left;">Employees</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 93.46%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: BASE_1 -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 93.46%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: DifftoApply -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid3" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.75%;">
+							<tr>
+								<td style="width: 5.82%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 93.46%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="top">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<span class="fontid6">The <span>Company has</span> no employees other than the <span>directors</span>, who did not receive any remuneration</span><span class="fontid14"> (2023 - £</span><span class="fontid6"/><span class="fontid14">NIL</span><span class="fontid6"/><span class="fontid14">)</span><span class="fontid6">.</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid6" style="min-height: 1em; position: absolute; bottom: 10px; right: 0;">
+							<span class="fontid6"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+							<div class="fontid6" style="min-height: 1em; text-align: right;">
+								<span class="fontid6">Page 4</span>
+							</div>
+						</div>
+						<div style="page-break-before: always;">
+							<hr class="pagebreak"/>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="position: relative; height: 1080px; vertical-align: top;">
+						<div class="fontid3" style="min-height: 1em; margin-bottom: 1.44pt; margin-right: 3.60pt;">
+							<span class="fontid3"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<table style="border-collapse: collapse; width: 100.00%;">
+							<tr>
+								<td style="width: 15.30%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 2.93%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid198" style="min-height: 1em; ">
+											<span class="fontid198"> </span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 81.03%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3" style="width: 99.27%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: center;">
+											<span class="fontid5"><span>ADVANCING MANAGED SERVICES LIMITED</span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right;">
+											<span class="fontid5"> </span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 2.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 2.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="fontid6" style="height: 7.20pt; ">
+							<span class="fontid6"> </span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"><span style="margin-right: 0px;">NOTES TO THE FINANCIAL STATEMENTS</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center;">
+							<span class="fontid5"><span>FOR THE YEAR ENDED 31 DECEMBER 2024</span></span>
+						</div>
+						<div class="fontid5" style="min-height: 1em; text-align: center; margin-right: 3.60pt;">
+							<span class="fontid5"/>
+							<div style="width: 100%; min-height: 11.00pt; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; top: 10.00pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="fontid6" style="min-height: 1em; text-align: justify;">
+						</div>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="Notes-Debtors"/><a id="JUMPTODB1"/>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">4.</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 93.46%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<a id="Debtors"/>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span style="display: inline-block; min-width: 70.80pt; text-align: left;">Debtors</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 28.22%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">2024</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid14"><span style="margin-right: 0px;">2023</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 28.22%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">£</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid14"><span style="margin-right: 0px;">£</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: BASE_1 -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 7.20pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Amounts owed by group undertakings</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" name="d:AmountsOwedByGroupUndertakings" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c317" decimals="0" name="d:AmountsOwedByGroupUndertakings" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Other debtors</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" format="ixt:numcommadot" name="d:OtherDebtors" unitRef="u1">9,400</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block;"><span style="display: inline-block; width: 43.97pt;"/><ix:nonFraction contextRef="c317" decimals="0" format="ixt:numdash" name="d:OtherDebtors" unitRef="u1">-</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" format="ixt:numcommadot" name="d:Debtors" unitRef="u1">9,500</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c317" decimals="0" name="d:Debtors" unitRef="u1">100</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: DifftoApply -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid3" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="Notes-CrsWithin1Yr"/><a id="JUMPTOLCO"/>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5">5.</span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td colspan="6" style="width: 93.46%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+										<a id="ixid1"/>
+										<div class="fontid5" style="min-height: 1em; ">
+											<span class="fontid5"><span>Creditors: Amounts falling due within one year</span></span>
+										</div>
+										<div class="fontid6" style="min-height: 1em; text-align: justify;">
+											<br/>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 28.22%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">2024</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid14"><span style="margin-right: 0px;">2023</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.09%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 28.22%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid5"><span style="margin-right: 0px;">£</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 5.76pt;">
+											<span class="fontid14"><span style="margin-right: 0px;">£</span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<table style="border-collapse: collapse; width: 100.86%;">
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: BASE_1 -->
+										<div class="fontid6" style="height: 7.20pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Amounts owed to group undertakings</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" format="ixt:numcommadot" name="d:AmountsOwedToGroupUndertakings" unitRef="u1">57,400</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block;"><span style="display: inline-block; width: 43.97pt;"/><ix:nonFraction contextRef="c317" decimals="0" format="ixt:numdash" name="d:AmountsOwedToGroupUndertakings" unitRef="u1">-</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+										<div class="fontid6" style="min-height: 1em; ">
+											<span class="fontid6"><span>Accruals and deferred income</span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" format="ixt:numcommadot" name="d:AccruedLiabilitiesDeferredIncome" unitRef="u1">1,000</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c317" decimals="0" format="ixt:numcommadot" name="d:AccruedLiabilitiesDeferredIncome" unitRef="u1">1,200</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid5" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid5"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c316" decimals="0" format="ixt:numcommadot" name="d:Creditors" unitRef="u1">58,400</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-bottom: 3.60pt; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-bottom: 0px; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 1px solid; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><span style="display: inline-block; min-height: 1em;"/></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+										<div class="fontid14" style="min-height: 1em; text-align: right; margin-right: 3.60pt;">
+											<span class="fontid14"><span style="display: inline-block; white-space: nowrap; margin-right: 0px;"><span style="display: inline-block; width: 3.31pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span><span style="border-bottom: 3px double; margin: 0px; width: 54.53pt; display: inline-block; text-align: right;"><ix:nonFraction contextRef="c317" decimals="0" format="ixt:numcommadot" name="d:Creditors" unitRef="u1">1,200</ix:nonFraction></span><span style="display: inline-block; width: 3.36pt; background-color: #ffffff;"><span style="display: inline-block; min-height: 1em;"/></span></span></span>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 5.81%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 67.37%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<!-- Bookmark with duplicate id: DifftoApply -->
+										<div class="fontid6" style="height: 3.60pt; ">
+											<br/>
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+								<td style="width: 13.05%; padding: 0 0.00pt 0 0.00pt; border: none;" valign="bottom">
+									<div style="overflow: hidden;  width: 100%;">
+										<div style="height: 1px;">
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid3" style="min-height: 1em; ">
+							<br/>
+						</div>
+						<a id="ixid2"/>
+						<div class="fontid6" style="height: 7.20pt; ">
+							<span class="fontid6"> </span>
+						</div>
+						<table style="border-collapse: collapse; width: 126.44%;">
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<a id="ixid3"/>
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 99.42%; padding: 0 3.60pt 0 0.00pt; border: none;" valign="middle">
+									<div style="overflow: hidden;  width: 100%;">
+										<div class="fontid0" style="min-height: 1em; ">
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+						<div class="fontid3" style="min-height: 1em; ">
+							<span class="fontid3"/>
+						</div>
+						<div class="fontid6" style="min-height: 1em; position: absolute; bottom: 10px; right: 0;">
+							<span class="fontid6"/>
+							<div style="width: 100%; min-height: 1em; text-indent: 0; position: relative;">
+								<div style="height: 1.00pt; position: absolute; bottom: 0pt; left: 0.00pt; right: 0.00pt; overflow: hidden;">
+									<div style="border-top: 1.00pt solid black; height: 0pt; line-height: 0pt; vertical-align: top;">
+									</div>
+								</div>
+							</div>
+							<div class="fontid6" style="min-height: 1em; text-align: right;">
+								<span class="fontid6">Page 5</span>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

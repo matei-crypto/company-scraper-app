@@ -1,0 +1,171 @@
+{
+  "company_name": "THE ELEGANTS DESIGN LTD",
+  "company_number": "15179971",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-10-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Office 8909 182-184 High Street North East Ham, High Street North, London, E6 2JA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Office 8909 182-184 High Street North East Ham",
+    "country": "United Kingdom",
+    "locality": "High Street North",
+    "postal_code": "E6 2JA",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-15",
+    "last_made_up_to": "2025-10-01",
+    "next_made_up_to": "2026-10-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MUHAMMAD IMRAN, Shakeeb",
+        "officer_role": "director",
+        "appointed_on": "2023-10-02",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 2004,
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "address": {
+          "address_line_1": "182-184 High Street North East Ham",
+          "country": "United Kingdom",
+          "locality": "High Street North",
+          "postal_code": "E6 2JA",
+          "premises": "Office 8909",
+          "region": "London"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Shakeeb Muhammad Imran",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-10-02",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 2004,
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "address": {
+          "address_line_1": "182-184 High Street North East Ham",
+          "country": "United Kingdom",
+          "locality": "High Street North",
+          "postal_code": "E6 2JA",
+          "premises": "Office 8909",
+          "region": "London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDJ7K1V",
+        "transaction_id": "MzQ4NTQ0ODA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE4YF8JC",
+        "transaction_id": "MzQ3MDU1OTI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDCRYM8I",
+        "transaction_id": "MzQzNzk5MjUyM2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-02",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCD5VQU1",
+        "transaction_id": "MzM5NTAzNjY1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 4,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 25.71,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.2464306993277523,
+        "weight": 18.712767725400177
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:43:59.473Z"
+  },
+  "scraped_at": "2025-12-28T17:19:45.438Z",
+  "updated_at": "2025-12-29T22:43:59.480Z",
+  "version": 1
+}

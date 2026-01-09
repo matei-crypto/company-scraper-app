@@ -1,0 +1,610 @@
+{
+  "company_name": "ET WORKS LTD",
+  "company_number": "03746274",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-04-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "Cambridge House, Cambridge Road, Walton On Thames, Surrey, KT12 2DP",
+  "registered_address_structured": {
+    "address_line_1": "Cambridge House",
+    "address_line_2": "Cambridge Road",
+    "locality": "Walton On Thames",
+    "postal_code": "KT12 2DP",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62020",
+    "62030",
+    "62090",
+    "63110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "EUROTECH COMPUTER SERVICES LTD.",
+      "ceased_on": "2022-08-04",
+      "effective_from": "1999-04-06"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-15",
+    "last_made_up_to": "2025-04-01",
+    "next_made_up_to": "2026-04-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOYCE, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2018-10-08",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cambridge House",
+          "address_line_2": "Cambridge Road",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BOYCE, Bernard",
+        "officer_role": "director",
+        "appointed_on": "1999-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cambridge House",
+          "address_line_2": "Cambridge Road",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BOYCE, Jacqueline",
+        "officer_role": "director",
+        "appointed_on": "2002-06-26",
+        "resigned_on": "2021-08-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cambridge House",
+          "address_line_2": "Cambridge Road",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "MARJASON, Peter",
+        "officer_role": "director",
+        "appointed_on": "1999-04-06",
+        "resigned_on": "2002-06-26",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "12315 Rincon Drive",
+          "country": "Usa",
+          "locality": "Houston",
+          "region": "Tx 77077"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BOYCE, Bernard",
+        "officer_role": "secretary",
+        "appointed_on": "2001-01-01",
+        "resigned_on": "2001-08-15",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Elmside Green Street",
+          "locality": "Sunbury On Thames",
+          "postal_code": "TW16 6QB",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "BOYCE, Jacqueline",
+        "officer_role": "secretary",
+        "appointed_on": "2001-08-15",
+        "resigned_on": "2021-08-20",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Cambridge Road",
+          "country": "United Kingdom",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "premises": "Cambridge House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "MARJASON, Peter",
+        "officer_role": "secretary",
+        "appointed_on": "1999-04-06",
+        "resigned_on": "2001-01-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "C/O Eurotech Computer Services Ltd",
+          "address_line_2": "8 Manfield Park",
+          "locality": "Cranleigh",
+          "postal_code": "GU6 8PT",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "CHETTLEBURGH INTERNATIONAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1999-04-06",
+        "resigned_on": "1999-04-06",
+        "address": {
+          "address_line_1": "Temple House",
+          "address_line_2": "20 Holywell Row",
+          "locality": "London",
+          "postal_code": "EC2A 4JB"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Et Works Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2020-10-14",
+        "address": {
+          "address_line_1": "Cambridge Road",
+          "country": "United Kingdom",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "premises": "Cambridge House",
+          "region": "Surrey"
+        },
+        "identification": {
+          "legal_form": "Uk",
+          "legal_authority": "Uk Law",
+          "country_registered": "England And Wales",
+          "place_registered": "Uk",
+          "registration_number": "12945636"
+        }
+      },
+      {
+        "name": "Mr Bernard Boyce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-10-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cambridge House",
+          "address_line_2": "Cambridge Road",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Mrs Jacqueline Boyce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-10-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cambridge House",
+          "address_line_2": "Cambridge Road",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 2DP",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "037462740001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-03-17",
+        "delivered_on": "2022-03-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0OHY01",
+        "transaction_id": "MzQ2MzA4MTE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XDGDBS9K",
+        "transaction_id": "MzQ0NDQxMDM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0MOYE9",
+        "transaction_id": "MzQxNzQ1NzQ0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XCFEUIYB",
+        "transaction_id": "MzM5ODc1MTAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC0PCBRK",
+        "transaction_id": "MzM3NTAzOTgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 17,
+        "barcode": "XBJBX7W9",
+        "transaction_id": "MzM2MzI3NzE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-08-04",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XB9PPBE9",
+        "transaction_id": "MzM0NzgzNDgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB1AK215",
+        "transaction_id": "MzMzNTI1NTg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "XB08JF56",
+        "transaction_id": "MzMzMzQ2MTU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XAJSISFM",
+        "transaction_id": "MzMyNDI4MzM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-24",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XABL8RGW",
+        "transaction_id": "MzMxMTU3MjM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-24",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XABL8PTV",
+        "transaction_id": "MzMxMTU3MTkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA4G40JT",
+        "transaction_id": "MzMwMDk0NzYxNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-13",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XA4G2861",
+        "transaction_id": "MzMwMDkyOTA4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XA4G1S0O",
+        "transaction_id": "MzMwMDkyNTExNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA4G1RGH",
+        "transaction_id": "MzMwMDkyNDkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA4G1QYA",
+        "transaction_id": "MzMwMDkyNDg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA010F15",
+        "transaction_id": "MzI5NDA3OTQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA010EOB",
+        "transaction_id": "MzI5NDA3OTI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-16",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "X9DQ9JQ8",
+        "transaction_id": "MzI3Nzg1NTMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9CC4NTF",
+        "transaction_id": "MzI3NjMxOTkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9CC4MVM",
+        "transaction_id": "MzI3NjMxOTcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X921NYEY",
+        "transaction_id": "MzI2MTUwNDA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-27",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "X8CQ43RK",
+        "transaction_id": "MzI0MjYyNDkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X82G3ANK",
+        "transaction_id": "MzIzMDkxNjAzNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 88,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "revenue": 7814743,
+    "ebitda": 265010,
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Eurotech-computers.com",
+    "headcount": 24,
+    "tech_stack": [
+      "Nutanix Data Analytics Platform",
+      "IBM 3592 Drives"
+    ],
+    "business_keywords": [
+      "Information Management solutions",
+      "IT solutions",
+      "Enterprise cloud solutions",
+      "Software-Defined Datacentre",
+      "Archive",
+      "Backup",
+      "Disaster Recovery",
+      "Enterprise Disk & Storage",
+      "Enterprise Tape",
+      "High Performance Computing",
+      "Networking & SDN",
+      "Security",
+      "Server Virtualisation",
+      "Virtual Desktop Infrastructure (VDI)",
+      "Hyper-converged Infrastructure",
+      "High-Throughput Storage",
+      "NAS optimisation",
+      "Cloud Storage",
+      "Virtualisation",
+      "Hybrid-cloud",
+      "DevOps",
+      "API integration",
+      "Automation",
+      "Geoscience Services",
+      "Oil & Gas Industry Cloud"
+    ],
+    "services": [
+      "Professional Services",
+      "On-Site Services",
+      "Time Allocation Contracts",
+      "Managed Services",
+      "Repair Services",
+      "Consultancy",
+      "Installation",
+      "Technical Assessment",
+      "Remote Management",
+      "Technology Sourcing",
+      "Lifecycle Management",
+      "Financing",
+      "VDI-as-a-Service",
+      "Private Cloud Express",
+      "Cloud Email",
+      "Cloud Backup",
+      "Cloud Disaster Recovery",
+      "Co-Location Services",
+      "Connectivity Services",
+      "On-Site Geoscience Services",
+      "On-Site Data Management",
+      "Application Support",
+      "Administration",
+      "Project Management",
+      "Off-Site Geoscience Services",
+      "Off-Site Data Loading",
+      "Off-Site Data Management"
+    ],
+    "customer_segments": [
+      "organisations across the globe",
+      "Oil & Gas Industry"
+    ],
+    "business_description": "ET Works (formerly Eurotech) is a leading provider of Information Management solutions and services, helping customers with Business-IT transformation through technology innovation and enterprise cloud solutions. The company specializes in software-defined solutions, hyper-converged infrastructure, high-performance computing, virtualization, and hybrid-cloud technologies, delivering performance, reduced costs, and capacity to global organizations.",
+    "website_analyzed_at": "2025-12-29T17:13:16.168Z",
+    "msp_likelihood_score": 15,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.274Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.753256244926433,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 24,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:31:30.381Z"
+  },
+  "scraped_at": "2025-12-28T19:49:48.275Z",
+  "updated_at": "2026-01-09T19:08:22.274Z",
+  "version": 1
+}

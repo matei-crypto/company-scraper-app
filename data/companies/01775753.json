@@ -1,0 +1,629 @@
+{
+  "company_name": "BEEBUG LIMITED",
+  "company_number": "01775753",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1983-12-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit B1 The Courtyard, Alban Park, St. Albans, AL4 0LA, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit B1 The Courtyard",
+    "address_line_2": "Alban Park",
+    "country": "England",
+    "locality": "St. Albans",
+    "postal_code": "AL4 0LA"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BEEBUGSOFT LIMITED",
+      "ceased_on": "1986-10-01",
+      "effective_from": "1983-12-06"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-30",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-22",
+    "last_made_up_to": "2025-11-08",
+    "next_made_up_to": "2026-11-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "POPE, Matthew David",
+        "officer_role": "director",
+        "appointed_on": "2021-05-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Alban Park",
+          "country": "England",
+          "locality": "St. Albans",
+          "postal_code": "AL4 0LA",
+          "premises": "Unit B1"
+        }
+      },
+      {
+        "name": "VARNAVIDES, James William John",
+        "officer_role": "director",
+        "appointed_on": "2011-10-03",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Alban Park",
+          "country": "England",
+          "locality": "St. Albans",
+          "postal_code": "AL4 0LA",
+          "premises": "Unit B1"
+        }
+      },
+      {
+        "name": "BATELLE, Graeme",
+        "officer_role": "director",
+        "appointed_on": "2002-09-20",
+        "resigned_on": "2014-02-11",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Unit B1 The Courtyard, Alban",
+          "address_line_2": "Park, Hatfield Road",
+          "locality": "St Albans",
+          "postal_code": "AL4 0LA",
+          "region": "Herts"
+        }
+      },
+      {
+        "name": "CALCRAFT, Adrian Laurence David",
+        "officer_role": "director",
+        "resigned_on": "2025-12-12",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Alban Park",
+          "country": "England",
+          "locality": "St. Albans",
+          "postal_code": "AL4 0LA",
+          "premises": "Unit B1"
+        }
+      },
+      {
+        "name": "CALCRAFT, Susan Margaret",
+        "officer_role": "director",
+        "appointed_on": "2002-09-20",
+        "resigned_on": "2016-03-29",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Unit B1 The Courtyard, Alban",
+          "address_line_2": "Park, Hatfield Road",
+          "locality": "St Albans",
+          "postal_code": "AL4 0LA",
+          "region": "Herts"
+        }
+      },
+      {
+        "name": "DOHERTY, Peter James",
+        "officer_role": "director",
+        "appointed_on": "2011-10-03",
+        "resigned_on": "2015-04-10",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Unit B1 The Courtyard, Alban",
+          "address_line_2": "Park, Hatfield Road",
+          "locality": "St Albans",
+          "postal_code": "AL4 0LA",
+          "region": "Herts"
+        }
+      },
+      {
+        "name": "PUGH, Simon John",
+        "officer_role": "director",
+        "appointed_on": "2016-04-01",
+        "resigned_on": "2021-05-05",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Unit B1 The Courtyard, Alban",
+          "address_line_2": "Park, Hatfield Road",
+          "locality": "St Albans",
+          "postal_code": "AL4 0LA",
+          "region": "Herts"
+        }
+      },
+      {
+        "name": "WILLIAMS, Sheridan Paul",
+        "officer_role": "director",
+        "resigned_on": "2002-09-20",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Clock Tower",
+          "address_line_2": "Stockgrove Park",
+          "locality": "Leighton Buzzard",
+          "postal_code": "LU7 0BG",
+          "region": "Bedfordshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "VARNAVIDES, Melissa",
+        "officer_role": "secretary",
+        "appointed_on": "2025-12-12",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Alban Park",
+          "country": "England",
+          "locality": "St. Albans",
+          "postal_code": "AL4 0LA",
+          "premises": "Unit B1"
+        }
+      },
+      {
+        "name": "CALCRAFT, Susan Margaret",
+        "officer_role": "secretary",
+        "appointed_on": "2002-09-20",
+        "resigned_on": "2025-12-12",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Alban Park",
+          "country": "England",
+          "locality": "St. Albans",
+          "postal_code": "AL4 0LA",
+          "premises": "Unit B1"
+        }
+      },
+      {
+        "name": "WILLIAMS, Sheridan Paul",
+        "officer_role": "secretary",
+        "resigned_on": "2002-09-20",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "The Clock Tower",
+          "address_line_2": "Stockgrove Park",
+          "locality": "Leighton Buzzard",
+          "postal_code": "LU7 0BG",
+          "region": "Bedfordshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Oaktree Systems Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Alban Park",
+          "country": "England",
+          "locality": "St. Albans",
+          "postal_code": "AL4 0LA",
+          "premises": "Unit B1"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Uk Law",
+          "country_registered": "England",
+          "place_registered": "Uk",
+          "registration_number": "08461121"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2011-03-23",
+        "delivered_on": "2011-03-26",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All monies from time to time standing to the credit of the interest bearing deposit account see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Sackville Properties (St Albans) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "1986-09-01",
+        "delivered_on": "1986-09-05",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "A specific equitable charge over the company's estate or interest in all f/h or l/h properties and the proceeds of sale thereof. Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2010-07-02",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-12-20",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XEHTILKP",
+        "transaction_id": "MzQ5NTYzODM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-20",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XEHTILHT",
+        "transaction_id": "MzQ5NTYzODM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-20",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEHTILFE",
+        "transaction_id": "MzQ5NTYzODM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEF4NXXK",
+        "transaction_id": "MzQ4ODE0MjExM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE4FAQLM",
+        "transaction_id": "MzQ2OTQ3OTAwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDG55TDK",
+        "transaction_id": "MzQ0MzcwNzAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDG55SEO",
+        "transaction_id": "MzQ0MzcwNjcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDG55QWG",
+        "transaction_id": "MzQ0MzcwNjMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDG55Q8X",
+        "transaction_id": "MzQ0MzcwNjI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDG55NU8",
+        "transaction_id": "MzQ0MzcwNTY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDCR9UU3",
+        "transaction_id": "MzQzNzY4ODMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCGDN4HE",
+        "transaction_id": "MzQwMDIxNTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCCURPSH",
+        "transaction_id": "MzM5NDQ2OTE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGMTHAG",
+        "transaction_id": "MzM1ODMwNDQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBBKDJ34",
+        "transaction_id": "MzM1MDM2MzE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-06",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB5LNMKO",
+        "transaction_id": "MzM0MTUzODcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAHBL12P",
+        "transaction_id": "MzMyMDIyMDk2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA7D1B16",
+        "transaction_id": "MzMwNTU1NjY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-08",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA42PH7E",
+        "transaction_id": "MzMwMDM5MjQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-08",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA42PG4O",
+        "transaction_id": "MzMwMDM5MjIxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9HD2HOI",
+        "transaction_id": "MzI4MjgzNDc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X95XJG1S",
+        "transaction_id": "MzI2NTkwMzAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8IMK4C3",
+        "transaction_id": "MzI0OTgyNjYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X82DGLAO",
+        "transaction_id": "MzIzMDg2NzU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7J6NHTN",
+        "transaction_id": "MzIxOTk2NDc0N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 134,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Beebug.co.uk",
+    "headcount": 13,
+    "tech_stack": [
+      "Microsoft 365",
+      "Google Workspace",
+      "Amazon AWS"
+    ],
+    "business_keywords": [
+      "ICT support",
+      "education ICT solutions",
+      "IT consultancy",
+      "cloud services",
+      "cyber security",
+      "network installation",
+      "proactive network support",
+      "IT helpdesk",
+      "IP telephony",
+      "internet connectivity",
+      "AV solutions",
+      "interactive solutions",
+      "access control",
+      "CCTV",
+      "digital transformation",
+      "hybrid cloud"
+    ],
+    "services": [
+      "IT consultancy",
+      "on-site IT support",
+      "remote IT helpdesk",
+      "proactive network support",
+      "network installation",
+      "cloud services",
+      "cyber security services",
+      "IP telephony",
+      "internet connectivity services",
+      "AV system installation",
+      "interactive solutions installation",
+      "access control systems",
+      "CCTV installation"
+    ],
+    "customer_segments": [
+      "primary schools",
+      "education sector",
+      "schools"
+    ],
+    "business_description": "Beebug Limited is an ICT support specialist providing tailored IT solutions, consultancy, and services to the education sector, particularly primary schools. Established in 1982, the company offers cloud services, cyber security, network installation, proactive support, and AV/interactive solutions to help schools with their digital transformation and IT infrastructure needs.",
+    "website_analyzed_at": "2025-12-29T15:15:10.919Z",
+    "msp_likelihood_score": 29,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.477Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 46.33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 42.09568591244926,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 13,
+        "weight": 13
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 1,
+        "weight": 8.33
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:12:32.097Z"
+  },
+  "scraped_at": "2025-12-28T16:32:41.068Z",
+  "updated_at": "2026-01-09T19:08:21.477Z",
+  "version": 1
+}

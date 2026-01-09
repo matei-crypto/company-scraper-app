@@ -1,0 +1,818 @@
+{
+  "company_name": "STYLE ANALYTICS LIMITED",
+  "company_number": "03344323",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1997-04-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "Fourth Floor, 4 St. Paul's Churchyard, London, EC4M 8AY, England",
+  "registered_address_structured": {
+    "address_line_1": "Fourth Floor",
+    "address_line_2": "4 St. Paul's Churchyard",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC4M 8AY"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "STYLE RESEARCH LIMITED",
+      "ceased_on": "2018-06-18",
+      "effective_from": "1999-11-05"
+    },
+    {
+      "name": "STYLE INVESTMENT RESEARCH ASSOCIATES LIMITED",
+      "ceased_on": "1999-11-05",
+      "effective_from": "1997-04-03"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-14",
+    "last_made_up_to": "2025-02-28",
+    "next_made_up_to": "2026-02-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "EVANS, Mark Stephen",
+        "officer_role": "director",
+        "appointed_on": "2021-12-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1964,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "4 St. Paul's Churchyard",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4M 8AY",
+          "premises": "Fourth Floor"
+        }
+      },
+      {
+        "name": "COLLISS, Lee James",
+        "officer_role": "director",
+        "appointed_on": "2015-09-04",
+        "resigned_on": "2020-12-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "ENGLISH, Kirsten",
+        "officer_role": "director",
+        "appointed_on": "2015-12-08",
+        "resigned_on": "2018-01-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "FILIPOVIC, Adnan",
+        "officer_role": "director",
+        "appointed_on": "2020-12-30",
+        "resigned_on": "2021-12-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "HOPKINS, Peter Jonathan Beynon",
+        "officer_role": "director",
+        "appointed_on": "2015-09-04",
+        "resigned_on": "2018-11-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "KALLARACKAL, George Abraham",
+        "officer_role": "director",
+        "appointed_on": "2015-09-04",
+        "resigned_on": "2020-12-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "ROUSSOTTE, Sebastien Henri",
+        "officer_role": "director",
+        "appointed_on": "2018-01-08",
+        "resigned_on": "2020-12-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1968,
+        "nationality": "French",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "SCHWOB, Christine Helen",
+        "officer_role": "director",
+        "appointed_on": "2010-10-16",
+        "resigned_on": "2015-09-04",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "SCHWOB, Robert Jean",
+        "officer_role": "director",
+        "appointed_on": "1997-04-03",
+        "resigned_on": "2015-09-04",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1947,
+        "nationality": "Canadian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "STURGIS, JR., William Alfred",
+        "officer_role": "director",
+        "appointed_on": "2020-12-30",
+        "resigned_on": "2021-12-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1971,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "WINSTON, Frederick Crosby",
+        "officer_role": "director",
+        "appointed_on": "2021-12-31",
+        "resigned_on": "2025-03-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1973,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "4 St. Paul's Churchyard",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4M 8AY",
+          "premises": "Fourth Floor"
+        }
+      },
+      {
+        "name": "COMPANY DIRECTORS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1997-04-03",
+        "resigned_on": "1997-04-03",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SCHWOB, Christine Helen",
+        "officer_role": "secretary",
+        "appointed_on": "1997-04-03",
+        "resigned_on": "2015-09-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        }
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1997-04-03",
+        "resigned_on": "1997-04-03",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "3factorholdings Uk Bidco Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-29",
+        "address": {
+          "address_line_1": "Aldwych",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House, 46"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Register Of Companies For England And Wales",
+          "registration_number": "13090965"
+        }
+      },
+      {
+        "name": "Newincco 1373 Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-01-29",
+        "address": {
+          "address_line_1": "46 Aldwych",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2B 4LL",
+          "premises": "Melbourne House"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "9668500"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "033443230008",
+        "charge_number": 8,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-05-30",
+        "delivered_on": "2025-06-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "UK trademark no - UK00800872008;. UK trademark no - UK00003326089;. UK trademark no - UK00905438569; and. Certain other trademarks set out in schedule 5 of the instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Golub Capital Markets Llc"
+          }
+        ],
+        "satisfied_on": "2025-08-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "033443230007",
+        "charge_number": 7,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-01-29",
+        "delivered_on": "2021-02-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Amongst others, trade mark text \"style analytics\" with trade mark registration number \"3326089\". please refer to the debenture for more information.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Pnc Bank, National Association as Security Agent"
+          }
+        ],
+        "satisfied_on": "2022-11-21",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "033443230006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-01-29",
+        "delivered_on": "2021-02-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Amongst others, trade mark text \"style analytics\" with trade mark registration number \"3326089\". please refer to the debenture for more information.",
+          "contains_fixed_charge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Pnc Bank, National Association as Security Agent"
+          }
+        ],
+        "satisfied_on": "2022-11-21",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "033443230005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-12-20",
+        "delivered_on": "2019-12-23",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Trademark syle tilt UK territory (registration number 2386713) please see image for details of further land (including buildings), ship, aircraft or intellectual property charged.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2021-01-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "033443230004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-02-01",
+        "delivered_on": "2016-02-09",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2021-01-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "033443230003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-02-01",
+        "delivered_on": "2016-02-06",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2021-02-09",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "033443230002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-02-01",
+        "delivered_on": "2016-02-06",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Trade mark reg no. 2386713, domain name styleresearch.com. For more details, please refer to insturment.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2021-02-09",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Supplemental deed"
+          }
+        ],
+        "created_on": "2007-05-29",
+        "delivered_on": "2007-06-08",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£27,481.78 and all income and interest thereon and deriving therefrom."
+        },
+        "persons_entitled": [
+          {
+            "name": "Howard De Walden Estates Limited"
+          }
+        ],
+        "satisfied_on": "2015-08-27",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 8,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEI1QUY1",
+        "transaction_id": "MzQ5NjAwMjM4MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-08-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE8PR6IQ",
+        "transaction_id": "MzQ3NjgxMTY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-06-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 53,
+        "barcode": "XE3TYA76",
+        "transaction_id": "MzQ2ODY0ODg5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE35RAOH",
+        "transaction_id": "MzQ2NzcxNzk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE1HVUSR",
+        "transaction_id": "MzQ2NDM2NjI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZZWK2R",
+        "transaction_id": "MzQ2MTY0NjY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-07",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "ADCJFJ08",
+        "transaction_id": "MzQzNzk4MTA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZA0LKO",
+        "transaction_id": "MzQxNTQ2MzkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCY5EJYY",
+        "transaction_id": "MzQxMzMwNzcxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-11",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 32,
+        "barcode": "DCD314SZ",
+        "transaction_id": "MzM5NTg4MjU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYGE056",
+        "transaction_id": "MzM3MTM3ODM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-11-21",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBH86QKO",
+        "transaction_id": "MzM1OTE4OTgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-11-21",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBH86RMP",
+        "transaction_id": "MzM1OTE5MDE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-21",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 32,
+        "barcode": "ABCNPX5F",
+        "transaction_id": "MzM1MjQyMzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBCLMGOO",
+        "transaction_id": "MzM1MTk3MDQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBCLMEJU",
+        "transaction_id": "MzM1MTk2OTgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZCAC68",
+        "transaction_id": "MzMzMjE3NzU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-04",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAV0IP2Y",
+        "transaction_id": "MzMyNTU1NzA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-04",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAV0IN6O",
+        "transaction_id": "MzMyNTU1NjY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAKJ8C8G",
+        "transaction_id": "MzMyNTQxMDIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAKJ8AYI",
+        "transaction_id": "MzMyNTQxMDAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-24",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 33,
+        "barcode": "AAJUB3CJ",
+        "transaction_id": "MzMyNDQ0NjU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-05",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XA845371",
+        "transaction_id": "MzMwNjczNDQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA0MJCPV",
+        "transaction_id": "MzI5NDkwMDQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-02-09",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "A9XYTQZ7",
+        "transaction_id": "MzI5MTQwOTMyMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 140,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "revenue": 12059000,
+    "ebitda": 4838000,
+    "employees": 32
+  },
+  "enrichment": {
+    "website": "https://Styleresearch.com",
+    "headcount": 32,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: read ECONNRESET"
+    ]
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 28.761464316051498,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 32,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:25:39.241Z"
+  },
+  "scraped_at": "2025-12-28T19:04:20.307Z",
+  "updated_at": "2025-12-29T22:25:39.242Z",
+  "version": 1
+}

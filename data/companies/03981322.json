@@ -1,0 +1,517 @@
+{
+  "company_name": "BLUELOOP LIMITED",
+  "company_number": "03981322",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-04-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "Blueloop House, Ilchester Road, Yeovil, Somerset, BA21 3AA",
+  "registered_address_structured": {
+    "address_line_1": "Blueloop House",
+    "address_line_2": "Ilchester Road",
+    "locality": "Yeovil",
+    "postal_code": "BA21 3AA",
+    "region": "Somerset"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-11",
+    "last_made_up_to": "2025-04-27",
+    "next_made_up_to": "2026-04-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARKER, Robin Jonathan",
+        "officer_role": "director",
+        "appointed_on": "2000-04-27",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station Road",
+          "country": "England",
+          "locality": "Crewkerne",
+          "postal_code": "TA18 8AL",
+          "premises": "Landour",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "GERDES, Jonathan Stewart",
+        "officer_role": "director",
+        "appointed_on": "2000-04-27",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Aldondale Gardens",
+          "locality": "Yeovil",
+          "postal_code": "BA20 1QU",
+          "premises": "1",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "HAINES, Anthony",
+        "officer_role": "director",
+        "appointed_on": "2000-04-27",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whellers Meadow",
+          "locality": "Martock",
+          "postal_code": "TA12 6HD",
+          "premises": "21",
+          "region": "Somerset"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BARKER, Robin",
+        "officer_role": "secretary",
+        "appointed_on": "2000-04-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Station Road",
+          "country": "England",
+          "locality": "Crewkerne",
+          "postal_code": "TA18 8AL",
+          "premises": "Landour",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "BRISTOL LEGAL SERVICES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-04-27",
+        "resigned_on": "2000-04-27",
+        "address": {
+          "address_line_1": "Pembroke House",
+          "address_line_2": "7 Brunswick Square",
+          "locality": "Bristol",
+          "postal_code": "BS2 8PE",
+          "region": "Avon"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Robin Jonathan Barker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ilchester Road",
+          "country": "England",
+          "locality": "Yeovil",
+          "postal_code": "BA21 3AA",
+          "premises": "Blueloop House",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "Mr Anthony Haines",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ilchester Road",
+          "country": "England",
+          "locality": "Yeovil",
+          "postal_code": "BA21 3AA",
+          "premises": "Blueloop House",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "Mr Jonathan Stewart Gerdes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ilchester Road",
+          "country": "England",
+          "locality": "Yeovil",
+          "postal_code": "BA21 3AA",
+          "premises": "Blueloop House",
+          "region": "Somerset"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2013-03-28",
+        "delivered_on": "2013-04-04",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Kenneth bailey unit preston road yeovil t/no ws 12036 by way of assignment all rents and other income and claims arising from or accruing from the property the benefit of all guarantees warranties and representations and the benefit of all agreements for lease."
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC (As Security Trustee)"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2013-03-28",
+        "delivered_on": "2013-04-04",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed charge all right title estate and other interests in all f/h or l/h property all book debts goodwill and uncalled capital by way of assignment all rents the benefit of all guarantees warranties and representations and all agreements contracts floating charge the undertaking and all other property and assets."
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC (As Security Trustee)"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE5JVBO1",
+        "transaction_id": "MzQ3MTYwNjc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1QD8O3",
+        "transaction_id": "MzQ2NDkyMjkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD90V7AI",
+        "transaction_id": "MzQzMTQ5Mjg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD2LE3M1",
+        "transaction_id": "MzQyMDg5ODM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC74AMFD",
+        "transaction_id": "MzM4NTMzMDE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC2SPE68",
+        "transaction_id": "MzM3ODU3OTEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-01",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB7C4G89",
+        "transaction_id": "MzM0NDQ1ODY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3G9RM8",
+        "transaction_id": "MzMzODQ4ODcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAB2NGM2",
+        "transaction_id": "MzMxMDg3NzMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XA4AMJXC",
+        "transaction_id": "MzMwMDYyMjkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X98YTH5V",
+        "transaction_id": "MzI3MjgyNzk5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X94TJ5WZ",
+        "transaction_id": "MzI2NDQyNTk0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8DE1QII",
+        "transaction_id": "MzI0MzU0MjkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X850R360",
+        "transaction_id": "MzIzMzkyNTYyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7BTCNQJ",
+        "transaction_id": "MzIxMTU0NDI0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X74ZBLU2",
+        "transaction_id": "MzIwMzc3Nzg4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6DVUTVV",
+        "transaction_id": "MzE4NDExOTU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 9,
+        "barcode": "X661VBCH",
+        "transaction_id": "MzE3NTM2MjU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-07-20",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X5BL923E",
+        "transaction_id": "MzE1MzI4OTMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-04-28",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 7,
+        "barcode": "X55UFZ03",
+        "transaction_id": "MzE0NzQxMjM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-09-16",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X4G32B2W",
+        "transaction_id": "MzEzMTA3MDY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-05-05",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 7,
+        "barcode": "X46R9YFN",
+        "transaction_id": "MzEyMjUyMTEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-05-05",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X46R9YFF",
+        "transaction_id": "MzEyMjUyMDgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-05-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X46R9YA2",
+        "transaction_id": "MzEyMjUyMDgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2014-08-07",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X3DRPHPE",
+        "transaction_id": "MzEwNTIwNTEwNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 80,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Blueloop.net",
+    "headcount": 15,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.692991279585236,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 15,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:36:13.946Z"
+  },
+  "scraped_at": "2025-12-28T20:26:18.222Z",
+  "updated_at": "2025-12-29T22:36:13.947Z",
+  "version": 1
+}

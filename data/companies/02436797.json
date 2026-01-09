@@ -1,0 +1,564 @@
+{
+  "company_name": "SELECT BUSINESS PRODUCTS LIMITED",
+  "company_number": "02436797",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1989-10-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "65 Castle Street, Hull, HU1 1SD",
+  "registered_address_structured": {
+    "address_line_1": "65 Castle Street",
+    "address_line_2": "Hull",
+    "postal_code": "HU1 1SD"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "DELTAMEDIA LIMITED",
+      "ceased_on": "1989-11-28",
+      "effective_from": "1989-10-26"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-31",
+    "last_made_up_to": "2025-01-17",
+    "next_made_up_to": "2026-01-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FENTON, Matthew John",
+        "officer_role": "director",
+        "appointed_on": "2019-12-03",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Castle Street",
+          "country": "United Kingdom",
+          "locality": "Hull",
+          "postal_code": "HU1 1SD",
+          "premises": "65",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "NEWSOM, Richard John",
+        "officer_role": "director",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "65 Castle Street",
+          "address_line_2": "Hull",
+          "postal_code": "HU1 1SD"
+        }
+      },
+      {
+        "name": "SARGERSON, Simon Robert",
+        "officer_role": "director",
+        "appointed_on": "2019-12-03",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Princess Street",
+          "country": "United Kingdom",
+          "locality": "Hull",
+          "postal_code": "HU2 8BA",
+          "premises": "Regents Court"
+        }
+      },
+      {
+        "name": "NEWSOM, James David",
+        "officer_role": "director",
+        "resigned_on": "2019-12-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "65 Castle Street",
+          "address_line_2": "Hull",
+          "postal_code": "HU1 1SD"
+        }
+      },
+      {
+        "name": "PICK, Peter John",
+        "officer_role": "director",
+        "appointed_on": "1993-03-31",
+        "resigned_on": "2023-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "65 Castle Street",
+          "address_line_2": "Hull",
+          "postal_code": "HU1 1SD"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "FENTON, Matthew John",
+        "officer_role": "secretary",
+        "appointed_on": "2023-04-06",
+        "address": {
+          "address_line_1": "Castle Street",
+          "country": "United Kingdom",
+          "locality": "Hull",
+          "postal_code": "HU1 1SD",
+          "premises": "65",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "NEWSOM, James David",
+        "officer_role": "secretary",
+        "resigned_on": "1993-04-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "29 St Andrews Mount",
+          "address_line_2": "Kirkella",
+          "locality": "Hull",
+          "postal_code": "HU10 7TD",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "PICK, Peter John",
+        "officer_role": "secretary",
+        "appointed_on": "1993-03-31",
+        "resigned_on": "2023-04-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "65 Castle Street",
+          "address_line_2": "Hull",
+          "postal_code": "HU1 1SD"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "James David Newsom",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-12-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Castle Street",
+          "country": "United Kingdom",
+          "locality": "Hull",
+          "postal_code": "HU1 1SD",
+          "premises": "65",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "Richard John Newsom",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Castle Street",
+          "country": "United Kingdom",
+          "locality": "Hull",
+          "postal_code": "HU1 1SD",
+          "premises": "65",
+          "region": "East Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal mortgage"
+          }
+        ],
+        "created_on": "1994-05-13",
+        "delivered_on": "1994-05-18",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The f/h property k/a 50 spring bank hull humberside t/n HS34228 and the proceeds of sale thereof. Floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEG1O09M",
+        "transaction_id": "MzQ5MDg0MzYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDUS33H4",
+        "transaction_id": "MzQ1MjI2NTA0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDI9SMKY",
+        "transaction_id": "MzQ0ODMyNjU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCZ9ZXGI",
+        "transaction_id": "MzQxNTQ1ODIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCVZ4Q94",
+        "transaction_id": "MzQwOTY0ODYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCUX41CA",
+        "transaction_id": "MzQwNzkyMTQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCEYBO7C",
+        "transaction_id": "MzM5Nzk0MjUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCDWLPWH",
+        "transaction_id": "MzM5NjA0OTMxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-11",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCDWLPQQ",
+        "transaction_id": "MzM5NjA0OTMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-11",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCDWLPUP",
+        "transaction_id": "MzM5NjA0OTMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-02",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AC28M5S3",
+        "transaction_id": "MzM3NzcwNjAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBZF8OHK",
+        "transaction_id": "MzM3Mjk5Njg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBGUU2CX",
+        "transaction_id": "MzM1ODU2OTQzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAJV966J",
+        "transaction_id": "MzMyNDQ2NTYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAH12TJN",
+        "transaction_id": "MzMxOTkzNTgxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9KEVPPT",
+        "transaction_id": "MzI4NjY1MjU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9I14DIH",
+        "transaction_id": "MzI4MzY0MzU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-29",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9EMAATC",
+        "transaction_id": "MzI3OTA4MjkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-06-24",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X97UO8DU",
+        "transaction_id": "MzI2ODExMzUwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-02",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8ZRHIAI",
+        "transaction_id": "MzI1ODU2ODMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-02-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8ZRHIAA",
+        "transaction_id": "MzI1ODU2ODMwM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-01-21",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A8WXF7YI",
+        "transaction_id": "MzI1NTA1MzI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-01-14",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A8WAGLG9",
+        "transaction_id": "MzI1NDU0ODU3NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-01-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QThXQUdMR1BhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KHADRE",
+        "transaction_id": "MzI1MjM3NjI1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 119,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Selectgroup.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "Microsoft Office 365",
+      "Microsoft 365",
+      "Google Workspace"
+    ],
+    "business_keywords": [
+      "IT support",
+      "software solutions",
+      "bespoke software development",
+      "IT infrastructure",
+      "IT hardware",
+      "IT software",
+      "technology solutions",
+      "Hull businesses",
+      "East Yorkshire businesses",
+      "Microsoft Office 365",
+      "VOIP systems",
+      "sales order processing",
+      "stock control",
+      "payroll processing",
+      "production planning"
+    ],
+    "services": [
+      "IT Support & Infrastructure",
+      "Bespoke Software Development",
+      "IT Software Solutions",
+      "IT Hardware Supply",
+      "Support contracts",
+      "Network security",
+      "ICT infrastructure",
+      "Wireless networking",
+      "VOIP solutions",
+      "CCTV",
+      "Sales order processing software",
+      "Stock control software",
+      "Payroll processing software",
+      "Production planning software",
+      "Microsoft 365",
+      "Google Workspace",
+      "Cloud Software",
+      "SaaS"
+    ],
+    "customer_segments": [
+      "Hull businesses",
+      "East Yorkshire businesses",
+      "small businesses",
+      "growing companies",
+      "thriving companies"
+    ],
+    "business_description": "Select Business Products Limited, operating as Selectgroup, provides IT support and bespoke software development services to businesses in Hull and East Yorkshire. Since 1989, they offer tailored technology solutions, including IT infrastructure, hardware, software, and custom software for sales order processing, stock control, payroll, and production planning.",
+    "website_analyzed_at": "2025-12-29T15:36:47.940Z",
+    "msp_likelihood_score": 27,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.683Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 49.66,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 36.20254184382927,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 2,
+        "weight": 16.66
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 248.7,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:16:00.558Z",
+    "location_distance_km": 248.7
+  },
+  "scraped_at": "2025-12-28T17:06:05.077Z",
+  "updated_at": "2026-01-09T19:08:21.683Z",
+  "version": 1
+}

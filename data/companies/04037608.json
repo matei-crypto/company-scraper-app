@@ -1,0 +1,488 @@
+{
+  "company_name": "PEOPLEWARE LTD",
+  "company_number": "04037608",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-07-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "4th Floor 95 Gresham Street, London, EC2V 7AB, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "4th Floor 95 Gresham Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2V 7AB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "INVISION SOFTWARE LTD",
+      "ceased_on": "2025-03-10",
+      "effective_from": "2016-10-24"
+    },
+    {
+      "name": "INJIXO LTD",
+      "ceased_on": "2016-10-24",
+      "effective_from": "2012-10-16"
+    },
+    {
+      "name": "INVISION SOFTWARE LIMITED",
+      "ceased_on": "2012-10-16",
+      "effective_from": "2000-07-20"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-03",
+    "last_made_up_to": "2025-07-20",
+    "next_made_up_to": "2026-07-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOLLENBECK, Peter",
+        "officer_role": "director",
+        "appointed_on": "2000-07-20",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1973,
+        "nationality": "German",
+        "address": {
+          "country": "Germany",
+          "locality": "Duesseldorf",
+          "postal_code": "FOREIGN",
+          "premises": "Leo Statz Str. 27",
+          "region": "40474"
+        }
+      },
+      {
+        "name": "RUETTE, Christoph",
+        "officer_role": "director",
+        "appointed_on": "2019-08-23",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1980,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "address_line_1": "59069",
+          "country": "Germany",
+          "locality": "Hamm",
+          "premises": "An Der Windmuehle 3a"
+        }
+      },
+      {
+        "name": "ZOHARI, Armand",
+        "officer_role": "director",
+        "appointed_on": "2000-07-20",
+        "resigned_on": "2017-10-31",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "German",
+        "address": {
+          "country": "Germany",
+          "locality": "Bochum",
+          "postal_code": "GERMANY",
+          "premises": "Baumhofstrasse 45"
+        }
+      },
+      {
+        "name": "LONDON LAW SERVICES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-07-20",
+        "resigned_on": "2000-07-20",
+        "address": {
+          "address_line_1": "84 Temple Chambers",
+          "address_line_2": "Temple Avenue",
+          "locality": "London",
+          "postal_code": "EC4Y 0HP"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SCHROER, Matthias Johannes Walter",
+        "officer_role": "secretary",
+        "appointed_on": "2000-07-20",
+        "resigned_on": "2008-09-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Speldorfer Strasse 23",
+          "country": "Germany",
+          "locality": "40235 Dusseldorf",
+          "postal_code": "FOREIGN"
+        }
+      },
+      {
+        "name": "LONDON LAW SECRETARIAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-07-20",
+        "resigned_on": "2000-07-20",
+        "address": {
+          "address_line_1": "84 Temple Chambers",
+          "address_line_2": "Temple Avenue",
+          "locality": "London",
+          "postal_code": "EC4Y 0HP"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "040376080001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-11-16",
+        "delivered_on": "2022-11-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7FVTY8",
+        "transaction_id": "MzQ3NTAzNjQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "AE0NEEPF",
+        "transaction_id": "MzQ2MzQ2NTE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-03-10",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XDXSRNI0",
+        "transaction_id": "MzQ1NzgwMzI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDXPXB7K",
+        "transaction_id": "MzQ1NzQzNzQyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD7WFQ35",
+        "transaction_id": "MzQyOTYxNDkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD22E85K",
+        "transaction_id": "MzQyMDA1ODM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-08",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "ACVXMAQY",
+        "transaction_id": "MzQwOTg0ODM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC85SYEW",
+        "transaction_id": "MzM4NzAwOTIxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-07-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC85SWS3",
+        "transaction_id": "MzM4NzAwODg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-14",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "ABX1ATRC",
+        "transaction_id": "MzM2ODk5ODYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-11-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 16,
+        "barcode": "XBH0BMR4",
+        "transaction_id": "MzM1ODk4ODUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8NZ84W",
+        "transaction_id": "MzM0NjE4NTc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-14",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "AAXN4YER",
+        "transaction_id": "MzMyOTY0NjU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA959WFF",
+        "transaction_id": "MzMwODEyNDI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-02",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "A9YYI2J6",
+        "transaction_id": "MzI5MjgyMDIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-13",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "A9L0P5FC",
+        "transaction_id": "MzI4ODI0MTgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X99OXD3K",
+        "transaction_id": "MzI3MzQxMTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-09",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "L8F4FKJ4",
+        "transaction_id": "MzI0NjAxMTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-08-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8CQ5HLF",
+        "transaction_id": "MzI0MjYzODg3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8AGHGEJ",
+        "transaction_id": "MzI0MDE5ODQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7AL4QKO",
+        "transaction_id": "MzIxMDE3NTY3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-02-07",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "A6YS64YW",
+        "transaction_id": "MzE5Njk5ODE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-11-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X6ITYFTL",
+        "transaction_id": "MzE4OTgxMTgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-08-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6DHIITL",
+        "transaction_id": "MzE4MzY3MTI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-08-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6CU3Z2W",
+        "transaction_id": "MzE4Mjg3Mjg2MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 76,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 3214321,
+    "ebitda": 134759,
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Injixo.com",
+    "headcount": 12,
+    "tech_stack": [
+      "Google Tag Manager"
+    ],
+    "business_keywords": [
+      "AI-native WFM suite",
+      "workforce management",
+      "contact centers",
+      "forecasting",
+      "scheduling",
+      "real-time adherence",
+      "enterprise workforce management",
+      "machine learning",
+      "intraday management",
+      "time off management",
+      "time & attendance",
+      "education",
+      "cloud infrastructure",
+      "API",
+      "payroll integration"
+    ],
+    "services": [
+      "Forecasting with machine learning",
+      "Scheduling",
+      "Intraday Management",
+      "Time Off Management",
+      "Time & Attendance tracking",
+      "Education and e-learning programs",
+      "Solution delivery with configuration and training",
+      "ROI calculation"
+    ],
+    "customer_segments": [
+      "contact centers",
+      "enterprises"
+    ],
+    "business_description": "Peopleware is an AI-native workforce management (WFM) platform designed for contact centers, offering tools for forecasting, scheduling, real-time adherence, time off management, time and attendance tracking, and employee education. The platform provides enterprise-grade security, cloud infrastructure, and integrations to optimize WFM processes and deliver measurable business results.",
+    "website_analyzed_at": "2025-12-29T17:47:49.257Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.423Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.462855925799087,
+        "weight": 25
+      },
+      {
+        "factor": "Size (revenue)",
+        "value": 3214321,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:37:05.534Z"
+  },
+  "scraped_at": "2025-12-28T20:32:47.847Z",
+  "updated_at": "2026-01-09T19:08:22.423Z",
+  "version": 1
+}

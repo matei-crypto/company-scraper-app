@@ -1,0 +1,178 @@
+{
+  "company_name": "SKYBLISS LTD",
+  "company_number": "15981303",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-09-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "Office 2, 490 Larkshall Road, London, E4 9HH, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Office 2, 490 Larkshall Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E4 9HH"
+  },
+  "sic_codes": [
+    "62090",
+    "80200"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-06-30",
+    "next_accounts_period_end_on": "2026-09-30",
+    "next_accounts_period_start_on": "2025-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-09",
+    "last_made_up_to": "2025-09-25",
+    "next_made_up_to": "2026-09-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AKANJI, Ezekiel",
+        "officer_role": "director",
+        "appointed_on": "2024-09-26",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1990,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Larkshall Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E4 9HH",
+          "premises": "Office 2, 490"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ezekiel Akanji",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-09-26",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1990,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Larkshall Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E4 9HH",
+          "premises": "490"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XECHJG7N",
+        "transaction_id": "MzQ4Mzc3NzI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECHJFAR",
+        "transaction_id": "MzQ4Mzc3Njc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDCUJU94",
+        "transaction_id": "MzQzODEyMjc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDCUJSM8",
+        "transaction_id": "MzQzODEyMjQyMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-09-26",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XDCGNFH5",
+        "transaction_id": "MzQzNzM4NTUyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 5,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 16.5,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.2601322436580416,
+        "weight": 10.496901589671486
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:31.409Z"
+  },
+  "scraped_at": "2025-12-28T18:00:40.085Z",
+  "updated_at": "2025-12-29T22:45:31.409Z",
+  "version": 1
+}

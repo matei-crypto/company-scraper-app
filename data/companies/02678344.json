@@ -1,0 +1,838 @@
+{
+  "company_name": "QUANTIV LIMITED",
+  "company_number": "02678344",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1992-01-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "St George's Court, Winnington Avenue, Northwich, Cheshire, CW8 4EE, England",
+  "registered_address_structured": {
+    "address_line_1": "St George's Court",
+    "address_line_2": "Winnington Avenue",
+    "country": "England",
+    "locality": "Northwich",
+    "postal_code": "CW8 4EE",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SOFTWARE OBJECTIVES LIMITED",
+      "ceased_on": "1995-03-29",
+      "effective_from": "1992-03-04"
+    },
+    {
+      "name": "PALMACRESTA LIMITED",
+      "ceased_on": "1992-03-04",
+      "effective_from": "1992-01-16"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-30",
+    "last_made_up_to": "2025-01-16",
+    "next_made_up_to": "2026-01-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CONWAY, Christopher Michael",
+        "officer_role": "director",
+        "appointed_on": "2015-05-08",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Winnington Avenue",
+          "country": "England",
+          "locality": "Northwich",
+          "postal_code": "CW8 4EE",
+          "premises": "St George's Court",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "BAKER, Steven James",
+        "officer_role": "director",
+        "appointed_on": "2015-05-08",
+        "resigned_on": "2018-03-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "BAKER, Steven James",
+        "officer_role": "director",
+        "appointed_on": "1994-06-01",
+        "resigned_on": "2000-04-12",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bramble Cottage",
+          "address_line_2": "Common Lane",
+          "locality": "Latch Dennis",
+          "postal_code": "CW9 7TB",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "BRENNAND, Stuart",
+        "officer_role": "director",
+        "appointed_on": "1993-07-01",
+        "resigned_on": "2001-10-12",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "55 St Anthonys Road",
+          "address_line_2": "Blundellsands",
+          "locality": "Liverpool",
+          "postal_code": "L23 8TW",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "BROOKS, Christian Roy",
+        "officer_role": "director",
+        "appointed_on": "2013-06-10",
+        "resigned_on": "2015-05-08",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "CARTER, Stephen Andrew",
+        "officer_role": "director",
+        "appointed_on": "1995-01-27",
+        "resigned_on": "2000-04-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "9 Dean Drive",
+          "locality": "Bowdon",
+          "postal_code": "WA14 3NE",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "CHEESEMAN, Michael",
+        "officer_role": "director",
+        "appointed_on": "1998-09-24",
+        "resigned_on": "2015-04-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "CRIBB, Michael",
+        "officer_role": "director",
+        "appointed_on": "1995-01-27",
+        "resigned_on": "2015-05-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "GEAR, Amanda",
+        "officer_role": "director",
+        "appointed_on": "1995-01-27",
+        "resigned_on": "1998-09-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Langdale Lodge 51 Mearse Lane",
+          "locality": "Barnt Green",
+          "postal_code": "B45 8HJ",
+          "region": "Worcestershire"
+        }
+      },
+      {
+        "name": "GEAR, David Clement",
+        "officer_role": "director",
+        "appointed_on": "1998-09-22",
+        "resigned_on": "2000-04-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1944,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Langdale Lodge 51 Mearse Lane",
+          "address_line_2": "Barnt Green",
+          "locality": "Birmingham",
+          "postal_code": "B45 8HJ",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "GUDGION, Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2002-07-04",
+        "resigned_on": "2005-09-21",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "12 Tilsworth Road",
+          "locality": "Beaconsfield",
+          "postal_code": "HP9 1TR",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "HEDGE, Roger Martin",
+        "officer_role": "director",
+        "appointed_on": "1992-02-27",
+        "resigned_on": "2000-04-12",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1945,
+        "nationality": "English",
+        "address": {
+          "address_line_1": "Po Bos 1060",
+          "address_line_2": "48 Par La Ville Road",
+          "country": "Bermuda Hm11",
+          "locality": "Hamilton"
+        }
+      },
+      {
+        "name": "KORNSTEIN, Howard Paul",
+        "officer_role": "director",
+        "appointed_on": "1998-09-24",
+        "resigned_on": "2003-10-19",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1940,
+        "nationality": "Usa",
+        "address": {
+          "address_line_1": "The Old Rectory",
+          "address_line_2": "Elkstone",
+          "locality": "Cheltenham",
+          "postal_code": "GL53 9PD",
+          "region": "Gloucestershire"
+        }
+      },
+      {
+        "name": "ROBERTS, Charles Barry",
+        "officer_role": "director",
+        "appointed_on": "2000-04-12",
+        "resigned_on": "2003-11-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1943,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "19 Portsea Place",
+          "locality": "London",
+          "postal_code": "W2 2BL"
+        }
+      },
+      {
+        "name": "TATLOCK, Stephen",
+        "officer_role": "director",
+        "appointed_on": "2002-11-07",
+        "resigned_on": "2015-05-08",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "TIBBLE, Sarah",
+        "officer_role": "director",
+        "appointed_on": "2004-05-19",
+        "resigned_on": "2014-02-27",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "SPRINGFIELD FINANCE LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1992-01-13",
+        "resigned_on": "1992-02-27",
+        "address": {
+          "address_line_1": "112 High Street",
+          "address_line_2": "Coleshill",
+          "locality": "Birmingham",
+          "postal_code": "B46 3BL",
+          "region": "Warwickshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "LOWE, Elizabeth",
+        "officer_role": "secretary",
+        "appointed_on": "2018-12-10",
+        "address": {
+          "address_line_1": "Winnington Avenue",
+          "country": "England",
+          "locality": "Northwich",
+          "postal_code": "CW8 4EE",
+          "premises": "St George's Court",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "BAKER, Steven James",
+        "officer_role": "secretary",
+        "appointed_on": "2002-04-05",
+        "resigned_on": "2002-07-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Bramble Cottage",
+          "address_line_2": "Common Lane",
+          "locality": "Latch Dennis",
+          "postal_code": "CW9 7TB",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "BENN, John David",
+        "officer_role": "secretary",
+        "appointed_on": "2001-10-12",
+        "resigned_on": "2002-04-05",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "71 Watling Street",
+          "locality": "Bury",
+          "postal_code": "BL8 2TG",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "BRENNAND, Stuart",
+        "officer_role": "secretary",
+        "appointed_on": "1993-07-01",
+        "resigned_on": "2001-10-12",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "55 St Anthonys Road",
+          "address_line_2": "Blundellsands",
+          "locality": "Liverpool",
+          "postal_code": "L23 8TW",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "GERRARD, Corinne",
+        "officer_role": "secretary",
+        "appointed_on": "2010-02-01",
+        "resigned_on": "2014-01-28",
+        "address": {
+          "address_line_1": "Station House",
+          "address_line_2": "Stamford New Road",
+          "locality": "Altrincham",
+          "postal_code": "WA14 1EP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "HARRISON, Irene Lesley",
+        "officer_role": "secretary",
+        "appointed_on": "1995-03-22",
+        "resigned_on": "1995-03-29",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Fy Mwthin",
+          "address_line_2": "22 Merthyr Road Tongwynlais",
+          "locality": "Cardiff",
+          "postal_code": "CF15 7LH"
+        }
+      },
+      {
+        "name": "HOOPER, Nigel Philip",
+        "officer_role": "secretary",
+        "appointed_on": "2004-03-29",
+        "resigned_on": "2010-02-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Tutor Bank Drive",
+          "country": "United Kingdom",
+          "locality": "Newton-Le-Willows",
+          "postal_code": "WA12 9LZ",
+          "premises": "21",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "JAMES, Jacqueline",
+        "officer_role": "secretary",
+        "appointed_on": "1992-02-27",
+        "resigned_on": "1993-07-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Court Manor Court Drive",
+          "address_line_2": "Shenstone",
+          "locality": "Lichfield",
+          "postal_code": "WS14 0JG",
+          "region": "Staffordshire"
+        }
+      },
+      {
+        "name": "SALT, Jacqueline Ann",
+        "officer_role": "nominee-secretary",
+        "appointed_on": "1992-01-13",
+        "resigned_on": "1992-02-27",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Butlers Cottage",
+          "address_line_2": "Rectory Farm",
+          "locality": "Baxterley",
+          "postal_code": "CV9 2LW",
+          "region": "Warwickshire"
+        }
+      },
+      {
+        "name": "SMITH, Keith",
+        "officer_role": "secretary",
+        "appointed_on": "2002-11-07",
+        "resigned_on": "2004-03-29",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "108 Biddulph Road",
+          "locality": "Congleton",
+          "postal_code": "CW12 3LY",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Quantiv Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Winnington Avenue",
+          "country": "United Kingdom",
+          "locality": "Northwich",
+          "postal_code": "CW8 4EE",
+          "premises": "St George's Court",
+          "region": "Cheshire"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "9500785"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "1998-11-13",
+        "delivered_on": "1998-11-19",
+        "particulars": {
+          "type": "short-particulars",
+          "description": ".. a specific equitable charge over all freehold and leasehold properties and/or the proceeds of sale thereof fixed and floating charges over undertaking and all property and assets present and future including goodwill bookdebts and the benefits of any licences. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2008-10-09",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XED8GBOX",
+        "transaction_id": "MzQ4NTA2NTU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDUMLL7S",
+        "transaction_id": "MzQ1MTg5MzQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDEEZBHE",
+        "transaction_id": "MzQ0MDgwMTM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVADY7F",
+        "transaction_id": "MzQwODM2NzY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCDB2GW9",
+        "transaction_id": "MzM5NTEwNDYwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XBZYCD9C",
+        "transaction_id": "MzM3Mzk0MzAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBZYCB2X",
+        "transaction_id": "MzM3Mzk0MjQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-24",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XBZYCC4A",
+        "transaction_id": "MzM3Mzk0MjY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-03-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBZYCASZ",
+        "transaction_id": "MzM3Mzk0MjMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XBVTLO5N",
+        "transaction_id": "MzM2Njc3OTEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVTLMRM",
+        "transaction_id": "MzM2Njc3ODgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBEH0TK2",
+        "transaction_id": "MzM1NDk5OTcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWKX3PT",
+        "transaction_id": "MzMyODAyOTkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAFTYTTT",
+        "transaction_id": "MzMxODAyOTk4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9WW39Z4",
+        "transaction_id": "MzI4OTUzNjM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9GGZGJS",
+        "transaction_id": "MzI4MTYyMzA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8X3FAOW",
+        "transaction_id": "MzI1NDk1ODM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-10-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8H2OHFL",
+        "transaction_id": "MzI0NzkyNjQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A8GLWBEO",
+        "transaction_id": "MzI0NzQ3OTU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7Y36ATS",
+        "transaction_id": "MzIyNTUzNzE2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-12-18",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X7L16MSH",
+        "transaction_id": "MzIyMjQxMzQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A7GZKWNS",
+        "transaction_id": "MzIxNzY3MTQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-03-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X71E05IH",
+        "transaction_id": "MzE5OTY5Mzc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6XSFE4O",
+        "transaction_id": "MzE5NTQ3NjMxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-12-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X6LPNW23",
+        "transaction_id": "MzE5MzM2NTkyOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 204,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Quantiv.com",
+    "headcount": 6,
+    "business_keywords": [
+      "data management",
+      "operational information",
+      "data organization",
+      "data analysis",
+      "reporting",
+      "analytics",
+      "data consolidation",
+      "cloud-based service",
+      "application data",
+      "data storage",
+      "data automation",
+      "NumberWork",
+      "NumberCloud",
+      "production control",
+      "financial management"
+    ],
+    "services": [
+      "Organizing and managing application data",
+      "Automating the use of data to create operational information",
+      "Extracting critical data from individual applications",
+      "Consolidating data into a standardized format",
+      "Putting data into context to provide actionable operational information",
+      "NumberWork analysis method for structuring core application data",
+      "NumberCloud cloud-based service for flexible collection, storage, and exposure of information"
+    ],
+    "customer_segments": [
+      "manufacturing",
+      "food",
+      "charity",
+      "insurance",
+      "retail",
+      "financial services",
+      "UK-based businesses",
+      "international businesses"
+    ],
+    "business_description": "Quantiv Limited helps organizations turn data into consistent and actionable operational information by organizing and managing application data. They provide technologies and services, such as NumberWork and NumberCloud, to automate data use and improve understanding, enabling businesses to drive operational improvements.",
+    "website_analyzed_at": "2025-12-29T15:51:11.983Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.873Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 31,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 33.97788914821157,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:18:33.080Z"
+  },
+  "scraped_at": "2025-12-28T18:10:22.215Z",
+  "updated_at": "2026-01-09T19:08:21.873Z",
+  "version": 1
+}

@@ -1,0 +1,474 @@
+{
+  "company_name": "PIXELMILL LTD",
+  "company_number": "04029108",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-07-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Inglewood, 28 Moss Road, Alderley Edge, Cheshire, SK9 7HZ",
+  "registered_address_structured": {
+    "address_line_1": "Inglewood",
+    "address_line_2": "28 Moss Road",
+    "locality": "Alderley Edge",
+    "postal_code": "SK9 7HZ",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CLICKS AND LINKS LTD.",
+      "ceased_on": "2019-08-15",
+      "effective_from": "2001-06-27"
+    },
+    {
+      "name": "CLICKSANDLINKS LIMITED",
+      "ceased_on": "2001-06-27",
+      "effective_from": "2000-07-07"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-21",
+    "last_made_up_to": "2025-07-07",
+    "next_made_up_to": "2026-07-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SUMNER, Vincent William",
+        "officer_role": "director",
+        "appointed_on": "2000-07-07",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "28 Moss Road",
+          "locality": "Alderley Edge",
+          "postal_code": "SK9 7HZ",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "DUNN, Lesley Ann",
+        "officer_role": "director",
+        "appointed_on": "2002-12-31",
+        "resigned_on": "2008-02-19",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Catterhall Farm Tricklebanks",
+          "address_line_2": "Catterall Lane",
+          "locality": "Preston",
+          "postal_code": "PR3 0PS",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "NEWELL, Frank Anthony",
+        "officer_role": "director",
+        "appointed_on": "2002-12-31",
+        "resigned_on": "2004-02-13",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "High Wych Lane",
+          "address_line_2": "High Wych",
+          "locality": "Sawbridgeworth",
+          "postal_code": "CM21 0JP",
+          "premises": "Wychways",
+          "region": "Hertfordshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SUMNER, Catherine Mary",
+        "officer_role": "secretary",
+        "appointed_on": "2000-07-07",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Inglewood",
+          "address_line_2": "28 Moss Road",
+          "locality": "Alderley Edge",
+          "postal_code": "SK9 7HZ",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Vincent William Sumner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-07-07",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Inglewood",
+          "address_line_2": "28 Moss Road",
+          "locality": "Alderley Edge",
+          "postal_code": "SK9 7HZ",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "040291080002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-12-20",
+        "delivered_on": "2016-12-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Catalyst Business Finance LTD"
+          }
+        ],
+        "satisfied_on": "2017-03-15",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage debenture"
+          }
+        ],
+        "created_on": "2000-09-19",
+        "delivered_on": "2000-09-28",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "A specific equitable charge over all freehold and leasehold properties and/or the proceeds of sale thereof fixed and floating charges over undertaking and all property and assets present and future including goodwill bookdebts and the benefits of any licences."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2017-03-15",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6B70EX",
+        "transaction_id": "MzQ3Mjc3NTEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDUERS7F",
+        "transaction_id": "MzQ1MTY5ODA1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD705DEW",
+        "transaction_id": "MzQyODA5NDg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XD1M1T6I",
+        "transaction_id": "MzQxOTM0OTk3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7N0Q5S",
+        "transaction_id": "MzM4NjE0NDIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBWCTVFE",
+        "transaction_id": "MzM2Nzc2NzkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB7S7RR5",
+        "transaction_id": "MzM0NTA4NTQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAWFHLXN",
+        "transaction_id": "MzMyNzcyMTM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA89G9II",
+        "transaction_id": "MzMwNjk5MzA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9HQJRXT",
+        "transaction_id": "MzI4MzM2MzUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X98TE7O2",
+        "transaction_id": "MzI3MjU3NzQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8X0YJJM",
+        "transaction_id": "MzI1NDk2OTkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-08-15",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X8BUSYVU",
+        "transaction_id": "MzI0MTgyMDE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X89CXORV",
+        "transaction_id": "MzIzODk0NjIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7X4TBM0",
+        "transaction_id": "MzIyNDM5MDI0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7ABSGCO",
+        "transaction_id": "MzIwOTc4MzgxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6IDCAA0",
+        "transaction_id": "MzE4OTI5ODE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6BAKNEJ",
+        "transaction_id": "MzE4MTIwNDY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-03-15",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X6296P5V",
+        "transaction_id": "MzE3MTIwODkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-03-15",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X6296P9S",
+        "transaction_id": "MzE3MTIwODkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-01-19",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X5YGHTOG",
+        "transaction_id": "MzE2Njk5Mjc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-01-05",
+        "description": "mortgage-charge-whole-release-with-charge-number",
+        "type": "MR05",
+        "pages": 2,
+        "barcode": "X5XG0I2P",
+        "transaction_id": "MzE2NTk5MTE2N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2016-12-20",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 10,
+        "barcode": "X5M815N7",
+        "transaction_id": "MzE2NDg3NjAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-07-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5B05IW0",
+        "transaction_id": "MzE1MjYzNTE5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-12-01",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X4LBEB14",
+        "transaction_id": "MzEzNjQ2MTg5NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 76,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Clicksandlinks.com",
+    "headcount": 14,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: timeout of 10000ms exceeded"
+    ]
+  },
+  "investment_score": {
+    "score": 39,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.498472201896245,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 14,
+        "weight": 14
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:37:00.382Z"
+  },
+  "scraped_at": "2025-12-28T20:32:16.169Z",
+  "updated_at": "2025-12-29T22:37:00.383Z",
+  "version": 1
+}

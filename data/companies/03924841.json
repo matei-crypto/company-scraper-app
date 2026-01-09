@@ -1,0 +1,537 @@
+{
+  "company_name": "Y3K (EUROPE) LIMITED",
+  "company_number": "03924841",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2000-02-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "Airport House, 265 Purley Way, Croydon, Surrey, CR0 0XZ, England",
+  "registered_address_structured": {
+    "address_line_1": "Airport House",
+    "address_line_2": "265 Purley Way",
+    "country": "England",
+    "locality": "Croydon",
+    "postal_code": "CR0 0XZ",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "46439",
+    "47430",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-28",
+    "last_made_up_to": "2025-04-14",
+    "next_made_up_to": "2026-04-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SINGH, Paul",
+        "officer_role": "director",
+        "appointed_on": "2000-04-10",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Airport House",
+          "address_line_2": "Purley Way",
+          "country": "United Kingdom",
+          "locality": "Croydon",
+          "postal_code": "CR0 0XZ",
+          "premises": "Y3k",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BRIGHTON DIRECTOR LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2000-02-14",
+        "resigned_on": "2000-02-14",
+        "address": {
+          "address_line_1": "381 Kingsway",
+          "locality": "Hove",
+          "postal_code": "BN3 4QD",
+          "region": "East Sussex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SINGH, Navneet",
+        "officer_role": "secretary",
+        "appointed_on": "2000-04-10",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Airport House",
+          "address_line_2": "Purley Way",
+          "country": "United Kingdom",
+          "locality": "Croydon",
+          "postal_code": "CR0 0XZ",
+          "premises": "Y3k",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "BRIGHTON SECRETARY LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2000-02-14",
+        "resigned_on": "2000-02-14",
+        "address": {
+          "address_line_1": "381 Kingsway",
+          "locality": "Hove",
+          "postal_code": "BN3 4QD",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Navneet Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Airport House",
+          "address_line_2": "Purley Way",
+          "country": "United Kingdom",
+          "locality": "Croydon",
+          "postal_code": "CR0 0XZ",
+          "premises": "Y3k",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Mr Paul Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Airport House",
+          "address_line_2": "Purley Way",
+          "country": "United Kingdom",
+          "locality": "Croydon",
+          "postal_code": "CR0 0XZ",
+          "premises": "Y3k",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "039248410002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-02-25",
+        "delivered_on": "2015-02-25",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Invoice Finance (UK) LTD"
+          }
+        ],
+        "satisfied_on": "2025-11-12",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "All assets debenture"
+          }
+        ],
+        "created_on": "2000-06-30",
+        "delivered_on": "2000-07-08",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2024-05-22",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-11-12",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEF54TQY",
+        "transaction_id": "MzQ4ODM3NzQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEC6L2MY",
+        "transaction_id": "MzQ4MzI2ODY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0G5DEI",
+        "transaction_id": "MzQ2MjQyOTc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDCRLHB5",
+        "transaction_id": "MzQzNzc4NDI1OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-05-22",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD3MVOY9",
+        "transaction_id": "MzQyMjgzMzA0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1E1PWO",
+        "transaction_id": "MzQxOTA0MzY5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD1DYAGR",
+        "transaction_id": "MzQxOTAxMzk5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XD18IO17",
+        "transaction_id": "MzQxODcwMzI5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCY5GQ1K",
+        "transaction_id": "MzQxMzMyMzY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCJE0UXC",
+        "transaction_id": "MzQwNTk3Nzc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYDFYJK",
+        "transaction_id": "MzM3MTA4MjU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-07",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XBICOVE2",
+        "transaction_id": "MzM2MTM0NjgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBICOUE9",
+        "transaction_id": "MzM2MTM0NjYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBICOSUY",
+        "transaction_id": "MzM2MTM0NjI4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBDNF028",
+        "transaction_id": "MzM1MzY5OTQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-09-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBCOD6CH",
+        "transaction_id": "MzM1MjA4NjkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZCD8LL",
+        "transaction_id": "MzMzMjIwMzU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-18",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "AAF1OQ4W",
+        "transaction_id": "MzMxNzI3ODI4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-18",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "AAF1OQ54",
+        "transaction_id": "MzMxNzI3ODAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-18",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "AAF1OQ5C",
+        "transaction_id": "MzMxNzI3Nzc1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-18",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 6,
+        "barcode": "AAF1OQ80",
+        "transaction_id": "MzMxNzI3NzU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-09-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 18,
+        "barcode": "AAAQ82ZV",
+        "transaction_id": "MzMxMzI1NzQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-09-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 18,
+        "barcode": "AAAQ82TE",
+        "transaction_id": "MzMxMzI1NjkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-09-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 18,
+        "barcode": "AAAQ82VE",
+        "transaction_id": "MzMxMzI1NjI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2021-09-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 18,
+        "barcode": "AAAQ82WY",
+        "transaction_id": "MzMxMzI1NTcyMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 95,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Y3k.com",
+    "headcount": 7,
+    "tech_stack": [
+      "IQCCTV IP CCTV Kits",
+      "IQCCTV IP Cameras",
+      "IQCCTV IP Recorders (NVRs)",
+      "Xvision IP Cameras",
+      "Xvision IP Recorders (NVRs)",
+      "Smart-i Software",
+      "Smart-i Trackers & Fleet Dashcams"
+    ],
+    "business_keywords": [
+      "security solutions",
+      "IP CCTV",
+      "AI detection",
+      "PoE IP CCTV",
+      "colour night vision",
+      "active deterrents",
+      "smart AI detection",
+      "professional IP CCTV",
+      "deep learning AI",
+      "face recognition",
+      "number plate recognition",
+      "AI-powered active defence",
+      "trackers",
+      "fleet dashcams",
+      "real-time protection"
+    ],
+    "services": [
+      "Smart IP CCTV for 24/7 protection",
+      "Plug & Play PoE IP CCTV installation",
+      "Smart AI detection for people and motion",
+      "Active deterrents with spotlight & siren",
+      "Professional-grade IP CCTV for high-end homes and commercial setups",
+      "Deep learning AI with face and number plate recognition",
+      "AI-powered active defence to deter intruders",
+      "Scalable multi-site CCTV systems",
+      "Vehicle and asset tracking for businesses",
+      "4G dashcams for accident and incident evidence",
+      "Driving behavior monitoring to reduce costs",
+      "Technical support for CCTV and tracking systems"
+    ],
+    "customer_segments": [
+      "homes",
+      "small businesses",
+      "high-end homes",
+      "commercial setups",
+      "multi-site installations",
+      "businesses with 3 or more vehicles",
+      "security professionals",
+      "installers"
+    ],
+    "business_description": "Y3K (EUROPE) LIMITED provides smart, reliable security solutions worldwide, including IP CCTV systems, AI-powered detection, and fleet tracking. The company offers plug-and-play and professional-grade CCTV for homes, businesses, and multi-site installations, along with real-time vehicle and asset tracking solutions. Expert support is provided at every stage.",
+    "website_analyzed_at": "2025-12-29T17:36:45.298Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.377Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 32,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 25.89298947406139,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:35:17.568Z"
+  },
+  "scraped_at": "2025-12-28T20:19:05.478Z",
+  "updated_at": "2026-01-09T19:08:22.377Z",
+  "version": 1
+}

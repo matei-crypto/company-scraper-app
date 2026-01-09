@@ -1,0 +1,161 @@
+{
+  "company_name": "SPACEBAR INTERNATIONAL LTD",
+  "company_number": "15500363",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-02-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "124 City  Road, London, EC1V 2NX, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "124 City  Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "61900",
+    "62020",
+    "63120"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-03",
+    "last_made_up_to": "2025-02-17",
+    "next_made_up_to": "2026-02-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MATLOOB, Abid",
+        "officer_role": "director",
+        "appointed_on": "2024-02-18",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1983,
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "address": {
+          "address_line_1": "City  Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Abid Matloob",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-02-18",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1983,
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "address": {
+          "address_line_1": "City  Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEFIMTLU",
+        "transaction_id": "MzQ4OTE4NjQ5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3LRYIY",
+        "transaction_id": "MzQ2ODM2MTc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-18",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 28,
+        "barcode": "XCX0RSR4",
+        "transaction_id": "MzQxMTQ2MzU1OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 3,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 25.54,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.8656107072869101,
+        "weight": 15.540537191699961
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 10,
+        "weight": 10
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:45:00.094Z"
+  },
+  "scraped_at": "2025-12-28T17:20:08.326Z",
+  "updated_at": "2025-12-29T22:45:00.094Z",
+  "version": 1
+}

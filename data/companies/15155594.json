@@ -1,0 +1,186 @@
+{
+  "company_name": "PROCUREPRO UK LIMITED",
+  "company_number": "15155594",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-09-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "128 City Road, London, EC1V 2NX, England",
+  "registered_address_structured": {
+    "address_line_1": "128 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-09",
+    "last_made_up_to": "2025-02-23",
+    "next_made_up_to": "2026-02-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLENKIN, Alastair Christopher",
+        "officer_role": "director",
+        "appointed_on": "2023-09-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1991,
+        "nationality": "British,Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Alastair Christopher Blenkin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2023-09-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1991,
+        "nationality": "British,Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "North Street",
+          "country": "Australia",
+          "locality": "Spring Hill",
+          "postal_code": "4000",
+          "premises": "290/33",
+          "region": "Qld"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEBMXO54",
+        "transaction_id": "MzQ4MjE1MDgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDX13A42",
+        "transaction_id": "MzQ1NjA5Nzk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBRWXHF",
+        "transaction_id": "MzQzNTkzMjUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCDGGCUY",
+        "transaction_id": "MzM5NTMzMDc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCDGGCFL",
+        "transaction_id": "MzM5NTMzMDYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-09-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCCH1S0B",
+        "transaction_id": "MzM5MzgwNTU0NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 6,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 49.94,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.2738277267884324,
+        "weight": 18.940984964147642
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 3.5,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:43:53.951Z",
+    "location_distance_km": 3.5
+  },
+  "scraped_at": "2025-12-28T17:19:43.674Z",
+  "updated_at": "2025-12-29T22:43:53.951Z",
+  "version": 1
+}

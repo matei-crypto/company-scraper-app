@@ -1,0 +1,64 @@
+# Buy & Build Strategy Engine - Behavioral Rules
+
+## Investment Thesis
+- This platform supports the **AI-Enabled MSP Platform** investment strategy
+- See `docs/INVESTMENT_THESIS.md` for the complete investment thesis
+- Target profile: £500k–£1m EBITDA, 70%+ recurring revenue, Microsoft-centric, SIC codes 62020/62090
+
+## Source of Truth
+- All company data lives in `/data/companies` as `{company_number}.json`
+- Each file represents a single company record
+- The file-based database is the single source of truth
+
+## Persistence over Volatility
+- If an enrichment step fails, DO NOT delete the record
+- Update the metadata with `enrichment_status: "failed"` flag
+- Preserve all existing data, even if partial
+- Log errors but maintain data integrity
+
+## Agent-First Workflow
+- When asked to "Enrich X", execute the script directly
+- Check for errors after execution
+- Summarize findings in the console
+- Verify output matches expected schema
+- Take responsibility for script execution and validation
+
+## Governance
+- Every company added to the database MUST be validated against CompanySchema
+- No "Dirty Data" is allowed in the repository
+- Use Zod validation before writing any company file
+- Reject invalid data at the source
+
+## Data Integrity
+- Always validate before write operations
+- Maintain backward compatibility when schema evolves
+- Use Git for versioning the file-based database
+- Never overwrite valid data with invalid data
+
+## Terminal as UI
+- All output should be console-based
+- Use high-contrast ASCII for dashboards
+- No web interfaces or Tailwind
+- Focus on readability in terminal
+
+## Documentation Strategy
+- See `docs/DOCUMENTATION_STRATEGY.md` for complete documentation guidelines
+- **Operational Docs** (keep in `/docs`): Documents that explain how the system works NOW
+  - Examples: API behavior, operational guides, business logic, system architecture
+  - These help agents understand current system behavior
+- **Historical/Development Docs** (archive in `/docs/archive`): Documents about past work
+  - Examples: Code reviews, refactoring plans, completed phase summaries
+  - These document what was done, not how the system works
+- **Root-Level Docs** (keep in root): Entry points and quick references
+  - Examples: README.md, RUN_SCRAPER.md, TEST_INSTRUCTIONS.md
+- **When creating new docs**:
+  - If it explains current system behavior → `/docs/`
+  - If it documents completed work/history → `/docs/archive/`
+  - If it's a quick reference/entry point → root directory
+  - If unsure, prefer `/docs/archive/` for historical content
+- **Documentation Principles**:
+  - Operational > Historical (keep current behavior docs, archive past work)
+  - Reference > Narrative (explain "how it works" not "what we did")
+  - Living > Static (update or remove outdated docs)
+  - Actionable > Descriptive (help agents make decisions)
+

@@ -1,0 +1,179 @@
+{
+  "company_name": "CHISQUARE LABS LIMITED",
+  "company_number": "15488672",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-02-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "166 Green Wrythe Lane, Carshalton, SM5 2SR, England",
+  "registered_address_structured": {
+    "address_line_1": "166 Green Wrythe Lane",
+    "country": "England",
+    "locality": "Carshalton",
+    "postal_code": "SM5 2SR"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-27",
+    "last_made_up_to": "2025-02-13",
+    "next_made_up_to": "2026-02-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NAGARAJAN, Gayathri",
+        "officer_role": "director",
+        "appointed_on": "2024-02-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Green Wrythe Lane",
+          "country": "England",
+          "locality": "Carshalton",
+          "postal_code": "SM5 2SR",
+          "premises": "166"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Gayathri Nagarajan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-02-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Green Wrythe Lane",
+          "country": "England",
+          "locality": "Carshalton",
+          "postal_code": "SM5 2SR",
+          "premises": "166"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XE2X6GAQ",
+        "transaction_id": "MzQ2NjkwNjYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-02-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDX6T1EQ",
+        "transaction_id": "MzQ1NjU1NjE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDX6T1Q3",
+        "transaction_id": "MzQ1NjU1NjIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDX6T0I1",
+        "transaction_id": "MzQ1NjU1NTk5NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCWN6TBV",
+        "transaction_id": "MzQxMDcyMDUyOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 5,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 46.63,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 1.8765694606481482,
+        "weight": 15.631823607199076
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 14.8,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:56.244Z",
+    "location_distance_km": 14.8
+  },
+  "scraped_at": "2025-12-28T17:20:06.401Z",
+  "updated_at": "2025-12-29T22:44:56.244Z",
+  "version": 1
+}

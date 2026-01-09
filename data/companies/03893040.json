@@ -1,0 +1,483 @@
+{
+  "company_name": "SOFTWARE INTO ACTION LIMITED",
+  "company_number": "03893040",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-12-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Church 105c Trent Boulevard, West Bridgford, Nottingham, NG2 5BN, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "The Church 105c Trent Boulevard",
+    "address_line_2": "West Bridgford",
+    "country": "United Kingdom",
+    "locality": "Nottingham",
+    "postal_code": "NG2 5BN"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TEAMLEASE LIMITED",
+      "ceased_on": "2000-09-22",
+      "effective_from": "1999-12-13"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-27",
+    "last_made_up_to": "2025-11-13",
+    "next_made_up_to": "2026-11-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ABBEY, Paul David",
+        "officer_role": "director",
+        "appointed_on": "2000-03-27",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Pelham Road",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG5 1AP",
+          "premises": "Newstead House"
+        }
+      },
+      {
+        "name": "WILLIAMS, Craig Andrew",
+        "officer_role": "director",
+        "appointed_on": "2006-06-16",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Pelham Road",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG5 1AP",
+          "premises": "Newstead House"
+        }
+      },
+      {
+        "name": "LONDON LAW SERVICES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1999-12-13",
+        "resigned_on": "2000-03-27",
+        "address": {
+          "address_line_1": "84 Temple Chambers",
+          "address_line_2": "Temple Avenue",
+          "locality": "London",
+          "postal_code": "EC4Y 0HP"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MURRAY, Lisa",
+        "officer_role": "secretary",
+        "appointed_on": "2005-04-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Pelham Road",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG5 1AP",
+          "premises": "Newstead House"
+        }
+      },
+      {
+        "name": "HERRINGTON, Carolyn Anne",
+        "officer_role": "secretary",
+        "appointed_on": "2000-04-06",
+        "resigned_on": "2005-04-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "9 Saint Giles Way",
+          "address_line_2": "Cropwell Bishop",
+          "locality": "Nottingham",
+          "postal_code": "NG12 3DW",
+          "region": "Nottinghamshire"
+        }
+      },
+      {
+        "name": "LONDON LAW SECRETARIAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1999-12-13",
+        "resigned_on": "2000-03-27",
+        "address": {
+          "address_line_1": "84 Temple Chambers",
+          "address_line_2": "Temple Avenue",
+          "locality": "London",
+          "postal_code": "EC4Y 0HP"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Hotspoon Properties Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-02-22",
+        "address": {
+          "address_line_1": "105b Trent Boulevard",
+          "address_line_2": "West Bridgford",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG2 5BN",
+          "premises": "The Church"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "United Kingdom",
+          "country_registered": "United Kingdom",
+          "place_registered": "Hotspoon Properties Limited",
+          "registration_number": "12424018"
+        }
+      },
+      {
+        "name": "Mr Paul David Abbey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-06-30",
+        "ceased_on": "2022-02-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Bridgford",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG2 5DP",
+          "premises": "41 Rutland Road"
+        }
+      },
+      {
+        "name": "Mr Craig Andrew Williams",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-06-30",
+        "ceased_on": "2022-02-22",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Bridgford",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG2 5DP",
+          "premises": "41 Rutland Road"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEF7Y660",
+        "transaction_id": "MzQ4ODYyNjI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-13",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEF7Y5NU",
+        "transaction_id": "MzQ4ODYyNjIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XED8EPOI",
+        "transaction_id": "MzQ4NTA0NjQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDI9PUIX",
+        "transaction_id": "MzQ0ODMwMzkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-19",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XDI9PTP5",
+        "transaction_id": "MzQ0ODMwMzczOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDHQCQDM",
+        "transaction_id": "MzQ0Njk0OTc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDHQCQ8P",
+        "transaction_id": "MzQ0Njk0OTc0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDGLLUKG",
+        "transaction_id": "MzQ0NDgzNTE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD1E06OZ",
+        "transaction_id": "MzQxOTAyOTk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD1E06IZ",
+        "transaction_id": "MzQxOTAyOTk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCIVDTC2",
+        "transaction_id": "MzQwNTI2ODgxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC71OP4O",
+        "transaction_id": "MzM4NTIwMTk3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBJ96FW8",
+        "transaction_id": "MzM2MzA2ODA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB7PO0XS",
+        "transaction_id": "MzM0NTAyNzc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-03-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB0XDTGH",
+        "transaction_id": "MzMzNDg4MzYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-03-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAYZ6CSQ",
+        "transaction_id": "MzMzMTgzMjEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-03-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAYZ6COZ",
+        "transaction_id": "MzMzMTgzMjEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-03-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XAYZ6CMZ",
+        "transaction_id": "MzMzMTgzMjA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-02-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WUFYWDdNSDRhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-02-16",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YAXX7MYI",
+        "transaction_id": "MzMyOTkxMDIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAJC1VM9",
+        "transaction_id": "MzMyMzU1MDYyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAHUAWTE",
+        "transaction_id": "MzMyMDk4NTc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9Y5WYQJ",
+        "transaction_id": "MzI5MTMwNTYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9Y5S6XD",
+        "transaction_id": "MzI5MTI2MTE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9KPE3ZD",
+        "transaction_id": "MzI4Njk2Mjk5NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 92,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Softwareintoaction.co.uk",
+    "headcount": 9,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: read ECONNRESET"
+    ]
+  },
+  "investment_score": {
+    "score": 34,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.065590509766615,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 9,
+        "weight": 9
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:34:23.306Z"
+  },
+  "scraped_at": "2025-12-28T20:12:11.163Z",
+  "updated_at": "2025-12-29T22:34:23.308Z",
+  "version": 1
+}

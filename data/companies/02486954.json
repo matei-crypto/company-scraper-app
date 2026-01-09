@@ -1,0 +1,522 @@
+{
+  "company_name": "DESCOMP LTD",
+  "company_number": "02486954",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1990-03-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "109 Silverdale Ave, Walton On Thames, Surrey, KT12 1EH",
+  "registered_address_structured": {
+    "address_line_1": "109 Silverdale Ave",
+    "address_line_2": "Walton On Thames",
+    "locality": "Surrey",
+    "postal_code": "KT12 1EH"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "D.E.S. COMPUTER SERVICES LIMITED",
+      "ceased_on": "2024-10-01",
+      "effective_from": "1990-03-30"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-30",
+    "next_accounts_period_end_on": "2025-08-30",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-16",
+    "last_made_up_to": "2025-02-02",
+    "next_made_up_to": "2026-02-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HENDRY, George Thomas",
+        "officer_role": "director",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Flat B",
+          "address_line_2": "Ample House, 46 Uxbridge Road",
+          "locality": "Hampton Hill",
+          "postal_code": "TW12 3AD",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "LUNNON, Gregory Stephen",
+        "officer_role": "director",
+        "appointed_on": "1999-02-26",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "109 Silverdale Avenue",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 1EH",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "LUNNON, Christina",
+        "officer_role": "director",
+        "resigned_on": "1992-03-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "109 Silverdale Avenue",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 1EH",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "LUNNON, Christina",
+        "officer_role": "secretary",
+        "appointed_on": "1999-02-26",
+        "resigned_on": "2015-02-02",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "109 Silverdale Avenue",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 1EH",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "LUNNON, Gregory Stephen",
+        "officer_role": "secretary",
+        "resigned_on": "1999-02-26",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "109 Silverdale Avenue",
+          "locality": "Walton On Thames",
+          "postal_code": "KT12 1EH",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr George Thomas Hendry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "109 Silverdale Ave",
+          "address_line_2": "Walton On Thames",
+          "locality": "Surrey",
+          "postal_code": "KT12 1EH"
+        }
+      },
+      {
+        "name": "Mrs Christina Lunnon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "109 Silverdale Ave",
+          "address_line_2": "Walton On Thames",
+          "locality": "Surrey",
+          "postal_code": "KT12 1EH"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Fixed and floating charge"
+          }
+        ],
+        "created_on": "1994-06-29",
+        "delivered_on": "1994-07-12",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including uncalled capital goodwill bookdebts and patents."
+        },
+        "persons_entitled": [
+          {
+            "name": "Midland Bank PLC"
+          }
+        ],
+        "satisfied_on": "1996-09-06",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-02-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDX163LU",
+        "transaction_id": "MzQ1NjEzMTcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVLWVJS",
+        "transaction_id": "MzQ1MzQ5MzI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2024-10-01",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XDCRC982",
+        "transaction_id": "MzQzNzkxMzk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD45O41F",
+        "transaction_id": "MzQyMzU1NjU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW1QGMG",
+        "transaction_id": "MzQwOTc2MjIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XC4NBJ4R",
+        "transaction_id": "MzM4MTIzMjk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWVFTJE",
+        "transaction_id": "MzM2ODQ0NDY1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XB55UEUZ",
+        "transaction_id": "MzM0MTA2MzE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXBOWQZ",
+        "transaction_id": "MzMyOTAzNzE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA5CO9M3",
+        "transaction_id": "MzMwMjQ5ODQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9Y3FYAW",
+        "transaction_id": "MzI5MTMwNzU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X962YKVU",
+        "transaction_id": "MzI2NjEzODUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8YXYYEW",
+        "transaction_id": "MzI1NzMzMTUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X86KAIF6",
+        "transaction_id": "MzIzNTczNjI4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7YRCL70",
+        "transaction_id": "MzIyNjQ4MzUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X766TSCB",
+        "transaction_id": "MzIwNTI2NjIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6Z4O8XN",
+        "transaction_id": "MzE5Njk4ODk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X63CUWQB",
+        "transaction_id": "MzE3MjU1NTk3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-02-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5ZZOECY",
+        "transaction_id": "MzE2ODcwNTU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-02-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X50B36P7",
+        "transaction_id": "MzE0MTQ3NTczNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-12-08",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X4LTQ6ZK",
+        "transaction_id": "MzEzNzA1OTQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-03-10",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X42UKEIZ",
+        "transaction_id": "MzExODkwNjI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-02-04",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X40J3WDU",
+        "transaction_id": "MzExNjY4MDI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-02-04",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X40J3WDM",
+        "transaction_id": "MzExNjY4MDEwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2014-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "A38SD7DU",
+        "transaction_id": "MzEwMDkyODk2MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 83,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Des.eu",
+    "headcount": 6,
+    "tech_stack": [
+      "iOS",
+      "Android",
+      "Windows Mobile",
+      "DEServe platform"
+    ],
+    "business_keywords": [
+      "IT services",
+      "web design",
+      "web development",
+      "CMS",
+      "content management system",
+      "mobile app development",
+      "iOS app development",
+      "Android app development",
+      "Windows Mobile app development",
+      "e-commerce",
+      "shopping cart solution",
+      "hosting services",
+      "email broadcasting",
+      "SMS broadcasting",
+      "loyalty platform",
+      "incentive platform",
+      "strategy planning",
+      "bespoke software development",
+      "IT project management",
+      "back end integration"
+    ],
+    "services": [
+      "Web Development",
+      "Design",
+      "CMS (Content Management System) implementation",
+      "Back end integration",
+      "E-commerce (bespoke or off-the-shelf shopping cart)",
+      "Product management",
+      "Payment gateway integration",
+      "Hosting Services (secure hosting on managed hardware)",
+      "App Development (iOS, Android, Windows Mobile)",
+      "Integration with web-based control systems",
+      "Loyalty and incentive platform (DEServe platform)",
+      "Email Broadcasting",
+      "SMS Broadcasting"
+    ],
+    "customer_segments": [
+      "various industries",
+      "companies needing web design",
+      "companies needing mobile apps",
+      "e-commerce businesses",
+      "SMEs (Small and Medium-sized Enterprises)",
+      "event development industry",
+      "recruitment businesses",
+      "marketing and communications companies",
+      "oil operators",
+      "geoscience and engineering technologists"
+    ],
+    "business_description": "DESCOMP LTD, operating as DES Computer Services, provides real-world IT solutions including web development, e-commerce, mobile app development, hosting services, and bespoke software solutions. With over 35 years of experience, the company serves a wide range of industries, offering services like CMS implementation, payment gateway integration, and loyalty platforms.",
+    "website_analyzed_at": "2025-12-29T15:39:21.785Z",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.754Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 51,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 35.77788519063927,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 25.1,
+        "weight": 20
+      }
+    ],
+    "computed_at": "2025-12-29T22:16:28.151Z",
+    "location_distance_km": 25.1
+  },
+  "scraped_at": "2025-12-28T17:09:14.515Z",
+  "updated_at": "2026-01-09T19:08:21.753Z",
+  "version": 1
+}

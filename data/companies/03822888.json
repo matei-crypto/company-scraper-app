@@ -1,0 +1,507 @@
+{
+  "company_name": "REAL TIME INFORMATION SYSTEMS LTD",
+  "company_number": "03822888",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-08-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Reading Road, Pangbourne, Berkshire, RG8 7LY",
+  "registered_address_structured": {
+    "address_line_1": "4 Reading Road",
+    "address_line_2": "Pangbourne",
+    "locality": "Berkshire",
+    "postal_code": "RG8 7LY"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TREND DATA SERVICES LTD",
+      "ceased_on": "1999-10-11",
+      "effective_from": "1999-08-10"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-25",
+    "last_made_up_to": "2025-08-11",
+    "next_made_up_to": "2026-08-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NICHOLSON, Graham Thomas",
+        "officer_role": "director",
+        "appointed_on": "1999-09-17",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Reading Road",
+          "address_line_2": "Pangbourne",
+          "country": "United Kingdom",
+          "locality": "Berkshire",
+          "postal_code": "RG8 7LY",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "SCHIRN, John Anthony",
+        "officer_role": "director",
+        "appointed_on": "1999-09-17",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Dauxwood Close",
+          "locality": "Billingshurst",
+          "postal_code": "RH14 9TA",
+          "premises": "Woodcroft",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "TEMPLES (PROFESSIONAL SERVICES) LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1999-08-10",
+        "resigned_on": "1999-09-17",
+        "address": {
+          "address_line_1": "152 City Road",
+          "locality": "London",
+          "postal_code": "EC1V 2NX"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SCHIRN, John Anthony",
+        "officer_role": "secretary",
+        "appointed_on": "1999-09-17",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Dauxwood Close",
+          "locality": "Billingshurst",
+          "postal_code": "RH14 9TA",
+          "premises": "Woodcroft",
+          "region": "West Sussex"
+        }
+      },
+      {
+        "name": "TEMPLES (NOMINEES) LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1999-08-10",
+        "resigned_on": "1999-09-17",
+        "address": {
+          "address_line_1": "152 City Road",
+          "locality": "London",
+          "postal_code": "EC1V 2NX"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Graham Thomas Nicholson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Reading Road",
+          "address_line_2": "Pangbourne",
+          "country": "United Kingdom",
+          "locality": "Berkshire",
+          "postal_code": "RG8 7LY",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "Mr John Anthony Schirn",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-07",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Reading Road",
+          "address_line_2": "Pangbourne",
+          "country": "United Kingdom",
+          "locality": "Berkshire",
+          "postal_code": "RG8 7LY",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE8SA20R",
+        "transaction_id": "MzQ3Njg3NDg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE7FVNEJ",
+        "transaction_id": "MzQ3NTAzNDY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD9MGK4B",
+        "transaction_id": "MzQzMjUwNjcxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD81QFL6",
+        "transaction_id": "MzQyOTkxMzYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC9VHFW0",
+        "transaction_id": "MzM4OTQyNjc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC8WMDUP",
+        "transaction_id": "MzM4ODA5NzE5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBBMX6QG",
+        "transaction_id": "MzM1MDQ2NjY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBBK3H2T",
+        "transaction_id": "MzM1MDI3NTkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB945DUB",
+        "transaction_id": "MzM0NjkyNDMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1D9M4W",
+        "transaction_id": "MzMzNTQwMzI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-04-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB1D9M0X",
+        "transaction_id": "MzMzNTQwMzI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAB7YU8R",
+        "transaction_id": "MzMxMTExMjc1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA9IKIK0",
+        "transaction_id": "MzMwODczNzI1MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-29",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A9W7G7H5",
+        "transaction_id": "MzI4OTk4MzU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-01-29",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTlXN0c3SERhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-29",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A9W7G7GX",
+        "transaction_id": "MzI4OTk4MzU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9BOA38P",
+        "transaction_id": "MzI3NTUxNTQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9AFKUTS",
+        "transaction_id": "MzI3NDI4NjY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8C7YODK",
+        "transaction_id": "MzI0MjExMDA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8A8F0O1",
+        "transaction_id": "MzIzOTgwNjc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7CS7VAZ",
+        "transaction_id": "MzIxMjUxODUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7BD80I2",
+        "transaction_id": "MzIxMTA0Nzc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2017-10-02",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 39,
+        "transaction_id": "QTZGVjRHWVlhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2017-09-25",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X6FPYXUZ",
+        "transaction_id": "MzE4NjE0NjY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2017-09-25",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X6FPYNOA",
+        "transaction_id": "MzE4NjE0NjQxMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 74,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Rtis.co.uk",
+    "headcount": 8,
+    "business_keywords": [
+      "customised database applications",
+      "enterprise-wide solutions",
+      "departmental solutions",
+      "software solutions",
+      "database solutions",
+      "customised software",
+      "business systems",
+      "software development",
+      "CRM",
+      "quoting",
+      "SOP",
+      "costing",
+      "estimating",
+      "purchasing",
+      "stock control",
+      "planning",
+      "scheduling",
+      "business intelligence",
+      "mobile data capture",
+      "workflow",
+      "manufacturing product specification",
+      "MRP",
+      "shop-floor tracking",
+      "barcoding",
+      "CAD configuration",
+      "CNC integrator",
+      "project tracking",
+      "credit control",
+      "time & attendance"
+    ],
+    "services": [
+      "customised database applications",
+      "enterprise-wide solutions",
+      "departmental solutions",
+      "CRM",
+      "quoting",
+      "SOP",
+      "costing & estimating",
+      "purchasing",
+      "stock control",
+      "planning & scheduling",
+      "business intelligence",
+      "mobile data capture",
+      "workflow",
+      "manufacturing product specification",
+      "MRP",
+      "shop-floor tracking",
+      "barcoding",
+      "CAD configuration",
+      "CNC integrator",
+      "project tracking",
+      "credit control",
+      "time & attendance"
+    ],
+    "customer_segments": [
+      "SME",
+      "corporate clients",
+      "manufacturing",
+      "service industry",
+      "not-for-profit",
+      "education"
+    ],
+    "business_description": "REAL TIME INFORMATION SYSTEMS LTD specializes in customised database applications, delivering enterprise-wide and departmental software solutions tailored to individual customer needs. The company serves SME and corporate clients across sectors like manufacturing, service industry, not-for-profit, and education, focusing on reducing frustration, duplication, and waste. Established in 1999, their in-house team brings experience from engineering, manufacturing, and operations management to development projects.",
+    "website_analyzed_at": "2025-12-29T17:23:07.832Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.321Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 48,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.408053537671233,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 66.4,
+        "weight": 15
+      }
+    ],
+    "computed_at": "2025-12-29T22:32:57.176Z",
+    "location_distance_km": 66.4
+  },
+  "scraped_at": "2025-12-28T20:01:17.106Z",
+  "updated_at": "2026-01-09T19:08:22.321Z",
+  "version": 1
+}

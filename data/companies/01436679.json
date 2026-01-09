@@ -1,0 +1,512 @@
+{
+  "company_name": "TRENMEAD LIMITED",
+  "company_number": "01436679",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1979-07-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "27a Pop In Business Centre, South Way, Wembley, Middlesex, HA9 0HF",
+  "registered_address_structured": {
+    "address_line_1": "27a Pop In Business Centre",
+    "address_line_2": "South Way",
+    "locality": "Wembley",
+    "postal_code": "HA9 0HF",
+    "region": "Middlesex"
+  },
+  "sic_codes": [
+    "26200",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-10",
+    "last_made_up_to": "2025-07-27",
+    "next_made_up_to": "2026-07-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GEORGE, Millford Gerald",
+        "officer_role": "director",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beckford Close",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W14 8TR",
+          "premises": "203 Warren House"
+        }
+      },
+      {
+        "name": "GEORGE, Betty-Ann",
+        "officer_role": "director",
+        "resigned_on": "2004-09-17",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 The Avenue",
+          "locality": "Wembley",
+          "postal_code": "HA9 9QH",
+          "region": "Middlesex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GEORGE, Betty-Ann",
+        "officer_role": "secretary",
+        "resigned_on": "2005-06-28",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 The Avenue",
+          "locality": "Wembley",
+          "postal_code": "HA9 9QH",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "GEORGE, Julian",
+        "officer_role": "secretary",
+        "appointed_on": "2005-06-28",
+        "resigned_on": "2021-08-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "27a Pop In Business Centre",
+          "address_line_2": "South Way",
+          "locality": "Wembley",
+          "postal_code": "HA9 0HF",
+          "region": "Middlesex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Millford Gerald George",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-07-27",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "27a Pop In Business Centre",
+          "address_line_2": "South Way",
+          "locality": "Wembley",
+          "postal_code": "HA9 0HF",
+          "region": "Middlesex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2012-02-09",
+        "delivered_on": "2012-02-16",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Unit 27A and office units 4 and 9 pop-in building south way wembley HA9 0HF."
+        },
+        "persons_entitled": [
+          {
+            "name": "Antony Cusack, Jean Knuckey and Nicholas Abbott (As Trustees of the Gerrick Rose Animal Trust), Antony Cusack and Nicholas Abbott (as Executors of the Will of Dmr Gerrick, Decd.) and Jean Knuckey (as Executrix of the Will of Dmr Gerrick Decd.)"
+          }
+        ],
+        "satisfied_on": "2015-09-02",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£13,000 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-06-28",
+        "delivered_on": "2011-07-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2015-08-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "1992-05-14",
+        "delivered_on": "1992-05-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "235 preston road wembley l/b of brent title no MX138754."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2015-08-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7YU7BU",
+        "transaction_id": "MzQ3NTgyMzcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE7IMV7F",
+        "transaction_id": "MzQ3NTE4NjAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD916WPV",
+        "transaction_id": "MzQzMTY0NTQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD4B5TU9",
+        "transaction_id": "MzQyMzkwMjAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-20",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD3HC9WF",
+        "transaction_id": "MzQyMjM4OTE0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCC17XOY",
+        "transaction_id": "MzM5MzEyODI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8OIQ9D",
+        "transaction_id": "MzM4NzgwNzcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBB7475N",
+        "transaction_id": "MzM0OTg5Njc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB96VWW2",
+        "transaction_id": "MzM0NzA4OTcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XABO74DS",
+        "transaction_id": "MzMxMTg5NTUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XAAK5AY9",
+        "transaction_id": "MzMxMDI2MDcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAA46DSJ",
+        "transaction_id": "MzMwOTU3NzU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9IMM4SJ",
+        "transaction_id": "MzI4NDUwMTQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-19",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9I6IA6I",
+        "transaction_id": "MzI4Mzg5MTgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9AFLRSI",
+        "transaction_id": "MzI3NDI5NTExNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-20",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8C80LSX",
+        "transaction_id": "MzI0MjEyNjEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8AOBEZM",
+        "transaction_id": "MzI0MDQwMDIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-23",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X861WM9N",
+        "transaction_id": "MzIzNTE2MTgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X7DC6PA2",
+        "transaction_id": "MzIxMzE3MjY0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7CNLB2X",
+        "transaction_id": "MzIxMjM5MTgzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-29",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X76ZEYBU",
+        "transaction_id": "MzIwNjA5MDQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-10-03",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X6G9IZGA",
+        "transaction_id": "MzE4NjkwMTk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6BKHOJD",
+        "transaction_id": "MzE4MTYwNTA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-07-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5C3MAHC",
+        "transaction_id": "MzE1MzgyNDYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X583HR48",
+        "transaction_id": "MzE0OTY3NDc4M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 105,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Trenmead.net",
+    "headcount": 8,
+    "business_keywords": [
+      "IT solutions",
+      "IT sourcing",
+      "IT support",
+      "business IT",
+      "IT strategy",
+      "client data protection",
+      "legal compliance",
+      "IT infrastructure",
+      "hardware sourcing",
+      "technical support",
+      "24/7 support",
+      "IT risk management",
+      "IT consultation",
+      "warehouse stock",
+      "boutique IT services"
+    ],
+    "services": [
+      "IT solutions",
+      "IT strategy creation",
+      "IT support with 24/7 access to technicians",
+      "Single point of contact for IT support",
+      "Sourcing of IT equipment and hard-to-find parts",
+      "Free consultation"
+    ],
+    "customer_segments": [
+      "businesses"
+    ],
+    "business_description": "Trenmead provides IT solutions, sourcing, and support for businesses, ensuring fast, reliable, and legally compliant IT systems to protect client data. They offer tailored IT strategies, 24/7 technical support, and access to a diverse supply chain for standard and hard-to-find IT equipment.",
+    "website_analyzed_at": "2025-12-29T15:07:53.699Z",
+    "msp_likelihood_score": 20,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:21.446Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 33,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 46.50116299533866,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:11:17.528Z"
+  },
+  "scraped_at": "2025-12-28T16:18:09.659Z",
+  "updated_at": "2026-01-09T19:08:21.446Z",
+  "version": 1
+}

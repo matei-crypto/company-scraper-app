@@ -1,0 +1,809 @@
+{
+  "company_name": "CAC EUROPE LIMITED",
+  "company_number": "02518726",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1990-07-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "5th Floor 1 Sun Street, Finsbury Square, London, EC2A 2EP, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "5th Floor 1 Sun Street",
+    "address_line_2": "Finsbury Square",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 2EP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "COMPUTER APPLICATIONS (EUROPE) COMPANY LIMITED",
+      "ceased_on": "1999-10-21",
+      "effective_from": "1990-10-04"
+    },
+    {
+      "name": "FUTURELARGE LIMITED",
+      "ceased_on": "1990-10-04",
+      "effective_from": "1990-07-05"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-04",
+    "last_made_up_to": "2025-06-20",
+    "next_made_up_to": "2026-06-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HOZUMI, Hironori",
+        "officer_role": "director",
+        "appointed_on": "2019-04-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1971,
+        "nationality": "Japanese",
+        "country_of_residence": "Japan",
+        "address": {
+          "address_line_1": "1 Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "5th Floor"
+        }
+      },
+      {
+        "name": "SUZUKI, Takuya",
+        "officer_role": "director",
+        "appointed_on": "2024-06-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1968,
+        "nationality": "Japanese",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "5th Floor"
+        }
+      },
+      {
+        "name": "ABE, Yasuhide",
+        "officer_role": "director",
+        "appointed_on": "1998-01-01",
+        "resigned_on": "1998-10-21",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1938,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "214 Golders Green Road",
+          "locality": "London",
+          "postal_code": "NW11 9AT"
+        }
+      },
+      {
+        "name": "HAGIHARA, Takayuki",
+        "officer_role": "director",
+        "appointed_on": "2011-01-01",
+        "resigned_on": "2012-03-22",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1960,
+        "nationality": "Japanese",
+        "country_of_residence": "Japan",
+        "address": {
+          "address_line_1": "Raven Wharf",
+          "address_line_2": "Lafone Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11"
+        }
+      },
+      {
+        "name": "HORIUCHI, Toru",
+        "officer_role": "director",
+        "appointed_on": "2018-03-22",
+        "resigned_on": "2019-03-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1967,
+        "nationality": "Japanese",
+        "country_of_residence": "Japan",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "HORIUCHI, Toru",
+        "officer_role": "director",
+        "appointed_on": "2018-03-22",
+        "resigned_on": "2018-03-22",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "Japanese",
+        "country_of_residence": "Japan",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "KAWAMURA, Tamon",
+        "officer_role": "director",
+        "appointed_on": "2021-03-31",
+        "resigned_on": "2024-06-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1976,
+        "nationality": "Japanese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "KOMIYAMA, Yoichi",
+        "officer_role": "director",
+        "appointed_on": "1996-04-10",
+        "resigned_on": "2008-03-25",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1948,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "10-3-701 Wakamiya-Cho",
+          "country": "Japan",
+          "locality": "Shinjuku-Ku",
+          "postal_code": "FOREIGN",
+          "region": "Tokyo"
+        }
+      },
+      {
+        "name": "MATSUTANI, Honami",
+        "officer_role": "director",
+        "appointed_on": "2012-03-22",
+        "resigned_on": "2015-07-16",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1956,
+        "nationality": "Japanese",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Lafone Street",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11 Raven Wharf"
+        }
+      },
+      {
+        "name": "MEHTA, Malcolm",
+        "officer_role": "director",
+        "appointed_on": "2012-03-22",
+        "resigned_on": "2016-03-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1968,
+        "nationality": "Indian",
+        "country_of_residence": "Japan",
+        "address": {
+          "address_line_1": "Lafone Street",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11 Raven Wharf"
+        }
+      },
+      {
+        "name": "MITANI, Toshiyuki",
+        "officer_role": "director",
+        "appointed_on": "2015-07-31",
+        "resigned_on": "2019-03-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1969,
+        "nationality": "Japanese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "MIZUNO, Yoshitake",
+        "officer_role": "director",
+        "appointed_on": "2001-03-29",
+        "resigned_on": "2003-06-30",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1957,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "8 Chestnut Ridgeway",
+          "address_line_2": "Dobbs Ferry",
+          "country": "Usa",
+          "locality": "New York 10522"
+        }
+      },
+      {
+        "name": "MORI, Tetsuo",
+        "officer_role": "director",
+        "resigned_on": "1996-04-10",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1949,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "14 Hills Mews",
+          "address_line_2": "Florence Road Ealing",
+          "locality": "London",
+          "postal_code": "W5 3RG"
+        }
+      },
+      {
+        "name": "MORISHITA, Masatoshi",
+        "officer_role": "director",
+        "appointed_on": "2012-03-22",
+        "resigned_on": "2022-03-31",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1963,
+        "nationality": "Japanese",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "NISHIMORI, Ryota",
+        "officer_role": "director",
+        "appointed_on": "2016-03-22",
+        "resigned_on": "2018-03-22",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "Japanese",
+        "country_of_residence": "Japan",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "OKUBO, Shigeru",
+        "officer_role": "director",
+        "resigned_on": "2001-03-29",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1921,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "Pastral Haim Hamadayama",
+          "address_line_2": "2-15-34-309 Hamadayama",
+          "country": "Japan",
+          "locality": "Suginami Ku",
+          "postal_code": "167",
+          "region": "Tokyo"
+        }
+      },
+      {
+        "name": "SAKO, Akihiko",
+        "officer_role": "director",
+        "appointed_on": "2005-03-29",
+        "resigned_on": "2010-12-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1960,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "Lafone Street",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11 Raven Wharf"
+        }
+      },
+      {
+        "name": "SUZUKI, Toru",
+        "officer_role": "director",
+        "appointed_on": "2001-03-29",
+        "resigned_on": "2005-03-29",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1943,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "724-7 8 Chome Sakaemachi",
+          "address_line_2": "Matsudo-Shi",
+          "country": "Japan",
+          "locality": "Chiba 271-0062"
+        }
+      },
+      {
+        "name": "UEDA, Keisuke",
+        "officer_role": "director",
+        "appointed_on": "2019-04-01",
+        "resigned_on": "2021-03-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1980,
+        "nationality": "Japanese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "YASUNAGA, Shinri",
+        "officer_role": "director",
+        "appointed_on": "2008-03-25",
+        "resigned_on": "2012-03-22",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1962,
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "Lafone Street",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11 Raven Wharf"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "KAWAMURA, Tamon",
+        "officer_role": "secretary",
+        "appointed_on": "2021-03-31",
+        "resigned_on": "2024-06-06",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "KOMIYAMA, Yoichi",
+        "officer_role": "secretary",
+        "appointed_on": "2003-07-01",
+        "resigned_on": "2008-03-25",
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "10-3-701 Wakamiya-Cho",
+          "country": "Japan",
+          "locality": "Shinjuku-Ku",
+          "postal_code": "FOREIGN",
+          "region": "Tokyo"
+        }
+      },
+      {
+        "name": "KOMIYAMA, Yoichi",
+        "officer_role": "secretary",
+        "appointed_on": "1996-04-10",
+        "resigned_on": "2001-03-29",
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "Sirence Kagurazaka 403 3 Chome",
+          "address_line_2": "1 Kagurazaka Shinjyuku-Ku",
+          "country": "Japan",
+          "locality": "Tokyo",
+          "region": "162-0825"
+        }
+      },
+      {
+        "name": "MITANI, Toshiyuki",
+        "officer_role": "secretary",
+        "appointed_on": "2015-07-31",
+        "resigned_on": "2019-03-31",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "MIZUNO, Yoshitake",
+        "officer_role": "secretary",
+        "appointed_on": "2001-03-29",
+        "resigned_on": "2003-06-30",
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "8 Chestnut Ridgeway",
+          "address_line_2": "Dobbs Ferry",
+          "country": "Usa",
+          "locality": "New York 10522"
+        }
+      },
+      {
+        "name": "MORI, Tetsuo",
+        "officer_role": "secretary",
+        "resigned_on": "1996-04-10",
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "14 Hills Mews",
+          "address_line_2": "Florence Road Ealing",
+          "locality": "London",
+          "postal_code": "W5 3RG"
+        }
+      },
+      {
+        "name": "MORISHITA, Masatoshi",
+        "officer_role": "secretary",
+        "appointed_on": "2012-03-22",
+        "resigned_on": "2015-07-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Lafone Street",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11 Raven Wharf"
+        }
+      },
+      {
+        "name": "UEDA, Keisuke",
+        "officer_role": "secretary",
+        "appointed_on": "2019-04-01",
+        "resigned_on": "2021-03-31",
+        "address": {
+          "address_line_1": "Sun Street",
+          "address_line_2": "Finsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "YASUNAGA, Shinri",
+        "officer_role": "secretary",
+        "appointed_on": "2008-03-25",
+        "resigned_on": "2012-03-22",
+        "nationality": "Japanese",
+        "address": {
+          "address_line_1": "Lafone Street",
+          "locality": "London",
+          "postal_code": "SE1 2LR",
+          "premises": "11 Raven Wharf"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Cac Holdings Corporation",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2017-06-10",
+        "address": {
+          "address_line_1": "Nihonbashi",
+          "address_line_2": "Kakozakicho, Chuo-Ku 103-0015",
+          "country": "Japan",
+          "locality": "Japan",
+          "premises": "24-1"
+        },
+        "identification": {
+          "legal_form": "Limited",
+          "legal_authority": "Limited Liability Corporation"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5EG5SH",
+        "transaction_id": "MzQ3MTI4MjIzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-06",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "ADVNM4W8",
+        "transaction_id": "MzQ1Mzk0NzU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDGLGIWG",
+        "transaction_id": "MzQ0NDc2NjM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD75SCCQ",
+        "transaction_id": "MzQyODQ5OTEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XD4Z5YZU",
+        "transaction_id": "MzQyNDcyOTYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-10",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD4Z4V75",
+        "transaction_id": "MzQyNDcxOTQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD4RGMIB",
+        "transaction_id": "MzQyNDYwMzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-09",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "ACW056AH",
+        "transaction_id": "MzQxMDA0MDU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "AC7AVGPC",
+        "transaction_id": "MzM4NjA4OTAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6NSNMH",
+        "transaction_id": "MzM4NDQ2MTcwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB70V2M8",
+        "transaction_id": "MzM0Mzc4MjczNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB70V1FU",
+        "transaction_id": "MzM0Mzc4MTg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB1QLN74",
+        "transaction_id": "MzMzNTg0NTg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "AAYU97W3",
+        "transaction_id": "MzMzMTQ2NjM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7A79AO",
+        "transaction_id": "MzMwNTM1NjkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA3E9TI3",
+        "transaction_id": "MzI5OTMxODA0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-28",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XA3E9TAQ",
+        "transaction_id": "MzI5OTMxODAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-28",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XA3E9TGB",
+        "transaction_id": "MzI5OTMxODAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA1JACWI",
+        "transaction_id": "MzI5NjYxOTgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-08",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A9Z64DKW",
+        "transaction_id": "MzI5MzEwODUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-29",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 6,
+        "barcode": "A9CY8GI1",
+        "transaction_id": "MzI3OTAyNjg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97RRTFU",
+        "transaction_id": "MzI2NzkxMzAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-17",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A8YMSDWZ",
+        "transaction_id": "MzI1NzA5MTM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-26",
+        "description": "confirmation-statement",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X88EI99C",
+        "transaction_id": "MzIzNzkwMjc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-04-09",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X831D9OW",
+        "transaction_id": "MzIzMTYyMjA5MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 172,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Caceurope.com",
+    "headcount": 16,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: certificate has expired"
+    ]
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 35.51213238292745,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 16,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:16:48.250Z"
+  },
+  "scraped_at": "2025-12-28T17:11:24.433Z",
+  "updated_at": "2025-12-29T22:16:48.251Z",
+  "version": 1
+}

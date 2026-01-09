@@ -1,0 +1,404 @@
+{
+  "company_name": "HAMSARD 3727 LIMITED",
+  "company_number": "15185360",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-10-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "First Floor, 44 High Street, West End, Southampton, SO30 3DR, England",
+  "registered_address_structured": {
+    "address_line_1": "First Floor, 44 High Street",
+    "address_line_2": "West End",
+    "country": "England",
+    "locality": "Southampton",
+    "postal_code": "SO30 3DR"
+  },
+  "sic_codes": [
+    "58190",
+    "62090",
+    "85590"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-19",
+    "last_made_up_to": "2025-04-05",
+    "next_made_up_to": "2026-04-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WILLIAMS, Simon James",
+        "officer_role": "director",
+        "appointed_on": "2023-12-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St. Johns Street",
+          "country": "England",
+          "locality": "Salisbury",
+          "postal_code": "SP1 2SB",
+          "premises": "Alexandra House"
+        }
+      },
+      {
+        "name": "JONES, Jonathan James",
+        "officer_role": "director",
+        "appointed_on": "2023-10-03",
+        "resigned_on": "2023-12-12",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "2 & A Half Devonshire Squiare",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 4UJ",
+          "premises": "Premier Place"
+        }
+      },
+      {
+        "name": "SQUIRE PATTON BOGGS DIRECTORS LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2023-10-03",
+        "resigned_on": "2023-12-12",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TQ",
+          "premises": "60"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WILLIAMS, Simon James",
+        "officer_role": "secretary",
+        "appointed_on": "2023-12-12",
+        "address": {
+          "address_line_1": "St. Johns Street",
+          "country": "England",
+          "locality": "Salisbury",
+          "postal_code": "SP1 2SB",
+          "premises": "Alexandra House"
+        }
+      },
+      {
+        "name": "SQUIRE PATTON BOGGS SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2023-10-03",
+        "resigned_on": "2023-12-12",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TQ",
+          "premises": "60"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Simon James Williams",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-02-15",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St John's Street",
+          "country": "United Kingdom",
+          "locality": "Salisbury",
+          "postal_code": "SP1 2SB",
+          "premises": "Alexandra House"
+        }
+      },
+      {
+        "name": "Underpinned Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-12-12",
+        "ceased_on": "2024-02-15",
+        "address": {
+          "address_line_1": "4b Cornerblock",
+          "address_line_2": "2 Cornwall Street",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B3 2DX",
+          "premises": "Kroll Advisory Ltd"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "11501632"
+        }
+      },
+      {
+        "name": "Squire Patton Boggs Directors Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-10-03",
+        "ceased_on": "2023-12-12",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TQ",
+          "premises": "60"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "2806502"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE05DIKB",
+        "transaction_id": "MzQ2MTk4NzkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDZ03OYW",
+        "transaction_id": "MzQ1OTg0ODAwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-12",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD54OI3E",
+        "transaction_id": "MzQyNTA1NzM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD54OGZV",
+        "transaction_id": "MzQyNTA1NzE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD0V9IQW",
+        "transaction_id": "MzQxODA2NzQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCZCS96V",
+        "transaction_id": "MzQxNTYzNTIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCYWA1E0",
+        "transaction_id": "MzQxNDUyNTE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XCYTJLYP",
+        "transaction_id": "MzQxNDMxNzEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCYTJ0HL",
+        "transaction_id": "MzQxNDMxMjU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCVAQS1K",
+        "transaction_id": "MzQwODU2NjQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-14",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCI9CKFK",
+        "transaction_id": "MzQwMzc5MDg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-13",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCI9526X",
+        "transaction_id": "MzQwMzYwNTkyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-12",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCI955EP",
+        "transaction_id": "MzQwMzYwNjY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCI9534A",
+        "transaction_id": "MzQwMzYwNjE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCI95342",
+        "transaction_id": "MzQwMzYwNjE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCI9531L",
+        "transaction_id": "MzQwMzYwNjEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-12",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCI951UB",
+        "transaction_id": "MzQwMzYwNTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-03",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 34,
+        "barcode": "XCDDRZHA",
+        "transaction_id": "MzM5NTIwMzUyOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 25.69,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.2436910035832063,
+        "weight": 18.689946059848108
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:00.628Z"
+  },
+  "scraped_at": "2025-12-28T17:19:45.803Z",
+  "updated_at": "2025-12-29T22:44:00.628Z",
+  "version": 1
+}

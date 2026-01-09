@@ -1,0 +1,744 @@
+{
+  "company_name": "CORCENTRIC LIMITED",
+  "company_number": "03814021",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-07-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "1 Castle Lane, London, SW1E 6DR, England",
+  "registered_address_structured": {
+    "address_line_1": "1 Castle Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW1E 6DR"
+  },
+  "sic_codes": [
+    "62090",
+    "63110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NETSEND LIMITED",
+      "ceased_on": "2021-01-04",
+      "effective_from": "2013-07-16"
+    },
+    {
+      "name": "NEWSNET CORPORATION LIMITED",
+      "ceased_on": "2013-07-16",
+      "effective_from": "1999-07-26"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-09",
+    "last_made_up_to": "2025-07-26",
+    "next_made_up_to": "2026-07-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CLARK, Matthew Douglas",
+        "officer_role": "director",
+        "appointed_on": "2019-02-11",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1979,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Jones Branch Drive",
+          "address_line_2": "Suite 3200",
+          "country": "United States",
+          "locality": "Mclean",
+          "premises": "7927",
+          "region": "Virginia 22102"
+        }
+      },
+      {
+        "name": "JOYCE, Mark",
+        "officer_role": "director",
+        "appointed_on": "2019-02-11",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1970,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Warrenville Road",
+          "address_line_2": "Downers Grove",
+          "country": "United States",
+          "locality": "Illinois 60515",
+          "premises": "2651"
+        }
+      },
+      {
+        "name": "ALLEN, Lee",
+        "officer_role": "director",
+        "appointed_on": "2012-10-01",
+        "resigned_on": "2019-02-11",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Balfour Road",
+          "country": "England",
+          "locality": "Bromley",
+          "postal_code": "BR2 9SL",
+          "premises": "22",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "DODD-NOBLE, Patrick Robin",
+        "officer_role": "director",
+        "appointed_on": "1999-07-26",
+        "resigned_on": "2019-02-11",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Battersea Bridge Road",
+          "locality": "London",
+          "postal_code": "SW11 3AE",
+          "premises": "202a"
+        }
+      },
+      {
+        "name": "BHARDWAJ CORPORATE SERVICES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1999-07-26",
+        "resigned_on": "1999-07-26",
+        "address": {
+          "address_line_1": "47-49 Green Lane",
+          "locality": "Northwood",
+          "postal_code": "HA6 3AE",
+          "region": "Middlesex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BHARDWAJ, Ashok",
+        "officer_role": "nominee-secretary",
+        "appointed_on": "1999-07-26",
+        "resigned_on": "1999-07-26",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "47-49 Green Lane",
+          "locality": "Northwood",
+          "postal_code": "HA6 3AE",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "DODD NOBLE, Julia Leys",
+        "officer_role": "secretary",
+        "appointed_on": "1999-07-26",
+        "resigned_on": "2000-08-21",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "202a Battersea Bridge Road",
+          "locality": "London",
+          "postal_code": "SW11 3AE"
+        }
+      },
+      {
+        "name": "DODD-NOBLE, Julia Leys",
+        "officer_role": "secretary",
+        "appointed_on": "2008-09-11",
+        "resigned_on": "2019-02-11",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Battersea Bridge Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW11 3AE",
+          "premises": "202a"
+        }
+      },
+      {
+        "name": "MORRIS, Nicholas Charles",
+        "officer_role": "secretary",
+        "appointed_on": "2000-08-21",
+        "resigned_on": "2008-09-11",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1 Montpelier Street",
+          "locality": "London",
+          "postal_code": "SW7 1EX"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Corcentric International Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-12-28",
+        "address": {
+          "address_line_1": "1st Floor (Rear)",
+          "address_line_2": "1 Castle Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1E 6DR",
+          "premises": ","
+        },
+        "identification": {
+          "legal_form": "Private Limited Company By Share Capital",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "England & Wales",
+          "registration_number": "13020969"
+        }
+      },
+      {
+        "name": "Corcentric, Inc.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-02-11",
+        "ceased_on": "2020-12-28",
+        "address": {
+          "address_line_1": "Haddonfield Road",
+          "address_line_2": "Suite 220",
+          "country": "United States",
+          "locality": "Cherry Hill",
+          "premises": "457",
+          "region": "New Jersey 08002"
+        },
+        "identification": {
+          "legal_form": "Incorporated Corporation",
+          "legal_authority": "Delaware, United States"
+        }
+      },
+      {
+        "name": "Mr Patrick Robin Dodd-Noble",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-06-30",
+        "ceased_on": "2019-02-11",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "80 Silverthorne Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW8 3HE",
+          "premises": "Battersea Studios"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "038140210008",
+        "charge_number": 8,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-05-09",
+        "delivered_on": "2023-05-16",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Land. See clause 5.2 of the debenture which creates a fixed charge over all of the real property (as defined in the debenture) and related rights (as defined in the debenture) in respect of such real property. The definition of real property includes all present and future interests in land, including that scheduled at schedule 1, such as:. Schedule 1:. corcentric limited. The leasehold property known as unit F4.1, Battersea studios 1, 80 silverthorne road, london SW8 3HE and comprised in the following documents of title.. Date document parties. 25 february 2016 lease of part of a premises known as unit F4.1, Battersea studios 1, 80 silverthorne road, london SW8 3HE british overseas bank nominees limited and W.G.T.c nominees limited and netsend limited. Intellectual property. See clause 5.9 of the debenture which creates a fixed charge over all of the intellectual property (as defined in the debenture) and all related rights (as defined in the debenture) in respect of such intellectual property. The definition of intellectual property includes all patents, trade marks, copyrights and other intellectual property rights and interests including that specified in schedule 6, such as:. Schedule 6:. corcentric limited. Trade mark netsend registered trademark number: UK00003139752. Domain names dev.nnsend.com. Donotreply.netsend.biz. G.netsend.biz. Gene.nnsend.com. IFOX2.nnsend.com. IFOZTEST2.nnsend.com. Netsend.biz. Netsend.co. Netsend.co.UK. Netsend.com. Nnsend.cm. Noreply.netsend.biz. UFOXTEST2.nnsend.com.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bank of America, N.A."
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "038140210007",
+        "charge_number": 7,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-05-09",
+        "delivered_on": "2023-05-16",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Land. See clause 5.2 of the debenture which creates a fixed charge over all of the real property (as defined in the debenture) and related rights (as defined in the debenture) in respect of such real property. The definition of real property includes all present and future interests in land, including that scheduled at schedule 1, such as:. Schedule 1:. corcentric limited. The leasehold property known as unit F4.1, Battersea studios 1, 80 silverthorne road, london SW8 3HE and comprised in the following documents of title.. Date document parties. 25 february 2016 lease of part of a premises known as unit F4.1, Battersea studios 1, 80 silverthorne road, london SW8 3HE british overseas bank nominees limited and W.G.T.c nominees limited and netsend limited. Intellectual property. See clause 5.9 of the debenture which creates a fixed charge over all of the intellectual property (as defined in the debenture) and all related rights (as defined in the debenture) in respect of such intellectual property. The definition of intellectual property includes all patents, trade marks, copyrights and other intellectual property rights and interests including that specified in schedule 6, such as:. Schedule 6:. corcentric limited. Trade mark netsend registered trademark number: UK00003139752. Domain names dev.nnsend.com. Donotreply.netsend.biz. G.netsend.biz. Gene.nnsend.com. IFOX2.nnsend.com. IFOZTEST2.nnsend.com. Netsend.biz. Netsend.co. Netsend.co.UK. Netsend.com. Nnsend.cm. Noreply.netsend.biz. UFOXTEST2.nnsend.com.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tcw Asset Management Company Llc"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "038140210006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-06-04",
+        "delivered_on": "2019-06-11",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bank of America, N.A."
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "038140210005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-06-04",
+        "delivered_on": "2019-06-11",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Twc Asset Management Company Llc"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "038140210004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-05-17",
+        "delivered_on": "2016-05-23",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Aldermore Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-02-13",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2012-03-06",
+        "delivered_on": "2012-03-17",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Ip and bespoke software of netsend.com."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Dodd-Noble Pension Scheme"
+          }
+        ],
+        "satisfied_on": "2019-02-13",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£120,000 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-12-07",
+        "delivered_on": "2011-12-15",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Sme Invoice Finance Limited"
+          }
+        ],
+        "satisfied_on": "2015-04-23",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2006-12-20",
+        "delivered_on": "2006-12-23",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Debenture over intellectual property of company software."
+        },
+        "persons_entitled": [
+          {
+            "name": "Dodd-Noble Pension Scheme"
+          }
+        ],
+        "satisfied_on": "2018-11-09",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£125,000 due or to become due from the company to"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 8,
+    "unsatisfied_count": 4,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-15",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "XEHHKLZF",
+        "transaction_id": "MzQ5NDAxMTY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE8C3E01",
+        "transaction_id": "MzQ3NjE4MTk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "XDCOMVWR",
+        "transaction_id": "MzQzNzYzMTc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD93JOJL",
+        "transaction_id": "MzQzMTU5OTUyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8M7AQW",
+        "transaction_id": "MzM4Nzg1OTM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-12",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 17,
+        "barcode": "XC7MTJTD",
+        "transaction_id": "MzM4NjAwNzY2OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-05-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 81,
+        "barcode": "XC3OFYWX",
+        "transaction_id": "MzM3OTY4NjQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-05-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 82,
+        "barcode": "XC3OG9QY",
+        "transaction_id": "MzM3OTY4OTI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XB9CE2F5",
+        "transaction_id": "MzM0NzM2MTcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XB9CDSBV",
+        "transaction_id": "MzM0NzM1OTM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB99PUQB",
+        "transaction_id": "MzM0NzI2MTY3MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-10-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUFFMVJDNEFhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-10-07",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 6,
+        "barcode": "AAE1RC4I",
+        "transaction_id": "MzMxNjMzOTAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XABIG1F6",
+        "transaction_id": "MzMxMTQyNjc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAAK4BXF",
+        "transaction_id": "MzMxMDI1MTE0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-14",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XA4GAFTC",
+        "transaction_id": "MzMwMTA0NzI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-01-04",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X9V9MIO0",
+        "transaction_id": "MzI4NzQ0NDI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-12-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X9KUH7A2",
+        "transaction_id": "MzI4Njk5MDk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-12-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9KUH48Q",
+        "transaction_id": "MzI4Njk5MDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9C1G2EY",
+        "transaction_id": "MzI3NTk0Mzc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "X99WXTA2",
+        "transaction_id": "MzI3MzcwOTg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8B9PLG9",
+        "transaction_id": "MzI0MTEwNzkxOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-06-11",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 75,
+        "barcode": "A87DD4JK",
+        "transaction_id": "MzIzNjg5NTI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-06-11",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 76,
+        "barcode": "A87DD4KG",
+        "transaction_id": "MzIzNjg5NDUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 17,
+        "barcode": "X86XEQZV",
+        "transaction_id": "MzIzNjA0Nzg3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 110,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 26
+  },
+  "enrichment": {
+    "website": "https://Netsend.com",
+    "headcount": 26,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 75,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.4491491003932,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 26,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 1.3,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:32:47.336Z",
+    "location_distance_km": 1.3
+  },
+  "scraped_at": "2025-12-28T20:00:05.411Z",
+  "updated_at": "2025-12-29T22:32:47.338Z",
+  "version": 1
+}

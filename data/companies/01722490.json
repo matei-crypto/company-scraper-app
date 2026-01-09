@@ -1,0 +1,917 @@
+{
+  "company_name": "XUPER LIMITED",
+  "company_number": "01722490",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1983-05-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "6 Mitre Passage, London, SE10 0ER, England",
+  "registered_address_structured": {
+    "address_line_1": "6 Mitre Passage",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE10 0ER"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "EAST MIDLAND COMPUTERS LIMITED",
+      "ceased_on": "2012-04-10",
+      "effective_from": "1983-07-06"
+    },
+    {
+      "name": "RACKLESS LIMITED",
+      "ceased_on": "1983-07-06",
+      "effective_from": "1983-05-11"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "audit-exemption-subsidiary",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-17",
+    "last_made_up_to": "2025-05-03",
+    "next_made_up_to": "2026-05-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DELLINGER, Elizabeth Ann",
+        "officer_role": "director",
+        "appointed_on": "2023-10-09",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1961,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        }
+      },
+      {
+        "name": "NEFF, David Adam",
+        "officer_role": "director",
+        "appointed_on": "2023-10-09",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        }
+      },
+      {
+        "name": "ABBEY, Stephen",
+        "officer_role": "director",
+        "resigned_on": "2011-12-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6 Quarndon View",
+          "address_line_2": "Allestree",
+          "locality": "Derby",
+          "postal_code": "DE22 2XJ"
+        }
+      },
+      {
+        "name": "ABBEY, Susan Elizabeth",
+        "officer_role": "director",
+        "resigned_on": "2003-05-19",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Old Orchard House",
+          "address_line_2": "Derby Road",
+          "locality": "Risley",
+          "postal_code": "DE72 3SS",
+          "region": "Derbyshire"
+        }
+      },
+      {
+        "name": "GROGAN, Finlay",
+        "officer_role": "director",
+        "appointed_on": "2022-08-25",
+        "resigned_on": "2023-10-09",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 2000,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        }
+      },
+      {
+        "name": "GROGAN, Peter",
+        "officer_role": "director",
+        "appointed_on": "2011-12-06",
+        "resigned_on": "2023-10-09",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        }
+      },
+      {
+        "name": "HEMPELL, Trevor John",
+        "officer_role": "director",
+        "appointed_on": "2016-03-30",
+        "resigned_on": "2017-06-12",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Stanier Way, Wyvern Business Park",
+          "address_line_2": "Chaddesden",
+          "locality": "Derby",
+          "postal_code": "DE21 6BF",
+          "premises": "Orient House"
+        }
+      },
+      {
+        "name": "JAMES, Mark Christopher",
+        "officer_role": "director",
+        "appointed_on": "2014-12-24",
+        "resigned_on": "2016-12-22",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Stanier Way, Wyvern Business Park",
+          "address_line_2": "Chaddesden",
+          "country": "England",
+          "locality": "Derby",
+          "postal_code": "DE21 6BF",
+          "premises": "Orient House"
+        }
+      },
+      {
+        "name": "KLUK, Barbara Lesley",
+        "officer_role": "director",
+        "appointed_on": "1999-12-10",
+        "resigned_on": "2013-11-29",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1949,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "46 Springfield Avenue",
+          "address_line_2": "Sandiacre",
+          "locality": "Nottingham",
+          "postal_code": "NG10 5LZ",
+          "region": "Nottinghamshire"
+        }
+      },
+      {
+        "name": "LORD, Andrew Charles",
+        "officer_role": "director",
+        "resigned_on": "2013-12-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "32 Poplar Road",
+          "address_line_2": "Breaston",
+          "locality": "Derby",
+          "postal_code": "DE72 3BH",
+          "region": "Derbyshire"
+        }
+      },
+      {
+        "name": "PRESLAND, Peter Eric",
+        "officer_role": "director",
+        "appointed_on": "2011-12-06",
+        "resigned_on": "2014-12-24",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Freeschool Lane",
+          "care_of": "The Company Secretary",
+          "country": "United Kingdom",
+          "locality": "Leicester",
+          "postal_code": "LE1 4FY",
+          "premises": "20",
+          "region": "Leicestershire"
+        }
+      },
+      {
+        "name": "RICHARDSON, Adam David",
+        "officer_role": "director",
+        "appointed_on": "2020-08-01",
+        "resigned_on": "2021-06-11",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stanier Way",
+          "address_line_2": "Chaddesden",
+          "country": "England",
+          "locality": "Derby",
+          "postal_code": "DE21 6BF",
+          "premises": "Mallard House"
+        }
+      },
+      {
+        "name": "SCOTT, Alexander",
+        "officer_role": "director",
+        "appointed_on": "2011-12-06",
+        "resigned_on": "2014-12-24",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Freeschool Lane",
+          "care_of": "The Company Secretary",
+          "country": "United Kingdom",
+          "locality": "Leicester",
+          "postal_code": "LE1 4FY",
+          "premises": "20",
+          "region": "Leicestershire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ABBEY, Stephen",
+        "officer_role": "secretary",
+        "appointed_on": "2003-05-19",
+        "resigned_on": "2011-12-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "6 Quarndon View",
+          "address_line_2": "Allestree",
+          "locality": "Derby",
+          "postal_code": "DE22 2XJ"
+        }
+      },
+      {
+        "name": "ABBEY, Susan Elizabeth",
+        "officer_role": "secretary",
+        "resigned_on": "2003-05-19",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Old Orchard House",
+          "address_line_2": "Derby Road",
+          "locality": "Risley",
+          "postal_code": "DE72 3SS",
+          "region": "Derbyshire"
+        }
+      },
+      {
+        "name": "FRYER, Angeline",
+        "officer_role": "secretary",
+        "appointed_on": "2016-03-30",
+        "resigned_on": "2023-10-09",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        }
+      },
+      {
+        "name": "JAMES, Mark Christopher",
+        "officer_role": "secretary",
+        "appointed_on": "2011-12-06",
+        "resigned_on": "2014-12-24",
+        "address": {
+          "address_line_1": "Freeschool Lane",
+          "care_of": "The Company Secretary",
+          "country": "United Kingdom",
+          "locality": "Leicester",
+          "postal_code": "LE1 4FY",
+          "premises": "20",
+          "region": "Leicestershire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Park Place Technologies Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-10-09",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Laws Of England And Wales",
+          "country_registered": "England",
+          "place_registered": "Companies Register For England And Wales",
+          "registration_number": "09398203"
+        }
+      },
+      {
+        "name": "Technology Consolidation Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-12-24",
+        "ceased_on": "2023-10-09",
+        "address": {
+          "address_line_1": "Stanier Way",
+          "address_line_2": "Wyvern Business Park, Chaddesden",
+          "country": "England",
+          "locality": "Derby",
+          "postal_code": "DE21 6BF",
+          "premises": "Orient House"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "England",
+          "place_registered": "Companies House Cardiff",
+          "registration_number": "09362636"
+        }
+      },
+      {
+        "name": "Mr Peter Grogan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-12-24",
+        "ceased_on": "2023-10-09",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mitre Passage",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE10 0ER",
+          "premises": "6"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "017224900009",
+        "charge_number": 9,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-11-15",
+        "delivered_on": "2022-11-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "satisfied_on": "2023-10-23",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "017224900008",
+        "charge_number": 8,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-05-20",
+        "delivered_on": "2019-05-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Aib Group (UK) P.L.C."
+          }
+        ],
+        "satisfied_on": "2023-09-15",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "017224900007",
+        "charge_number": 7,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-01-14",
+        "delivered_on": "2019-01-14",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-06-20",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "017224900006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-09-04",
+        "delivered_on": "2017-09-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All intellectual property.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Archover Limited"
+          }
+        ],
+        "satisfied_on": "2019-06-12",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "017224900005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-05-26",
+        "delivered_on": "2016-05-31",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All present and future property.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Thincats Loan Syndicates Limited"
+          }
+        ],
+        "satisfied_on": "2017-09-21",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "017224900004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-06-11",
+        "delivered_on": "2015-06-12",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hh Cashflow Finance Limited"
+          }
+        ],
+        "satisfied_on": "2017-09-18",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "1987-02-06",
+        "delivered_on": "1987-02-17",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "L/H land on the south side of downing road west meadows industrial estate, derby."
+        },
+        "persons_entitled": [
+          {
+            "name": "Midland Bank PLC"
+          }
+        ],
+        "satisfied_on": "2011-11-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "1985-04-19",
+        "delivered_on": "1985-04-24",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "L/H land at downing road, west meadows industrial est. Derby. T/n dy 24463."
+        },
+        "persons_entitled": [
+          {
+            "name": "Midland Bank PLC"
+          }
+        ],
+        "satisfied_on": "2011-11-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Fixed floating charge"
+          }
+        ],
+        "created_on": "1983-08-31",
+        "delivered_on": "1983-09-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed charge on all book & other debts. Floating charge on the undertaking and all property and assets present and future including book debts excluding those mentioned above uncalled capital."
+        },
+        "persons_entitled": [
+          {
+            "name": "Midland Bank PLC"
+          }
+        ],
+        "satisfied_on": "2011-11-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 9,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-30",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE7VXK43",
+        "transaction_id": "MzQ3NTY0NjcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-23",
+        "description": "capital-statement-capital-company-with-date-currency-figure",
+        "type": "SH19",
+        "pages": 3,
+        "barcode": "YE5BLFWR",
+        "transaction_id": "MzQ3MTA3ODA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-23",
+        "description": "legacy",
+        "type": "SH20",
+        "pages": 1,
+        "barcode": "YE5BLD6H",
+        "transaction_id": "MzQ3MTA3NzQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2025-06-23",
+        "description": "legacy",
+        "type": "CAP-SS",
+        "pages": 1,
+        "barcode": "YE5BLD69",
+        "transaction_id": "MzQ3MTA3NzQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-06-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YE5BLDWH",
+        "transaction_id": "WUU1QkxEV0hhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE23QUA1",
+        "transaction_id": "MzQ2NTQ4MzAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-19",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "ADCJFBWH",
+        "transaction_id": "MzQ0MDIxNjA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-19",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 45,
+        "barcode": "ADCJFBXD",
+        "transaction_id": "MzQ0MDIxNjA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-10-19",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ADCJFBX9",
+        "transaction_id": "MzQ0MDIxNjAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-10-19",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ADCJFBWX",
+        "transaction_id": "MzQ0MDIxNjAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD2THFLC",
+        "transaction_id": "MzQyMTI3NzQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-23",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCEQ8PNN",
+        "transaction_id": "MzM5NzQ5OTU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCEQ8PBU",
+        "transaction_id": "MzM5NzQ5OTUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCEQ8P8H",
+        "transaction_id": "MzM5NzQ5OTQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-23",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCEQ9I8W",
+        "transaction_id": "MzM5NzUwNjIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCEIG1J4",
+        "transaction_id": "MzM5NzMzNTUyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCEIG1CH",
+        "transaction_id": "MzM5NzMzNTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-20",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCEIG0KX",
+        "transaction_id": "MzM5NzMzNTMyN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCEIFWS0",
+        "transaction_id": "MzM5NzMzNDQ5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCEIFRZC",
+        "transaction_id": "MzM5NzMzMzI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCEIFQA9",
+        "transaction_id": "MzM5NzMzMjg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-20",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XCEFIEBT",
+        "transaction_id": "MzM5NzA3NDA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-20",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XCEFIEAA",
+        "transaction_id": "MzM5NzA3NDA5OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-11",
+        "description": "capital-alter-shares-redemption-statement-of-capital",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YCDR9D2W",
+        "transaction_id": "MzM5NTc1MzY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 43,
+        "barcode": "YCDR6MXF",
+        "transaction_id": "MzM5NTcxOTIzMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 180,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 61
+  },
+  "enrichment": {
+    "website": "https://Xuper.co.uk",
+    "headcount": 61,
+    "enrichment_status": "failed",
+    "enrichment_errors": [
+      "Failed to fetch website: Web search fallback failed to retrieve content"
+    ]
+  },
+  "investment_score": {
+    "score": 57.13,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 42.66828818711948,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 61,
+        "weight": 7.125
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 9.4,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:12:17.342Z",
+    "location_distance_km": 9.4
+  },
+  "scraped_at": "2025-12-28T16:32:36.261Z",
+  "updated_at": "2025-12-29T22:12:17.343Z",
+  "version": 1
+}

@@ -1,0 +1,230 @@
+{
+  "company_name": "THE RIB GROUP HOLDINGS LTD",
+  "company_number": "15203897",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-10-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "56 Elton House 52 Aerodrome Road, London, NW9 5ZP, England",
+  "registered_address_structured": {
+    "address_line_1": "56 Elton House 52 Aerodrome Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW9 5ZP"
+  },
+  "sic_codes": [
+    "62020",
+    "64205",
+    "70221",
+    "70229"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2025-10-24",
+    "last_made_up_to": "2024-10-10",
+    "next_made_up_to": "2025-10-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NASSOURI, Arash, Lord",
+        "officer_role": "director",
+        "appointed_on": "2023-10-11",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "52 Aerodrome Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW9 5ZP",
+          "premises": "56 Elton House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Rcc Group Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2025-05-02",
+        "address": {
+          "address_line_1": "Station Road",
+          "country": "England",
+          "locality": "Edgware",
+          "postal_code": "HA8 7JG",
+          "premises": "117"
+        },
+        "identification": {
+          "legal_form": "Limited",
+          "legal_authority": "England",
+          "country_registered": "United Kingdom",
+          "place_registered": "England",
+          "registration_number": "16426548"
+        }
+      },
+      {
+        "name": "Lord Arash Nassouri",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-10-11",
+        "ceased_on": "2025-05-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "52 Aerodrome Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW9 5ZP",
+          "premises": "56 Elton House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "gazette",
+        "date": "2025-12-30",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ5NjE2NjI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE8HV4TE",
+        "transaction_id": "MzQ3NjY0MjU2NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-06",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE1QEXNC",
+        "transaction_id": "MzQ2NDkzNzI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE1QEXZM",
+        "transaction_id": "MzQ2NDkzNzMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-02-04",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ1MzQ0ODg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVLRQYA",
+        "transaction_id": "MzQ1MzQ0ODg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-01-14",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ0OTAyMjEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-11",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCDWJOKJ",
+        "transaction_id": "MzM5NjAyNjYxNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 8,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 28.51,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.2217732706430744,
+        "weight": 18.50737134445681
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 10,
+        "weight": 10
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:02.685Z"
+  },
+  "scraped_at": "2025-12-28T17:19:46.491Z",
+  "updated_at": "2025-12-29T22:44:02.685Z",
+  "version": 1
+}

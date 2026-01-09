@@ -1,0 +1,234 @@
+{
+  "company_name": "WONDERCRAFT TECH LTD",
+  "company_number": "15313019",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-11-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 Margaret Street, London, W1W 8RG, England",
+  "registered_address_structured": {
+    "address_line_1": "5 Margaret Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 8RG"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-10",
+    "last_made_up_to": "2025-10-27",
+    "next_made_up_to": "2026-10-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NIKOLAOU, Dimitris",
+        "officer_role": "director",
+        "appointed_on": "2023-11-28",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1995,
+        "nationality": "Greek",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Margaret Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 8RG",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "RIZK, Youssef",
+        "officer_role": "director",
+        "appointed_on": "2023-11-28",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1996,
+        "nationality": "Egyptian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Margaret Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 8RG",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "WONDERCRAFT, INC",
+        "officer_role": "corporate-director",
+        "appointed_on": "2023-11-28",
+        "address": {
+          "address_line_1": "1111b S Governors Ave",
+          "country": "United States",
+          "locality": "Dover",
+          "postal_code": "19904",
+          "premises": "Ste 6479"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Wondercraft, Inc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2023-11-28",
+        "ceased_on": "2023-11-28",
+        "address": {
+          "address_line_1": "1111b S Governors Ave",
+          "country": "United States",
+          "locality": "Dover",
+          "postal_code": "19904",
+          "premises": "Ste 6479"
+        },
+        "identification": {
+          "legal_form": "Corporation",
+          "legal_authority": "United States"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-23",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XEI1KSOJ",
+        "transaction_id": "MzQ5NTk1MTg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-19",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEHQQ7JL",
+        "transaction_id": "MzQ5NTM3MzcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-04",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEGQA51N",
+        "transaction_id": "MzQ5MjM3MDU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEE2FZ23",
+        "transaction_id": "MzQ4NjQ0MjQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE6B6ID4",
+        "transaction_id": "MzQ3Mjc3MDc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHT82SW",
+        "transaction_id": "MzQ0NzEyOTE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-12-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDHT6OMZ",
+        "transaction_id": "MzQ0NzExNzI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-11-28",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XCH6YOTK",
+        "transaction_id": "MzQwMTU4NTU1M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 8,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "investment_score": {
+    "score": 48.41,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 2.0902673259766615,
+        "weight": 17.411926825385592
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 6,
+        "weight": 6
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 1.3,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:44:31.671Z",
+    "location_distance_km": 1.3
+  },
+  "scraped_at": "2025-12-28T17:19:56.708Z",
+  "updated_at": "2025-12-29T22:44:31.671Z",
+  "version": 1
+}

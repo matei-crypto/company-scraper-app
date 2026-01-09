@@ -1,0 +1,617 @@
+{
+  "company_name": "SCRIBETECH (UK) LTD",
+  "company_number": "03114547",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1995-10-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 Berners Place, London, W1T 3AD, England",
+  "registered_address_structured": {
+    "address_line_1": "9 Berners Place",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1T 3AD"
+  },
+  "sic_codes": [
+    "18201",
+    "62090",
+    "63110",
+    "82110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "INTERNET EXPO SERVICES LTD.",
+      "ceased_on": "2001-08-17",
+      "effective_from": "1997-08-27"
+    },
+    {
+      "name": "SILKTRAIL LIMITED",
+      "ceased_on": "1997-08-27",
+      "effective_from": "1995-10-17"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-31",
+    "last_made_up_to": "2025-10-17",
+    "next_made_up_to": "2026-10-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AUSTIN, Shiraz",
+        "officer_role": "director",
+        "appointed_on": "1995-12-05",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "352 Battersea Park Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW11 3BY",
+          "premises": "18 Penhurst House"
+        }
+      },
+      {
+        "name": "LAWYER, Rustom",
+        "officer_role": "director",
+        "appointed_on": "2004-12-05",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "352 Battersea Park Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW11 3BY",
+          "premises": "18 Penhurst House"
+        }
+      },
+      {
+        "name": "BUTLER, Graham Kenneth",
+        "officer_role": "director",
+        "appointed_on": "1995-12-05",
+        "resigned_on": "1996-05-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1946,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bel Air Sandy Lane",
+          "locality": "Northwood",
+          "postal_code": "HA6 3ES",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "GRAHAM, Mark",
+        "officer_role": "director",
+        "appointed_on": "1997-09-04",
+        "resigned_on": "2000-03-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "18 West Street",
+          "address_line_2": "Dormansland",
+          "locality": "Surrey",
+          "postal_code": "RH7 6QW"
+        }
+      },
+      {
+        "name": "RM NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1995-10-17",
+        "resigned_on": "1995-12-05",
+        "address": {
+          "address_line_1": "Second Floor",
+          "address_line_2": "80 Great Eastern Street",
+          "locality": "London",
+          "postal_code": "EC2A 3RX"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DUNTON, Margaret Vera",
+        "officer_role": "secretary",
+        "appointed_on": "1997-08-15",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Brackern Close",
+          "country": "England",
+          "locality": "Bexhill-On-Sea",
+          "postal_code": "TN39 3BT",
+          "premises": "2",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "BUTLER, Graham Kenneth",
+        "officer_role": "secretary",
+        "appointed_on": "1995-12-05",
+        "resigned_on": "1996-05-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Bel Air Sandy Lane",
+          "locality": "Northwood",
+          "postal_code": "HA6 3ES",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "MISTRY, Burjor Jehangir",
+        "officer_role": "secretary",
+        "appointed_on": "1996-05-31",
+        "resigned_on": "1997-08-15",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "38 The Paddocks",
+          "locality": "Wembley",
+          "postal_code": "HA9 9HH",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "RM REGISTRARS LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1995-10-17",
+        "resigned_on": "1995-12-05",
+        "address": {
+          "address_line_1": "Second Floor",
+          "address_line_2": "80 Great Eastern Street",
+          "locality": "London",
+          "postal_code": "EC2A 3RX"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Shiraz Austin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-10-18",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Berners Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1T 3AD",
+          "premises": "9"
+        }
+      },
+      {
+        "name": "Mr Rustom Lawyer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-10-18",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "India",
+        "address": {
+          "address_line_1": "Bedford Row",
+          "locality": "London",
+          "postal_code": "WC1R 4TQ",
+          "premises": "24"
+        }
+      },
+      {
+        "name": "Mr Shiraz Austin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-03-21",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bedford Row",
+          "locality": "London",
+          "postal_code": "WC1R 4TQ",
+          "premises": "24"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "031145470001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-08-06",
+        "delivered_on": "2020-08-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEE5AOWQ",
+        "transaction_id": "MzQ4NjYyNTAwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDINGPEW",
+        "transaction_id": "MzQ0ODkxNDY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDESQW1V",
+        "transaction_id": "MzQ0MTQ1MTk2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XCVIXLKQ",
+        "transaction_id": "MzQwOTA2MDg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCF6A51E",
+        "transaction_id": "MzM5ODE3OTA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC3U5O5M",
+        "transaction_id": "MzM4MDIwNTEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBFLDBYG",
+        "transaction_id": "MzM1Njg3MTIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-10-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBFLAOHM",
+        "transaction_id": "MzM1Njg0OTUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-10-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBFL9WLM",
+        "transaction_id": "MzM1Njg0Mjg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB0XGYZM",
+        "transaction_id": "MzMzNDkxNzk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFDWUFK",
+        "transaction_id": "MzMxNzM0MjgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-01",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA1GK2KO",
+        "transaction_id": "MzI5NjUwMTYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9G16RTU",
+        "transaction_id": "MzI4MTEwMzgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-10-20",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X9G16REO",
+        "transaction_id": "MzI4MTEwMzcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-10-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9G16QZM",
+        "transaction_id": "MzI4MTEwMzY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9EBOKHO",
+        "transaction_id": "MzI3ODc3MDcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9EBOK3A",
+        "transaction_id": "MzI3ODc3MDYzNWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-08-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9BODN6I",
+        "transaction_id": "MzI3NTU0ODI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X99HB4RU",
+        "transaction_id": "MzI3MzMzODQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X99HB4C0",
+        "transaction_id": "MzI3MzMzODMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "L8KWJGQP",
+        "transaction_id": "MzI1MzM0MDQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8H8CB40",
+        "transaction_id": "MzI0ODI1NzAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-10-31",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X8H8C9VU",
+        "transaction_id": "MzI0ODI1Njc0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8ECJ5YB",
+        "transaction_id": "MzI0NDY0ODQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8ECJ56J",
+        "transaction_id": "MzI0NDY0ODMzN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 114,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Scribetech.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "Augnito Omni (AI Medical Scribe)",
+      "Augnito Spectra (cloud-based speech recognition)",
+      "Augnito Voice Services (speech recognition and AI Medical Scribe)",
+      "Textflow (clinical transcription and digital dictation workflow platform)",
+      "LLM (UK Clinical Data-trained)",
+      "API (Application Programming Interface)",
+      "SDK (Software Development Kit)",
+      "EPR systems",
+      "PACS",
+      "RIS"
+    ],
+    "business_keywords": [
+      "Medical Ambient Scribe AI",
+      "Healthcare AI",
+      "Medical Transcription",
+      "Speech Recognition",
+      "Document Recognition",
+      "Ambient Voice Technology (AVT)",
+      "Generative AI",
+      "Clinical Documentation",
+      "Medical Reporting",
+      "Clinical Letters",
+      "Clinical Coding",
+      "Live Translation",
+      "Digital Dictation",
+      "EPR Integration",
+      "NHS Frameworks"
+    ],
+    "services": [
+      "High-quality transcription",
+      "Ambient Voice Technology (AVT) solutions",
+      "Generative AI solutions for healthcare",
+      "Real-time clinical documentation",
+      "Multi-specialty patient note generation",
+      "Clinical letter generation",
+      "Suggestive feedback for clinicians",
+      "Live translation for clinical use",
+      "Cloud-based speech recognition for healthcare professionals",
+      "Seamless EPR/PACS/RIS integration",
+      "API and SDK integration for clinical systems",
+      "Voice command capabilities for clinical software",
+      "Fully managed dictation-to-text outsource service for NHS and private hospitals",
+      "Digital dictation and transcription workflow platform",
+      "Secure end-to-end clinical transcription",
+      "Intelligent routing of medical documentation",
+      "NHS-compliant data security",
+      "Cost-benefit analysis reports for speech recognition",
+      "No-cost pilots for NHS sites"
+    ],
+    "customer_segments": [
+      "NHS Trusts",
+      "Private Hospitals",
+      "Healthcare professionals",
+      "Healthcare organisations",
+      "Clinicians",
+      "Clinical secretaries",
+      "Community Based Nurses",
+      "Radiology departments",
+      "Healthcare settings"
+    ],
+    "business_description": "SCRIBETECH (UK) LTD provides AI-powered medical transcription, ambient voice technology, and speech recognition solutions for healthcare settings. With over 20 years of experience working with the NHS and private hospitals, the company delivers structured medical reporting, real-time clinical documentation, and generative AI tools to enhance patient care and clinical efficiency. Their solutions include cloud-based speech recognition, digital dictation workflows, and secure transcription services.",
+    "website_analyzed_at": "2025-12-29T16:18:25.839Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.004Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 58,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 30.224472509195838,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 8,
+        "weight": 8
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 1.2,
+        "weight": 25
+      }
+    ],
+    "computed_at": "2025-12-29T22:22:45.980Z",
+    "location_distance_km": 1.2
+  },
+  "scraped_at": "2025-12-28T18:42:18.462Z",
+  "updated_at": "2026-01-09T19:08:22.004Z",
+  "version": 1
+}

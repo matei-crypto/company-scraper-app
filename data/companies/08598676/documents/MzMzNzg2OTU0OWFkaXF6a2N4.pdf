@@ -1,0 +1,5138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2008/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2010-04-20" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:ns1="http://xbrl.frc.org.uk/cd/2019-01-01/business" xmlns:ns2="http://xbrl.frc.org.uk/reports/2019-01-01/direp" xmlns:ns3="http://xbrl.frc.org.uk/fr/2019-01-01/core" xmlns:ns4="http://xbrl.frc.org.uk/reports/2019-01-01/aurep" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en">
+  <head>
+    <meta content="application/xhtml+xml; charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="text/css" http-equiv="Content-Style-Type"/>
+    <meta content="FlexCel 5.2.0.0" name="Generator"/>
+    <title>
+    </title>
+    <style type="text/css">
+table.flxmain_table td {overflow:hidden;padding: 0 1.5pt}
+ .imagediv {position:absolute;border:none}
+ table td.imagecell {vertical-align:top;text-align:left;padding:0}
+ .flxHeading {background-color:#E7E7E7;text-align:center;border: 1px solid black;font-family:helvetica,arial,sans-serif;font-size:10pt}
+ .flx0 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx1 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx2 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx3 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:right;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx4 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:justify;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx5 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:center;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx6 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:center;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx7 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx8 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx9 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;
+ }
+ .flx10 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx11 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:center;
+  vertical-align:bottom;
+  white-space:normal;
+ }
+ .flx12 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;
+ }
+ .flx13 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx14 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:italic;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx15 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:italic;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx16 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:normal;
+ }
+ .flx17 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;
+ }
+ .flx18 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;
+ }
+ .flx19 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;
+ }
+ .flx20 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:center;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx21 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:normal;
+ }
+ .flx22 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;
+ }
+ .flx23 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Helv;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx24 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Helv;
+  text-align:right;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx25 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx26 {
+  background-color:white;
+  color:black;
+  font-size:11pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Calibri;
+  text-align:left;
+  vertical-align:bottom;
+  white-space:normal;
+ }
+ .flx27 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:center;
+  vertical-align:bottom;
+  white-space:normal;
+ }
+ .flx28 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Helv;
+  text-align:center;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx29 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:right;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx30 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:center;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx31 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:normal;
+  font-style:italic;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx32 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx33 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:Helv;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx34 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:Helv;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx35 {
+  background-color:white;
+  color:black;
+  font-size:9pt;
+  font-weight:bold;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx36 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:italic;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx37 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:bold;
+  font-style:italic;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:bottom;
+  white-space:nowrap;
+ }
+ .flx38 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:italic;
+  font-family:'Times New Roman';
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+ .flx39 {
+  background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  font-family:'Times New Roman';
+  text-align:center;
+  vertical-align:top;
+  white-space:nowrap;
+ }
+</style>
+  </head>
+  <body>
+    <div style="display:none">
+      <ix:header>
+        <ix:hidden>
+          <ix:nonNumeric contextRef="CURRENT_FY_START" format="ixt:datelonguk" name="ns1:StartDateForPeriodCoveredByReport">1 August 2020</ix:nonNumeric>
+          <ix:nonNumeric contextRef="TRADING" name="ns1:EntityTradingStatus"/>
+          <ix:nonNumeric contextRef="AUDIT" name="ns1:AccountsStatusAuditedOrUnaudited"/>
+          <ix:nonNumeric contextRef="LEGALFORM" name="ns1:LegalFormEntity"/>
+          <ix:nonNumeric contextRef="ACSTYPE" name="ns1:AccountsTypeFullOrAbbreviated"/>
+           <ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns1:EntityDormantTruefalse">0</ix:nonNumeric>
+            <ix:nonNumeric contextRef="STANDARDS" name="ns1:AccountingStandardsApplied"/>
+            </ix:hidden>
+              <ix:references>
+         <link:schemaRef xlink:href="https://xbrl.frc.org.uk/FRS-102/2019-01-01/FRS-102-2019-01-01.xsd" xlink:type="simple"/>
+             </ix:references>
+        <ix:resources>
+                   <xbrli:context id="STANDARDS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:AccountingStandardsDimension">ns1:Micro-entities</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+             <xbrli:context id="ACSTYPE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:AccountsTypeDimension">ns1:FullAccounts</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+        <xbrli:context id="LEGALFORM">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:LegalFormEntityDimension">ns1:PrivateLimitedCompanyLtd</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+         <xbrli:context id="AUDIT">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+              <xbrldi:explicitMember dimension="ns1:AccountsStatusDimension">ns1:AuditExemptWithAccountantsReport</xbrldi:explicitMember>
+                </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+             <xbrli:context id="TRADING">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+               </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+             <xbrli:context id="CURRENT_FY__YEAR_END">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR1">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+             <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR3">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR4">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director4</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR5">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director5</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR6">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director6</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR7">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director7</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR8">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director8</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR9">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director9</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR10">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director10</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR11">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director11</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR12">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director12</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR13">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director13</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR14">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director14</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR15">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director15</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR16">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director16</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR17">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director17</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR18">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director18</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR19">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director19</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="CURRENT_FY_PERIOD_DIRECTOR20">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:Director20</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_REGISTERED_OFFICE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityContactTypeDimension">ns1:RegisteredOffice</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_SECRETARY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:CompanySecretary1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FANDFCURRENTYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:FurnitureFittings</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FHOLDYEAREND">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:OwnedOrFreeholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FHOLDACPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:OwnedOrFreeholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="LLEASEYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:LongLeaseholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="LLEASEAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:LongLeaseholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="GWillYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="GWillAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDINARY1YE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDINARY2YE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDINARY3YE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OTHERIFAYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OTHERIFAAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PANDMAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:PlantMachinery</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PANDMYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:PlantMachinery</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="APREFSYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:PreferenceShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="BPREFSYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:PreferenceShareClass2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SLEASEYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:ShortLeaseholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SLEASEAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:ShortLeaseholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="MVYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:Vehicles</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="MVAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:Vehicles</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FANDFAP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:FurnitureFittings</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+              <xbrli:context id="CURRENT_FY_START">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-08-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="DATE_OF_APPROVAL_OF_FINANCIAL_STATEMENTS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="DIRECTORS_REPORT_SIGNING_DATE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FANDFSTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:FurnitureFittings</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FHSTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:OwnedOrFreeholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="LLEASESTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:LongLeaseholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="GWILLSTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OTHERIFASTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PANDMSTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:PlantMachinery</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREVIOUS_FY_YEAR_START">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SLEASESTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:LandBuildings</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:ShortLeaseholdAssets</xbrldi:explicitMember>
+             </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="MVSTART">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:Vehicles</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREVIOUS_FY_PERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ALL_DIR_PY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:AllEntityOfficers</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREVIOUS_FY_YEAR_END">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+              <xbrli:context id="ORDINARYBPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDINARYAPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDINARYCPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="APREFSPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:PreferenceShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="BPREFSPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:PreferenceShareClass2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+                <xbrli:context id="CURRENT_FY_PERIOD_NetGoodWill">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREVIOUS_FY_PERIOD_NetGoodWill">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_YEAR_END_NetGoodWill">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREVIOUS_FY_YEAR_END_NetGoodWill">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:NetGoodwill</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_Leasehold">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:LeasedTangibleFixedAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_Highest_Paid">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:HighestPaidDirector</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREVIOUS_FY_PERIOD_Highest_Paid">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityOfficersDimension">ns1:HighestPaidDirector</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="BUILDINGS_x0020_CY_x0020_PERIOD_x0020_">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:Buildings</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CURRENT_FY_PERIOD_Leasehold_Buildings">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:LeasedTangibleFixedAssets</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:PropertyPlantEquipmentClassesDimension">ns3:Buildings</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FHOLDACPERIODNot_x0020_Building">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:OwnedOrFreeholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="FY_x0020_PY_x0020_PERIOD_x0020_Not_x0020_building">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:PPEOwnershipDimension">ns3:OwnedOrFreeholdAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="ALLORDINARYYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ALLPREFYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllPreferenceShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ALLORDPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ALLPREFPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllPreferenceShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDDIVISPAIDPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:DividendsDimension">ns3:DividendsPaid</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ORDDIVISPROPPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:DividendsDimension">ns3:DividendsProposed</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="AllOrdinary_x0020_Dividends_x0020_Proposed_x0020_PY_x0020_PERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:DividendsDimension">ns3:DividendsProposed</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="AllOridnary_x0020_Dividends_x0020_Paid_x0020_CY_x0020_PERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="ns3:DividendsDimension">ns3:DividendsPaid</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="AllOrdinary_x0020_CY_x0020_PERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="AllPreference_x0020_CY_x0020_PERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:AllPreferenceShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OPENINGPATENTSFIGURES">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:PatentsTrademarksLicencesConcessionsSimilar</xbrldi:explicitMember>
+</xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-08-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PATENTSMOVEMENTS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:PatentsTrademarksLicencesConcessionsSimilar</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:startDate>2020-08-01</xbrli:startDate>
+            <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PATENTSEND">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:PatentsTrademarksLicencesConcessionsSimilar</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="OPENINGOTHERIFA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:OtherResidualIntangibleAssets</xbrldi:explicitMember>
+</xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-08-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OTHERIFAMOVES">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:OtherResidualIntangibleAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:startDate>2020-08-01</xbrli:startDate>
+            <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OTHERIFAEND">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:IntangibleAssetClassesDimension">ns3:OtherResidualIntangibleAssets</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SHAREDESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SHARE2DESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SHARE3DESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="SHARE4DESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass4</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="SHARE5DESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass5</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="PREFSHARE1DESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:PreferenceShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="PREFSHARE2DESCRIPTIONPERIOD">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:PreferenceShareClass2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryCEnd">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryDEnd">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass4</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryEEnd">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass5</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryCPY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="OrdinaryDPY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass4</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryEPY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns1:EntityShareClassesDimension">ns1:OrdinaryShareClass5</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="TURNOVERACQ">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingActivitiesDimension">ns3:Acquisitions</xbrldi:explicitMember>
+                  </xbrli:segment>
+            </xbrli:entity>
+               <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="TURNOVERACQPY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingActivitiesDimension">ns3:Acquisitions</xbrldi:explicitMember>
+                  </xbrli:segment>
+            </xbrli:entity>
+               <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="TURNOVERDIS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingActivitiesDimension">ns3:DiscontinuedOperations</xbrldi:explicitMember>
+                  </xbrli:segment>
+            </xbrli:entity>
+               <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+            <xbrli:context id="TURNOVERDISPY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingActivitiesDimension">ns3:DiscontinuedOperations</xbrldi:explicitMember>
+                  </xbrli:segment>
+            </xbrli:entity>
+               <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="TURNOVERONG">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingActivitiesDimension">ns3:ContinuingOperationsExcludingAcquisitions</xbrldi:explicitMember>
+                  </xbrli:segment>
+            </xbrli:entity>
+               <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="TURNOVERONGPY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingActivitiesDimension">ns3:ContinuingOperationsExcludingAcquisitions</xbrldi:explicitMember>
+                  </xbrli:segment>
+            </xbrli:entity>
+                <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+            <xbrli:context id="CRSCURRENT">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+               </xbrli:context>
+              <xbrli:context id="CRSCURRENTBS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+           </xbrli:context>
+            <xbrli:context id="CRSCURRENTBSLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+            </xbrli:period>
+           </xbrli:context>
+             <xbrli:context id="CRSNONCURRENT">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:AfterOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="CRSCURRENTLASTYEAR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="CRSNONCURRENTLASTYEAR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:AfterOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="CRS1TO2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenOneTwoYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="CRS2TO5">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenTwoFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="CRS5">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:MoreThanFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="CRS1TO2LASTYEAR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenOneTwoYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+           <xbrli:context id="CRS2TO5LASTYEAR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenTwoFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+               <xbrli:context id="CRS5LASTYEAR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:MoreThanFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+             <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYSHARES">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapital</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYRSVS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:RetainedEarningsAccumulatedLosses</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYORDSHARES">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapitalOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYPREFSHARES">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapitalPreferenceShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYRR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:PropertiesRevaluationReserve</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYSPREM">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:SharePremiumOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+           <xbrli:period>
+             <xbrli:instant>2021-07-31</xbrli:instant>
+                </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYOR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:OtherMiscellaneousReserve</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYSHARESLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapital</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYSPREMLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:SharePremiumOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+             <xbrli:period>
+             <xbrli:instant>2020-07-31</xbrli:instant>
+             </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYISSUELY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapital</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+             <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYISSUE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapital</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+             <xbrli:period>
+             <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+              </xbrli:period>
+         </xbrli:context>
+                   <xbrli:context id="EQUITYRSVSLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:RetainedEarningsAccumulatedLosses</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+                   <xbrli:context id="EQUITYORDSHARESLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapitalOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYPREFSHARESLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapitalPreferenceShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYRRLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:PropertiesRevaluationReserve</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYORLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:OtherMiscellaneousReserve</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYSP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:SharePremiumOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYSPLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:SharePremiumOrdinaryShares</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+               <xbrli:context id="CRSNOTE1">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="CRSNOTE2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+          <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="CRSNOTE3">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:AfterOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:instant>2021-07-31</xbrli:instant>
+            </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="CRSNOTE4">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:AfterOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+          <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+           <xbrli:context id="FLEASE1YR">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2021-07-31</xbrli:instant>  
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="FLEASE1YRCOMP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:instant>2020-07-31</xbrli:instant>  
+               </xbrli:period>
+         </xbrli:context>
+           <xbrli:context id="FLEASE1TO2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenOneTwoYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+             <xbrli:instant>2021-07-31</xbrli:instant> 
+              </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="FLEASE1TO2COMP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenOneTwoYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+             <xbrli:instant>2020-07-31</xbrli:instant> 
+              </xbrli:period>
+         </xbrli:context>
+           <xbrli:context id="FLEASE2TO5">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenTwoFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:instant>2021-07-31</xbrli:instant>
+             </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="FLEASE2TO5COMP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:BetweenTwoFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2020-07-31</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+            <xbrli:context id="FLEASE5">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:MoreThanFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+             <xbrli:instant>2021-07-31</xbrli:instant>
+             </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="FLEASE5COMP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:MoreThanFiveYears</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+             <xbrli:instant>2020-07-31</xbrli:instant>
+             </xbrli:period>
+         </xbrli:context>
+         <xbrli:context id="EQUITYORY2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:OtherMiscellaneousReserve</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+              </xbrli:period>
+               </xbrli:context>
+         <xbrli:context id="EQUITYSHARESY2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:ShareCapital</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+              </xbrli:period>
+               </xbrli:context>
+               <xbrli:context id="EQUITYRSVSY2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:RetainedEarningsAccumulatedLosses</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EQUITYRRY2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:EquityClassesDimension">ns3:PropertiesRevaluationReserve</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+              </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="YEAR2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2019-08-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="CRSNCTXT">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:MaturitiesOrExpirationPeriodsDimension">ns3:AfterOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+            <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+         </xbrli:context>
+          <xbrli:context id="EUROPE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Europe</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="EUROPELY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Europe</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+            <xbrli:context id="UK">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:UnitedKingdom</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="UKLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:UnitedKingdom</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+            <xbrli:context id="AMERICAS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Americas</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="AMERICASLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Americas</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+            <xbrli:context id="MEAST">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:MiddleEast</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="MEASTLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:MiddleEast</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+              <xbrli:context id="AFRICA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Africa</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="AFRICALY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Africa</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+            <xbrli:context id="ASIA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Asia</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="ASIALY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Asia</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="AUS">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Australasia</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="AUSLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:GeographicSegmentsDimension">ns6:Australasia</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="SEG1">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingSegmentsDimension">ns3:ReportableOperatingSegment1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="SEG1LY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingSegmentsDimension">ns3:ReportableOperatingSegment1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="SEG2">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingSegmentsDimension">ns3:ReportableOperatingSegment2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="SEG2LY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingSegmentsDimension">ns3:ReportableOperatingSegment2</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="SEG3">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingSegmentsDimension">ns3:ReportableOperatingSegment3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+             <xbrli:context id="SEG3LY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:OperatingSegmentsDimension">ns3:ReportableOperatingSegment3</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+            </xbrli:context>
+            <xbrli:context id="ADMINYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns5:ExpenseTypeDimension">ns5:AdministrativeExpenses</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="ADMINPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns5:ExpenseTypeDimension">ns5:AdministrativeExpenses</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+           <xbrli:context id="DISTYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns5:ExpenseTypeDimension">ns5:DistributionCosts</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="DISTPYE">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns5:ExpenseTypeDimension">ns5:DistributionCosts</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+         <xbrli:context id="MATERIAL">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns5:ExceptionalNon-exceptionalItemsDimension">ns5:Exceptional</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="MATERIALLY">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns5:ExceptionalNon-exceptionalItemsDimension">ns5:Exceptional</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2019-08-01</xbrli:startDate>
+              <xbrli:endDate>2020-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+              <xbrli:context id="UCP">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">8598676</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="ns3:X-ParentEntityOrControllingPartyUltimateControllingPartyGroupingDimension"/>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2020-08-01</xbrli:startDate>
+              <xbrli:endDate>2021-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+            <xbrli:unit id="Pure">
+            <xbrli:measure>xbrli:pure</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="Shares">
+            <xbrli:measure>xbrli:shares</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="GBP">
+            <xbrli:measure>iso4217:GBP</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="USD">
+            <xbrli:measure>iso4217:USD</xbrli:measure>
+          </xbrli:unit>
+        </ix:resources>
+      </ix:header>
+      </div>
+      <table border="0" cellpadding="0" cellspacing="0" class="flxmain_table" style="width:595.89pt; table-layout:fixed;border-collapse:collapse;" summary="Excel Sheet: Cover">
+      <col class="flx2" span="2" style="width:40.51pt;"/>
+      <col class="flx2" style="width:29.46pt;"/>
+      <col class="flx2" style="width:299.7pt;"/>
+      <col class="flx2" span="2" style="width:40.51pt;"/>
+      <col class="flx2" style="width:54.18pt;"/>
+      <col class="flx2" style="width:30.51pt;"/>
+      <tr style="display:none">
+        <td style="padding:0;width:50.51pt;">
+        </td>
+        <td style="padding:0;width:50.51pt;">
+        </td>
+        <td style="padding:0;width:69.46pt;">
+        </td>
+        <td style="padding:0;width:199.7pt;">
+        </td>
+        <td style="padding:0;width:50.51pt;">
+        </td>
+        <td style="padding:0;width:50.51pt;">
+        </td>
+        <td style="padding:0;width:74.18pt;">
+        </td>
+        <td style="padding:0;width:50.51pt;">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+       <tr style="height:12.38pt;">
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx5">Company registration number:<ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns1:UKCompaniesHouseRegisteredNumber">8598676</ix:nonNumeric>
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx5">
+          <ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns1:EntityCurrentLegalOrRegisteredName">CAP IT MANAGED SERVICES LTD</ix:nonNumeric>
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx5">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx5">UNAUDITED FINANCIAL STATEMENTS</td>
+        <td class="flx2">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr style="height:12.38pt;">
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+          <td class="flx5">FOR THE YEAR ENDED <ix:nonNumeric contextRef="CURRENT_FY__YEAR_END" format="ixt:datelonguk" name="ns1:EndDateForPeriodCoveredByReport">31 July 2021</ix:nonNumeric>
+</td>
+          <td class="flx2">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx4">
+        </td>
+        <td class="flx2">
+        </td>
+           </tr>
+          <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx5">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      </table>
+         <hr style="page-break-before:always"/>
+      <table border="0" cellpadding="0" cellspacing="0" class="flxmain_table" style="width:717.42pt; table-layout:fixed;border-collapse:collapse;" summary="Excel Sheet: BS">
+        <col class="flx2" style="width:32.35pt;"/>
+      <col class="flx2" style="width:112.86pt;"/>
+      <col class="flx2" style="width:69.46pt;"/>
+      <col class="flx2" style="width:48.98pt;"/>
+      <col class="flx20" style="width:44.98pt;"/>
+      <col class="flx2" style="width:48.58pt;"/>
+      <col class="flx2" style="width:13.4pt;"/>
+      <col class="flx2" style="width:48.98pt;"/>
+      <col class="flx2" style="width:44.98pt;"/>
+      <col class="flx2" style="width:48.58pt;"/>
+      <col class="flx2" style="width:16.58pt;"/>
+      <col class="flx2" style="width:60.78pt;"/>
+      <col class="flx2" style="width:11.05pt;"/>
+      <tr style="display:none">
+        <td style="padding:0;width:32.35pt;">
+        </td>
+        <td style="padding:0;width:112.86pt;">
+        </td>
+        <td style="padding:0;width:69.46pt;">
+        </td>
+        <td style="padding:0;width:101.81pt;">
+        </td>
+        <td style="padding:0;width:44.98pt;">
+        </td>
+        <td style="padding:0;width:62.36pt;">
+        </td>
+        <td style="padding:0;width:13.4pt;">
+        </td>
+        <td style="padding:0;width:67.08pt;">
+        </td>
+        <td style="padding:0;width:60.78pt;">
+        </td>
+        <td style="padding:0;width:63.93pt;">
+        </td>
+        <td style="padding:0;width:16.58pt;">
+        </td>
+        <td style="padding:0;width:60.78pt;">
+        </td>
+        <td style="padding:0;width:11.05pt;">
+        </td>
+      </tr>
+          <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+         <tr style="height:12.38pt;">
+<td class="flx2" colspan="6">Company registration number:<ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns1:UKCompaniesHouseRegisteredNumber">8598676</ix:nonNumeric>
+</td>
+</tr>
+             <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+         <td class="flx2" colspan="6">CAP IT MANAGED SERVICES LTD</td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx3">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2" colspan="3">BALANCE SHEET</td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+      <td class="flx2" colspan="3">AS AT <ix:nonNumeric contextRef="CURRENT_FY__YEAR_END" format="ixt:datelonguk" name="ns1:BalanceSheetDate">31 July 2021</ix:nonNumeric>
+        </td>
+         <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+       <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+       <td class="flx20">
+        </td>
+        <td class="flx20" colspan="3" rowspan="1">2021</td>
+        <td class="flx2">
+        </td>
+        <td class="flx20" colspan="3" rowspan="1">2020</td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+          <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20"/>
+        <td class="flx20">£</td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">£</td>
+        <td class="flx20">
+        </td>
+        <td class="flx20">£</td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">£</td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+       <tr class="flx2" style="height:8.01pt;">
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+<td class="flx2" colspan="2">FIXED ASSETS</td>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx29">
+<ix:nonFraction contextRef="CURRENT_FY__YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:FixedAssets" scale="0" unitRef="GBP">1,322</ix:nonFraction>
+</td>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx29">
+<ix:nonFraction contextRef="PREVIOUS_FY_YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:FixedAssets" scale="0" unitRef="GBP">1,653</ix:nonFraction>
+</td>
+<td class="flx2"/>
+</tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr class="flx2" style="height:6.55pt;">
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+<td class="flx2" colspan="2">CURRENT ASSETS</td>
+<td class="flx2"/>
+<td class="flx29">
+<ix:nonFraction contextRef="CURRENT_FY__YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:CurrentAssets" scale="0" unitRef="GBP">100,168</ix:nonFraction>
+</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx29">
+<ix:nonFraction contextRef="PREVIOUS_FY_YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:CurrentAssets" scale="0" unitRef="GBP">33,945</ix:nonFraction>
+</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+</tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+           <tr class="flx2" style="height:12.38pt;">
+<td class="flx2" colspan="3">CREDITORS : falling due within one year</td>
+<td class="flx29">(<ix:nonFraction contextRef="CRSCURRENTBS" decimals="0" format="ixt:numcommadot" name="ns3:Creditors" scale="0" unitRef="GBP">72,383</ix:nonFraction>)</td>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx29">(<ix:nonFraction contextRef="CRSCURRENTBSLY" decimals="0" format="ixt:numcommadot" name="ns3:Creditors" scale="0" unitRef="GBP">25,722</ix:nonFraction>)</td>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx2"/>
+</tr>
+      <tr class="flx2" style="height:10.2pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr class="flx2" style="height:12.38pt;">
+<td class="flx2" colspan="3">ACCRUALS AND DEFERRED INCOME</td>
+<td class="flx29">(<ix:nonFraction contextRef="CRSNOTE1" decimals="0" format="ixt:numcommadot" name="ns3:AccruedLiabilitiesDeferredIncome" scale="0" unitRef="GBP">500</ix:nonFraction>)</td>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx29">(<ix:nonFraction contextRef="CRSNOTE2" decimals="0" format="ixt:numcommadot" name="ns3:AccruedLiabilitiesDeferredIncome" scale="0" unitRef="GBP">500</ix:nonFraction>)</td>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx2"/>
+</tr>
+         <tr class="flx2" style="height:12.38pt;">
+<td class="flx20"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx29" style="border-bottom:1px solid black;"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx29" style="border-bottom:1px solid black;"/>
+<td class="flx2"/>
+</tr>
+        <tr class="flx2" style="height:12.38pt;">
+<td class="flx20"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx29"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx29"/>
+<td class="flx2"/>
+</tr>
+        <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2" colspan="2">NET CURRENT ASSETS</td>
+           <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29" style="border-bottom:1px solid black;">
+<ix:nonFraction contextRef="CURRENT_FY__YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:NetCurrentAssetsLiabilities" scale="0" unitRef="GBP">27,285</ix:nonFraction>
+</td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29" style="border-bottom:1px solid black;">
+<ix:nonFraction contextRef="PREVIOUS_FY_YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:NetCurrentAssetsLiabilities" scale="0" unitRef="GBP">7,723</ix:nonFraction>
+</td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2" colspan="2">TOTAL ASSETS LESS </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2" colspan="2">CURRENT LIABILITIES</td>
+          <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29">
+<ix:nonFraction contextRef="CURRENT_FY__YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:TotalAssetsLessCurrentLiabilities" scale="0" unitRef="GBP">28,607</ix:nonFraction>
+</td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29">
+<ix:nonFraction contextRef="PREVIOUS_FY_YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:TotalAssetsLessCurrentLiabilities" scale="0" unitRef="GBP">9,376</ix:nonFraction>
+</td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2" colspan="2">NET ASSETS</td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29" style="border-top:1px solid black;border-bottom:1px solid black;">
+<ix:nonFraction contextRef="CURRENT_FY__YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:NetAssetsLiabilities" scale="0" unitRef="GBP">28,607</ix:nonFraction>
+</td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29" style="border-top:1px solid black;border-bottom:1px solid black;">
+<ix:nonFraction contextRef="PREVIOUS_FY_YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:NetAssetsLiabilities" scale="0" unitRef="GBP">9,376</ix:nonFraction>
+</td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+       <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2" colspan="2">CAPITAL AND RESERVES</td>
+         <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29" style="border-top:1px solid black;border-bottom:1px solid black;">
+<ix:nonFraction contextRef="CURRENT_FY__YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:Equity" scale="0" unitRef="GBP">28,607</ix:nonFraction>
+</td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx29" style="border-top:1px solid black;border-bottom:1px solid black;">
+<ix:nonFraction contextRef="PREVIOUS_FY_YEAR_END" decimals="0" format="ixt:numcommadot" name="ns3:Equity" scale="0" unitRef="GBP">9,376</ix:nonFraction>
+</td>
+        <td class="flx2">
+        </td>
+      </tr>
+<tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx1" style="height:12.38pt;">
+<td class="flx2" colspan="9">Company information</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx1"/>
+</tr>
+<tr class="flx1" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="2">The Company is registered in England and its registered number is 08598676. The Company is a private company limited by shares. Its registered office is: Hangar 3, Fourth Avenue, Robin Hood Airport,</td>
+</tr>
+<tr class="flx2" style="height:12.38pt;">
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx20"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+</tr>
+<tr class="flx2" style="height:12.38pt;">
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx20"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+</tr>     
+                  <tr class="flx1" style="height:12.38pt;">
+<td class="flx2" colspan="9">Average employees</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx1"/>
+</tr>
+<tr class="flx1" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="2">The average number of persons employed by the company (including directors) during the year was <ix:nonFraction contextRef="CURRENT_FY_PERIOD" decimals="0" format="ixt:numcommadot" name="ns3:AverageNumberEmployeesDuringPeriod" scale="0" unitRef="GBP">2</ix:nonFraction>.</td>
+</tr>
+<tr style="height:12.38pt;">
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+<td class="flx1"/>
+</tr>
+        <tr class="flx2" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="2">
+<ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns2:StatementThatCompanyEntitledToExemptionFromAuditUnderSection477CompaniesAct2006RelatingToSmallCompanies">For the year ending 31 July 2021 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.</ix:nonNumeric>
+</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+</tr> 
+        <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+             <tr class="flx2" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="2">
+<ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns2:StatementThatMembersHaveNotRequiredCompanyToObtainAnAudit">The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.</ix:nonNumeric>
+</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+</tr>
+       <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+       <tr class="flx2" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="3">
+<ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns2:StatementThatDirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct">The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of the accounts.</ix:nonNumeric>
+</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+</tr>
+       <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+       <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+   	 <tr class="flx2" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="2">
+<ix:nonNumeric contextRef="CURRENT_FY_PERIOD" name="ns2:StatementThatAccountsHaveBeenPreparedInAccordanceWithProvisionsSmallCompaniesRegime"> The financial statements have been prepared in accordance with the micro-entity provisions and have been delivered in accordance with the provisions applicable to companies subject to the small companies regime. </ix:nonNumeric>
+</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+</tr>
+   	 <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+   	      <tr class="flx2" style="height:12.38pt;">       
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr class="flx2" style="height:12.38pt;">
+<td class="flx17" colspan="9" rowspan="2">Approved by the board of directors and signed on its behalf by:</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+</tr>
+       <tr class="flx2" style="height:12.38pt;">
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+        <td class="flx8">
+        </td>
+      </tr>
+      <tr class="flx1" style="height:12.38pt;">
+      <td class="flx2" colspan="2">..........................................................................</td>
+       </tr>
+      <tr class="flx2" style="height:12.38pt;">      
+        <td class="flx2" colspan="2">C Archer<ix:nonNumeric contextRef="CURRENT_FY_PERIOD_DIRECTOR1" name="ns3:DirectorSigningFinancialStatements"/>
+</td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+        <tr class="flx2" style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr style="height:12.38pt;">
+        <td class="flx8" colspan="2" rowspan="1">
+          <ix:nonNumeric contextRef="DATE_OF_APPROVAL_OF_FINANCIAL_STATEMENTS" format="ixt:datelonguk" name="ns3:DateAuthorisationFinancialStatementsForIssue">21 April 2022</ix:nonNumeric>
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+      <tr class="flx2" style="height:12.38pt;">
+<td class="flx8" colspan="6">The annexed notes form part of these financial statements.</td>
+<td class="flx2"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx2"/>
+<td class="flx8"/>
+<td class="flx8"/>
+<td class="flx8"/>
+</tr>
+      <tr style="height:12.38pt;">
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx20">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+        <td class="flx2">
+        </td>
+      </tr>
+    </table>
+     </body>
+</html>

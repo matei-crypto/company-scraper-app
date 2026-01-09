@@ -1,0 +1,833 @@
+{
+  "company_name": "ERLANG SOLUTIONS LTD",
+  "company_number": "03893360",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1999-12-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "Finsbury Circus House, 15 Finsbury Circus, London, EC2M 7EB, England",
+  "registered_address_structured": {
+    "address_line_1": "Finsbury Circus House",
+    "address_line_2": "15 Finsbury Circus",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2M 7EB"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ERLANG TRAINING AND CONSULTING LTD",
+      "ceased_on": "2009-12-24",
+      "effective_from": "2004-03-24"
+    },
+    {
+      "name": "CESARINI CONSULTING LIMITED",
+      "ceased_on": "2004-03-24",
+      "effective_from": "1999-12-13"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-22",
+    "last_made_up_to": "2025-10-08",
+    "next_made_up_to": "2026-10-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CESARINI, Francesco Gabriele Martin",
+        "officer_role": "director",
+        "appointed_on": "1999-12-13",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "Swedish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "New Loom House",
+          "address_line_2": "Back Church Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 1LU",
+          "premises": "Suite 2.05"
+        }
+      },
+      {
+        "name": "PARRY-JONES, David Gwilym",
+        "officer_role": "director",
+        "appointed_on": "2019-02-21",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "15 Finsbury Circus",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7EB",
+          "premises": "Finsbury Circus House"
+        }
+      },
+      {
+        "name": "BASU, Shomit",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "resigned_on": "2025-05-20",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Loom House",
+          "address_line_2": "Back Church Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 1LU",
+          "premises": "Suite 2.05"
+        }
+      },
+      {
+        "name": "DACKER, Bjarne Olov",
+        "officer_role": "director",
+        "appointed_on": "2006-02-22",
+        "resigned_on": "2019-02-21",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1942,
+        "nationality": "Swedish",
+        "country_of_residence": "Sweden",
+        "address": {
+          "address_line_1": "Gowers Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PY",
+          "premises": "The Loom"
+        }
+      },
+      {
+        "name": "LARSEN, Joern",
+        "officer_role": "director",
+        "appointed_on": "2011-07-01",
+        "resigned_on": "2021-04-21",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1966,
+        "nationality": "Danish",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "New Loom House",
+          "address_line_2": "Back Church Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 1LU",
+          "premises": "Suite 2.05"
+        }
+      },
+      {
+        "name": "ROSENTHAL, Casey Louis",
+        "officer_role": "director",
+        "appointed_on": "2016-10-11",
+        "resigned_on": "2023-06-09",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1978,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Gowers Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PY",
+          "premises": "The Loom"
+        }
+      },
+      {
+        "name": "SHEEHY, Justin",
+        "officer_role": "director",
+        "appointed_on": "2019-05-08",
+        "resigned_on": "2023-05-16",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1975,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Gowers Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PY",
+          "premises": "The Loom"
+        }
+      },
+      {
+        "name": "STAPLETON, Jennifer Ann Margaret",
+        "officer_role": "director",
+        "appointed_on": "2008-02-18",
+        "resigned_on": "2013-12-19",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1946,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Flat 29",
+          "address_line_2": "11 Upper Ground",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 9LP",
+          "premises": "Rennie Court"
+        }
+      },
+      {
+        "name": "TAYLOR, Marcus",
+        "officer_role": "director",
+        "appointed_on": "2005-01-01",
+        "resigned_on": "2012-03-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "37 Worminghall Road",
+          "locality": "Oakley",
+          "postal_code": "HP18 9QU",
+          "premises": "The Old Cottages",
+          "region": "Bucks"
+        }
+      },
+      {
+        "name": "THORUP, Kresten Krab, Mr.",
+        "officer_role": "director",
+        "appointed_on": "2011-08-30",
+        "resigned_on": "2016-10-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1970,
+        "nationality": "Danish",
+        "country_of_residence": "Denmark",
+        "address": {
+          "address_line_1": "New Loom House",
+          "address_line_2": "Back Church Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 1LU",
+          "premises": "Suite 2.05"
+        }
+      },
+      {
+        "name": "WHITFIELD, Stuart James Matthew",
+        "officer_role": "director",
+        "appointed_on": "2009-10-19",
+        "resigned_on": "2021-02-28",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Loom House",
+          "address_line_2": "Back Church Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 1LU",
+          "premises": "Suite 2.05"
+        }
+      },
+      {
+        "name": "WILLIAMS, Michael Cameron",
+        "officer_role": "director",
+        "appointed_on": "2012-05-22",
+        "resigned_on": "2019-05-08",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Gowers Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PY",
+          "premises": "The Loom"
+        }
+      },
+      {
+        "name": "WILDMAN & BATTELL LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1999-12-13",
+        "resigned_on": "1999-12-13",
+        "address": {
+          "address_line_1": "9 Perseverance Works",
+          "address_line_2": "Kingsland Road",
+          "locality": "London",
+          "postal_code": "E2 8DD"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BRANNSTROM, Anne Jeanette",
+        "officer_role": "secretary",
+        "appointed_on": "1999-12-13",
+        "resigned_on": "2005-07-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "25 Merchant House",
+          "address_line_2": "39 Goulston Street",
+          "locality": "London",
+          "postal_code": "E1 7TS"
+        }
+      },
+      {
+        "name": "TAYLOR, Marcus",
+        "officer_role": "secretary",
+        "appointed_on": "2005-01-01",
+        "resigned_on": "2012-03-30",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "37 Worminghall Road",
+          "locality": "Oakley",
+          "postal_code": "HP18 9QU",
+          "premises": "The Old Cottages",
+          "region": "Bucks"
+        }
+      },
+      {
+        "name": "WHITFIELD, Stuart James Matthew",
+        "officer_role": "secretary",
+        "appointed_on": "2012-03-30",
+        "resigned_on": "2021-02-28",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "New Loom House",
+          "address_line_2": "Back Church Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 1LU",
+          "premises": "Suite 2.05"
+        }
+      },
+      {
+        "name": "SAME-DAY COMPANY SERVICES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1999-12-13",
+        "resigned_on": "1999-12-13",
+        "address": {
+          "address_line_1": "9 Perseverance Works",
+          "address_line_2": "Kingsland Road",
+          "locality": "London",
+          "postal_code": "E2 8DD"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Trifork Holding Ag",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2022-01-31",
+        "address": {
+          "address_line_1": "Neuhofstrasse 8",
+          "address_line_2": "8834",
+          "country": "Switzerland",
+          "locality": "Schindellegi",
+          "premises": "X"
+        },
+        "identification": {
+          "legal_form": "Public Limited Company",
+          "legal_authority": "Switzerland",
+          "country_registered": "Switzerland",
+          "place_registered": "Switzerland",
+          "registration_number": "Che-474.101.854"
+        }
+      },
+      {
+        "name": "Mr Francesco Gabriele Martin Cesarini",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2022-01-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "Swedish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Gowers Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PY",
+          "premises": "The Loom"
+        }
+      },
+      {
+        "name": "Mr Joern Larsen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-01-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1966,
+        "nationality": "Danish",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "Gowers Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PY",
+          "premises": "The Loom"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "038933600004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-08-10",
+        "delivered_on": "2015-08-11",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Danske Bank a/S"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2009-05-18",
+        "delivered_on": "2009-05-23",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2016-09-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2006-02-24",
+        "delivered_on": "2006-03-01",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£1,215.00 or such other sum."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Mayor and Commonalty and Citizens of the City of London"
+          }
+        ],
+        "satisfied_on": "2015-01-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2005-03-15",
+        "delivered_on": "2005-03-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£1,215."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Mayor and Commonalty and Citizens of the City of London"
+          }
+        ],
+        "satisfied_on": "2015-01-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XECPV6D6",
+        "transaction_id": "MzQ4NDIyMDA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-10",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE4FAE22",
+        "transaction_id": "MzQ2OTQ3NjE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-02",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "AE3J0DIJ",
+        "transaction_id": "MzQ2ODQzOTU0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE3W9QA1",
+        "transaction_id": "MzQ2ODU4OTE4MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE3W9IT7",
+        "transaction_id": "MzQ2ODU4NzI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDYMFU5K",
+        "transaction_id": "MzQ1OTEwMTMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-18",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 27,
+        "barcode": "AD0SBHYX",
+        "transaction_id": "MzQxODA1ODYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCY5BUEQ",
+        "transaction_id": "MzQxMzQ2NjgxMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-31",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "ACA9008W",
+        "transaction_id": "MzM5MTQxMDU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-24",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ACA9008O",
+        "transaction_id": "MzM5MDU4MzE1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCA3NSFT",
+        "transaction_id": "MzM4OTk5MDM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88IAWW",
+        "transaction_id": "MzM4NzE3MTkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88IA3C",
+        "transaction_id": "MzM4NzE3MTc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I8ZT",
+        "transaction_id": "MzM4NzE3MTQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I8AT",
+        "transaction_id": "MzM4NzE3MTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I7TF",
+        "transaction_id": "MzM4NzE3MTMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I6I2",
+        "transaction_id": "MzM4NzE3MDk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I44I",
+        "transaction_id": "MzM4NzE3MDI5N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I2SX",
+        "transaction_id": "MzM4NzE3MDA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I1E8",
+        "transaction_id": "MzM4NzE2OTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88I096",
+        "transaction_id": "MzM4NzE2OTM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88HYQ9",
+        "transaction_id": "MzM4NzE2OTAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88HWZU",
+        "transaction_id": "MzM4NzE2ODYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88HVRC",
+        "transaction_id": "MzM4NzE2ODMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC88HU5T",
+        "transaction_id": "MzM4NzE2Nzk4MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 182,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "revenue": 13574000,
+    "ebitda": 1854000,
+    "employees": 31
+  },
+  "enrichment": {
+    "website": "https://Erlang-solutions.com",
+    "headcount": 31,
+    "tech_stack": [
+      "Erlang",
+      "Elixir",
+      "RabbitMQ",
+      "Ruby",
+      "BEAM Virtual Machine",
+      "OTP",
+      "MongooseIM",
+      "Riak"
+    ],
+    "business_keywords": [
+      "scalable distributed systems",
+      "digital infrastructure",
+      "Erlang",
+      "Elixir",
+      "RabbitMQ",
+      "consultancy",
+      "capabilities",
+      "community",
+      "fault-tolerant systems",
+      "resilient technologies",
+      "open source technology",
+      "BEAM Virtual Machine",
+      "OTP",
+      "MongooseIM",
+      "Riak",
+      "training",
+      "certification",
+      "whitepaper"
+    ],
+    "services": [
+      "consultancy",
+      "building massively scalable distributed systems",
+      "system migration (e.g., Ruby to Elixir)",
+      "handling unexpected spikes in demand",
+      "secure digital document delivery",
+      "healthcare communications solutions",
+      "fault-tolerant system development",
+      "training and certification (one-day tutorials, 3 and 5 days courses)",
+      "bespoke training courses for corporate clients",
+      "community support (guides, webinars, conferences, downloadable packages)"
+    ],
+    "customer_segments": [
+      "world’s most ambitious companies",
+      "large sports websites",
+      "fitness and running app companies",
+      "companies requiring secure digital document delivery",
+      "healthcare organizations",
+      "media companies (e.g., TV broadcasters)",
+      "CTOs navigating technological innovations",
+      "organizations driving digital transformation"
+    ],
+    "business_description": "Erlang Solutions builds transformative, massively scalable, and distributed systems for ambitious companies, leveraging over 20 years of experience in critical digital infrastructure. They specialize in technologies like Erlang, Elixir, and RabbitMQ, offering consultancy, training, and community support to create resilient, future-proof systems.",
+    "website_analyzed_at": "2025-12-29T17:31:10.397Z",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-09T19:08:22.355Z",
+    "enrichment_status": "completed"
+  },
+  "investment_score": {
+    "score": 50,
+    "factors": [
+      {
+        "factor": "Company Age (years)",
+        "value": 26.06559054131786,
+        "weight": 25
+      },
+      {
+        "factor": "Size (employees)",
+        "value": 31,
+        "weight": 25
+      },
+      {
+        "factor": "Microsoft Stack Alignment",
+        "value": 0,
+        "weight": 0
+      },
+      {
+        "factor": "Location (distance from London)",
+        "value": 0,
+        "weight": 0
+      }
+    ],
+    "computed_at": "2025-12-29T22:34:24.381Z"
+  },
+  "scraped_at": "2025-12-28T20:12:19.122Z",
+  "updated_at": "2026-01-09T19:08:22.355Z",
+  "version": 1
+}
