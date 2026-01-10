@@ -1,0 +1,477 @@
+{
+  "company_name": "TSI WORLD LIMITED",
+  "company_number": "08911481",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-02-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "Second Floor Windsor House, 40/41 Great Castle Street, London, London, W1W 8LU",
+  "registered_address_structured": {
+    "address_line_1": "Second Floor Windsor House",
+    "address_line_2": "40/41 Great Castle Street",
+    "locality": "London",
+    "postal_code": "W1W 8LU",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TRIBUNE SYSTEMS INTEGRATION LIMITED",
+      "ceased_on": "2014-06-18",
+      "effective_from": "2014-02-25"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-11",
+    "last_made_up_to": "2025-02-25",
+    "next_made_up_to": "2026-02-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOSELEY, Michael David",
+        "officer_role": "director",
+        "appointed_on": "2014-02-25",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Farm Park",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK7 8PZ",
+          "premises": "14 Rackstraw Grove",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "BOWER, Graeme Alan Douglas",
+        "officer_role": "director",
+        "appointed_on": "2014-03-10",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Bracknell",
+          "premises": "43 Finmere",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "MCCORQUODALE, Steven Andrew",
+        "officer_role": "director",
+        "appointed_on": "2015-01-05",
+        "resigned_on": "2016-02-29",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Abingdon",
+          "country": "England",
+          "locality": "Oxfordshire",
+          "postal_code": "OX14 5TN",
+          "premises": "21b Marina Way"
+        }
+      },
+      {
+        "name": "VARWIJK, Cyriel Engelbertus Paulus",
+        "officer_role": "director",
+        "appointed_on": "2014-03-10",
+        "resigned_on": "2021-11-02",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1967,
+        "nationality": "Dutch",
+        "country_of_residence": "Ireland",
+        "address": {
+          "country": "Ireland",
+          "locality": "Ardclough",
+          "premises": "3 Lishandra Manor",
+          "region": "Co. Kildare"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "089114810002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-04-04",
+        "delivered_on": "2019-04-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All present and future freehold and leasehold land, all present and future intellectual property and all present and future aircraft as defined in, and pursuant to, clause 5.2 of the accompanying copy instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ultimate Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "089114810001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-10-28",
+        "delivered_on": "2015-10-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ashley Commercial Finance Limited"
+          }
+        ],
+        "satisfied_on": "2019-04-08",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHZ0IAW",
+        "transaction_id": "MzQ5NTgwMzE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDX9MQN5",
+        "transaction_id": "MzQ1NjcyOTgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDAFKEWW",
+        "transaction_id": "MzQzMzU4MzU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXRJO42",
+        "transaction_id": "MzQxMjU0MzcyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC6ALYWO",
+        "transaction_id": "MzM4NDAyMzgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYGE6BL",
+        "transaction_id": "MzM3MTM4MDAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBD4A24Z",
+        "transaction_id": "MzM1MjY0NzIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYWIES8",
+        "transaction_id": "MzMzMTY5ODIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAGVMO2Q",
+        "transaction_id": "MzMxOTYzNDQ4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XABO4JK0",
+        "transaction_id": "MzMxMTg3Mjk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ZFCBZL",
+        "transaction_id": "MzI5Mjk5NTk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9EBQTRE",
+        "transaction_id": "MzI3ODc4OTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZRJMZE",
+        "transaction_id": "MzI1ODU4MzcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8AR0QC3",
+        "transaction_id": "MzI0MDQ3Mjc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-04-08",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X82YNULE",
+        "transaction_id": "MzIzMTUxOTY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-04-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 37,
+        "barcode": "X82QV2J5",
+        "transaction_id": "MzIzMTM0OTY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80O8CQJ",
+        "transaction_id": "MzIyODcyMjYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-02-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X7YOIU2Y",
+        "transaction_id": "MzIyNjI3MjQzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X78TS46J",
+        "transaction_id": "MzIwODE3NzE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 12,
+        "barcode": "X71BUVUY",
+        "transaction_id": "MzE5OTcwNDI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-10-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X6I7EPPO",
+        "transaction_id": "MzE4OTA2ODc1NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2017-10-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X6H9VKMG",
+        "transaction_id": "MzE4Nzk4NzQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2017-10-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X6H9UGBF",
+        "transaction_id": "MzE4Nzk4NjM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 14,
+        "barcode": "X63PY5CB",
+        "transaction_id": "MzE3Mjg3Njg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-09-28",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X5GGHEJL",
+        "transaction_id": "MzE1ODQyNTI2MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 45,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Tsiworld.technology",
+    "headcount": 12,
+    "tech_stack": [
+      "Google",
+      "Microsoft",
+      "IP phone system",
+      "MIS systems"
+    ],
+    "business_keywords": [
+      "ICT service delivery",
+      "education sector",
+      "IT support",
+      "cloud services",
+      "WiFi",
+      "broadband",
+      "telephony",
+      "online data backup",
+      "web filtering",
+      "safeguarding",
+      "security",
+      "anti-virus",
+      "spam solutions",
+      "user devices",
+      "audio visual",
+      "procurement",
+      "software licensing",
+      "servers",
+      "storage",
+      "MIS systems"
+    ],
+    "services": [
+      "WiFi & broadband",
+      "On-site & remote support",
+      "Telephony",
+      "Online data backup",
+      "Broadband & web filtering",
+      "Cloud services",
+      "Extended warranty",
+      "Asset inventory",
+      "Safeguarding & security",
+      "Anti-virus & spam solutions",
+      "User devices",
+      "Audio visual",
+      "Procurement",
+      "Software licensing",
+      "Servers & storage"
+    ],
+    "customer_segments": [
+      "schools",
+      "education sector",
+      "primary schools",
+      "secondary schools",
+      "special schools",
+      "academies",
+      "businesses"
+    ],
+    "business_description": "TSI World is a specialized ICT service provider focused on delivering tailored IT solutions to the education sector. The company offers a range of services including IT support, cloud solutions, telephony, and safeguarding, designed to meet the unique needs of schools and educational institutions. TSI emphasizes cost-effective, forward-thinking IT packages without requiring large capital investment.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 16,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T12:55:36.299Z"
+  },
+  "scraped_at": "2026-01-10T12:55:28.698Z",
+  "updated_at": "2026-01-10T12:55:36.299Z",
+  "version": 1
+}

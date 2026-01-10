@@ -1,0 +1,452 @@
+{
+  "company_name": "JEAN EDWARDS CONSULTING LIMITED",
+  "company_number": "08488479",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-04-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "30 -31 Devonshire Place, Brighton, East Sussex, BN2 1QB, England",
+  "registered_address_structured": {
+    "address_line_1": "30 -31 Devonshire Place",
+    "country": "England",
+    "locality": "Brighton",
+    "postal_code": "BN2 1QB",
+    "region": "East Sussex"
+  },
+  "sic_codes": [
+    "62020",
+    "63990"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-29",
+    "last_made_up_to": "2025-04-15",
+    "next_made_up_to": "2026-04-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NNADI, Edward Ugochukwu",
+        "officer_role": "director",
+        "appointed_on": "2013-04-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Devonshire Place",
+          "country": "England",
+          "locality": "Brighton",
+          "postal_code": "BN2 1QB",
+          "premises": "30 -31",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "MADARIS, Adrianne Jean, Dr",
+        "officer_role": "director",
+        "appointed_on": "2013-04-15",
+        "resigned_on": "2020-02-19",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "American",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Falmer Road",
+          "country": "United Kingdom",
+          "locality": "Brighton",
+          "postal_code": "BN2 6LG",
+          "premises": "412"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Edward Ugochukwu Nnadi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-08-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Devonshire Place",
+          "country": "England",
+          "locality": "Brighton",
+          "postal_code": "BN2 1QB",
+          "premises": "30 -31",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "084884790002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-10-01",
+        "delivered_on": "2024-10-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "30-31 devonshire place, brighton, BN2 1QB, t/no ESX13108.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "084884790001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-09-12",
+        "delivered_on": "2024-09-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AEHZFCNT",
+        "transaction_id": "MzQ5NjU1OTUyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE149Y75",
+        "transaction_id": "MzQ2MzY4NjM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-01-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDU14A6B",
+        "transaction_id": "MzQ1MDY2NzUyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-01-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDU14A8J",
+        "transaction_id": "MzQ1MDY2NzUwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-10-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 10,
+        "barcode": "ADD38GDL",
+        "transaction_id": "MzQzOTE1MDY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "ADBJ08O3",
+        "transaction_id": "MzQzNjAxNzIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-09-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDBXISNE",
+        "transaction_id": "MzQzNjM4MDkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3C2P0Y",
+        "transaction_id": "MzQyMjI1Nzc1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD3C2OFT",
+        "transaction_id": "MzQyMjI1NzU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-04-17",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQxODUyNTM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AD0AL9BU",
+        "transaction_id": "MzQxNzM5MzA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-04-02",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQxNTcwNTI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3R2L2G",
+        "transaction_id": "MzM3OTkyNDI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "ABWGXT9K",
+        "transaction_id": "MzM2Nzk2NzgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4CFZNU",
+        "transaction_id": "MzMzOTgzMjI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AAXX9EMJ",
+        "transaction_id": "MzMyOTkwODMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-07-20",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMwNzk3MjAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA8XH5S9",
+        "transaction_id": "MzMwNzk3MjAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-07-06",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMwNTg1MDQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A9WZAV68",
+        "transaction_id": "MzI5MDU1NTg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-07",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X94JA4EZ",
+        "transaction_id": "MzI2NDE5NzM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94JA0BF",
+        "transaction_id": "MzI2NDE5NjM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A8XF9M8J",
+        "transaction_id": "MzI1NTYzMzEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X84FAC9K",
+        "transaction_id": "MzIzMzEwMjUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A7XXTEVS",
+        "transaction_id": "MzIyNTYyMTk1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Jeanedwards.com",
+    "headcount": 12,
+    "tech_stack": [
+      "Alpha Intelligence"
+    ],
+    "business_keywords": [
+      "data management",
+      "change management",
+      "digital transformation",
+      "operational efficiency",
+      "data integration",
+      "automation",
+      "data governance",
+      "IT consultancy",
+      "cloud services",
+      "cybersecurity",
+      "mobility",
+      "AI",
+      "reinsurance",
+      "insurance",
+      "pharmaceutical",
+      "banking",
+      "public sector"
+    ],
+    "services": [
+      "data management services",
+      "change management services",
+      "digital transformation",
+      "data integration",
+      "automation",
+      "operational efficiency improvement",
+      "data-led transformation",
+      "system modernisation",
+      "data accuracy improvement",
+      "compliant operations",
+      "data governance",
+      "enterprise-grade technology services",
+      "advisory services",
+      "risk management",
+      "strategy development",
+      "IT consultancy services",
+      "cloud services",
+      "cybersecurity services",
+      "mobility services",
+      "AI-powered document automation"
+    ],
+    "customer_segments": [
+      "finance industry",
+      "public sector",
+      "reinsurance sector",
+      "insurance sector",
+      "pharmaceutical sector",
+      "banking sector"
+    ],
+    "business_description": "Jean Edwards Consulting provides expert data and change management services to the finance industry and public sector, specialising in digital transformation, operational efficiency, and sustainable solutions. The company delivers tailored IT consultancy and technology services, including cloud, cybersecurity, and AI-powered automation, to drive innovation and long-term success across sectors like reinsurance, insurance, pharmaceuticals, and banking.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T11:45:42.064Z"
+  },
+  "scraped_at": "2026-01-10T11:45:35.539Z",
+  "updated_at": "2026-01-10T11:45:42.064Z",
+  "version": 1
+}

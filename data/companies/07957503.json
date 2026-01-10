@@ -1,0 +1,356 @@
+{
+  "company_name": "OPTANET LIMITED",
+  "company_number": "07957503",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-02-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "132 Queens Road, Brighton, BN1 3WB, England",
+  "registered_address_structured": {
+    "address_line_1": "132 Queens Road",
+    "country": "England",
+    "locality": "Brighton",
+    "postal_code": "BN1 3WB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-19",
+    "last_made_up_to": "2025-02-05",
+    "next_made_up_to": "2026-02-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ELLIOTT, David Frederick",
+        "officer_role": "director",
+        "appointed_on": "2012-02-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Queens Road",
+          "country": "England",
+          "locality": "Brighton",
+          "postal_code": "BN1 3WB",
+          "premises": "132"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "David Frederick Elliott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Queens Road",
+          "country": "England",
+          "locality": "Brighton",
+          "postal_code": "BN1 3WB",
+          "premises": "132"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "079575030001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-11-30",
+        "delivered_on": "2020-12-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XE7CWYKB",
+        "transaction_id": "MzQ3NDY2NzIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVRBAFN",
+        "transaction_id": "MzQ1MzgzMjg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-10",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDBBYPXC",
+        "transaction_id": "MzQzNTA1NzQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW9JFP5",
+        "transaction_id": "MzQwOTkwMDY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCCJR3LF",
+        "transaction_id": "MzM5MzkyMjc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXUF823",
+        "transaction_id": "MzM3MDEwNTAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-01-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBWCV780",
+        "transaction_id": "MzM2Nzc3ODEwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBD4AACW",
+        "transaction_id": "MzM1MjY0OTIwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYINNTC",
+        "transaction_id": "MzMzMDkzMjYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAID9QAA",
+        "transaction_id": "MzMyMTkzMTUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4O6AVV",
+        "transaction_id": "MzMwMTIzMzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9JNY6YZ",
+        "transaction_id": "MzI4NTcyOTc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-12-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9JD9WD5",
+        "transaction_id": "MzI4NTM0NzgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-12-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 57,
+        "barcode": "X9JD6DBF",
+        "transaction_id": "MzI4NTMxNzcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X926ZN8A",
+        "transaction_id": "MzI2MTcwMDc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8J80R8Q",
+        "transaction_id": "MzI1MDc2Njk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-04-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X82YRRJU",
+        "transaction_id": "MzIzMTU2NzMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7Z9U6L0",
+        "transaction_id": "MzIyNzAzODI5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-01-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X7Y5W3NM",
+        "transaction_id": "MzIyNTY1NDA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7ID093C",
+        "transaction_id": "MzIxOTA3MDQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-05-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X77413XN",
+        "transaction_id": "MzIwNjM1NDc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7556L7V",
+        "transaction_id": "MzIwNDIxNzAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-03-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X72C3H9L",
+        "transaction_id": "MzIwMDc1ODU3N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-03-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X72C3G7V",
+        "transaction_id": "MzIwMDc1ODU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-03-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X72C3G5N",
+        "transaction_id": "MzIwMDc1ODU1OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Optanet.co.uk",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T10:27:19.816Z",
+  "scraped_at": "2026-01-10T10:27:19.816Z"
+}

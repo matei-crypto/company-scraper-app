@@ -1,0 +1,389 @@
+{
+  "company_name": "5RIT LIMITED",
+  "company_number": "08785691",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-11-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "51 Shirley Drive, Worthing, BN14 9AZ",
+  "registered_address_structured": {
+    "address_line_1": "51 Shirley Drive",
+    "locality": "Worthing",
+    "postal_code": "BN14 9AZ"
+  },
+  "sic_codes": [
+    "62020",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-27",
+    "next_accounts_period_end_on": "2025-11-27",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 27,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-05",
+    "last_made_up_to": "2025-11-21",
+    "next_made_up_to": "2026-11-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MORGAN, Nigel James",
+        "officer_role": "director",
+        "appointed_on": "2013-11-21",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "United Kingdom",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shirley Drive",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN14 9AZ",
+          "premises": "51"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MORGAN, Nigel",
+        "officer_role": "secretary",
+        "appointed_on": "2013-11-21",
+        "address": {
+          "address_line_1": "Shirley Drive",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN14 9AZ",
+          "premises": "51"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Nigel James Morgan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-11-05",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "United Kingdom",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shirley Drive",
+          "locality": "Worthing",
+          "postal_code": "BN14 9AZ",
+          "premises": "51"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "087856910001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-03-30",
+        "delivered_on": "2017-04-06",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGQBCQB",
+        "transaction_id": "MzQ5MjM4MDU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE9GRCR4",
+        "transaction_id": "MzQ3ODM3MjQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHA4PIA",
+        "transaction_id": "MzQ0NjE0MDA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDA2NP17",
+        "transaction_id": "MzQzMzI3MDI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCHQ74UX",
+        "transaction_id": "MzQwMjYyMjkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCARJJ56",
+        "transaction_id": "MzM5MDkzNTE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBI4LUTT",
+        "transaction_id": "MzM2MDg5Njg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBB71877",
+        "transaction_id": "MzM0OTg2Nzg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAIQGU3V",
+        "transaction_id": "MzMyMjUxNzc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XABDBZGJ",
+        "transaction_id": "MzMxMTM3ODE0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9IEFUBE",
+        "transaction_id": "MzI4NDEzMjQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9COZWI1",
+        "transaction_id": "MzI3NjU3MjQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8JNTFS1",
+        "transaction_id": "MzI1MTI5NTc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8BCBYIG",
+        "transaction_id": "MzI0MTIxNjkzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7K5A8WI",
+        "transaction_id": "MzIyMTMyMDQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7JRYFYW",
+        "transaction_id": "MzIyMDg0NTM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-28",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7JP237K",
+        "transaction_id": "MzIyMDU3ODA1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-28",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7DAO0KO",
+        "transaction_id": "MzIxMzA3OTI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-22",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X6JQTXJV",
+        "transaction_id": "MzE5MDgxMzQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6JPY7RF",
+        "transaction_id": "MzE5MDc3OTMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-23",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X6DFOL4C",
+        "transaction_id": "MzE4MzU1NDU2OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-04-06",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "X63SK36G",
+        "transaction_id": "MzE3Mjk2MDI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5L71NOX",
+        "transaction_id": "MzE2MzU5MTAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X5EHRPA8",
+        "transaction_id": "MzE1NjE5MjkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-12-03",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X4LGNDLK",
+        "transaction_id": "MzEzNjY5MzMzOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Supportdeskuk.com",
+    "headcount": 7,
+    "tech_stack": [],
+    "business_keywords": [
+      "business support services",
+      "custom software development",
+      "hosted services",
+      "IT installations",
+      "support services",
+      "email support",
+      "phone support",
+      "first class support"
+    ],
+    "services": [
+      "custom software development",
+      "hosted services",
+      "IT installations"
+    ],
+    "customer_segments": [],
+    "business_description": "SUPPORT DESK UK provides first class business support services, including custom software development, hosted services, and IT installations.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:32:09.358Z"
+  },
+  "scraped_at": "2026-01-10T12:32:06.530Z",
+  "updated_at": "2026-01-10T12:32:09.358Z",
+  "version": 1
+}

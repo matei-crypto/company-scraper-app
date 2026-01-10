@@ -1,0 +1,402 @@
+{
+  "company_name": "SPORK DIGITAL LIMITED",
+  "company_number": "07591848",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-04-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "Plexal, Here East, London, E20 3BS, England",
+  "registered_address_structured": {
+    "address_line_1": "Plexal",
+    "address_line_2": "Here East",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E20 3BS"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-31",
+    "last_made_up_to": "2025-10-17",
+    "next_made_up_to": "2026-10-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAMBRAY, Giles Robert Grant",
+        "officer_role": "director",
+        "appointed_on": "2011-04-05",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Here East",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E20 3BS",
+          "premises": "Plexal"
+        }
+      },
+      {
+        "name": "MUDD, Philip Bryan",
+        "officer_role": "director",
+        "appointed_on": "2011-04-05",
+        "resigned_on": "2018-07-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Southwark Bridge Road",
+          "locality": "London",
+          "postal_code": "SE1 0AS",
+          "premises": "64"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Philip Bryan Mudd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2018-04-01",
+        "ceased_on": "2018-07-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Southwark Bridge Road",
+          "locality": "London",
+          "postal_code": "SE1 0AS",
+          "premises": "64"
+        }
+      },
+      {
+        "name": "Mr Giles Robert Grant Cambray",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Here East",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E20 3BS",
+          "premises": "Plexal"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEDLVNKX",
+        "transaction_id": "MzQ4NTUxMDc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEDDXNCW",
+        "transaction_id": "MzQ4NTMzMTc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDVBB99D",
+        "transaction_id": "MzQ1MzE5MTI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDEF3X0G",
+        "transaction_id": "MzQ0MDg0MzUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUJXE8A",
+        "transaction_id": "MzQwNzM3NDkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCISDP8G",
+        "transaction_id": "MzQwNTA0MTk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFUXHHL",
+        "transaction_id": "MzM5OTMyMDAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC2F9CWQ",
+        "transaction_id": "MzM3Nzk5MDY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBFYTKZL",
+        "transaction_id": "MzM1NzQxNjIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB96VEZF",
+        "transaction_id": "MzM0NzA4NTU4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB96VFCD",
+        "transaction_id": "MzM0NzA4NTY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB2HD5Z5",
+        "transaction_id": "MzMzNzA1MzA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAGFKNU1",
+        "transaction_id": "MzMxODk2ODEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XA1WEPYO",
+        "transaction_id": "MzI5NzAzOTI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9G0TC0H",
+        "transaction_id": "MzI4MDk0MjA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X8XUFI9C",
+        "transaction_id": "MzI1NjE2OTUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8H2QXG1",
+        "transaction_id": "MzI0Nzk0OTY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X7YBEN0J",
+        "transaction_id": "MzIyNTkwODkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7GQIAL4",
+        "transaction_id": "MzIxNzE4MjQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-10-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X7GQEBT6",
+        "transaction_id": "MzIxNzE3ODU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-10-17",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X7GQDIZF",
+        "transaction_id": "MzIxNzE3Nzc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X7GQDAPL",
+        "transaction_id": "MzIxNzE3NzUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X76GF1OO",
+        "transaction_id": "MzIwNTM4MTYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-05-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X75Z8G88",
+        "transaction_id": "MzIwNDk3MDk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X6Y7LSGR",
+        "transaction_id": "MzE5NTk1OTA3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 41,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Spork.digital",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "websites",
+      "apps",
+      "APIs",
+      "digital products",
+      "thoughtful innovation",
+      "systems",
+      "sustainable growth",
+      "problem-solving",
+      "digital transformation",
+      "restaurant support",
+      "heritage preservation",
+      "legal sector support",
+      "project expertise"
+    ],
+    "services": [
+      "building websites",
+      "building apps",
+      "building APIs",
+      "building digital products",
+      "building systems",
+      "supporting businesses during crises",
+      "digital product development"
+    ],
+    "customer_segments": [
+      "restaurants",
+      "legal sector",
+      "heritage organizations",
+      "businesses with complex digital challenges"
+    ],
+    "business_description": "Spork Digital Limited builds websites, apps, APIs, systems, and digital products that solve complex problems and drive sustainable growth. They provide expert digital solutions for businesses facing challenging projects, including support during crises and specialized sectors like legal and heritage organizations.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:24:57.362Z"
+  },
+  "scraped_at": "2026-01-10T09:24:52.890Z",
+  "updated_at": "2026-01-10T09:24:57.362Z",
+  "version": 1
+}

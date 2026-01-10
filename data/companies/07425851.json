@@ -1,0 +1,434 @@
+{
+  "company_name": "DECENTSERVICES LTD",
+  "company_number": "07425851",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-11-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 1c, Gwydir Enterprise Centre, 23-25 Gwydir Street, Cambridge, CB1 2LG, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 1c, Gwydir Enterprise Centre",
+    "address_line_2": "23-25 Gwydir Street",
+    "country": "England",
+    "locality": "Cambridge",
+    "postal_code": "CB1 2LG"
+  },
+  "sic_codes": [
+    "62090",
+    "78200",
+    "81100",
+    "81210"
+  ],
+  "previous_company_names": [
+    {
+      "name": "DECENTCLEANING LTD",
+      "ceased_on": "2010-11-17",
+      "effective_from": "2010-11-01"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-20",
+    "last_made_up_to": "2025-03-06",
+    "next_made_up_to": "2026-03-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SAID, Abubakar",
+        "officer_role": "director",
+        "appointed_on": "2010-11-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Cowley Road",
+          "country": "England",
+          "locality": "Cambridge",
+          "postal_code": "CB4 0PP",
+          "premises": "4 Orwell House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ABDALLAH, Halima",
+        "officer_role": "secretary",
+        "appointed_on": "2010-11-01",
+        "resigned_on": "2010-11-16",
+        "address": {
+          "address_line_1": "Scotland Road",
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB4 1QN",
+          "premises": "85",
+          "region": "Cambs"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Abubakar Said",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-05-17",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "23-25 Gwydir Street",
+          "country": "England",
+          "locality": "Cambridge",
+          "postal_code": "CB1 2LG",
+          "premises": "Unit 1c, Gwydir Enterprise Centre"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit agreement"
+          }
+        ],
+        "created_on": "2012-04-04",
+        "delivered_on": "2012-04-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The sum of £850 to be deposited."
+        },
+        "persons_entitled": [
+          {
+            "name": "Cambridge City Council"
+          }
+        ],
+        "satisfied_on": "2014-10-04",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£850 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-07-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE7CVBVN",
+        "transaction_id": "MzQ3NDY1NDA1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-07-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE77GBIG",
+        "transaction_id": "MzQ3NDM5NDUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXQ8OGZ",
+        "transaction_id": "MzQ1NzU4ODg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XDW508ND",
+        "transaction_id": "MzQ1NDUzMjY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCYGDTXL",
+        "transaction_id": "MzQxMzg5MzQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCWY2HOR",
+        "transaction_id": "MzQxMTMyNjQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBZSGARV",
+        "transaction_id": "MzM3MzM4NTQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYWD1DM",
+        "transaction_id": "MzM3MTkzNzg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZHTR7C",
+        "transaction_id": "MzMzMjQ3MTQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XAXUEY89",
+        "transaction_id": "MzMyOTc3NDgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XA4O4UT4",
+        "transaction_id": "MzMwMTIyMDkwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA0145TC",
+        "transaction_id": "MzI5NDEwOTM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X91O8LJT",
+        "transaction_id": "MzI2MDkwMTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X90NA7WR",
+        "transaction_id": "MzI1OTY2NTIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8AQZO54",
+        "transaction_id": "MzI0MDQ2NDAwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X813W269",
+        "transaction_id": "MzIyOTExNjcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X72AP1S8",
+        "transaction_id": "MzIwMDgyNzM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-09",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X71DHLFC",
+        "transaction_id": "MzE5OTY3NTYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-05-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X66SC6X7",
+        "transaction_id": "MzE3NjE0NDMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-03-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X62M51ER",
+        "transaction_id": "MzE3MTQ4NDgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-03-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X61TCCAX",
+        "transaction_id": "MzE3MDcyMDkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-12-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5LUPLU8",
+        "transaction_id": "MzE2NDQ0MDM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-12-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X5LUPK3S",
+        "transaction_id": "MzE2NDQzOTgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-05-25",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X57QKSU0",
+        "transaction_id": "MzE0OTM5MTM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-03-12",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X52MVUD6",
+        "transaction_id": "MzE0MzkyNjA3NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Decentcleaning.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Vanish Powerfoam",
+      "Oven Mate Cleaner"
+    ],
+    "business_keywords": [
+      "cleaning services",
+      "domestic cleaning",
+      "commercial cleaning",
+      "office cleaning",
+      "laboratory cleaning",
+      "end of tenancy cleaning",
+      "contract cleaning",
+      "student accommodation cleaning",
+      "professional cleaning",
+      "reliable cleaning",
+      "cost-effective cleaning",
+      "hygienic cleaning",
+      "vetted cleaners",
+      "insured cleaning",
+      "quality assurance cleaning"
+    ],
+    "services": [
+      "Commercial Cleaning",
+      "Office Cleaning",
+      "Laboratory Cleaning",
+      "Domestic Cleaning",
+      "End of Tenancy Cleaning",
+      "Contract cleaning – Daily and Weekly Cleaning",
+      "Intensive End of Tenancy Cleaning",
+      "Student Accommodation Cleaning"
+    ],
+    "customer_segments": [
+      "homes",
+      "offices",
+      "businesses",
+      "labs",
+      "retail groups",
+      "schools",
+      "students accommodation",
+      "serviced apartments/flats",
+      "motor groups",
+      "health premises",
+      "restaurants",
+      "pubs",
+      "domestic clients",
+      "commercial clients"
+    ],
+    "business_description": "DECENTSERVICES LTD, operating as Decent Cleaning, provides professional domestic and commercial cleaning services in Cambridge. The company offers reliable, cost-effective, and high-standard cleaning solutions for homes, offices, laboratories, and end-of-tenancy needs, ensuring health, hygiene, and client satisfaction with fully insured and vetted operatives.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:51:38.966Z"
+  },
+  "scraped_at": "2026-01-10T08:51:30.941Z",
+  "updated_at": "2026-01-10T08:51:38.966Z",
+  "version": 1
+}

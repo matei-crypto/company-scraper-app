@@ -1,0 +1,422 @@
+{
+  "company_name": "SHAPE BLUE LTD",
+  "company_number": "07887184",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-12-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "71-75 Shelton Street, London, WC2H 9JQ",
+  "registered_address_structured": {
+    "address_line_1": "71-75 Shelton Street",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-07",
+    "last_made_up_to": "2025-09-23",
+    "next_made_up_to": "2026-09-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ROLES, Stephen John",
+        "officer_role": "director",
+        "appointed_on": "2022-07-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      },
+      {
+        "name": "SIRETT, Giles Rupert",
+        "officer_role": "director",
+        "appointed_on": "2011-12-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "THOMAS, Trudie",
+        "officer_role": "secretary",
+        "appointed_on": "2021-03-01",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Shapeblue Employee Ownership Trustees Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2024-10-01",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales Company Register",
+          "registration_number": "15795283"
+        }
+      },
+      {
+        "name": "Mr Giles Rupert Sirett",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-12-20",
+        "ceased_on": "2022-08-24",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECK38DE",
+        "transaction_id": "MzQ4Mzc5ODg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEBCD0QZ",
+        "transaction_id": "MzQ4MTc0MTcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-10",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDDFX4AW",
+        "transaction_id": "MzQzOTAxMjUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-10",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XDDFX2KP",
+        "transaction_id": "MzQzOTAxMDI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDFWYNT",
+        "transaction_id": "MzQzOTAwODcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD66EOJ4",
+        "transaction_id": "MzQyNjg4ODcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCCRY3H4",
+        "transaction_id": "MzM5NDI2MDAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC47AEHE",
+        "transaction_id": "MzM4MDY4MzYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-27",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XBDEYEEA",
+        "transaction_id": "MzM1MzEzOTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-09-24",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUJDWVI1VFNhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-09-24",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 11,
+        "barcode": "YBD4EGOO",
+        "transaction_id": "MzM1Mjc3NzEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBD4EUWP",
+        "transaction_id": "MzM1Mjc4MTA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-09-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBD4ES2R",
+        "transaction_id": "MzM1Mjc4MDM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBCYNMGY",
+        "transaction_id": "MzM1MjI3MjE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XB96VNYX",
+        "transaction_id": "MzM0NzA4ODMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB8O4MM1",
+        "transaction_id": "MzM0NjIzMzg4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJY50B5",
+        "transaction_id": "MzMyNDYzNzQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA2PYGGZ",
+        "transaction_id": "MzI5ODE1MDA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-03",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X9ZI2I3N",
+        "transaction_id": "MzI5MzEzMjYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9VK3SQG",
+        "transaction_id": "MzI4NzU4OTQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X904Q6GJ",
+        "transaction_id": "MzI1ODk3MjMwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8VS1SMY",
+        "transaction_id": "MzI1MzU3MDA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X80LHEW1",
+        "transaction_id": "MzIyODYwNTkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7WBUIG2",
+        "transaction_id": "MzIyMzUzMzk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2018-03-21",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 22,
+        "transaction_id": "QTcxV1lWODNhZGlxemtjeA"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Shapeblue.com",
+    "headcount": 25,
+    "tech_stack": [
+      "Apache CloudStack",
+      "Terraform"
+    ],
+    "business_keywords": [
+      "CloudStack integrator",
+      "IaaS",
+      "private cloud",
+      "public cloud",
+      "cloud infrastructure",
+      "Apache CloudStack",
+      "cloud design",
+      "cloud implementation",
+      "cloud support",
+      "software engineering",
+      "cloud consulting",
+      "cloud training",
+      "open-source",
+      "cloud computing",
+      "employee-owned"
+    ],
+    "services": [
+      "CloudStack Software Engineering",
+      "Software development services for Apache CloudStack",
+      "IaaS Cloud Design & Build",
+      "CloudStack Infrastructure Support (2nd – 4th line remote support)",
+      "CloudStack Consulting",
+      "CloudStack Training (instructor-led learning and hands-on labs)",
+      "Advisory sessions with cloud architects"
+    ],
+    "customer_segments": [
+      "Fortune 500 companies",
+      "multinational telecoms",
+      "network service providers",
+      "public cloud providers",
+      "financial organizations",
+      "enterprises",
+      "managed service providers",
+      "universities",
+      "research institutions"
+    ],
+    "business_description": "ShapeBlue is the largest independent integrator of Apache CloudStack technologies globally, specializing in the design, implementation, and support of IaaS for private and public clouds. The company provides software engineering, consulting, training, and infrastructure support services for CloudStack, and is 100% employee-owned.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 16,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T10:11:52.240Z"
+  },
+  "scraped_at": "2026-01-10T10:11:45.193Z",
+  "updated_at": "2026-01-10T10:11:52.239Z",
+  "version": 1
+}

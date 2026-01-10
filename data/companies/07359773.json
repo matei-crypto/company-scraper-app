@@ -1,0 +1,442 @@
+{
+  "company_name": "SYSTEMWORK CS LIMITED",
+  "company_number": "07359773",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-08-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "Platform, New Station Street, Leeds, LS1 4JB, England",
+  "registered_address_structured": {
+    "address_line_1": "Platform",
+    "address_line_2": "New Station Street",
+    "country": "England",
+    "locality": "Leeds",
+    "postal_code": "LS1 4JB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NETCOM CS LIMITED",
+      "ceased_on": "2011-01-31",
+      "effective_from": "2010-11-02"
+    },
+    {
+      "name": "DURHAM TRADING LIMITED",
+      "ceased_on": "2010-11-02",
+      "effective_from": "2010-08-27"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-21",
+    "last_made_up_to": "2025-09-07",
+    "next_made_up_to": "2026-09-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DURHAM, James Paul",
+        "officer_role": "director",
+        "appointed_on": "2010-08-27",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "New Station Street",
+          "country": "England",
+          "locality": "Leeds",
+          "postal_code": "LS1 4JB",
+          "premises": "Platform"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr James Paul Durham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "New Station Street",
+          "country": "England",
+          "locality": "Leeds",
+          "postal_code": "LS1 4JB",
+          "premises": "Platform"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "073597730002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-02-09",
+        "delivered_on": "2022-02-15",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "073597730001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-02-03",
+        "delivered_on": "2022-02-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2022-02-11",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEBK7WKZ",
+        "transaction_id": "MzQ4MjA2ODcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEBK7VIO",
+        "transaction_id": "MzQ4MjA2ODQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEBK7VG1",
+        "transaction_id": "MzQ4MjA2ODQ1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE38AT15",
+        "transaction_id": "MzQ2Nzc4NzI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDY0MBKJ",
+        "transaction_id": "MzQ1NzgyMTMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDCRYXHN",
+        "transaction_id": "MzQzNzk5NTEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XD3ERF0W",
+        "transaction_id": "MzQyMjM1NjA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCFH8XP5",
+        "transaction_id": "MzM5ODcyMDM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBKXBNV",
+        "transaction_id": "MzM5MjE5Njg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCB7POZD",
+        "transaction_id": "MzM5MTY5MDUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC41ZIW0",
+        "transaction_id": "MzM4MDM4MjQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBC0HLVN",
+        "transaction_id": "MzM1MTEyNjkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB44BYY1",
+        "transaction_id": "MzMzOTQzMzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 83,
+        "barcode": "XAXX496W",
+        "transaction_id": "MzMyOTg3NjcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAXMKTTE",
+        "transaction_id": "MzMyOTU5ODkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 83,
+        "barcode": "XAXEGT0O",
+        "transaction_id": "MzMyOTE2NzA0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XACBZGPN",
+        "transaction_id": "MzMxMjgzNzUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA1GASIY",
+        "transaction_id": "MzI5NjQyMTA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9EBOCLK",
+        "transaction_id": "MzI3ODc2ODcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9606C2O",
+        "transaction_id": "MzI2NTk5MTcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DE4ATF",
+        "transaction_id": "MzI0MzU2ODM5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X85R4SVD",
+        "transaction_id": "MzIzNDcwNDYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7E5AQCA",
+        "transaction_id": "MzIxNDA5MTk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X76FBNHK",
+        "transaction_id": "MzIwNTQzMDkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6EGCJ48",
+        "transaction_id": "MzE4NDg1MTA0NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://System-work.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Microsoft Azure",
+      "Amazon AWS",
+      "O2",
+      "EE"
+    ],
+    "business_keywords": [
+      "IT support",
+      "managed services",
+      "IT services",
+      "cloud computing",
+      "VOIP",
+      "mobile connectivity",
+      "connectivity",
+      "Fibre",
+      "FTTP",
+      "Hardware as a Service",
+      "professional services",
+      "IT consultancy",
+      "sim management",
+      "IT infrastructure",
+      "productivity solutions"
+    ],
+    "services": [
+      "IT Support",
+      "Cloud Computing (Azure & AWS)",
+      "VOIP and Mobile",
+      "Connectivity (Fibre or FTTP)",
+      "Hardware as a Service",
+      "Professional Services",
+      "Full Sim Tenancy Management on O2 and EE",
+      "Initial IT audit",
+      "Proactive IT maintenance and monitoring",
+      "IT consultancy"
+    ],
+    "customer_segments": [
+      "businesses in Leeds",
+      "businesses in Yorkshire",
+      "startups",
+      "large corporations",
+      "businesses of all sizes"
+    ],
+    "business_description": "System Work CS Limited provides reliable and responsive IT support and managed services for businesses in Leeds and Yorkshire. They offer bespoke IT solutions, including cloud computing, VOIP, connectivity, hardware leasing, and professional consultancy, aimed at enhancing productivity and minimizing downtime.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 27,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T08:41:11.639Z"
+  },
+  "scraped_at": "2026-01-10T08:41:05.602Z",
+  "updated_at": "2026-01-10T08:41:11.639Z",
+  "version": 1
+}

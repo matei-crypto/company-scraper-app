@@ -1,0 +1,539 @@
+{
+  "company_name": "NETWORK N LIMITED",
+  "company_number": "08063183",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-05-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "Circus Mews House, Circus Mews, Bath, BA1 2PW, England",
+  "registered_address_structured": {
+    "address_line_1": "Circus Mews House",
+    "address_line_2": "Circus Mews",
+    "country": "England",
+    "locality": "Bath",
+    "postal_code": "BA1 2PW"
+  },
+  "sic_codes": [
+    "58190",
+    "62090",
+    "73110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-23",
+    "last_made_up_to": "2025-05-09",
+    "next_made_up_to": "2026-05-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JESCHKO, Christian",
+        "officer_role": "director",
+        "appointed_on": "2024-12-19",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1978,
+        "nationality": "Austrian",
+        "country_of_residence": "Austria",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        }
+      },
+      {
+        "name": "O’HALLORAN, Barry",
+        "officer_role": "director",
+        "appointed_on": "2024-12-19",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "Irish",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        }
+      },
+      {
+        "name": "BINNS, James Aaron",
+        "officer_role": "director",
+        "appointed_on": "2012-05-10",
+        "resigned_on": "2024-12-19",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "United Kingdom",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        }
+      },
+      {
+        "name": "EDWARDS, Timothy Andrew",
+        "officer_role": "director",
+        "appointed_on": "2012-07-30",
+        "resigned_on": "2024-12-19",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Publisher Collective Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-06-09",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House (England And Wales)",
+          "registration_number": "13951962"
+        }
+      },
+      {
+        "name": "Network N Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-03-31",
+        "ceased_on": "2022-06-09",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House (England And Wales)",
+          "registration_number": "13951994"
+        }
+      },
+      {
+        "name": "Mr Timothy Andrew Edwards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2022-03-31",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        }
+      },
+      {
+        "name": "Mr James Aaron Binns",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2022-03-31",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Circus Mews",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 2PW",
+          "premises": "Circus Mews House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "080631830001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-08-29",
+        "delivered_on": "2024-09-05",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2024-12-02",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "AEHJKO8J",
+        "transaction_id": "MzQ5NDkyNDA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE26KOZE",
+        "transaction_id": "MzQ2NTYzODQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-22",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDUS609C",
+        "transaction_id": "MzQ1MjI4ODc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-14",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDU95860",
+        "transaction_id": "MzQ1MTAwMDA0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-14",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDU95848",
+        "transaction_id": "MzQ1MTAwMDAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDU95801",
+        "transaction_id": "MzQ1MTAwMDAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDU957AW",
+        "transaction_id": "MzQ1MDk5OTgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-17",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 29,
+        "barcode": "XDI6G374",
+        "transaction_id": "MzQ0NzkxNDE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-12-02",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDH4FEDU",
+        "transaction_id": "MzQ0NTY4OTgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-09-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDB18WO8",
+        "transaction_id": "MzQzNDYxNTI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD48B0Q8",
+        "transaction_id": "MzQyMzY3NjI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-03",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YD25050R",
+        "transaction_id": "MzQyMDE4ODc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-02",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 32,
+        "barcode": "XCHI9DLS",
+        "transaction_id": "MzQwMjM4MzA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC3R61B7",
+        "transaction_id": "MzM3OTk1ODAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC3R61AR",
+        "transaction_id": "MzM3OTk1Nzk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1G82SZ",
+        "transaction_id": "MzM3NjI2OTY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-23",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 36,
+        "barcode": "XBJHNDZN",
+        "transaction_id": "MzM2MzYzNTM4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB67IVEW",
+        "transaction_id": "MzM0MjYyNDc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-15",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB67ISCP",
+        "transaction_id": "MzM0MjYyNDAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-25",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB4SBFRV",
+        "transaction_id": "MzM0MDQ1Mzk5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-25",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB4SBGV5",
+        "transaction_id": "MzM0MDQ1NDIwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-25",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB4SBG6H",
+        "transaction_id": "MzM0MDQ1MzkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 9,
+        "barcode": "XB4MTA9T",
+        "transaction_id": "MzM0MDExMDgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-05-05",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 11,
+        "barcode": "YB384C8G",
+        "transaction_id": "MzMzODEwMjg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-05-04",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WUIzODRCSFRhZGlxemtjeA"
+      }
+    ],
+    "total_count": 58,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 27999000,
+    "ebitda": 1058000,
+    "employees": 48
+  },
+  "enrichment": {
+    "website": "https://Network-n.com",
+    "headcount": 48,
+    "tech_stack": [
+      "programmatic stack",
+      "header bidder",
+      "IAB formats"
+    ],
+    "business_keywords": [
+      "games media",
+      "advertising network",
+      "creative agency",
+      "gamers",
+      "gear",
+      "esports",
+      "owned and operated sites",
+      "partner sites",
+      "advertising",
+      "branded content",
+      "native editorial",
+      "video production",
+      "social media content",
+      "programmatic advertising",
+      "header bidder",
+      "contextual segments",
+      "IAB formats",
+      "GDPR guidelines"
+    ],
+    "services": [
+      "advertising network (Publisher Collective)",
+      "creative agency (Project N)",
+      "high-impact takeovers",
+      "video advertising",
+      "standard IAB format advertising",
+      "programmatic ad delivery",
+      "direct ad delivery",
+      "branded content production",
+      "native editorial production",
+      "video production",
+      "social media content creation",
+      "social media advertising campaigns",
+      "ad placement advice",
+      "affiliate program management",
+      "programmatic stack management",
+      "header bidder implementation",
+      "market insight and data analysis",
+      "geo-targeted advertising",
+      "publisher revenue optimization",
+      "premium advertising sales for games, gear, and movie clients"
+    ],
+    "customer_segments": [
+      "advertisers",
+      "publishers",
+      "gaming sites",
+      "companies seeking brand enhancement",
+      "companies seeking content creation"
+    ],
+    "business_description": "Network N is a games media group specializing in discovery, targeting, and engagement for gamers, gear, and esports. It operates three businesses: an advertising network (Publisher Collective), a creative agency (Project N), and a portfolio of owned and operated gaming websites. The company helps advertisers and publishers reach high-intent gaming audiences through multi-channel advertising, branded content, and data-driven insights.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:43:42.885Z"
+  },
+  "scraped_at": "2026-01-10T10:43:34.425Z",
+  "updated_at": "2026-01-10T10:43:42.884Z",
+  "version": 1
+}

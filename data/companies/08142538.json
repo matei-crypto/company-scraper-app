@@ -1,0 +1,436 @@
+{
+  "company_name": "COLVA LTD",
+  "company_number": "08142538",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-07-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "8 Viceroy House Mountbatten Business Centre, Millbrook Road East, Southampton, SO15 1HY, England",
+  "registered_address_structured": {
+    "address_line_1": "8 Viceroy House Mountbatten Business Centre",
+    "address_line_2": "Millbrook Road East",
+    "country": "England",
+    "locality": "Southampton",
+    "postal_code": "SO15 1HY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-27",
+    "last_made_up_to": "2025-07-13",
+    "next_made_up_to": "2026-07-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FERNANDES, Ashley Frances",
+        "officer_role": "director",
+        "appointed_on": "2012-07-13",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mountbatten Business Centre",
+          "address_line_2": "Millbrook Road East",
+          "country": "England",
+          "locality": "Southampton",
+          "postal_code": "SO15 1HY",
+          "premises": "8 Viceroy House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ashley Frances Fernandes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-07-13",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mountbatten Business Centre",
+          "address_line_2": "Millbrook Road East",
+          "country": "England",
+          "locality": "Southampton",
+          "postal_code": "SO15 1HY",
+          "premises": "8 Viceroy House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "081425380002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-10-02",
+        "delivered_on": "2024-10-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ecapital Commercial Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "081425380001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-09-24",
+        "delivered_on": "2013-09-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bibby Financial Services Limited (As Security Trustee)"
+          }
+        ],
+        "satisfied_on": "2024-10-04",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7A499K",
+        "transaction_id": "MzQ3NDQ1MzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ADHVAQB5",
+        "transaction_id": "MzQ0NzYyNzcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDHNIO8H",
+        "transaction_id": "MzQ0NjcxNzk3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-08",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDHI57RE",
+        "transaction_id": "MzQ0NjQ5NDY4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-09",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDDDBNVD",
+        "transaction_id": "MzQzODkyODk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-10-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XDDAHI6I",
+        "transaction_id": "MzQzODcwNDA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-10-04",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDD029O9",
+        "transaction_id": "MzQzODQzMzQyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8FA0G0",
+        "transaction_id": "MzQzMDUxODgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8ZKRMH",
+        "transaction_id": "MzM4ODMyMTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-07",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC79P4FD",
+        "transaction_id": "MzM4NTY1NzMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBXZVU6Q",
+        "transaction_id": "MzM3MDQ2NTM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8YV543",
+        "transaction_id": "MzM0NjcxMjQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB1G58S8",
+        "transaction_id": "MzMzNTU5MzIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAAC5GQZ",
+        "transaction_id": "MzMwOTk3OTI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA3GXTWX",
+        "transaction_id": "MzI5OTQxNjc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9BW9WBU",
+        "transaction_id": "MzI3NTg1ODg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8WKZFK0",
+        "transaction_id": "MzI1NDQ0MDY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8BXBXXM",
+        "transaction_id": "MzI0MTc5OTM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7IKIP49",
+        "transaction_id": "MzIxOTE5Njc4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7BBPWSP",
+        "transaction_id": "MzIxMTA3MjkxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6L59QRD",
+        "transaction_id": "MzE5MjYxMzcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-08-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6D2UZXN",
+        "transaction_id": "MzE4MzIyNzU5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-08-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5DHAEUX",
+        "transaction_id": "MzE1NTE5ODAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-08-15",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X5DEOLSO",
+        "transaction_id": "MzE1NTEzNTYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-04-07",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X54DZKOY",
+        "transaction_id": "MzE0NTg3NDczOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Colva-it.com",
+    "headcount": 10,
+    "tech_stack": [
+      "Microsoft 365",
+      "Microsoft MFA",
+      "UniFi 7 (U7 Pro)",
+      "Microsoft 365 CoPilot"
+    ],
+    "business_keywords": [
+      "Managed Services Provider",
+      "IT Reseller",
+      "IT solutions",
+      "Business SIM-only plans",
+      "Business Mobile Solutions",
+      "Cyber Security",
+      "Cyber Essentials Certification",
+      "AI Solutions",
+      "IoT applications",
+      "Edge computing",
+      "IT procurement",
+      "Technology Showcase",
+      "Customer Service",
+      "IT support",
+      "Microsoft 365"
+    ],
+    "services": [
+      "Managed Services",
+      "IT reselling",
+      "Business SIM-only plans",
+      "Cyber Security solutions",
+      "Cyber Essentials Certification",
+      "AI and IoT application solutions",
+      "IT solutions for business",
+      "IT support for single or multiple locations",
+      "1-hour quotation response",
+      "Online IT procurement",
+      "Technology showcase events"
+    ],
+    "customer_segments": [
+      "UK businesses",
+      "Businesses with single or multiple locations",
+      "Haulage companies",
+      "Logistics companies",
+      "International clothing brands",
+      "Retail companies",
+      "Manufacturing companies",
+      "Tech leaders (Founders, CTOs, C-level executives)"
+    ],
+    "business_description": "Colva is a leading Managed Services Provider and IT Reseller offering tailored IT solutions, cyber security services, and business mobile solutions. With over a decade of experience, the company provides exceptional customer service, fast quotation responses, and full-service solutions for AI, IoT, and edge computing applications to businesses across the UK.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 29,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T10:56:11.309Z"
+  },
+  "scraped_at": "2026-01-10T10:56:00.576Z",
+  "updated_at": "2026-01-10T10:56:11.309Z",
+  "version": 1
+}

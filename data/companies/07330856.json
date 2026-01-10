@@ -1,0 +1,431 @@
+{
+  "company_name": "CONSULT BELIEVE LTD",
+  "company_number": "07330856",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-07-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "Dean House 94 Whiteladies Road, Bristol, Somerset, BS8 2QX, England",
+  "registered_address_structured": {
+    "address_line_1": "Dean House 94 Whiteladies Road",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS8 2QX",
+    "region": "Somerset"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BELIEVE INTERNET LIMITED",
+      "ceased_on": "2011-08-02",
+      "effective_from": "2010-07-30"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-10",
+    "last_made_up_to": "2025-07-27",
+    "next_made_up_to": "2026-07-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COLBOURN, Robert",
+        "officer_role": "director",
+        "appointed_on": "2010-07-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whiteladies Road",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS8 2QX",
+          "premises": "Dean House 94",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "COLBOURN, Marisa",
+        "officer_role": "director",
+        "appointed_on": "2010-07-30",
+        "resigned_on": "2016-01-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "Gb-Eng",
+        "address": {
+          "address_line_1": "28 Baldwin Street",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS1 1NG",
+          "premises": "Maxet House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Robert Colbourn",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whiteladies Road",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS8 2QX",
+          "premises": "Dean House 94",
+          "region": "Somerset"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "073308560001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-02-24",
+        "delivered_on": "2017-02-24",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Debenture.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hitachi Capital (UK) PLC"
+          }
+        ],
+        "satisfied_on": "2020-09-28",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEA7MIU9",
+        "transaction_id": "MzQ3OTQ5OTI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE9E1QYZ",
+        "transaction_id": "MzQ3ODIyNjIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-21",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE9E0EYX",
+        "transaction_id": "MzQ3ODIxMjEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDFH023K",
+        "transaction_id": "MzQ0MjQzNjc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDACY1AG",
+        "transaction_id": "MzQzMzQ2NzU2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD1UATDD",
+        "transaction_id": "MzQxOTgyNDY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCAWNUBN",
+        "transaction_id": "MzM5MTA1ODY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XC0BL5W1",
+        "transaction_id": "MzM3NDQ3MTM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBAOAGMW",
+        "transaction_id": "MzM0OTA1ODg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBAOAGVD",
+        "transaction_id": "MzM0OTA1ODg5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB9N2ZK2",
+        "transaction_id": "MzM0NzcyMTUwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAJY8R5N",
+        "transaction_id": "MzMyNDY3MDg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA9TIV2S",
+        "transaction_id": "MzMwOTI2NTc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA9LGCEQ",
+        "transaction_id": "MzMwODkwNjc1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA9LGCCY",
+        "transaction_id": "MzMwODkwNjc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9XEV2HU",
+        "transaction_id": "MzI5MDE1OTE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-28",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X9EJI0W0",
+        "transaction_id": "MzI3ODkxOTg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-08-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9C9ECZD",
+        "transaction_id": "MzI3NjIwMDMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9BDYYXK",
+        "transaction_id": "MzI3NTMzMTI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X8I6PDJ6",
+        "transaction_id": "MzI0OTMzNzYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8ATXQPL",
+        "transaction_id": "MzI0MDY4ODE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-07-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8AWBEYQ",
+        "transaction_id": "MzI0MDY0OTU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-07-31",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8AWBE5U",
+        "transaction_id": "MzI0MDY0OTI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-07-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8AWB7CJ",
+        "transaction_id": "MzI0MDY0Nzc1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X83ZKWIW",
+        "transaction_id": "MzIzMjYwMjE4M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 59,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 18
+  },
+  "enrichment": {
+    "website": "https://Consultbelieve.com",
+    "headcount": 18,
+    "tech_stack": [
+      "WordPress",
+      "Google Ads"
+    ],
+    "business_keywords": [
+      "digital marketing agency",
+      "SEO",
+      "PPC",
+      "social media management",
+      "web development",
+      "bespoke web development",
+      "performance marketing",
+      "email marketing",
+      "WordPress development",
+      "API integration",
+      "data-driven strategies",
+      "organic presence",
+      "paid media",
+      "Google Ads",
+      "multi-channel strategies",
+      "Bristol"
+    ],
+    "services": [
+      "SEO Services",
+      "PPC Management",
+      "Paid Media & Google Ads (Adwords)",
+      "Social Media Management",
+      "Performance Marketing Services",
+      "Email Marketing",
+      "Web Development",
+      "WordPress Development Services",
+      "API Integration Services & Management",
+      "Digital Marketing",
+      "Bespoke Digital Marketing & Web Development"
+    ],
+    "customer_segments": [
+      "SME businesses",
+      "ambitious companies",
+      "small to medium-sized businesses"
+    ],
+    "business_description": "believe.digital is an award-winning digital marketing and web development agency based in Bristol. They provide tailored digital marketing solutions, including SEO, PPC, social media management, performance marketing, and bespoke web development services to help ambitious and small to medium-sized businesses grow. The agency focuses on data-driven, scalable strategies and offers flexible, rolling contracts.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:35:37.589Z"
+  },
+  "scraped_at": "2026-01-10T08:35:32.070Z",
+  "updated_at": "2026-01-10T08:35:37.589Z",
+  "version": 1
+}

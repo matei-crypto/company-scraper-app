@@ -1,0 +1,365 @@
+{
+  "company_name": "LARMER BROWN LIMITED",
+  "company_number": "08460314",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-03-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "2 Old Bath Road, Newbury, Berkshire, RG14 1QL",
+  "registered_address_structured": {
+    "address_line_1": "2 Old Bath Road",
+    "locality": "Newbury",
+    "postal_code": "RG14 1QL",
+    "region": "Berkshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-08",
+    "last_made_up_to": "2025-03-25",
+    "next_made_up_to": "2026-03-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BROWN, Janice Christine",
+        "officer_role": "director",
+        "appointed_on": "2013-03-25",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Upper Gordon Road",
+          "country": "England",
+          "locality": "Camberley",
+          "postal_code": "GU15 2HN",
+          "premises": "14",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Envirosound Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Murrell Green Business Park",
+          "address_line_2": "London Road",
+          "country": "England",
+          "locality": "Basingstoke",
+          "postal_code": "RG27 9GR",
+          "premises": "Unit 8",
+          "region": "Hants"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "03619718"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "084603140001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-07-30",
+        "delivered_on": "2013-08-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Igf Invoice Finance Limited"
+          }
+        ],
+        "satisfied_on": "2018-03-28",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE4229NL",
+        "transaction_id": "MzQ2OTA2NjM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZ5HZQJ",
+        "transaction_id": "MzQ2MDE3NjUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDAAAXZF",
+        "transaction_id": "MzQzMzM3MjkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZSVX8B",
+        "transaction_id": "MzQxNjI0OTY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCAZJHYW",
+        "transaction_id": "MzM5MTI5NzgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0EH7HD",
+        "transaction_id": "MzM3NDY2NDAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBHAUWRF",
+        "transaction_id": "MzM1OTMzNTMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB0X2FMQ",
+        "transaction_id": "MzMzNDc3Mjc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAID4157",
+        "transaction_id": "MzMyMTg4NTQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2CF9KW",
+        "transaction_id": "MzI5NzU3NzU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9W86K97",
+        "transaction_id": "MzI4ODcwMzI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93FDI02",
+        "transaction_id": "MzI2MjgxMjk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8CVFV5N",
+        "transaction_id": "MzI0Mjg2MTgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X82IQHUW",
+        "transaction_id": "MzIzMTAwNzc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X79B6TIG",
+        "transaction_id": "MzIwODgxOTk2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7372L7S",
+        "transaction_id": "MzIwMTgwMzU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-03-28",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X72P17CQ",
+        "transaction_id": "MzIwMTI1NjQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X6DTGSQ2",
+        "transaction_id": "MzE4Mzk4NzYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-07",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X683I9YW",
+        "transaction_id": "MzE3NzU4MDA1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X642XR4Z",
+        "transaction_id": "MzE3MzIxNjIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-04-06",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X54B8ZP5",
+        "transaction_id": "MzE0NTcxODQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-01-12",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X4YF3YY2",
+        "transaction_id": "MzEzOTUyNjYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-04-09",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X44Y6HWA",
+        "transaction_id": "MzEyMDg5NDE1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-03-10",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X42WY7TT",
+        "transaction_id": "MzExODg2NjE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2014-07-14",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X3C3UKRL",
+        "transaction_id": "MzEwMzY5NDQ3N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 31,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Larmerbrown.com",
+    "headcount": 11,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T11:42:38.291Z",
+  "scraped_at": "2026-01-10T11:42:38.291Z"
+}

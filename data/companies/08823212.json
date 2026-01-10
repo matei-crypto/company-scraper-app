@@ -1,0 +1,521 @@
+{
+  "company_name": "VIRTUAL IT SERVICES PROVIDER LTD",
+  "company_number": "08823212",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-12-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 9 Bankside, The Watermark, Gateshead, NE11 9SY, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 9 Bankside, The Watermark",
+    "country": "England",
+    "locality": "Gateshead",
+    "postal_code": "NE11 9SY"
+  },
+  "sic_codes": [
+    "47910",
+    "62020",
+    "85590",
+    "85600"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-09",
+    "last_made_up_to": "2025-03-26",
+    "next_made_up_to": "2026-03-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CHAUDHRY, Muhammad Umar Hayat",
+        "officer_role": "director",
+        "appointed_on": "2013-12-20",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bankside, The Watermark",
+          "country": "England",
+          "locality": "Gateshead",
+          "postal_code": "NE11 9SY",
+          "premises": "Unit 9"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Saima Younis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-11-15",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bankside, The Watermark",
+          "country": "England",
+          "locality": "Gateshead",
+          "postal_code": "NE11 9SY",
+          "premises": "Unit 9"
+        }
+      },
+      {
+        "name": "Mr Muhammad Umar Hayat Chaudhry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Watermark",
+          "country": "England",
+          "locality": "Gateshead",
+          "postal_code": "NE11 9SY",
+          "premises": "9"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "088232120004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-27",
+        "delivered_on": "2023-11-09",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Unit 9 bankside. The watermark. Gateshead. NE11 9SY.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "088232120003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-27",
+        "delivered_on": "2023-11-06",
+        "particulars": {
+          "type": "brief-description",
+          "description": "780 mandarin court. Warrington. WA1 1GG.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "088232120002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-23",
+        "delivered_on": "2023-10-24",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "088232120001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-05-07",
+        "delivered_on": "2021-05-13",
+        "particulars": {
+          "type": "brief-description",
+          "description": "The freehold property known as: unit 9 bankside, the watermark, gateshead, NE11 9SY. Title number: TY443070.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Allica Bank Limited"
+          }
+        ],
+        "satisfied_on": "2023-02-24",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEBCED5T",
+        "transaction_id": "MzQ4MTc1MzM0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZ5JM2J",
+        "transaction_id": "MzQ2MDE5MDYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDI6ZLLE",
+        "transaction_id": "MzQ0ODE3OTMyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD09E60J",
+        "transaction_id": "MzQxNzAyNzI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-11-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 52,
+        "barcode": "XCFXLUEB",
+        "transaction_id": "MzM5OTQyMjg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-11-06",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 52,
+        "barcode": "XCFPDWQA",
+        "transaction_id": "MzM5OTAwNTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-24",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XCESUBHT",
+        "transaction_id": "MzM5NzYwOTQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC5P16YI",
+        "transaction_id": "MzM4MjkwMDQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC08RPIZ",
+        "transaction_id": "MzM3NDI1NTc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-02-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBY02I6A",
+        "transaction_id": "MzM3MDY0MTA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBHTIYK9",
+        "transaction_id": "MzM2MDEwOTQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBHQWH2I",
+        "transaction_id": "MzM2MDAxMDM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBHQW255",
+        "transaction_id": "MzM2MDAwNjQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHQW181",
+        "transaction_id": "MzM2MDAwNjI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBHQVYUX",
+        "transaction_id": "MzM2MDAwNTcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAKDSEFE",
+        "transaction_id": "MzMyNTEzNzA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJC2DMH",
+        "transaction_id": "MzMyMzU1NTQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-31",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA9QX6W2",
+        "transaction_id": "MzMwOTE5ODAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA9QX7XL",
+        "transaction_id": "MzMwOTE5ODI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA95AFKO",
+        "transaction_id": "MzMwODEyOTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA7A885S",
+        "transaction_id": "MzMwNTM2NTQ2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-06-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA7A86N4",
+        "transaction_id": "MzMwNTM2NTE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-05-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 28,
+        "barcode": "XA4G533C",
+        "transaction_id": "MzMwMDk1ODAyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA1DGAZL",
+        "transaction_id": "MzI5NjIxMDczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9W03F2Z",
+        "transaction_id": "MzI4ODMzNDg2NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Vitspro.co.uk",
+    "headcount": 25,
+    "tech_stack": [
+      "Microsoft (CCNA, CCNP, MCSD, MCAD, MCDBA, MCSE, MCT)",
+      "Pearson VUE",
+      "Kryterion Testing Network (KTN)",
+      "Scantron",
+      "PAN talent measurement solutions",
+      "LanguageCert SELT exams",
+      "ACCA CBE (Computer Based Exams)",
+      "AAT Accounting Qualifications"
+    ],
+    "business_keywords": [
+      "IT services",
+      "IT support",
+      "exam centre",
+      "computer based exams",
+      "professional certifications",
+      "training services",
+      "SELT exams",
+      "UKVI approved",
+      "accounting qualifications",
+      "web design",
+      "software development",
+      "network infrastructure support",
+      "IT training",
+      "language tests",
+      "business funding"
+    ],
+    "services": [
+      "AAT computer based exams",
+      "ACCA computer based exams",
+      "Pearson VUE testing",
+      "Kryterion testing",
+      "Scantron testing",
+      "PAN testing",
+      "LanguageCert SELT exams",
+      "Life in the UK test preparation",
+      "SELT test preparation courses (A1, A2, B1)",
+      "Individual lessons for British Citizenship courses",
+      "Group lessons for British Citizenship courses",
+      "Network infrastructure support",
+      "Professional courses and certifications",
+      "Website design and development",
+      "Software design and development",
+      "IT training and support services",
+      "Business funding support and advice (via NBSL)",
+      "Web design/development (via NBSL funding)",
+      "eCommerce websites (via NBSL funding)",
+      "Content management systems (via NBSL funding)",
+      "Branding (via NBSL funding)",
+      "Social media marketing (via NBSL funding)",
+      "Software development (via NBSL funding)",
+      "App development (via NBSL funding)"
+    ],
+    "customer_segments": [
+      "ACCA students",
+      "AAT students",
+      "Professionals seeking certification",
+      "Individuals applying for UK visas or citizenship",
+      "Persons seeking to prove English language proficiency for UKVI",
+      "Small and medium sized businesses",
+      "Businesses pursuing growth in Northumberland, Tyne and Wear, or County Durham",
+      "Organizations requiring talent measurement solutions",
+      "Professionals with limited availability",
+      "Students preferring group learning environments"
+    ],
+    "business_description": "VITSPRO provides IT services, professional training, and computer-based exam centre services for certifications such as AAT, ACCA, Pearson VUE, Kryterion, Scantron, and PAN. The company is a UKVI-approved SELT exam centre offering LanguageCert exams and preparation courses for UK visa and citizenship applicants. VITSPRO also delivers IT support, web and software development, and business funding advice for small and medium-sized businesses.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:38:35.747Z"
+  },
+  "scraped_at": "2026-01-10T12:38:21.295Z",
+  "updated_at": "2026-01-10T12:38:35.747Z",
+  "version": 1
+}

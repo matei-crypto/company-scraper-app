@@ -1,0 +1,654 @@
+{
+  "company_name": "ROBUST IT LIMITED",
+  "company_number": "07887928",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-12-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "17 Barrows Road, Harlow, CM19 5FN, England",
+  "registered_address_structured": {
+    "address_line_1": "17 Barrows Road",
+    "country": "England",
+    "locality": "Harlow",
+    "postal_code": "CM19 5FN"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-14",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-13",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-12",
+    "last_made_up_to": "2025-10-29",
+    "next_made_up_to": "2026-10-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BILMEN, Darren Andrew",
+        "officer_role": "director",
+        "appointed_on": "2011-12-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Barrows Road",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "17"
+        }
+      },
+      {
+        "name": "QAYYUM, Rizwan",
+        "officer_role": "director",
+        "appointed_on": "2022-10-10",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Barrows Road",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "17"
+        }
+      },
+      {
+        "name": "BENFIELD, Steven Erle",
+        "officer_role": "director",
+        "appointed_on": "2012-01-16",
+        "resigned_on": "2018-12-04",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Horizons Business Park",
+          "address_line_2": "Barrows Road",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "20",
+          "region": "Essex"
+        }
+      },
+      {
+        "name": "BILMEN, Charlotte",
+        "officer_role": "director",
+        "appointed_on": "2020-10-05",
+        "resigned_on": "2023-05-22",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edinburgh Way",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM20 2NQ",
+          "premises": "Harlow Enterprise Hub, Kao Hockham Building"
+        }
+      },
+      {
+        "name": "ELLISON, Denise",
+        "officer_role": "director",
+        "appointed_on": "2018-05-24",
+        "resigned_on": "2018-09-22",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "New Horizons Business Park",
+          "address_line_2": "Barrows Road",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "20",
+          "region": "Essex"
+        }
+      },
+      {
+        "name": "GAMBLE, William",
+        "officer_role": "director",
+        "appointed_on": "2018-05-10",
+        "resigned_on": "2019-09-26",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "New Horizons Business Park",
+          "address_line_2": "Barrows Road",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "20",
+          "region": "Essex"
+        }
+      },
+      {
+        "name": "QAYYUM, Rizwan",
+        "officer_role": "director",
+        "appointed_on": "2011-12-21",
+        "resigned_on": "2022-05-25",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Edinburgh Way",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM20 2NQ",
+          "premises": "Harlow Enterprise Hub, Kao Hockham Building"
+        }
+      },
+      {
+        "name": "SALAM, Asma",
+        "officer_role": "director",
+        "appointed_on": "2022-10-10",
+        "resigned_on": "2023-05-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edinburgh Way",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM20 2NQ",
+          "premises": "Harlow Enterprise Hub, Kao Hockham Building"
+        }
+      },
+      {
+        "name": "SALAM, Asma",
+        "officer_role": "director",
+        "appointed_on": "2020-10-05",
+        "resigned_on": "2022-05-25",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edinburgh Way",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM20 2NQ",
+          "premises": "Harlow Enterprise Hub, Kao Hockham Building"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Rizwan Qayyum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2022-10-10",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Barrows Road",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "17"
+        }
+      },
+      {
+        "name": "Mr Rizwan Qayyum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2017-07-17",
+        "ceased_on": "2022-05-25",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Horizons Business Park",
+          "address_line_2": "Barrows Road",
+          "country": "United Kingdom",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "20",
+          "region": "Essex"
+        }
+      },
+      {
+        "name": "Mr Darren Andrew Bilmen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2017-07-17",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Horizons Business Park",
+          "address_line_2": "Barrows Road",
+          "country": "United Kingdom",
+          "locality": "Harlow",
+          "postal_code": "CM19 5FN",
+          "premises": "20",
+          "region": "Essex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "078879280004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-03-21",
+        "delivered_on": "2019-03-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "17 new horizons business centre barrows road harlow essex.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "078879280003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-03-14",
+        "delivered_on": "2014-03-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "20 new horizon business centre. Barrows road. Harlow essex. Notification of addition to or amendment of charge."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2020-10-06",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "078879280002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-02-04",
+        "delivered_on": "2014-02-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-11-14",
+        "delivered_on": "2012-11-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Its interest in the account and the deposit."
+        },
+        "persons_entitled": [
+          {
+            "name": "Jerram Falkus Limited"
+          }
+        ],
+        "satisfied_on": "2023-09-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£1,687.50 due or to become due"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEB4XTT",
+        "transaction_id": "MzQ4NzA1ODEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-07",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDZZXGMJ",
+        "transaction_id": "MzQ2MTY1MzgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDZZWSN7",
+        "transaction_id": "MzQ2MTY0ODU3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDF69VU8",
+        "transaction_id": "MzQ0MTkyNTU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-01",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD2816ID",
+        "transaction_id": "MzQyMDQxNTczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD0SFU3D",
+        "transaction_id": "MzQxNzkxNjY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUUDT0Q",
+        "transaction_id": "MzQwNzYzMTIwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCFS38OX",
+        "transaction_id": "MzM5OTEzMzEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-26",
+        "description": "capital-alter-shares-redemption-statement-of-capital",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YCCBPVYA",
+        "transaction_id": "MzM5MzQ5MzQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-09-08",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCBNOQXL",
+        "transaction_id": "MzM5MjMwMjkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC44Q6HM",
+        "transaction_id": "MzM4MDUyNDg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC44Q6H6",
+        "transaction_id": "MzM4MDUyNDg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC0SEZ35",
+        "transaction_id": "MzM3NTM4MzIyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBFNWR5C",
+        "transaction_id": "MzM1Njk0OTU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBEBNDRU",
+        "transaction_id": "MzM1NDY0NTg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-10",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBEBNDGG",
+        "transaction_id": "MzM1NDY0NTc2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBEBNCX6",
+        "transaction_id": "MzM1NDY0NTYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBEBNAL6",
+        "transaction_id": "MzM1NDY0NTExNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBEBNAAW",
+        "transaction_id": "MzM1NDY0NTA2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB4SQ9JV",
+        "transaction_id": "MzM0MDY3MDg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB4SQ99K",
+        "transaction_id": "MzM0MDY3MDc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB4SQ8Z6",
+        "transaction_id": "MzM0MDY3MDY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB00NLQP",
+        "transaction_id": "MzMzMzI3MDExNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAXX4N22",
+        "transaction_id": "MzMyOTg4MDE5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1JD79E",
+        "transaction_id": "MzI5NjY5NjYzOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 79,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Robustittraining.com",
+    "headcount": 14,
+    "tech_stack": [
+      "Microsoft Azure Fundamentals",
+      "AWS Solutions Architect Associate",
+      "CompTIA PenTest+",
+      "EC-Council CEH",
+      "PRINCE2 Foundation",
+      "PRINCE2 Practitioner"
+    ],
+    "business_keywords": [
+      "IT training",
+      "career transformation",
+      "cybersecurity training",
+      "AI training",
+      "Microsoft training",
+      "AWS training",
+      "programming training",
+      "data science training",
+      "expert-led courses",
+      "flexible learning",
+      "job placement support",
+      "IT certification",
+      "professional development",
+      "UK IT training provider",
+      "online IT courses"
+    ],
+    "services": [
+      "IT training courses",
+      "expert-led courses",
+      "flexible learning options",
+      "job placement support"
+    ],
+    "customer_segments": [
+      "career transformers",
+      "IT professionals",
+      "individuals starting an IT journey"
+    ],
+    "business_description": "Robust IT Limited is a UK-based IT training provider offering expert-led courses in areas such as cybersecurity, AWS, Microsoft, programming, and data science. The company provides flexible learning options and job placement support to help individuals transform their careers in IT.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:12:20.028Z"
+  },
+  "scraped_at": "2026-01-10T10:12:13.920Z",
+  "updated_at": "2026-01-10T10:12:20.028Z",
+  "version": 1
+}

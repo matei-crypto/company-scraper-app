@@ -1,0 +1,364 @@
+{
+  "company_name": "ANUP CONSULTING LTD",
+  "company_number": "08965200",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-03-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "1st Floor, Building 2 Croxley Business Park, Watford, WD18 8YA, England",
+  "registered_address_structured": {
+    "address_line_1": "1st Floor, Building 2 Croxley Business Park",
+    "country": "England",
+    "locality": "Watford",
+    "postal_code": "WD18 8YA"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-07",
+    "last_made_up_to": "2025-03-24",
+    "next_made_up_to": "2026-03-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BASHAPAKALA, Prasad",
+        "officer_role": "director",
+        "appointed_on": "2014-08-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Croxley Business Park",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD18 8YA",
+          "premises": "1st Floor, Building 2"
+        }
+      },
+      {
+        "name": "BASHAPAKALA, Anusha",
+        "officer_role": "director",
+        "appointed_on": "2017-04-09",
+        "resigned_on": "2017-08-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St Albans Road",
+          "locality": "Watford",
+          "postal_code": "WD25 9NP",
+          "premises": "998a",
+          "region": "Hertfordshire"
+        }
+      },
+      {
+        "name": "BOLLA, Anusha",
+        "officer_role": "director",
+        "appointed_on": "2014-03-28",
+        "resigned_on": "2014-08-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "India",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD24 7BH",
+          "premises": "163 Sandringham Road"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Prasad Bashapakala",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Croxley Business Park",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD18 8YA",
+          "premises": "1st Floor, Building 2"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEHI81WR",
+        "transaction_id": "MzQ5NDU4MTc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZP7VUJ",
+        "transaction_id": "MzQ2MTMyNTgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDIV4QB4",
+        "transaction_id": "MzQ0OTE3Mzg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0F075D",
+        "transaction_id": "MzQxNzMyNzYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCJ8JPYR",
+        "transaction_id": "MzQwNTY2NjA5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0MYSGI",
+        "transaction_id": "MzM3NTA3ODM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBJX26OB",
+        "transaction_id": "MzM2NDA0MzAyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1G3TNK",
+        "transaction_id": "MzMzNTU4MTAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1G3O3K",
+        "transaction_id": "MzMzNTU3OTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAHUFGVE",
+        "transaction_id": "MzMyMTAyNTM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1ASMKX",
+        "transaction_id": "MzI5NjExMTkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9KZOMX4",
+        "transaction_id": "MzI4NzE4NzQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-06-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X97HF1V6",
+        "transaction_id": "MzI2NzY3NTY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-06-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X97HF0P4",
+        "transaction_id": "MzI2NzY3NTQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X91IZ1TC",
+        "transaction_id": "MzI2MDYwNzI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-12-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8L7U1A6",
+        "transaction_id": "MzI1MzIyMTQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8KHBRZT",
+        "transaction_id": "MzI1MjM4Njc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-07-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8AU1ZJ4",
+        "transaction_id": "MzI0MDczNTYyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-07-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8ATM4LK",
+        "transaction_id": "MzI0MDUzMjk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80YMDB4",
+        "transaction_id": "MzIyODk4NDk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X7JJR539",
+        "transaction_id": "MzIyMDMzODA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X700KUJS",
+        "transaction_id": "MzE5Nzk4OTk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X6K8LX0P",
+        "transaction_id": "MzE5MTUwNDkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-09-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X6EQIGFF",
+        "transaction_id": "MzE4NTA5NDI4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-04-22",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X64VSYY1",
+        "transaction_id": "MzE3NDEzMjg1MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Anupconsulting.com",
+    "headcount": 12,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T13:03:39.537Z",
+  "scraped_at": "2026-01-10T13:03:39.537Z"
+}

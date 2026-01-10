@@ -1,0 +1,535 @@
+{
+  "company_name": "ELIXEL LTD.",
+  "company_number": "08114890",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-06-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "Harscombe House 1 Darklake View, Estover, Plymouth, Devon, PL6 7TL, England",
+  "registered_address_structured": {
+    "address_line_1": "Harscombe House 1 Darklake View",
+    "address_line_2": "Estover",
+    "country": "England",
+    "locality": "Plymouth",
+    "postal_code": "PL6 7TL",
+    "region": "Devon"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-05",
+    "last_made_up_to": "2025-06-21",
+    "next_made_up_to": "2026-06-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BIRD, Paul Jacob",
+        "officer_role": "director",
+        "appointed_on": "2012-06-21",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Darklake View",
+          "address_line_2": "Estover",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL6 7TL",
+          "premises": "Harscombe House",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "JONES, Gavin Richard",
+        "officer_role": "director",
+        "appointed_on": "2012-06-21",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Darklake View",
+          "address_line_2": "Estover",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL6 7TL",
+          "premises": "Harscombe House",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "MAY, Edmund James",
+        "officer_role": "director",
+        "appointed_on": "2019-06-28",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Park Road",
+          "country": "England",
+          "locality": "Aldershot",
+          "postal_code": "GU11 3PU",
+          "premises": "19",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "VEATER, Rebecca Jayne",
+        "officer_role": "director",
+        "appointed_on": "2012-06-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1990,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Darklake View",
+          "address_line_2": "Estover",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL6 7TL",
+          "premises": "Harscombe House",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "COOK, Christian Peter",
+        "officer_role": "director",
+        "appointed_on": "2012-06-21",
+        "resigned_on": "2019-06-28",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1988,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "153-155 Armada Way",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL1 1HY",
+          "premises": "Royal London House",
+          "region": "Devon"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Edmund James May",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-06-28",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Park Road",
+          "country": "England",
+          "locality": "Aldershot",
+          "postal_code": "GU11 3PU",
+          "premises": "19",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "Mr Christian Peter Cook",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-06-28",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1988,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "153-155 Armada Way",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL1 1HY",
+          "premises": "Royal London House",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "Miss Rebecca Jayne Veater",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1990,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Darklake View",
+          "address_line_2": "Estover",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL6 7TL",
+          "premises": "Harscombe House",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "Mr Gavin Richard Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Darklake View",
+          "address_line_2": "Estover",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL6 7TL",
+          "premises": "Harscombe House",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "Mr Paul Jacob Bird",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Darklake View",
+          "address_line_2": "Estover",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL6 7TL",
+          "premises": "Harscombe House",
+          "region": "Devon"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-07-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE7A2P4B",
+        "transaction_id": "MzQ3NDQ0MDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE6B0CQJ",
+        "transaction_id": "MzQ3MjcxNDU1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE02OJ48",
+        "transaction_id": "MzQ2MTgxNDEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDEPROXS",
+        "transaction_id": "MzQ0MTE0ODEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDEPROK2",
+        "transaction_id": "MzQ0MTE0ODA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD5Q6CO9",
+        "transaction_id": "MzQyNjE3NTU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD2THB29",
+        "transaction_id": "MzQyMTI3NjI0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCWY0GNF",
+        "transaction_id": "MzQxMTMwOTMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCWY0GFS",
+        "transaction_id": "MzQxMTMwOTI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6543RF",
+        "transaction_id": "MzM4Mzc0NjI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC2PLUCV",
+        "transaction_id": "MzM3ODE3NzIyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB6NJKS8",
+        "transaction_id": "MzM0MzE3OTE4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB6NJFOB",
+        "transaction_id": "MzM0MzE3Nzc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB6NIUS9",
+        "transaction_id": "MzM0MzE3MjkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XB67LVOA",
+        "transaction_id": "MzM0MjY1NDQ0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA74QNTF",
+        "transaction_id": "MzMwNTAyMDQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA4TP281",
+        "transaction_id": "MzMwMTUzNTg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9FNSYXZ",
+        "transaction_id": "MzI4MDU5NTczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-05",
+        "description": "accounts-amended-with-accounts-type-micro-entity",
+        "type": "AAMD",
+        "pages": 4,
+        "barcode": "A9AC8O1S",
+        "transaction_id": "MzI3NDM5ODk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X90XTZBK",
+        "transaction_id": "MzI1OTk0NDMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8FR92VL",
+        "transaction_id": "MzI0NjUxMDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-09-02",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "R8CO97DV",
+        "transaction_id": "MzI0MzE2NjY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-08-02",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X8AZAESY",
+        "transaction_id": "MzI0MDg5NjQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-07-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QTg5STFZNFJhZGlxemtjeA"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-06-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X88JX4W2",
+        "transaction_id": "MzIzODExMDI3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 57,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Elixel.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Google Tag Manager (GTM)",
+      "AWIN",
+      "Gemini (AI)"
+    ],
+    "business_keywords": [
+      "mobile app design",
+      "user experience (UX) design",
+      "digital products",
+      "app development",
+      "enterprise applications",
+      "digital transformation",
+      "workflow efficiency",
+      "AI",
+      "prototyping",
+      "research & analysis",
+      "development & testing",
+      "project scoping",
+      "concept testing",
+      "platform development",
+      "human-centred design"
+    ],
+    "services": [
+      "Research & Analysis",
+      "Design & Prototyping",
+      "Development & Testing",
+      "Project scoping (understanding people, workflows, and technology)",
+      "App concept creation and validation",
+      "Prototyping and user testing",
+      "Robust platform development",
+      "Proof of Concept to MVP development",
+      "AI-powered application development"
+    ],
+    "customer_segments": [
+      "enterprises",
+      "SMEs",
+      "purposeful businesses",
+      "education sector",
+      "human health & social care"
+    ],
+    "business_description": "Elixel Ltd. is a mobile app design team specializing in user experience (UX) design to create digital products that drive real results. They partner with enterprises, SMEs, and purposeful businesses to develop applications that enhance engagement, efficiency, and performance, focusing on transforming workflows, launching new services, and improving lives through technology.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:53:28.299Z"
+  },
+  "scraped_at": "2026-01-10T10:53:22.061Z",
+  "updated_at": "2026-01-10T10:53:28.298Z",
+  "version": 1
+}

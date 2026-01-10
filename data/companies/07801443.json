@@ -1,0 +1,414 @@
+{
+  "company_name": "LEADTEC LTD",
+  "company_number": "07801443",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-10-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "38 Eventus Sunderland Road, Market Deeping, Peterborough, PE6 8FD, England",
+  "registered_address_structured": {
+    "address_line_1": "38 Eventus Sunderland Road",
+    "address_line_2": "Market Deeping",
+    "country": "England",
+    "locality": "Peterborough",
+    "postal_code": "PE6 8FD"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-21",
+    "last_made_up_to": "2025-10-07",
+    "next_made_up_to": "2026-10-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BELLAMY, Michelle",
+        "officer_role": "director",
+        "appointed_on": "2024-02-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1971,
+        "address": {
+          "address_line_1": "Sunderland Road",
+          "address_line_2": "Market Deeping",
+          "country": "England",
+          "locality": "Peterborough",
+          "postal_code": "PE6 8FD",
+          "premises": "38 Eventus"
+        }
+      },
+      {
+        "name": "SPEECHLEY, Paul",
+        "officer_role": "director",
+        "appointed_on": "2011-10-07",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sunderland Road",
+          "address_line_2": "Market Deeping",
+          "country": "England",
+          "locality": "Peterborough",
+          "postal_code": "PE6 8FD",
+          "premises": "38 Eventus"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BELLAMY, Michelle",
+        "officer_role": "secretary",
+        "appointed_on": "2024-02-01",
+        "address": {
+          "address_line_1": "Sunderland Road",
+          "address_line_2": "Market Deeping",
+          "country": "England",
+          "locality": "Peterborough",
+          "postal_code": "PE6 8FD",
+          "premises": "38 Eventus"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul Speechley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-10-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sunderland Road",
+          "address_line_2": "Market Deeping",
+          "country": "England",
+          "locality": "Peterborough",
+          "postal_code": "PE6 8FD",
+          "premises": "38 Eventus"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "078014430002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-10-16",
+        "delivered_on": "2019-10-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2022-05-05",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "078014430001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-08-19",
+        "delivered_on": "2019-08-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2022-05-05",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECPWQBL",
+        "transaction_id": "MzQ4NDIzMDcyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDVRC9L6",
+        "transaction_id": "MzQ1Mzg0MTE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-09",
+        "description": "second-filing-of-director-appointment-with-name",
+        "type": "RP04AP01",
+        "pages": 3,
+        "barcode": "XDDALS02",
+        "transaction_id": "MzQzODc0MjcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDALYZS",
+        "transaction_id": "MzQzODc0NDIxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCXRN1T7",
+        "transaction_id": "MzQxMjU3Mjc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-08",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 3,
+        "barcode": "XCWFBMY9",
+        "transaction_id": "MzQxMDQ4OTE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCE9U6OP",
+        "transaction_id": "MzM5NjU4NTIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBYZ6DOB",
+        "transaction_id": "MzM3MjIyMTMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBFAD8NF",
+        "transaction_id": "MzM1NjI3NTg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB96YT48",
+        "transaction_id": "MzM0NzExNTQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-05-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XB3DK1C3",
+        "transaction_id": "MzMzODM4MjE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-05-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XB3DK20Z",
+        "transaction_id": "MzMzODM4MjM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB2RURGH",
+        "transaction_id": "MzMzNzM1OTc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEV6U2O",
+        "transaction_id": "MzMxNjY1MDYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA0E949B",
+        "transaction_id": "MzI5NDQ2NzU2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9FI7P7V",
+        "transaction_id": "MzI4MDI4NTY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X940NDSP",
+        "transaction_id": "MzI2MzU3MDA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-10-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 44,
+        "barcode": "X8GMQG5M",
+        "transaction_id": "MzI0NzMyMDc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8FOC0R7",
+        "transaction_id": "MzI0NjI2MTc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-08-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X8CD7W6J",
+        "transaction_id": "MzI0MjM0MzM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7Z9RNEJ",
+        "transaction_id": "MzIyNzAwNDc5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7H4J4DK",
+        "transaction_id": "MzIxNzUxOTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7AE71G8",
+        "transaction_id": "MzIwOTkxMDgyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-10-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6HAJWSO",
+        "transaction_id": "MzE4ODA1NDAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-07-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X6AWVOU2",
+        "transaction_id": "MzE4MDgzMDQ0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Leadtec.co.uk",
+    "headcount": 11,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T09:57:23.336Z",
+  "scraped_at": "2026-01-10T09:57:23.336Z"
+}

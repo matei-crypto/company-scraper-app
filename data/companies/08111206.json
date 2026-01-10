@@ -1,0 +1,570 @@
+{
+  "company_name": "THE B1M LIMITED",
+  "company_number": "08111206",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-06-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "27 Old Gloucester Street, London, WC1N 3AX, England",
+  "registered_address_structured": {
+    "address_line_1": "27 Old Gloucester Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1N 3AX"
+  },
+  "sic_codes": [
+    "59112",
+    "59132",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-03",
+    "last_made_up_to": "2025-06-19",
+    "next_made_up_to": "2026-06-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MILLS, Frederick Thomas",
+        "officer_role": "director",
+        "appointed_on": "2012-06-19",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "OSBORNE, Andrew Simon Charles",
+        "officer_role": "director",
+        "appointed_on": "2023-12-22",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Churchill House",
+          "address_line_2": "137-139 Brent Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW4 4DJ",
+          "premises": "C/O Asserson Law Offices"
+        }
+      },
+      {
+        "name": "DUFF, Peter Edward",
+        "officer_role": "director",
+        "appointed_on": "2022-10-11",
+        "resigned_on": "2023-12-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "47-49 London Road",
+          "country": "United Kingdom",
+          "locality": "Reigate",
+          "postal_code": "RH2 9PY",
+          "premises": "Fonteyn House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "HAMMOND, Stuart",
+        "officer_role": "director",
+        "appointed_on": "2017-09-27",
+        "resigned_on": "2022-09-19",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "PAYNE, Thomas Michael",
+        "officer_role": "director",
+        "appointed_on": "2012-06-19",
+        "resigned_on": "2017-09-27",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Robinwood Properties Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2023-12-22",
+        "address": {
+          "address_line_1": "Churchill House",
+          "address_line_2": "137-139 Brent Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW4 4DJ",
+          "premises": "C/O Asserson Law Offices"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "01352962"
+        }
+      },
+      {
+        "name": "Rosewood Group Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-12-21",
+        "ceased_on": "2023-12-22",
+        "address": {
+          "address_line_1": "47-49 London Road",
+          "country": "United Kingdom",
+          "locality": "Reigate",
+          "postal_code": "RH2 9PY",
+          "premises": "Fonteyn House",
+          "region": "Surrey"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "11056202"
+        }
+      },
+      {
+        "name": "Rosewood Futures Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2018-09-12",
+        "ceased_on": "2023-12-21",
+        "address": {
+          "address_line_1": "47-49 London Road",
+          "country": "United Kingdom",
+          "locality": "Reigate, Surrey",
+          "postal_code": "RH2 9PY",
+          "premises": "Fonteyn House"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "11498116"
+        }
+      },
+      {
+        "name": "Rosewood Group Holdings",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2018-01-31",
+        "ceased_on": "2018-09-12",
+        "address": {
+          "address_line_1": "47-49 London Road",
+          "country": "England",
+          "locality": "Reigate",
+          "postal_code": "RH2 9PY",
+          "premises": "Fonteyn House",
+          "region": "Surrey"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "11056202"
+        }
+      },
+      {
+        "name": "Reigate No.1 Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2017-10-19",
+        "ceased_on": "2018-01-31",
+        "address": {
+          "address_line_1": "47-49 London Road",
+          "country": "United Kingdom",
+          "locality": "Reigate",
+          "postal_code": "RH2 9PY",
+          "premises": "Fonteyn House"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006"
+        }
+      },
+      {
+        "name": "Mr Thomas Michael Payne",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "ceased_on": "2017-10-19",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "Mr Frederick Thomas Mills",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE517YZF",
+        "transaction_id": "MzQ3MDgwMjgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE2PFM5K",
+        "transaction_id": "MzQ2NjcyOTA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDDITX2Z",
+        "transaction_id": "MzQzOTE5NzEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD6MYURE",
+        "transaction_id": "MzQyNzY5Nzg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD5Q9ZND",
+        "transaction_id": "MzQyNjIwNjc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-06-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD4OQGJV",
+        "transaction_id": "MzQyNDQ3NzEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD1M0KXS",
+        "transaction_id": "MzQxOTMzNTQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCXE8SDC",
+        "transaction_id": "MzQxMjA2Mjg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCJB8ITE",
+        "transaction_id": "MzQwNTgxNzE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-28",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCJB8KJ6",
+        "transaction_id": "MzQwNTgxNzU3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCJB8GKY",
+        "transaction_id": "MzQwNTgxNjYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCJB8GGI",
+        "transaction_id": "MzQwNTgxNjYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCJB8BVV",
+        "transaction_id": "MzQwNTgxNDk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCJB88OZ",
+        "transaction_id": "MzQwNTgxNDM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIEWZGQ",
+        "transaction_id": "MzQwNDM2MjQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC5ZJ8OP",
+        "transaction_id": "MzM4MzM1Mjk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-30",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBW9YLQ3",
+        "transaction_id": "MzM2NzU1NzI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-28",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBDHVB60",
+        "transaction_id": "MzM1MzM4NTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBA5TV20",
+        "transaction_id": "MzM0ODQ3OTg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB70XM6B",
+        "transaction_id": "MzM0MzgwNTg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAH3S9N4",
+        "transaction_id": "MzMyMDA3ODI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7CXZ0P",
+        "transaction_id": "MzMwNTUyNjcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9HQJJOZ",
+        "transaction_id": "MzI4MzM2MTUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97RSLNM",
+        "transaction_id": "MzI2NzkyMDg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8EPHPLS",
+        "transaction_id": "MzI0NTAwMzA2NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 60,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Theb1m.com",
+    "headcount": 13,
+    "tech_stack": [],
+    "business_keywords": [
+      "construction",
+      "architecture",
+      "engineering",
+      "AEC",
+      "video channel",
+      "megaprojects",
+      "stadiums",
+      "buildings",
+      "airports",
+      "timber buildings",
+      "hybrid timber buildings",
+      "Olympic stadiums",
+      "museums",
+      "video content",
+      "media"
+    ],
+    "services": [
+      "video production",
+      "content creation for construction, architecture, and engineering",
+      "publishing video content",
+      "covering construction projects and industry developments"
+    ],
+    "customer_segments": [],
+    "business_description": "The B1M is the world's largest and most subscribed-to video channel focused on construction, architecture, and engineering (AEC). It produces and publishes video content covering major projects, industry developments, and megaprojects globally, attracting 32 million video views monthly.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:52:24.093Z"
+  },
+  "scraped_at": "2026-01-10T10:52:18.632Z",
+  "updated_at": "2026-01-10T10:52:24.093Z",
+  "version": 1
+}

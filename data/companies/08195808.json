@@ -1,0 +1,411 @@
+{
+  "company_name": "CLOWDY LIMITED",
+  "company_number": "08195808",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-08-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "3rd Floor 86-90 Paul Street, London, EC2A 4NE, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "3rd Floor 86-90 Paul Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 4NE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-09",
+    "last_made_up_to": "2025-08-26",
+    "next_made_up_to": "2026-08-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LOGAN, Stuart Andrew",
+        "officer_role": "director",
+        "appointed_on": "2012-08-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "86-90 Paul Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4NE",
+          "premises": "3rd Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Clowdy Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "86-90 Paul Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4NE",
+          "premises": "3rd Floor"
+        },
+        "identification": {
+          "legal_form": "Register Of Companies",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Register Of Companies",
+          "registration_number": "08638359"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "081958080001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-03-03",
+        "delivered_on": "2023-03-16",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A) all properties (as defined in the debenture) acquired by the company in the future;. B) all present and future interests of the company not effectively mortgaged or charged under a) above in or over freehold or leasehold property;. C) all the intellectual property (as defined in the debenture).",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Creative Growth Finance Limited"
+          }
+        ],
+        "satisfied_on": "2023-04-12",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEA7DAK1",
+        "transaction_id": "MzQ3OTMzODY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XE44R6EA",
+        "transaction_id": "MzQ2OTE3MTk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE23X7AX",
+        "transaction_id": "MzQ2NTU2MTk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE02KV0R",
+        "transaction_id": "MzQ2MTc4MTcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDFH45ZU",
+        "transaction_id": "MzQ0MjQ3Njk0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDB9EWA0",
+        "transaction_id": "MzQzNDk3ODIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDB9EW68",
+        "transaction_id": "MzQzNDk3ODE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCYWF1DD",
+        "transaction_id": "MzQxNDU2ODA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAZHGZD",
+        "transaction_id": "MzM5MTI4MDgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCAZHCA9",
+        "transaction_id": "MzM5MTI3OTcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-04-12",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XC1AO0E9",
+        "transaction_id": "MzM3NTkzMTg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-03-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 23,
+        "barcode": "XBZF5UEQ",
+        "transaction_id": "MzM3Mjk2ODY2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBXRNKFT",
+        "transaction_id": "MzM2OTkyMTI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBXCSKA",
+        "transaction_id": "MzM1MDc0MTcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XBBXCSLM",
+        "transaction_id": "MzM1MDc0MTcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB4SHDDE",
+        "transaction_id": "MzM0MDUwNzMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "AB0J7DZK",
+        "transaction_id": "MzMzNDQ0OTQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFM15SB",
+        "transaction_id": "MzMxNzc2OTMxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA2FAX8I",
+        "transaction_id": "MzI5Nzc3ODI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9D2HTML",
+        "transaction_id": "MzI3NzA4NTk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-09-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9D2HTCJ",
+        "transaction_id": "MzI3NzA4NTgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X971H62B",
+        "transaction_id": "MzI2NzE5NDAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DLZF5D",
+        "transaction_id": "MzI0MzgwMDI1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-05-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X86EWLAA",
+        "transaction_id": "MzIzNTQ1MDI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-05-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X86EWNK2",
+        "transaction_id": "MzIzNTQ1MDc0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Clowdy.com",
+    "headcount": 9,
+    "tech_stack": [
+      "Google Tag Manager"
+    ],
+    "business_keywords": [
+      "freelancers",
+      "marketplace",
+      "outsourcing",
+      "tech",
+      "creative",
+      "marketing",
+      "AI",
+      "machine learning",
+      "diversity",
+      "remote workforce",
+      "project management",
+      "global network",
+      "specialist expertise",
+      "contractors",
+      "datasets"
+    ],
+    "services": [
+      "Connecting businesses with skilled freelancers",
+      "Outsourcing work to expert freelancers",
+      "Posting projects or jobs for free",
+      "Matching businesses to expert talent",
+      "Secure payment management",
+      "Scaling creative output for marketing channels",
+      "Scaling dev teams with vetted freelancers",
+      "Building training datasets for AI/ML models",
+      "Providing AI experts and data scientists",
+      "Diversifying workforce with global talent",
+      "Enterprise managed service for large or complex projects",
+      "Vetting freelancers",
+      "Managing projects"
+    ],
+    "customer_segments": [
+      "Businesses",
+      "Companies",
+      "Startups",
+      "AI companies",
+      "Marketing departments",
+      "Enterprises"
+    ],
+    "business_description": "Twine is a marketplace that connects businesses with skilled freelancers in tech, creative, and marketing fields. It enables companies to outsource work, access specialist expertise, and scale their projects by collaborating with a global network of over 500,000 experts. Twine also offers managed services for large or complex projects and assists in building diverse and inclusive teams.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T11:06:12.843Z"
+  },
+  "scraped_at": "2026-01-10T11:06:05.873Z",
+  "updated_at": "2026-01-10T11:06:12.842Z",
+  "version": 1
+}

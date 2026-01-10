@@ -1,0 +1,398 @@
+{
+  "company_name": "DAMTEQ SOLUTIONS LTD.",
+  "company_number": "08398365",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-02-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "Lancaster Court 8 Barnes Wallis Road, Segensworth, Fareham, Hampshire, PO15 5TU, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Lancaster Court 8 Barnes Wallis Road",
+    "address_line_2": "Segensworth",
+    "country": "United Kingdom",
+    "locality": "Fareham",
+    "postal_code": "PO15 5TU",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "62090",
+    "73110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-25",
+    "last_made_up_to": "2025-02-11",
+    "next_made_up_to": "2026-02-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SMITH, Adam Robert",
+        "officer_role": "director",
+        "appointed_on": "2013-02-11",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "8 Barnes Wallis Road",
+          "address_line_2": "Segensworth",
+          "country": "United Kingdom",
+          "locality": "Fareham",
+          "postal_code": "PO15 5TU",
+          "premises": "Lancaster Court",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Adam Robert Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2017-02-11",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "8 Barnes Wallis Road",
+          "address_line_2": "Segensworth",
+          "country": "United Kingdom",
+          "locality": "Fareham",
+          "postal_code": "PO15 5TU",
+          "premises": "Lancaster Court",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE4KVY9C",
+        "transaction_id": "MzQ2OTgzODI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWKXNM2",
+        "transaction_id": "MzQ1NTE5ODYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD81VN6O",
+        "transaction_id": "MzQyOTk2MDA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCWPSKQR",
+        "transaction_id": "MzQxMDc1NjAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCWFD19B",
+        "transaction_id": "MzQxMDQ5ODYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCGGJ6BE",
+        "transaction_id": "MzQwMDY4NjU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBZFCVI2",
+        "transaction_id": "MzM3MzAzMjE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBZFCV5S",
+        "transaction_id": "MzM3MzAzMjE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBX916U8",
+        "transaction_id": "MzM2OTA4MzQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBF2I5HF",
+        "transaction_id": "MzM1NjA3MDQ1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAY06HLU",
+        "transaction_id": "MzMzMDIwMjAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAA6X7HN",
+        "transaction_id": "MzMwOTc2MTY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA104HY3",
+        "transaction_id": "MzI5NTYyMDcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X95C5I7D",
+        "transaction_id": "MzI2NTAyMzgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Z0IIL4",
+        "transaction_id": "MzI1NzM1NDc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X83K4QV7",
+        "transaction_id": "MzIzMjMyNzEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7Z4ECP7",
+        "transaction_id": "MzIyNjc5NTgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X76P1OIZ",
+        "transaction_id": "MzIwNTg5NDU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-03-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X713C196",
+        "transaction_id": "MzE5OTI1NTExMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6ZQJ9JF",
+        "transaction_id": "MzE5NzY4OTA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-03-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X626H3NM",
+        "transaction_id": "MzE3MTA4OTk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-02-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X60PT1TM",
+        "transaction_id": "MzE2OTQxMjQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-03-14",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X52PLCZD",
+        "transaction_id": "MzE0NDAzMDE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-02-24",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X51EBSC0",
+        "transaction_id": "MzE0MjYzMDQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X4CMD46B",
+        "transaction_id": "MzEyNzk1NTc3MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 29
+  },
+  "enrichment": {
+    "website": "https://Damteq.co.uk",
+    "headcount": 29,
+    "tech_stack": [
+      "Google Ads",
+      "Microsoft Ads",
+      "SEMRush",
+      "WordPress",
+      "Google Analytics"
+    ],
+    "business_keywords": [
+      "Digital Marketing Agency",
+      "Technical SEO",
+      "PPC",
+      "UX",
+      "Web Design",
+      "Business Support",
+      "Growth Marketing",
+      "Inbound Marketing",
+      "Search Engine Optimisation",
+      "Pay Per Click Management",
+      "Website Design & Development",
+      "Fully-Managed Marketing",
+      "Lead Generation",
+      "Humanised Marketing",
+      "ROI Focused Marketing"
+    ],
+    "services": [
+      "Technical SEO",
+      "PPC Management",
+      "UX Design",
+      "Website Design",
+      "Website Development",
+      "Digital & Inbound Marketing",
+      "Search Engine Optimisation (SEO)",
+      "On-page SEO",
+      "Off-page SEO",
+      "Pay Per Click (PPC) Management",
+      "Fully-Managed Marketing",
+      "Lead Generation",
+      "Technical Website Optimisation",
+      "Growth Consulting",
+      "Business Growth Strategy Planning",
+      "Humanised Marketing Strategies",
+      "ROI and KPI Focused Marketing",
+      "Fully-Managed PPC Campaigns",
+      "Conversion Rate Optimisation",
+      "Marketing Retainer Services"
+    ],
+    "customer_segments": [
+      "Business owners",
+      "In-house marketing teams",
+      "Growing brands",
+      "Ambitious companies",
+      "Businesses needing complex growth marketing solutions",
+      "Clients across Hampshire",
+      "Clients across London",
+      "International clients (15 countries)"
+    ],
+    "business_description": "Damteq Solutions Ltd is a Hampshire-based digital marketing agency specialising in technical SEO, PPC, UX, web design, and business support. The company provides best-in-class growth marketing strategies, fully-managed marketing services, and bespoke website development using WordPress, focusing on achieving business growth goals and improving ROI for clients.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T11:34:59.916Z"
+  },
+  "scraped_at": "2026-01-10T11:34:51.352Z",
+  "updated_at": "2026-01-10T11:34:59.915Z",
+  "version": 1
+}

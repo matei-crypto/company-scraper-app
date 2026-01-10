@@ -1,0 +1,436 @@
+{
+  "company_name": "ERP ADVISORS LTD",
+  "company_number": "08975384",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-04-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "124 City Road, London, EC1V 2NX, England",
+  "registered_address_structured": {
+    "address_line_1": "124 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-14",
+    "last_made_up_to": "2025-02-28",
+    "next_made_up_to": "2026-02-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BUTT, Shahzad Azam",
+        "officer_role": "director",
+        "appointed_on": "2014-04-03",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "BUTT, Irina",
+        "officer_role": "director",
+        "appointed_on": "2014-04-03",
+        "resigned_on": "2015-05-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "Kemp House, 152"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Irina Butt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "Mr Shahzad Azam Butt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEEOK55S",
+        "transaction_id": "MzQ4NzU2NjczOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXCGSP6",
+        "transaction_id": "MzQ1Njg5MTgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDGG5HGC",
+        "transaction_id": "MzQ0NDU5NDQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCY5AVMZ",
+        "transaction_id": "MzQxMzI3ODM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-16",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 6,
+        "barcode": "ACU51EIM",
+        "transaction_id": "MzQwNjk3NjU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCTVMF7C",
+        "transaction_id": "MzQwNjI2NDk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYQSMUW",
+        "transaction_id": "MzM3MTU4Njc3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBUEYF7T",
+        "transaction_id": "MzM2NDQ4MzE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB79EN2G",
+        "transaction_id": "MzM0NDMzMzA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB79EN5K",
+        "transaction_id": "MzM0NDMzMzAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB79E7R3",
+        "transaction_id": "MzM0NDMyOTc2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYZ1VQX",
+        "transaction_id": "MzMzMTc4Njk0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAWFI1PN",
+        "transaction_id": "MzMyNzcyNTQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA0UATTL",
+        "transaction_id": "MzI5NTEwMDY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9WIT50J",
+        "transaction_id": "MzI4ODk5MjI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X90HY1IR",
+        "transaction_id": "MzI1OTQyMTUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X89Y5PIS",
+        "transaction_id": "MzIzOTY1MTc5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X83H9V9U",
+        "transaction_id": "MzIzMjEyNzQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7L0UO5V",
+        "transaction_id": "MzIyMjI2NjM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X73RDAJT",
+        "transaction_id": "MzIwMjUxMjMzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-10-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A6GII3EJ",
+        "transaction_id": "MzE4NzQ4MjIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X64L2OT6",
+        "transaction_id": "MzE3MzY2NTkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-08-11",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "A5CK1IOZ",
+        "transaction_id": "MzE1NDY3Njg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-04-26",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X55P3B2J",
+        "transaction_id": "MzE0NzIwNDA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-01-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X4ZIBPG1",
+        "transaction_id": "MzE0MDY3NjgzOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Erpadvisorsgroup.com",
+    "headcount": 20,
+    "tech_stack": [
+      "Epicor",
+      "IFS",
+      "Softeon",
+      "Salesforce"
+    ],
+    "business_keywords": [
+      "ERP",
+      "Enterprise Resource Planning",
+      "ERP Consultants",
+      "Independent ERP Consultants",
+      "ERP Selection",
+      "ERP Implementation",
+      "Data Migration",
+      "Needs Assessment",
+      "Business Transformation",
+      "Change Management",
+      "Business Analysis",
+      "Cloud-based Applications",
+      "ERP Financials",
+      "CRM",
+      "eCommerce",
+      "Human Capital Management",
+      "Project Management",
+      "Manufacturing Execution System",
+      "Warehouse Management System",
+      "Business Intelligence",
+      "Point of Sale",
+      "Agentic AI",
+      "Total Certainty™"
+    ],
+    "services": [
+      "Needs Assessment",
+      "ERP Selection",
+      "ERP Implementation",
+      "Data Migration",
+      "Change Management",
+      "Business Analysis",
+      "Client-Side Project Management"
+    ],
+    "customer_segments": [
+      "CFOs",
+      "CIOs",
+      "Directors of IT",
+      "Mid-market companies",
+      "Agriculture",
+      "Construction",
+      "Energy",
+      "Field Services",
+      "Financial Services",
+      "Food & Beverage",
+      "Government",
+      "Horticulture",
+      "Manufacturing",
+      "Mining",
+      "Nonprofit",
+      "Private Equity",
+      "Professional Services",
+      "Public Safety",
+      "Retail & eCommerce",
+      "Software Technology",
+      "Wholesale Distribution",
+      "Real Estate",
+      "Product-based companies"
+    ],
+    "business_description": "ERP Advisors Group is an independent ERP consulting firm that helps CFOs, CIOs, and IT directors with ERP selection, implementation, and data migration. They provide needs assessments, vendor shortlisting, and client-side project management without selling software or taking commissions, ensuring unbiased recommendations for mid-market and industry-specific enterprise software solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:06:13.793Z"
+  },
+  "scraped_at": "2026-01-10T13:06:05.613Z",
+  "updated_at": "2026-01-10T13:06:13.792Z",
+  "version": 1
+}

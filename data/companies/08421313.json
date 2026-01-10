@@ -1,0 +1,441 @@
+{
+  "company_name": "LOTUS AFLOAT LTD",
+  "company_number": "08421313",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-02-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "Inner Millwall Dock, 9 Oakland Quay, London, E14 9EA, England",
+  "registered_address_structured": {
+    "address_line_1": "Inner Millwall Dock",
+    "address_line_2": "9 Oakland Quay",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 9EA"
+  },
+  "sic_codes": [
+    "56101",
+    "56302",
+    "62090",
+    "96020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "LOTUS INTERNATIONAL GROUP LTD",
+      "ceased_on": "2025-05-06",
+      "effective_from": "2025-04-22"
+    },
+    {
+      "name": "LOTUS AFLOAT LIMITED",
+      "ceased_on": "2025-04-22",
+      "effective_from": "2013-02-27"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-13",
+    "last_made_up_to": "2025-10-30",
+    "next_made_up_to": "2026-10-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ZHANG, Kastor",
+        "officer_role": "director",
+        "appointed_on": "2020-10-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1980,
+        "nationality": "Cypriot",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Arena Twr 25 Crossharbour Plaza",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 9ZJ",
+          "premises": "1409"
+        }
+      },
+      {
+        "name": "DEVERELL, Paul Jack",
+        "officer_role": "director",
+        "appointed_on": "2013-02-27",
+        "resigned_on": "2020-10-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Road",
+          "country": "United Kingdom",
+          "locality": "Sevenoaks",
+          "postal_code": "TN15 6AR",
+          "premises": "Gafferscot"
+        }
+      },
+      {
+        "name": "GREEN, Helen Hei Lin",
+        "officer_role": "director",
+        "appointed_on": "2014-02-04",
+        "resigned_on": "2020-10-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Amsterdam Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 3JB",
+          "premises": "62"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GREEN, Helen",
+        "officer_role": "secretary",
+        "appointed_on": "2013-02-27",
+        "resigned_on": "2020-10-01",
+        "address": {
+          "address_line_1": "Amsterdam Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 3JB",
+          "premises": "62"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Kastor Zhang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-trust",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-trust",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2020-10-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1980,
+        "nationality": "Cypriot",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Arena Twr  25 Crossharbour Plaza",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 9ZJ",
+          "premises": "1409"
+        }
+      },
+      {
+        "name": "Mr Paul Jack Deverell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2019-11-19",
+        "ceased_on": "2020-10-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Foxhole Lane",
+          "country": "England",
+          "locality": "Wadhurst",
+          "postal_code": "TN5 6NB",
+          "premises": "The Old Stables"
+        }
+      },
+      {
+        "name": "Ms Margaret Kit Bing Chow",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-10-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1945,
+        "nationality": "British",
+        "country_of_residence": "Macau",
+        "address": {
+          "address_line_1": "49 High Street",
+          "country": "England",
+          "locality": "Cranbrook",
+          "postal_code": "TN17 3EE",
+          "premises": "C/O Feltons Law",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEAOZO9",
+        "transaction_id": "MzQ4Njg2NTI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE8KGZ0X",
+        "transaction_id": "MzQ3NjcxMzAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE4VNI2R",
+        "transaction_id": "MzQ3MDM4MTMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE4NLBHC",
+        "transaction_id": "MzQ3MDA0MTE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE32WON7",
+        "transaction_id": "MzQ2NzUyMzkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE214U5N",
+        "transaction_id": "MzQ2NTM4MjI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-05-06",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE20O20H",
+        "transaction_id": "MzQ2NTE2OTg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-04-22",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE0LWJBF",
+        "transaction_id": "MzQ2MzQ2MDE5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXHOHZM",
+        "transaction_id": "MzQ1Njk5MDYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDC8A7D4",
+        "transaction_id": "MzQzNjgzNzU2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-18",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XD18L49F",
+        "transaction_id": "MzQxODcyNDEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXUI2IQ",
+        "transaction_id": "MzQxMjgwOTA0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC6QH6YR",
+        "transaction_id": "MzM4NDYxMzI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC3LR82R",
+        "transaction_id": "MzM3OTU1NzA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC3LQYGG",
+        "transaction_id": "MzM3OTU1NTA0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBY571IO",
+        "transaction_id": "MzM3MDc2NDk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XB1IW8FL",
+        "transaction_id": "MzMzNTcyMDU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXBTQI2",
+        "transaction_id": "MzMyOTA3OTk3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAGNL91T",
+        "transaction_id": "MzMxOTMyNTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XA843PD4",
+        "transaction_id": "MzMwNjcyMjc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "X9W8APGX",
+        "transaction_id": "MzI4ODczNTY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-11-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9I6PHK1",
+        "transaction_id": "MzI4Mzk4MDI1OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-11-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9I3SN9V",
+        "transaction_id": "MzI4Mzc1OTg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9G3NGUQ",
+        "transaction_id": "MzI4MTA3ODk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-10-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9G3NC15",
+        "transaction_id": "MzI4MTA3ODAwMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 50,
+    "recent_filings_count": 9
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T11:38:06.759Z",
+  "scraped_at": "2026-01-10T11:38:06.759Z"
+}

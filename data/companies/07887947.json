@@ -1,0 +1,488 @@
+{
+  "company_name": "WIREBOX LTD",
+  "company_number": "07887947",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-12-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 1 Copsewood Lodge, 1a Copsewood Road, Watford, WD24 5DY, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 1 Copsewood Lodge",
+    "address_line_2": "1a Copsewood Road",
+    "country": "England",
+    "locality": "Watford",
+    "postal_code": "WD24 5DY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-18",
+    "last_made_up_to": "2025-12-04",
+    "next_made_up_to": "2026-12-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AJOODHA, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2011-12-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1a Copsewood Road",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD24 5DY",
+          "premises": "Unit 1 Copsewood Lodge"
+        }
+      },
+      {
+        "name": "AJOODHA, Rohini",
+        "officer_role": "director",
+        "appointed_on": "2020-04-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1a Copsewood Road",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD24 5DY",
+          "premises": "Unit 1 Copsewood Lodge"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andrew Ross Ajoodha",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1a Copsewood Road",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD24 5DY",
+          "premises": "Unit 1 Copsewood Lodge"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "078879470002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-11-21",
+        "delivered_on": "2017-11-24",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "078879470001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-07-31",
+        "delivered_on": "2014-08-11",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Balmick Ajoodha"
+          }
+        ],
+        "satisfied_on": "2017-10-02",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEGNY7HS",
+        "transaction_id": "MzQ5MjQxNjkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEB44QHT",
+        "transaction_id": "MzQ4MTEzNTQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-08-19",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 18,
+        "barcode": "AE90PRIW",
+        "transaction_id": "MzQ3Nzg2NjgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-08-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "AE90PRFK",
+        "transaction_id": "QUU5MFBSRkthZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-08-19",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "AE90PRI8",
+        "transaction_id": "MzQ3Nzg2NTUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-08-19",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "AE90PRIG",
+        "transaction_id": "MzQ3Nzg2NTUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-08-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AE90PRIO",
+        "transaction_id": "MzQ3Nzg2NTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDIKQWTS",
+        "transaction_id": "MzQ0ODc5NDQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDC8B5KO",
+        "transaction_id": "MzQzNjg0NjE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCI9CB97",
+        "transaction_id": "MzQwMzc4ODgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCBIBQ09",
+        "transaction_id": "MzM5MjA4MjU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBISN53T",
+        "transaction_id": "MzM2MTkwNDMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB7PAM34",
+        "transaction_id": "MzM0NDg0NzgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAJ9BOOI",
+        "transaction_id": "MzMyMzQzMjcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAAPLK0P",
+        "transaction_id": "MzMxMDUzODkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA1TOHD6",
+        "transaction_id": "MzI5Njg3MjExNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9KC18UY",
+        "transaction_id": "MzI4NjUxNjE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9E90M2G",
+        "transaction_id": "MzI3ODY4NDIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9AD02K3",
+        "transaction_id": "MzI3NDI0MjUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-07-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9AD02TD",
+        "transaction_id": "MzI3NDI0MjUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-04-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X92ESCO2",
+        "transaction_id": "MzI2MTg0NTk3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8XRMLS2",
+        "transaction_id": "MzI1NjA1MjU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8F388XS",
+        "transaction_id": "MzI0NTU3NTE0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7XQ44G9",
+        "transaction_id": "MzIyNTIzNDE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7FLE1F1",
+        "transaction_id": "MzIxNTg0NDEyMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Wirebox.co.uk",
+    "headcount": 15,
+    "tech_stack": [
+      "Laravel",
+      "mySQL",
+      "PHP",
+      "WordPress",
+      "AWS",
+      "Heroku",
+      "PostgreSQL",
+      "Python",
+      "Wagtail",
+      "Cloudflare",
+      "Django",
+      "Google API",
+      "NetSuite",
+      "WooCommerce"
+    ],
+    "business_keywords": [
+      "web development agency",
+      "bespoke software development",
+      "digital strategy consulting",
+      "technology deployment",
+      "digital platform scoping",
+      "mobile-native solutions",
+      "website maintenance",
+      "systems maintenance",
+      "experience optimisation",
+      "accessibility consulting",
+      "user testing",
+      "usability testing",
+      "API development",
+      "WordPress development",
+      "digital marketing",
+      "tech support"
+    ],
+    "services": [
+      "Bespoke software development",
+      "Digital strategy consulting",
+      "Digital roadmap development",
+      "Technology deployment scoping",
+      "Manage technology deployments",
+      "Upgrade assessments",
+      "User & usability testing",
+      "Digital platform scoping & implementation",
+      "Mobile-native solutions",
+      "Website & systems maintenance",
+      "Experience optimisation",
+      "Accessibility consulting",
+      "API development",
+      "Database development",
+      "System upgrades",
+      "SEO optimisation",
+      "Performance optimisation",
+      "CMS development",
+      "Headless CMS development",
+      "NetSuite integration",
+      "Django development",
+      "Python development",
+      "Laravel development",
+      "WordPress development",
+      "Wagtail development",
+      "Cloudflare integration",
+      "AWS software development",
+      "Heroku deployment",
+      "PostgreSQL development",
+      "mySQL development",
+      "PHP development",
+      "Training for teams"
+    ],
+    "customer_segments": [
+      "Businesses with outdated systems",
+      "Businesses lacking in-house tech support",
+      "Businesses needing cost-effective tech solutions",
+      "Charities",
+      "Educational institutions (e.g., universities)",
+      "Event management companies",
+      "Fintech companies",
+      "Manufacturing companies",
+      "Retail businesses",
+      "Swim schools",
+      "Fleet management companies",
+      "Healthcare clinics",
+      "Marketing agencies",
+      "ERP users"
+    ],
+    "business_description": "Wirebox Ltd is a web development agency based in London and Milton Keynes, specializing in bespoke software development and digital strategy consulting. They provide services including technology deployment, website and systems maintenance, mobile-native solutions, and experience optimisation to help businesses enhance operations and customer engagement. The company also offers ongoing support, training, and implementation of digital platforms for a variety of clients, including charities, educational institutions, and commercial businesses.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:12:39.071Z"
+  },
+  "scraped_at": "2026-01-10T10:12:27.886Z",
+  "updated_at": "2026-01-10T10:12:39.071Z",
+  "version": 1
+}

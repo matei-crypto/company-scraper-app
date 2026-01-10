@@ -1,0 +1,447 @@
+{
+  "company_name": "BLONDEFISH LIMITED",
+  "company_number": "07485731",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-01-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 1 Amber Business Park Kings Road, Charfleets Industrial Estate, Canvey Island, Essex, SS8 0DD, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 1 Amber Business Park Kings Road",
+    "address_line_2": "Charfleets Industrial Estate",
+    "country": "England",
+    "locality": "Canvey Island",
+    "postal_code": "SS8 0DD",
+    "region": "Essex"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-21",
+    "last_made_up_to": "2025-01-07",
+    "next_made_up_to": "2026-01-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ANDERSON, Elizabeth Alice Mclaren",
+        "officer_role": "director",
+        "appointed_on": "2023-03-09",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1996,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Road",
+          "address_line_2": "Charfleets Industrial Estate",
+          "country": "England",
+          "locality": "Canvey Island",
+          "postal_code": "SS8 0DD",
+          "premises": "Unit 1 Amber Business Park",
+          "region": "Essex"
+        }
+      },
+      {
+        "name": "MOODY, Laura Maxene",
+        "officer_role": "director",
+        "appointed_on": "2011-01-07",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Road",
+          "address_line_2": "Charfleets Industrial Estate",
+          "country": "England",
+          "locality": "Canvey Island",
+          "postal_code": "SS8 0DD",
+          "premises": "Unit 1 Amber Business Park",
+          "region": "Essex"
+        }
+      },
+      {
+        "name": "FREEMAN, David John",
+        "officer_role": "director",
+        "appointed_on": "2015-01-01",
+        "resigned_on": "2016-04-29",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Walton Road",
+          "address_line_2": "Wellesbourne",
+          "country": "England",
+          "locality": "Warwick",
+          "postal_code": "CV35 9JB",
+          "premises": "19-20 Wellesbourne House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Blondefish Group Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2023-03-09",
+        "address": {
+          "address_line_1": "Kings Road",
+          "address_line_2": "Charfleets Industrial Estate",
+          "country": "England",
+          "locality": "Canvey Island",
+          "postal_code": "SS8 0DD",
+          "premises": "Unit 1 Amber Business Park",
+          "region": "Essex"
+        },
+        "identification": {
+          "legal_form": "Limited",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "14713318"
+        }
+      },
+      {
+        "name": "Mrs Laura Maxene Moody",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-07",
+        "ceased_on": "2023-03-09",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old London Road",
+          "country": "United Kingdom",
+          "locality": "Hertford",
+          "postal_code": "SG13 7LA",
+          "premises": "Stag House",
+          "region": "Hertfordshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "074857310001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-03-09",
+        "delivered_on": "2023-03-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Laura Maxene Moody"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE4NMSOW",
+        "transaction_id": "MzQ3MDA1MzkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-08",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE23SLHK",
+        "transaction_id": "MzQ2NTQ5ODE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDUENL35",
+        "transaction_id": "MzQ1MTY1Nzg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDBUVGIG",
+        "transaction_id": "MzQzNjIzMDgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDBUVGKW",
+        "transaction_id": "MzQzNjIzMDgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-09-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDBUVGGW",
+        "transaction_id": "MzQzNjIzMDgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDBUVGI0",
+        "transaction_id": "MzQzNjIzMDgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD51W9ER",
+        "transaction_id": "MzQyNDg2ODM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCUBKIPE",
+        "transaction_id": "MzQwNjg1MTUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCUBKINM",
+        "transaction_id": "MzQwNjg1MTQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCCXKQ5V",
+        "transaction_id": "MzM5NDY2Njc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-03-20",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 38,
+        "barcode": "XBZPW0C2",
+        "transaction_id": "MzM3MzMzNDg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBZ71L7M",
+        "transaction_id": "MzM3MjM5MjUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBZ71IRM",
+        "transaction_id": "MzM3MjM5MTkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XBZ71IIP",
+        "transaction_id": "MzM3MjM5MTkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBUUQUX5",
+        "transaction_id": "MzM2NTAwNjcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBJBUT7C",
+        "transaction_id": "MzM2MzI1NzczN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAV66OOB",
+        "transaction_id": "MzMyNTk2MDMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAJKC3K2",
+        "transaction_id": "MzMyMzk4MDY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-08-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XABQR2KG",
+        "transaction_id": "MzMxMTk5NzA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XABQR24A",
+        "transaction_id": "MzMxMTk5NzAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9VPEPD4",
+        "transaction_id": "MzI4Nzg2OTk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9KEGWKO",
+        "transaction_id": "MzI4NjQ5NzQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8W59777",
+        "transaction_id": "MzI1Mzk4MTY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "A8ETK9MA",
+        "transaction_id": "MzI0NTQ4NTk4NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 54,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Blondefish.com",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "boutique event experience agency",
+      "event experiences",
+      "content creation",
+      "events",
+      "customer experience centers",
+      "engagement",
+      "experience design",
+      "experience agency",
+      "event agency",
+      "customer experience"
+    ],
+    "services": [
+      "create experiences",
+      "create content for events",
+      "create content for customer experience centers"
+    ],
+    "customer_segments": [],
+    "business_description": "Blondefish is a boutique event experience agency that specializes in creating experiences and content for events and customer experience centers.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:02:46.660Z"
+  },
+  "scraped_at": "2026-01-10T09:02:37.910Z",
+  "updated_at": "2026-01-10T09:02:46.660Z",
+  "version": 1
+}

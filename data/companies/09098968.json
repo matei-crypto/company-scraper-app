@@ -1,0 +1,467 @@
+{
+  "company_name": "KNAPTON WRIGHT LTD",
+  "company_number": "09098968",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-06-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 4b Centurion Way, Caistor, Lincolnshire, LN7 6QA, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 4b Centurion Way",
+    "country": "England",
+    "locality": "Caistor",
+    "postal_code": "LN7 6QA",
+    "region": "Lincolnshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-16",
+    "last_made_up_to": "2025-10-02",
+    "next_made_up_to": "2026-10-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JEFFERSON, Robert John",
+        "officer_role": "director",
+        "appointed_on": "2019-10-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sycamore Close",
+          "country": "England",
+          "locality": "Wooton",
+          "postal_code": "DN39 6AH",
+          "premises": "8",
+          "region": "North Lincolnshire"
+        }
+      },
+      {
+        "name": "WRIGHT, Alexander Frederick Richard",
+        "officer_role": "director",
+        "appointed_on": "2014-06-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Searby",
+          "country": "England",
+          "locality": "Barnetby",
+          "postal_code": "DN38 6BA",
+          "premises": "Owmby Mount",
+          "region": "North Lincolnshire"
+        }
+      },
+      {
+        "name": "WRIGHT, Louise",
+        "officer_role": "director",
+        "appointed_on": "2014-06-24",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Searby",
+          "country": "England",
+          "locality": "Barnetby",
+          "postal_code": "DN38 6BA",
+          "premises": "Owmby Mount",
+          "region": "North Lincolnshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Louise Wright",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-09-29",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Brigg",
+          "postal_code": "DN20 8ES",
+          "premises": "9a Market Place",
+          "region": "North Lincolnshire"
+        }
+      },
+      {
+        "name": "Mr Alexander Frederick Richard Wright",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Centurion Way",
+          "country": "England",
+          "locality": "Caistor",
+          "postal_code": "LN7 6QA",
+          "premises": "Unit 4b",
+          "region": "Lincolnshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "090989680001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-11-12",
+        "delivered_on": "2024-11-13",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Please refer to clause 2 of the deed for more information.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Funding Circle Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-06",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XET5EC5T",
+        "transaction_id": "MzQ5Nzg1MDU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDRRDHT",
+        "transaction_id": "MzQ4NjA5NjM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDW51MK1",
+        "transaction_id": "MzQ1NDU4NTgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XDFRZA3D",
+        "transaction_id": "MzQ0MzA5Njk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDCUIBWO",
+        "transaction_id": "MzQzODEwOTM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCWCHQVC",
+        "transaction_id": "MzQxMDIyMzE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCHFOAAR",
+        "transaction_id": "MzQwMjI5MTE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-12-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCHFO6FN",
+        "transaction_id": "MzQwMjI4ODA0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCEIEBKA",
+        "transaction_id": "MzM5NzMyMTMwMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBZHWP68",
+        "transaction_id": "MzM3MzEwMDU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBVAZUS3",
+        "transaction_id": "MzM2NTgxODAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBDY1C2H",
+        "transaction_id": "MzM1NDAwOTA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB8YTDOX",
+        "transaction_id": "MzM0NjY5ODI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAF0N7WJ",
+        "transaction_id": "MzMxNjkyNDU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAE7BO2J",
+        "transaction_id": "MzMxNTgyOTk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA92M84Q",
+        "transaction_id": "MzMwODAyOTU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9FNO4CB",
+        "transaction_id": "MzI4MDU1Mzk0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X94WC3QI",
+        "transaction_id": "MzI2NDU3OTgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-12",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X94WC28X",
+        "transaction_id": "MzI2NDU3OTUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-05-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X94WC1T7",
+        "transaction_id": "MzI2NDU3OTI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-05-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X94WC0KA",
+        "transaction_id": "MzI2NDU3OTA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X94WBZJ7",
+        "transaction_id": "MzI2NDU3ODc5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X94WBSDF",
+        "transaction_id": "MzI2NDU3NzIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X91YZZ96",
+        "transaction_id": "MzI2MTM3MjA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8C7OESQ",
+        "transaction_id": "MzI0MTk4MzY4NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Knaptonwright.co.uk",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "marketing",
+      "sustainability",
+      "sustainable brands",
+      "positive impact",
+      "planet-first",
+      "digital marketing",
+      "SEO",
+      "PPC",
+      "CRO",
+      "website development",
+      "lead-driven websites",
+      "brand growth",
+      "sustainable industry",
+      "renewables",
+      "agri-tech",
+      "environmental businesses",
+      "community-focused platforms",
+      "conversion rate optimisation"
+    ],
+    "services": [
+      "marketing mindset development",
+      "website development",
+      "SEO (search engine optimisation)",
+      "PPC (pay per click ads)",
+      "CRO (conversion rate optimisation)",
+      "lead-driven website design",
+      "service visibility improvement",
+      "seamless integrations",
+      "ongoing website improvements",
+      "digital platform creation",
+      "ads optimisation"
+    ],
+    "customer_segments": [
+      "sustainable brands",
+      "businesses striving for sustainability",
+      "brands with positive impact on people and planet",
+      "renewables businesses",
+      "agri-tech businesses",
+      "environmental and sustainability-focused businesses",
+      "sales-driven businesses",
+      "football clubs",
+      "educational organisations",
+      "businesses open to change"
+    ],
+    "business_description": "Knapton Wright Ltd specializes in developing a marketing mindset and creating high-performing digital platforms for brands that prioritize sustainability and positive impact on people and the planet. They offer services such as SEO, PPC, CRO, and website development to help businesses grow while supporting environmental and community-focused goals.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:23:58.414Z"
+  },
+  "scraped_at": "2026-01-10T13:23:45.306Z",
+  "updated_at": "2026-01-10T13:23:58.413Z",
+  "version": 1
+}

@@ -1,0 +1,378 @@
+{
+  "company_name": "DURHAM COUNTY ENGINEERING SERVICES LIMITED",
+  "company_number": "07854275",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-11-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 7, Byron House Hall Dene Way, Seaham Grange Industrial Estate, Seaham, Tyne And Wear, SR7 0PY, England",
+  "registered_address_structured": {
+    "address_line_1": "Suite 7, Byron House Hall Dene Way",
+    "address_line_2": "Seaham Grange Industrial Estate",
+    "country": "England",
+    "locality": "Seaham",
+    "postal_code": "SR7 0PY",
+    "region": "Tyne And Wear"
+  },
+  "sic_codes": [
+    "33200",
+    "62090",
+    "71121",
+    "74909"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-02-29",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-05",
+    "last_made_up_to": "2025-11-21",
+    "next_made_up_to": "2026-11-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MCKINNEY, Christopher Paul",
+        "officer_role": "director",
+        "appointed_on": "2011-11-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wycliffe Road",
+          "country": "United Kingdom",
+          "locality": "Seaham",
+          "postal_code": "SR7 8HP",
+          "premises": "32"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MCKINNEY, Emma Courtney",
+        "officer_role": "secretary",
+        "appointed_on": "2011-11-30",
+        "address": {
+          "address_line_1": "Hall Dene Way",
+          "address_line_2": "Seaham Grange Industrial Estate",
+          "country": "England",
+          "locality": "Seaham",
+          "postal_code": "SR7 0PY",
+          "premises": "Suite 7, Byron House",
+          "region": "Tyne And Wear"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Christopher Paul Mckinney",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-11-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hall Dene Way",
+          "address_line_2": "Seaham Grange Industrial Estate",
+          "country": "England",
+          "locality": "Seaham",
+          "postal_code": "SR7 0PY",
+          "premises": "Suite 7, Byron House",
+          "region": "Tyne And Wear"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "078542750001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-01-27",
+        "delivered_on": "2023-01-31",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bibby Financial Services LTD"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-25",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEG1IGM3",
+        "transaction_id": "MzQ5MDc5NzMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEG1I1W1",
+        "transaction_id": "MzQ5MDc5Mzg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE0J0BPT",
+        "transaction_id": "MzQ2MjcwMDExNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDXCMAXN",
+        "transaction_id": "MzQ1Njk0OTc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVBCGJT",
+        "transaction_id": "MzQ1MzIzMTkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCI91ME0",
+        "transaction_id": "MzQwMzU3ODAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCHD03OO",
+        "transaction_id": "MzQwMjE2NzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBYAWVS9",
+        "transaction_id": "MzM3MTA1MzIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-01-31",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "XBWCMITS",
+        "transaction_id": "MzM2NzcwMTgzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBV5UA3J",
+        "transaction_id": "MzM2NTczODY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB297M09",
+        "transaction_id": "MzMzNjU4Mjc2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAYTJIO8",
+        "transaction_id": "MzMzMTM1OTU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJET9L5",
+        "transaction_id": "MzMyMzcyMTQ3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9VH87JN",
+        "transaction_id": "MzI4NzQzMjE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-11-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9IWZ8TC",
+        "transaction_id": "MzI4NDY5NTk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9A7OL3D",
+        "transaction_id": "MzI3NDA0NjY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8W57QCH",
+        "transaction_id": "MzI1Mzk2NzMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8JALTD4",
+        "transaction_id": "MzI1MDg0MzY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X805KEII",
+        "transaction_id": "MzIyODEyODk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-29",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7LU8YDF",
+        "transaction_id": "MzIyMzI1NjM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7K2F5ZT",
+        "transaction_id": "MzIyMTExMDY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A6MDDNF7",
+        "transaction_id": "MzE5NDcwODUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6KCP4GQ",
+        "transaction_id": "MzE5MTcxNjY3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5LMOY20",
+        "transaction_id": "MzE2NDEzNjg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-11-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A5JCH9TX",
+        "transaction_id": "MzE2MTg3Mjc2OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Dc-es.co.uk",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T10:03:54.446Z",
+  "scraped_at": "2026-01-10T10:03:54.446Z"
+}

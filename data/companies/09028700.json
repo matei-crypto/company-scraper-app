@@ -1,0 +1,364 @@
+{
+  "company_name": "ADMIN BY REQUEST EMEA LTD",
+  "company_number": "09028700",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-05-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Chancery House, 30 St Johns Road, Woking, Surrey, GU21 7SA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Chancery House",
+    "address_line_2": "30 St Johns Road",
+    "country": "United Kingdom",
+    "locality": "Woking",
+    "postal_code": "GU21 7SA",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "APPLICATION CENTRIC COMPUTING LIMITED",
+      "ceased_on": "2025-07-18",
+      "effective_from": "2014-05-07"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-21",
+    "last_made_up_to": "2025-05-07",
+    "next_made_up_to": "2026-05-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JONES, Jeffrey Rhys Landseer",
+        "officer_role": "director",
+        "appointed_on": "2014-05-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Park Road",
+          "country": "England",
+          "locality": "Woking",
+          "postal_code": "GU22 7BW",
+          "premises": "1",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Emma Carrington-Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "30 St Johns Road",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU21 7SA",
+          "premises": "Chancery House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Mr Jeffrey Rhys Landseer Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "30 St Johns Road",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU21 7SA",
+          "premises": "Chancery House",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "change-of-name",
+        "date": "2025-07-18",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE6ZMNG2",
+        "transaction_id": "MzQ3NDI3NTQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE26FQLS",
+        "transaction_id": "MzQ2NTU5MzQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDDTECO9",
+        "transaction_id": "MzQzOTYxMTAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD2TDMJS",
+        "transaction_id": "MzQyMTI0NDQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCZCPZ97",
+        "transaction_id": "MzQxNTYxMzEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCHQ5EZK",
+        "transaction_id": "MzQwMjYwODk2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC41RQ6B",
+        "transaction_id": "MzM4MDMxNzIyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBVJ6ISQ",
+        "transaction_id": "MzM2NjQ5MDEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB9SIZ22",
+        "transaction_id": "MzM0Nzk4OTIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB9SIZ16",
+        "transaction_id": "MzM0Nzk4OTE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3O0YHU",
+        "transaction_id": "MzMzODcwNzM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XAFWLMO0",
+        "transaction_id": "MzMxODEzOTM5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4TLNU8",
+        "transaction_id": "MzMwMTUwNjM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X9WW2THK",
+        "transaction_id": "MzI4OTUzMjI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94TJRXV",
+        "transaction_id": "MzI2NDQzMTM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-09",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8WAJLJK",
+        "transaction_id": "MzI1NDIwMzIwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85LVRKA",
+        "transaction_id": "MzIzNDU1ODE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-04-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X82IXA9T",
+        "transaction_id": "MzIzMTA2OTkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7XVG1OB",
+        "transaction_id": "MzIyNTQyMzM0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X76MNMOQ",
+        "transaction_id": "MzIwNTc3MDYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-02-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X70L843F",
+        "transaction_id": "MzE5ODY4NDg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X66OWA6Y",
+        "transaction_id": "MzE3NjA4NDg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-02-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 1,
+        "barcode": "X60XSA4P",
+        "transaction_id": "MzE2OTcyODAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-05-31",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X5866W7D",
+        "transaction_id": "MzE0OTc2MjU5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-05-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X5866W75",
+        "transaction_id": "MzE0OTc1ODU5NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 29,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Ac-computing.com",
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T13:12:35.188Z",
+  "scraped_at": "2026-01-10T13:12:35.188Z"
+}

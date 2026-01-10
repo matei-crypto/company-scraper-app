@@ -1,0 +1,401 @@
+{
+  "company_name": "2NCH LIMITED",
+  "company_number": "07376520",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-09-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 143 548-550 Elder Gate, Milton Keynes, MK9 1LR, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Suite 143 548-550 Elder Gate",
+    "country": "United Kingdom",
+    "locality": "Milton Keynes",
+    "postal_code": "MK9 1LR"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "82990"
+  ],
+  "previous_company_names": [
+    {
+      "name": "HODCONSULTANCY LIMITED",
+      "ceased_on": "2016-06-10",
+      "effective_from": "2010-09-15"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-29",
+    "last_made_up_to": "2025-09-15",
+    "next_made_up_to": "2026-09-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "OJO, Hazel",
+        "officer_role": "director",
+        "appointed_on": "2010-09-15",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "548-550 Elder Gate",
+          "country": "United Kingdom",
+          "locality": "Milton Keynes",
+          "postal_code": "MK9 1LR",
+          "premises": "Suite 143"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "OJO, Hazel",
+        "officer_role": "secretary",
+        "appointed_on": "2010-09-15",
+        "address": {
+          "address_line_1": "548-550 Elder Gate",
+          "country": "United Kingdom",
+          "locality": "Milton Keynes",
+          "postal_code": "MK9 1LR",
+          "premises": "Suite 143"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Hazel Ojo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-08-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "548-550 Elder Gate",
+          "country": "United Kingdom",
+          "locality": "Milton Keynes",
+          "postal_code": "MK9 1LR",
+          "premises": "Suite 143"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-12-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEIF0EN7",
+        "transaction_id": "MzQ5NjYwNDYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-29",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEIF0F21",
+        "transaction_id": "MzQ5NjYwNDgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEIF0EC1",
+        "transaction_id": "MzQ5NjYwNDYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEBPM1D4",
+        "transaction_id": "MzQ4MjMwMjkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XE5EIKHE",
+        "transaction_id": "MzQ3MTMwMTc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDIOPHD",
+        "transaction_id": "MzQzOTE1MTM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XD54ONY9",
+        "transaction_id": "MzQyNTA1ODY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCCEBS08",
+        "transaction_id": "MzM5MzU5NjY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XC62C75L",
+        "transaction_id": "MzM4MzUxMDM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDHUOMY",
+        "transaction_id": "MzM1MzM4MDU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XB4SPU1D",
+        "transaction_id": "MzM0MDY2NzQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAD2NQNS",
+        "transaction_id": "MzMxMzkzODcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-08-18",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XAB5G26R",
+        "transaction_id": "MzMxMTA1MjY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-08-18",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XAB5G1RM",
+        "transaction_id": "MzMxMTA1MjU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAB5G1UH",
+        "transaction_id": "MzMxMTA1MjU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-18",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XAB5G1MU",
+        "transaction_id": "MzMxMTA1MjU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XA1JEO85",
+        "transaction_id": "MzI5NjcwODI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DNK1HM",
+        "transaction_id": "MzI3NzY3OTkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X904LPN4",
+        "transaction_id": "MzI1ODkyNTYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8E4DAYP",
+        "transaction_id": "MzI0NDMwMjg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X86MYUPC",
+        "transaction_id": "MzIzNTgzMTgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7FB5Q88",
+        "transaction_id": "MzIxNTQ4NDY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-07-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7A1A4E2",
+        "transaction_id": "MzIwOTYyMTg0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X72TKQIH",
+        "transaction_id": "MzIwMTQ4ODUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6F12WMW",
+        "transaction_id": "MzE4NTQzMTEwMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 42,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://2nch.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Primavera P6 EPPM",
+      "Tilos",
+      "Microsoft Project",
+      "Synchro 4D"
+    ],
+    "business_keywords": [
+      "Project Management Consulting",
+      "Training",
+      "Enterprise Project Management",
+      "Risk Management",
+      "Earned Value Management",
+      "Portfolio Management",
+      "Dashboard Reporting",
+      "Risk Analysis",
+      "Scheduling Services",
+      "EVMS Tool Selection",
+      "Data Analysis",
+      "Variance Analysis",
+      "Performance Metrics",
+      "Project Lifecycle Support",
+      "Tool Selection"
+    ],
+    "services": [
+      "Portfolio/Project Management Tool Selection",
+      "Dashboard Reporting",
+      "Risk Management Tool Selection",
+      "Risk Analysis Service",
+      "Risk Monitoring",
+      "Business Impact and Risk Analysis",
+      "EVMS Tool Selection",
+      "Scheduling Services",
+      "Earned Value Data Analysis and Reporting",
+      "Variance Analysis Thresholds",
+      "Sources of Variances Analysis",
+      "Performance Metrics Analysis",
+      "Estimate at Complete Sources Analysis",
+      "Statistical Estimate at Complete Tools"
+    ],
+    "customer_segments": [
+      "Organizations with the need for EVMS",
+      "Companies seeking to adopt leading Portfolio/Project management aptitudes"
+    ],
+    "business_description": "2NCH LIMITED provides project management consulting and training, specializing in enterprise project management, risk management, and earned value management. The company offers tool selection, scheduling, risk analysis, and data reporting services to optimize project performance and support clients throughout the project lifecycle.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:43:46.032Z"
+  },
+  "scraped_at": "2026-01-10T08:43:37.232Z",
+  "updated_at": "2026-01-10T08:43:46.032Z",
+  "version": 1
+}

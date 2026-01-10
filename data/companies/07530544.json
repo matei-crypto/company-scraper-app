@@ -1,0 +1,419 @@
+{
+  "company_name": "PASAPAS UK LIMITED",
+  "company_number": "07530544",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-02-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 Crossways London Road, Sunninghill, Ascot, Berkshire, SL5 0PY, England",
+  "registered_address_structured": {
+    "address_line_1": "9 Crossways London Road",
+    "address_line_2": "Sunninghill",
+    "country": "England",
+    "locality": "Ascot",
+    "postal_code": "SL5 0PY",
+    "region": "Berkshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-05",
+    "last_made_up_to": "2025-11-21",
+    "next_made_up_to": "2026-11-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LIBOSVAR, Camille",
+        "officer_role": "director",
+        "appointed_on": "2013-01-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1964,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Crossways",
+          "address_line_2": "London Road",
+          "country": "United Kingdom",
+          "locality": "Sunninghill",
+          "postal_code": "SL5 0PL",
+          "premises": "9",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "METCALF, Martin Edward",
+        "officer_role": "director",
+        "appointed_on": "2011-02-15",
+        "resigned_on": "2013-01-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Stanhope Road",
+          "country": "United Kingdom",
+          "locality": "Camberley",
+          "postal_code": "GU15 3DW",
+          "premises": "6 Stanhope Gate",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "OLIVER, Audie",
+        "officer_role": "director",
+        "appointed_on": "2011-04-07",
+        "resigned_on": "2011-09-02",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Stanhope Road",
+          "country": "United Kingdom",
+          "locality": "Camberley",
+          "postal_code": "GU15 3DW",
+          "premises": "6 Stanhope Gate",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "TAYLOR, Richard",
+        "officer_role": "director",
+        "appointed_on": "2011-07-06",
+        "resigned_on": "2023-03-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Road",
+          "address_line_2": "Sunninghill",
+          "country": "England",
+          "locality": "Ascot",
+          "postal_code": "SL5 0PY",
+          "premises": "9 Crossways",
+          "region": "Berkshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Camille Libosvar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2023-08-30",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1964,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Road",
+          "address_line_2": "Sunninghill",
+          "country": "England",
+          "locality": "Ascot",
+          "postal_code": "SL5 0PL",
+          "premises": "9"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "075305440001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-11",
+        "delivered_on": "2020-06-16",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-08-09",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEFTI0LC",
+        "transaction_id": "MzQ5MDM0NzczOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDXN570X",
+        "transaction_id": "MzQ1NzIzNDM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDGO7Z23",
+        "transaction_id": "MzQ0NDkxOTg5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD2275P7",
+        "transaction_id": "MzQyMDAxOTE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCGR4DIP",
+        "transaction_id": "MzQwMTAxMzMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-21",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XCGR4BFC",
+        "transaction_id": "MzQwMTAxMjg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-21",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCGR4AD5",
+        "transaction_id": "MzQwMTAxMjU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-08",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "AC0RGOA0",
+        "transaction_id": "MzM3NTQ1OTg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBZSKZKP",
+        "transaction_id": "MzM3MzQyNzg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBVDO3RD",
+        "transaction_id": "MzM2NjA1Mzc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-08-09",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBA0B3R6",
+        "transaction_id": "MzM0ODE4MDU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB9KDWIY",
+        "transaction_id": "MzM0NzU3MzUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-10",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAZHQ84X",
+        "transaction_id": "MzMzMjQzNzY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYW9BBC",
+        "transaction_id": "MzMzMTUxMjE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA2KKP40",
+        "transaction_id": "MzI5Nzk3MDk5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9Z4REBC",
+        "transaction_id": "MzI5MjcyNDI5N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X97C2TP7",
+        "transaction_id": "MzI2NzQ2ODAwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8ZBC9BN",
+        "transaction_id": "MzI1NzkxMjg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Z0L3N6",
+        "transaction_id": "MzI1NzM4OTAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X80AZ5RV",
+        "transaction_id": "MzIyODMyODg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7ZUUF8J",
+        "transaction_id": "MzIyNzY5MTQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X794T28A",
+        "transaction_id": "MzIwODY1NzIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X704TEG9",
+        "transaction_id": "MzE5ODA2MDg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-07-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X6BC9XVT",
+        "transaction_id": "MzE4MTI2Mzk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-02-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X60N5FCR",
+        "transaction_id": "MzE2OTI5Njk5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 52,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Pasapas-sap-support.co.uk",
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T09:11:53.203Z",
+  "scraped_at": "2026-01-10T09:11:53.203Z"
+}

@@ -1,0 +1,406 @@
+{
+  "company_name": "PHOENIX BIZ SOLUTIONS LTD",
+  "company_number": "07728683",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-08-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "6 Ruperra Close, Old St. Mellons, Cardiff, CF3 6HX, Wales",
+  "registered_address_structured": {
+    "address_line_1": "6 Ruperra Close",
+    "address_line_2": "Old St. Mellons",
+    "country": "Wales",
+    "locality": "Cardiff",
+    "postal_code": "CF3 6HX"
+  },
+  "sic_codes": [
+    "59111",
+    "62012",
+    "62020",
+    "82990"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-29",
+    "last_made_up_to": "2025-01-15",
+    "next_made_up_to": "2026-01-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SINGH, Sudeep",
+        "officer_role": "director",
+        "appointed_on": "2011-08-04",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Ruperra Close",
+          "address_line_2": "Old St. Mellons",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF3 6HX",
+          "premises": "6"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Trinetra Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-11-14",
+        "address": {
+          "address_line_1": "Building 1 Eastern Business Park",
+          "address_line_2": "St Mellons",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Suite 2d"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "16048925"
+        }
+      },
+      {
+        "name": "Mr Sudeep Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-11-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Rhodfa Lewis",
+          "address_line_2": "Riverwalk",
+          "country": "Wales",
+          "locality": "Old St Mellons",
+          "premises": "27",
+          "region": "Cardiff"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE9TTUA8",
+        "transaction_id": "MzQ3ODc2OTY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-08-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE8V7HQW",
+        "transaction_id": "MzQ3NzEwNTIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE6ZL9AP",
+        "transaction_id": "MzQ3NDEwMDgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDU9CGI1",
+        "transaction_id": "MzQ1MTMzMDg5NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-21",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDGDC4OB",
+        "transaction_id": "MzQ0NDQxMzI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-19",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDG808L7",
+        "transaction_id": "MzQ0NDEzMzkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDCRAHQJ",
+        "transaction_id": "MzQzNzY5MzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCZQISWR",
+        "transaction_id": "MzQxNjI4NzcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBZSLE77",
+        "transaction_id": "MzM3MzQzMTA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBZSLDQ8",
+        "transaction_id": "MzM3MzQzMDk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBEMCSZE",
+        "transaction_id": "MzM1NTIxMzI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB4MYJHV",
+        "transaction_id": "MzM0MDE1ODk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB0E3C0Q",
+        "transaction_id": "MzMzMzgzMzc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAZY30BS",
+        "transaction_id": "MzMzMzIxMDg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAC6RJ1C",
+        "transaction_id": "MzMxMjY1Nzk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA5FH5E0",
+        "transaction_id": "MzMwMjY2NDg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9WW2LVE",
+        "transaction_id": "MzI4OTUzMDE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-01-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9W2TCXU",
+        "transaction_id": "MzI4ODQ5OTM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-01-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9VPLQ1M",
+        "transaction_id": "MzI4ODAyMjIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CPCRD6",
+        "transaction_id": "MzI3Njc1MTY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X93V3HZT",
+        "transaction_id": "MzI2MzMxMjkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8CANFPM",
+        "transaction_id": "MzI0MjI1MzM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X802TCKG",
+        "transaction_id": "MzIyNzk5ODUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7CQZI7D",
+        "transaction_id": "MzIxMjQzMDM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X72RM36J",
+        "transaction_id": "MzIwMTM4NTI5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 42,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Phoenixbizsolutions.com",
+    "headcount": 6,
+    "tech_stack": [
+      "DMS – The Daily Deal ERP",
+      "eCommerce Pro",
+      "element (business website)",
+      "Repeats On (repeat prescription management solution)"
+    ],
+    "business_keywords": [
+      "digital solutions",
+      "IT solutions",
+      "business growth consultants",
+      "ERP system",
+      "eCommerce",
+      "product management",
+      "store operation",
+      "web presence",
+      "repeat prescription management",
+      "API Integration",
+      "B2B System Integration",
+      "Business Process Outsourcing",
+      "Buyer/Supplier Automation",
+      "technology partner",
+      "cloud-based solutions"
+    ],
+    "services": [
+      "IT Services",
+      "API Integration",
+      "B2B System Integration",
+      "Business Process Outsourcing",
+      "Buyer / Supplier Automation"
+    ],
+    "customer_segments": [
+      "Daily Deal Merchants",
+      "Agents",
+      "retail traders",
+      "wholesale traders",
+      "businesses seeking growth and adaptability"
+    ],
+    "business_description": "Phoenix Biz Solutions provides digital and IT solutions designed to incorporate technology into business and revenue-building tools. They offer expert consultation, business growth strategies, and a range of products and services, including ERP systems, eCommerce solutions, and cloud-based tools, aimed at simplifying complex business requirements and supporting client growth.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:45:21.323Z"
+  },
+  "scraped_at": "2026-01-10T09:45:15.626Z",
+  "updated_at": "2026-01-10T09:45:21.322Z",
+  "version": 1
+}

@@ -1,0 +1,424 @@
+{
+  "company_name": "NW PRO LIMITED",
+  "company_number": "08031409",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-04-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "Priory Business Park, Stannard Way, Bedford, MK44 3WG, England",
+  "registered_address_structured": {
+    "address_line_1": "Priory Business Park",
+    "address_line_2": "Stannard Way",
+    "country": "England",
+    "locality": "Bedford",
+    "postal_code": "MK44 3WG"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NETACCESS NP LIMITED",
+      "ceased_on": "2013-06-27",
+      "effective_from": "2012-04-16"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-30",
+    "last_made_up_to": "2025-04-16",
+    "next_made_up_to": "2026-04-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RICHARDS, Aniko",
+        "officer_role": "director",
+        "appointed_on": "2012-07-09",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1974,
+        "nationality": "Hungarian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Stannard Way",
+          "country": "England",
+          "locality": "Bedford",
+          "postal_code": "MK44 3WG",
+          "premises": "Priory Business Park"
+        }
+      },
+      {
+        "name": "RICHARDS, Jay Peter",
+        "officer_role": "director",
+        "appointed_on": "2019-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stannard Way",
+          "country": "England",
+          "locality": "Bedford",
+          "postal_code": "MK44 3WG",
+          "premises": "Priory Business Park"
+        }
+      },
+      {
+        "name": "RICHARDS, Peter Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2012-04-16",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stannard Way",
+          "country": "England",
+          "locality": "Bedford",
+          "postal_code": "MK44 3WG",
+          "premises": "Priory Business Park"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Peter Nicholas Richards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stannard Way",
+          "country": "England",
+          "locality": "Bedford",
+          "postal_code": "MK44 3WG",
+          "premises": "Priory Business Park"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "080314090001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-10-22",
+        "delivered_on": "2020-10-23",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEHYZ32A",
+        "transaction_id": "MzQ5NTc5MTkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE1F8L76",
+        "transaction_id": "MzQ2NDIxOTUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYMC1M3",
+        "transaction_id": "MzQ1OTA3MTMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYMC15F",
+        "transaction_id": "MzQ1OTA3MTE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYMC117",
+        "transaction_id": "MzQ1OTA3MTA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYMAOFD",
+        "transaction_id": "MzQ1OTA1OTMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDYM7JQR",
+        "transaction_id": "MzQ1OTAzMTUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDHQCLSZ",
+        "transaction_id": "MzQ0Njk0ODYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD15OZPN",
+        "transaction_id": "MzQxODUyNjkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XCHVO66A",
+        "transaction_id": "MzQwMjk1NTU3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1NZJPN",
+        "transaction_id": "MzM3NjU1NTY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBJ6CB23",
+        "transaction_id": "MzM2Mjg5NzczMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB2X9E2J",
+        "transaction_id": "MzMzNzY3NDMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB2UNNDS",
+        "transaction_id": "MzMzNzU1NjkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB2UNNJ4",
+        "transaction_id": "MzMzNzU1Njk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB2UNMQO",
+        "transaction_id": "MzMzNzU1NjgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-04-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB2UNMBM",
+        "transaction_id": "MzMzNzU1NjcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB2UNM29",
+        "transaction_id": "MzMzNzU1NjU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AAF9BLQR",
+        "transaction_id": "MzMxNzMwMTQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2KM3CX",
+        "transaction_id": "MzI5Nzk4MzU0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-10-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9G97DV5",
+        "transaction_id": "MzI4MTQ2MTM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A9DG1XZ7",
+        "transaction_id": "MzI3Nzk4MzE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9460UW8",
+        "transaction_id": "MzI2Mzc1MDk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93COUYP",
+        "transaction_id": "MzI2MjcyMDEzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A8CER7ND",
+        "transaction_id": "MzI0MjYyNDcxNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Deeper-scan.com",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "artificial intelligence",
+      "security",
+      "efficiency",
+      "monitoring systems",
+      "detection systems",
+      "innovative solutions",
+      "computer vision",
+      "security systems",
+      "CCTV",
+      "aviation",
+      "national infrastructure"
+    ],
+    "services": [
+      "providing innovative solutions for monitoring and detection systems",
+      "harnessing the power of artificial intelligence in monitoring and detection systems"
+    ],
+    "customer_segments": [
+      "organisations",
+      "aviation",
+      "national infrastructure"
+    ],
+    "business_description": "NW PRO LIMITED helps organisations harness the power of artificial intelligence in their monitoring and detection systems by providing innovative, security and efficiency-focused solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:39:23.574Z"
+  },
+  "scraped_at": "2026-01-10T10:39:20.228Z",
+  "updated_at": "2026-01-10T10:39:23.573Z",
+  "version": 1
+}

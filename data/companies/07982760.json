@@ -1,0 +1,455 @@
+{
+  "company_name": "VOODOO PARK LIMITED",
+  "company_number": "07982760",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-03-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "3 Hanbury Drive, Leytonstone, London, E11 1GA, England",
+  "registered_address_structured": {
+    "address_line_1": "3 Hanbury Drive",
+    "address_line_2": "Leytonstone",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E11 1GA"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "DIGITAL CHOCOLATE LIMITED",
+      "ceased_on": "2013-07-08",
+      "effective_from": "2012-03-08"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-22",
+    "last_made_up_to": "2025-03-08",
+    "next_made_up_to": "2026-03-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GLENNIE, David Stephen",
+        "officer_role": "director",
+        "appointed_on": "2012-03-08",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hanbury Drive",
+          "address_line_2": "Leytonstone",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E11 1GA",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "POWER, Michael Anthony William",
+        "officer_role": "director",
+        "appointed_on": "2022-04-01",
+        "resigned_on": "2024-08-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Hanbury Drive",
+          "address_line_2": "Leytonstone",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E11 1GA",
+          "premises": "3"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr David Stephen Glennie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hanbury Drive",
+          "address_line_2": "Leytonstone",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E11 1GA",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "079827600002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-03-15",
+        "delivered_on": "2022-03-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "079827600001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-05-29",
+        "delivered_on": "2018-05-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Marketinvoice Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEG73VWP",
+        "transaction_id": "MzQ5MTMwMDQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZ5OW2X",
+        "transaction_id": "MzQ2MDIzNTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDBKARHU",
+        "transaction_id": "MzQzNTY0MTI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-30",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDAL89XL",
+        "transaction_id": "MzQzMzk3MTA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD2AP8RL",
+        "transaction_id": "MzQyMDUzNTI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYO68UR",
+        "transaction_id": "MzQxNDA0Mjk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCIPF8Q3",
+        "transaction_id": "MzQwNDc4MzA3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-06-28",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUM1UjVVMVZhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-06-28",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "AC5R5U1N",
+        "transaction_id": "MzM4MzM1OTgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYWJ37C",
+        "transaction_id": "MzM3MjExMTg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBJHMP9L",
+        "transaction_id": "MzM2MzYyOTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-16",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB6AC6C3",
+        "transaction_id": "MzM0Mjc4NDE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 16,
+        "barcode": "XB08H63E",
+        "transaction_id": "MzMzMzQ0MDc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZF4TFV",
+        "transaction_id": "MzMzMjM0OTc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAJY3TCJ",
+        "transaction_id": "MzMyNDYyODYyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ZVLGNV",
+        "transaction_id": "MzI5Mzc2NDkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9Y0DXRC",
+        "transaction_id": "MzI5MTA1MTQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-05-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X951ONSP",
+        "transaction_id": "MzI2NDc4ODUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-05-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X951ONFN",
+        "transaction_id": "MzI2NDc4ODQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X90HWZUH",
+        "transaction_id": "MzI1OTQxMDc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8KPKQOH",
+        "transaction_id": "MzI1MjczODkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8119Q7V",
+        "transaction_id": "MzIyOTA0NTA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-03-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8119PV6",
+        "transaction_id": "MzIyOTA0NDk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7LZGJ4I",
+        "transaction_id": "MzIyMzMyNTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-05-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 36,
+        "barcode": "X76YFAFT",
+        "transaction_id": "MzIwNjA1NzAyMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Voodoopark.com",
+    "headcount": 7,
+    "tech_stack": [
+      "285 different software technologies (unspecified)"
+    ],
+    "business_keywords": [
+      "B Corp",
+      "AI platform",
+      "no-code",
+      "agentic AI",
+      "software development",
+      "full stack development",
+      "large-scale systems",
+      "complex systems",
+      "managed service",
+      "support",
+      "maintenance",
+      "enhancement",
+      "sprint teams",
+      "remote teams",
+      "virtual teams",
+      "financial services technology",
+      "digital project",
+      "regulatory compliance"
+    ],
+    "services": [
+      "No-code agentic AI platform (Aime) development, training, and deployment",
+      "End-to-end project development from idea to production",
+      "Fully managed service for systems support, maintenance, and enhancement",
+      "Customizable support hours and SLAs for mission-critical and lower priority systems",
+      "Dedicated sprint teams integrated with client teams and processes",
+      "Full stack development services"
+    ],
+    "customer_segments": [
+      "Financial services industry",
+      "Wealth management",
+      "Pension platforms",
+      "Tax services (e.g., transfer tax)",
+      "Regulated industries (e.g., rail systems, medical, financial)",
+      "Large companies",
+      "Small companies",
+      "Digital operations teams",
+      "Marketing and communications teams",
+      "CIOs and IT departments"
+    ],
+    "business_description": "Voodoo Park Limited is a certified B Corp specializing in better technology solutions for the financial services industry. The company offers a no-code agentic AI platform called Aime, end-to-end software development, fully managed services, and dedicated sprint teams to support projects from concept to production and maintenance. They serve a global client base across regulated and complex industries.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:32:26.795Z"
+  },
+  "scraped_at": "2026-01-10T10:32:18.612Z",
+  "updated_at": "2026-01-10T10:32:26.795Z",
+  "version": 1
+}

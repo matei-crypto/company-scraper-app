@@ -1,0 +1,445 @@
+{
+  "company_name": "THE MOTORING TEAM LIMITED",
+  "company_number": "08273053",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-10-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "50 Woodgate, Leicester, LE3 5GF",
+  "registered_address_structured": {
+    "address_line_1": "50 Woodgate",
+    "locality": "Leicester",
+    "postal_code": "LE3 5GF"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MOTORING HUB UK LIMITED",
+      "ceased_on": "2016-04-08",
+      "effective_from": "2012-10-30"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-06",
+    "last_made_up_to": "2025-08-23",
+    "next_made_up_to": "2026-08-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RASHID, Mamun",
+        "officer_role": "director",
+        "appointed_on": "2012-10-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Woodgate",
+          "country": "United Kingdom",
+          "locality": "Leicester",
+          "postal_code": "LE3 5GF",
+          "premises": "50"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mamun Rashid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-10-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Woodgate",
+          "locality": "Leicester",
+          "postal_code": "LE3 5GF",
+          "premises": "50"
+        }
+      },
+      {
+        "name": "R & Sons Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-05-27",
+        "ceased_on": "2016-05-27",
+        "address": {
+          "address_line_1": "Woodgate",
+          "country": "England",
+          "locality": "Leicester",
+          "postal_code": "LE3 5GF",
+          "premises": "50"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England",
+          "country_registered": "Uk",
+          "place_registered": "England",
+          "registration_number": "08659975"
+        }
+      },
+      {
+        "name": "R & Sons Investments Limiited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-05-27",
+        "address": {
+          "address_line_1": "Woodgate",
+          "country": "England",
+          "locality": "Leicester",
+          "postal_code": "LE3 5GF",
+          "premises": "50"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England",
+          "country_registered": "Ukraine",
+          "place_registered": "England",
+          "registration_number": "08659975"
+        }
+      },
+      {
+        "name": "Mr Mamun Rashid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Woodgate",
+          "locality": "Leicester",
+          "postal_code": "LE3 5GF",
+          "premises": "50"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "082730530002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-09-13",
+        "delivered_on": "2018-09-13",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "082730530001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-08-01",
+        "delivered_on": "2018-08-01",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEBMTQJK",
+        "transaction_id": "MzQ4MjExNzMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE9R3HXT",
+        "transaction_id": "MzQ3ODU5MDg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDCJJL0P",
+        "transaction_id": "MzQzNzU2MTA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDA2KNLN",
+        "transaction_id": "MzQzMzI0NTQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCBYGXLF",
+        "transaction_id": "MzM5MjgxMDY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAJJQ96",
+        "transaction_id": "MzM5MDU3ODkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBB1F2PK",
+        "transaction_id": "MzM0OTQ2NTA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBB1F1PF",
+        "transaction_id": "MzM0OTQ2NDgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XBB1EQYH",
+        "transaction_id": "MzM0OTQ2MDI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB7ZY55D",
+        "transaction_id": "MzM0NTIyMzY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XB7JYKG3",
+        "transaction_id": "MzM0NDYxOTYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XADFUIRU",
+        "transaction_id": "MzMxNDMwODYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA8K2NBL",
+        "transaction_id": "MzMwNzQyMTQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X9BR2FFL",
+        "transaction_id": "MzI3NTY3MTUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9AQ4YIO",
+        "transaction_id": "MzI3NDUyOTExM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8CVJ2F6",
+        "transaction_id": "MzI0Mjg5MTk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X89I7YE8",
+        "transaction_id": "MzIzOTEzNzU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-09-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 30,
+        "barcode": "X7ED7N23",
+        "transaction_id": "MzIxNDQyMzI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-08-01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 43,
+        "barcode": "X7BEWOY2",
+        "transaction_id": "MzIxMTE1MzQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-07-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X79XJ1QZ",
+        "transaction_id": "MzIwOTUzNzI4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X79XJ5E0",
+        "transaction_id": "MzIwOTUzNzQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-04-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X74AHHMH",
+        "transaction_id": "MzIwMzA0MzY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6AKL2SA",
+        "transaction_id": "MzE4MDQ4MjM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-07-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X6AKKU2Y",
+        "transaction_id": "MzE4MDQ4MjEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X67JTAXL",
+        "transaction_id": "MzE3NjkzMzczNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Themotoringteam.co.uk",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T11:16:46.206Z",
+  "scraped_at": "2026-01-10T11:16:46.206Z"
+}

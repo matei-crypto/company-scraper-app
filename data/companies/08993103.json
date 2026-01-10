@@ -1,0 +1,532 @@
+{
+  "company_name": "MAY BUSINESS CONSULTING LTD",
+  "company_number": "08993103",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-04-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "47b High Street, Stony Stratford, Milton Keynes, MK11 1AA, England",
+  "registered_address_structured": {
+    "address_line_1": "47b High Street",
+    "address_line_2": "Stony Stratford",
+    "country": "England",
+    "locality": "Milton Keynes",
+    "postal_code": "MK11 1AA"
+  },
+  "sic_codes": [
+    "62020",
+    "70229"
+  ],
+  "previous_company_names": [
+    {
+      "name": "VENTURALIA LTD",
+      "ceased_on": "2014-06-11",
+      "effective_from": "2014-04-11"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-16",
+    "last_made_up_to": "2025-04-02",
+    "next_made_up_to": "2026-04-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MENDES MAY, Mayra",
+        "officer_role": "director",
+        "appointed_on": "2014-11-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1986,
+        "nationality": "Luxembourger",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stony Stratford",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK11 1AA",
+          "premises": "47b High Street",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "SAINZ DE LA CRUZ, Angel, Mr. Mba",
+        "officer_role": "director",
+        "appointed_on": "2014-04-11",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1981,
+        "nationality": "Spanish",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "School Lane",
+          "country": "United Kingdom",
+          "locality": "Buckingham",
+          "postal_code": "MK18 1HD",
+          "premises": "Chandos House",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "CRUZ, Alfonso",
+        "officer_role": "director",
+        "appointed_on": "2015-02-25",
+        "resigned_on": "2023-04-25",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1980,
+        "nationality": "Spanish",
+        "country_of_residence": "Spain",
+        "address": {
+          "country": "Spain",
+          "locality": "Madrid",
+          "postal_code": "28  013",
+          "premises": "74 5 Centro-Izq Calle Mayor"
+        }
+      },
+      {
+        "name": "VIOLETA, Concepcion",
+        "officer_role": "director",
+        "appointed_on": "2015-02-26",
+        "resigned_on": "2015-10-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1988,
+        "nationality": "Spanish",
+        "country_of_residence": "Spain",
+        "address": {
+          "address_line_1": "C/ Republica Argentina, 33a",
+          "country": "Spain",
+          "locality": "Sevilla",
+          "postal_code": "41011",
+          "premises": "33 Portal A",
+          "region": "Sevilla"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CRUZ, Alfonso",
+        "officer_role": "secretary",
+        "appointed_on": "2014-06-04",
+        "resigned_on": "2015-02-26",
+        "address": {
+          "address_line_1": "Calle Mayor",
+          "country": "Spain",
+          "locality": "Madrid",
+          "postal_code": "28013",
+          "premises": "74 5 Centro-Izq"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Izertis S.A.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-04-08",
+        "address": {
+          "address_line_1": "Av. Jardín Botánico, 1345",
+          "address_line_2": "Zona Intra. C.P. 33203",
+          "country": "Spain",
+          "locality": "Gijón",
+          "premises": "1345",
+          "region": "Asturias"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Ley De Sociedades De Capital (Spain)",
+          "country_registered": "Spain",
+          "place_registered": "Registro Mercantil De Asturias",
+          "registration_number": "A33845009"
+        }
+      },
+      {
+        "name": "Cruz Y Sainz Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-04-02",
+        "ceased_on": "2025-04-08",
+        "address": {
+          "address_line_1": "Stony Stratford",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK11 1AA",
+          "premises": "47b High Street",
+          "region": "Buckinghamshire"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "English Law - Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "11669867"
+        }
+      },
+      {
+        "name": "Mrs Mayra Mendes May",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2024-05-01",
+        "ceased_on": "2025-04-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1986,
+        "nationality": "Brazilian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stony Stratford",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK11 1AA",
+          "premises": "47b High Street",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "Mr. Mba Angel Sainz De La Cruz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-12",
+        "ceased_on": "2025-04-02",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1981,
+        "nationality": "Spanish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "address_line_2": "Stony Stratford",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK11 1AA",
+          "premises": "47b"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEBVJLCH",
+        "transaction_id": "MzQ4MjgyOTE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-31",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE7YOVIJ",
+        "transaction_id": "MzQ3NTc3ODY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-31",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE7YOS5U",
+        "transaction_id": "MzQ3NTc3NzkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDZP5P8P",
+        "transaction_id": "MzQ2MTMwODQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDZP5OOO",
+        "transaction_id": "MzQ2MTMwODI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDZP5RM1",
+        "transaction_id": "MzQ2MTMwODkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDZP5PXE",
+        "transaction_id": "MzQ2MTMwODUzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYJMSIG",
+        "transaction_id": "MzQ1ODkxMjA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-18",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XDYJN083",
+        "transaction_id": "MzQ1ODkxMzY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDYJMSPL",
+        "transaction_id": "MzQ1ODkxMjE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-28",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDXCCNNC",
+        "transaction_id": "MzQ1Njg1NjM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDVE1WKW",
+        "transaction_id": "MzQ1MzMyNzY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDGANUBN",
+        "transaction_id": "MzQ0NDI3NjU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCVTESCX",
+        "transaction_id": "MzQwOTMwMjgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCVTD3K2",
+        "transaction_id": "MzQwOTI4ODE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFXK2QB",
+        "transaction_id": "MzM5OTQwNzcyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-25",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC26YPZC",
+        "transaction_id": "MzM3NzUyMjA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC26YPQY",
+        "transaction_id": "MzM3NzUyMjAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC26YPTF",
+        "transaction_id": "MzM3NzUyMTk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC26YPG1",
+        "transaction_id": "MzM3NzUyMTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBW4IEXT",
+        "transaction_id": "MzM2NzM0NDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHO809V",
+        "transaction_id": "MzM1OTk0NjExMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAWVHFZ6",
+        "transaction_id": "MzMyODMwNzY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAIW1081",
+        "transaction_id": "MzMyMjg3NTY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9VPP0L4",
+        "transaction_id": "MzI4ODA1Mzc0MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 57,
+    "recent_filings_count": 12
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Maybusiness.co.uk",
+    "headcount": 15,
+    "tech_stack": [
+      "Cloud-based platform"
+    ],
+    "business_keywords": [
+      "customer engagement",
+      "technology partner",
+      "operations partner",
+      "growth objectives",
+      "transformation challenges",
+      "independent consultants",
+      "in-house experts",
+      "project teams",
+      "faster insights",
+      "deeper skills",
+      "client experiences",
+      "specialist resources",
+      "complex implementation projects",
+      "technology challenges",
+      "operations challenges"
+    ],
+    "services": [
+      "custom project teams",
+      "specialist resources",
+      "complex implementation projects",
+      "technology and operations challenges",
+      "management muscle and toolset for programmes",
+      "expert developers",
+      "onboarding staff",
+      "bank-grade financial services consulting",
+      "payments expertise",
+      "Cloud-based platform migration"
+    ],
+    "customer_segments": [
+      "retail/consumer",
+      "industrials",
+      "healthcare",
+      "financial services",
+      "tech",
+      "media",
+      "telecoms",
+      "utilities",
+      "B2B services",
+      "public sector",
+      "fintech",
+      "energy trading",
+      "payments"
+    ],
+    "business_description": "May Business Consulting is a trusted technology and operations partner that works with ambitious businesses across multiple sectors to achieve growth objectives and overcome transformation challenges. They provide custom project teams, specialist resources, and deep expertise in areas like financial services, payments, and technology implementation, leveraging in-house experts and independent consultants.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:09:06.075Z"
+  },
+  "scraped_at": "2026-01-10T13:08:59.992Z",
+  "updated_at": "2026-01-10T13:09:06.074Z",
+  "version": 1
+}

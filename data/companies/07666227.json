@@ -1,0 +1,467 @@
+{
+  "company_name": "DUADATA LIMITED",
+  "company_number": "07666227",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-06-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "140 Brompton Road, London, SW3 1HY, England",
+  "registered_address_structured": {
+    "address_line_1": "140 Brompton Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW3 1HY"
+  },
+  "sic_codes": [
+    "56102",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-26",
+    "next_accounts_period_end_on": "2025-09-26",
+    "next_accounts_period_start_on": "2024-09-27",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-26",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 26,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-24",
+    "last_made_up_to": "2025-06-10",
+    "next_made_up_to": "2026-06-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GOH, Yi Ping",
+        "officer_role": "director",
+        "appointed_on": "2011-06-10",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1982,
+        "nationality": "Malaysian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brompton Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW3 1HY",
+          "premises": "140"
+        }
+      },
+      {
+        "name": "KHAW, Chuan Hong",
+        "officer_role": "director",
+        "appointed_on": "2011-06-10",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1982,
+        "nationality": "Malaysian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brompton Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW3 1HY",
+          "premises": "140"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Satu Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2024-04-19",
+        "address": {
+          "address_line_1": "Brompton Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW3 1HY",
+          "premises": "140"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales",
+          "registration_number": "15659136"
+        }
+      },
+      {
+        "name": "Mr Chuan Hong Khaw",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-04-19",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1982,
+        "nationality": "Malaysian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Thistle Drive",
+          "country": "England",
+          "locality": "Hatfield",
+          "postal_code": "AL10 9FQ",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "Mrs Yi Ping Goh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-04-19",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1982,
+        "nationality": "Malaysian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Thistle Drive",
+          "country": "England",
+          "locality": "Hatfield",
+          "postal_code": "AL10 9FQ",
+          "premises": "1"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "076662270003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-03-22",
+        "delivered_on": "2022-03-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-10-06",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "076662270002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-06-07",
+        "delivered_on": "2021-06-14",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A general pledge.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "076662270001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-02-18",
+        "delivered_on": "2019-02-20",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEHZ2FAW",
+        "transaction_id": "MzQ5NTgyNjk0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-23",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEBPK9KW",
+        "transaction_id": "MzQ4MjI5NDQyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-26",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE5JW7D6",
+        "transaction_id": "MzQ3MTYxOTA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4I5GZ6",
+        "transaction_id": "MzQ2OTcwMzcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDCDS3G0",
+        "transaction_id": "MzQzNzE3MzM2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-25",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD60VIMO",
+        "transaction_id": "MzQyNjUyNjc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD4Z2K6Q",
+        "transaction_id": "MzQyNDcwMDQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-24",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD3SDRPC",
+        "transaction_id": "MzQyMzA5ODI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD3SDGSY",
+        "transaction_id": "MzQyMzA5NTY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD3SDF8A",
+        "transaction_id": "MzQyMzA5NTMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-13",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 9,
+        "barcode": "ACD2OR54",
+        "transaction_id": "MzM5NjA3NzY5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCC3X62Q",
+        "transaction_id": "MzM5MzMyNDk1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-15",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC5RLLQY",
+        "transaction_id": "MzM4MzExODUyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC5JE0E0",
+        "transaction_id": "MzM4MjUzNTYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1APZ7L",
+        "transaction_id": "MzM3NTk4MDIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1APXR0",
+        "transaction_id": "MzM3NTk3ODQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-10-06",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBE121XU",
+        "transaction_id": "MzM1NDMxNzI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBDNGHPC",
+        "transaction_id": "MzM1MzcxMjQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBB4B8NN",
+        "transaction_id": "MzM0OTc2NDcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8AX0HS",
+        "transaction_id": "MzM0NTgzNDczOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "XB0E03JE",
+        "transaction_id": "MzMzMzgwNTI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XADFWQQI",
+        "transaction_id": "MzMxNDMyNjkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7D4DT7",
+        "transaction_id": "MzMwNTY0ODQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-06-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 10,
+        "barcode": "XA6M4IJT",
+        "transaction_id": "MzMwNDMyNTczOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9EP2VQX",
+        "transaction_id": "MzI3OTI4NDQzMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 49,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Duadata.com",
+    "headcount": 25,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T09:35:59.541Z",
+  "scraped_at": "2026-01-10T09:35:59.541Z"
+}

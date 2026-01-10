@@ -1,0 +1,399 @@
+{
+  "company_name": "4 ROADS LIMITED",
+  "company_number": "08085585",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-05-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "48 Priory Road, Kenilworth, Warwickshire, CV8 1LQ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "48 Priory Road",
+    "country": "United Kingdom",
+    "locality": "Kenilworth",
+    "postal_code": "CV8 1LQ",
+    "region": "Warwickshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-11",
+    "last_made_up_to": "2025-05-28",
+    "next_made_up_to": "2026-05-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NASH, Robert John",
+        "officer_role": "director",
+        "appointed_on": "2012-05-28",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Kenilworth",
+          "postal_code": "CV8 1LQ",
+          "premises": "48 Priory Road",
+          "region": "Warwickshire"
+        }
+      },
+      {
+        "name": "MCPHERSON, Gary Robert",
+        "officer_role": "director",
+        "appointed_on": "2012-05-28",
+        "resigned_on": "2015-10-19",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Siskin Drive",
+          "address_line_2": "Middlemarch Business Park",
+          "country": "England",
+          "locality": "Coventry",
+          "postal_code": "CV3 4FJ",
+          "premises": "3"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Robert John Nash",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2017-05-28",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Kenilworth",
+          "postal_code": "CV8 1LQ",
+          "premises": "48 Priory Road",
+          "region": "Warwickshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "080855850001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-02-03",
+        "delivered_on": "2021-02-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Security over cash deposits.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "satisfied_on": "2021-04-14",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEH44HOI",
+        "transaction_id": "MzQ5MzQwNjc4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4NHLRU",
+        "transaction_id": "MzQ3MDAwNjUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-01-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDUC2SEB",
+        "transaction_id": "MzQ1MTQ5MDU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDI9LQ1N",
+        "transaction_id": "MzQ0ODI2OTAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD5NK8ZC",
+        "transaction_id": "MzQyNjA0MDYyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCISA1RK",
+        "transaction_id": "MzQwNDk5NzMyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7HG0QR",
+        "transaction_id": "MzM4NTc4MTAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBJ8Z62P",
+        "transaction_id": "MzM2MzAwMjMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB7C4FPM",
+        "transaction_id": "MzM0NDQ1ODUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAJKBUQR",
+        "transaction_id": "MzMyMzk3ODM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA6BQ04X",
+        "transaction_id": "MzMwNDA5OTg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-04-14",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "AA2EPTGX",
+        "transaction_id": "MzI5ODI3MDg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA0U9BG3",
+        "transaction_id": "MzI5NTA4NzY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-02-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 14,
+        "barcode": "X9XPQEFM",
+        "transaction_id": "MzI5MDY3NjY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X96QOXF6",
+        "transaction_id": "MzI2Njc5MTkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8KMM81S",
+        "transaction_id": "MzI1MjU3NDI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X86KC3BF",
+        "transaction_id": "MzIzNTc1MDI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-20",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7ZPFS88",
+        "transaction_id": "MzIyNzQyNDMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7XVEQ59",
+        "transaction_id": "MzIyNTQwOTk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X77ITPAH",
+        "transaction_id": "MzIwNjc1NjA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-06-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X77ITFNS",
+        "transaction_id": "MzIwNjc1NTczMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-06-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X77IRZ2H",
+        "transaction_id": "MzIwNjc1NDA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X6YQ86UY",
+        "transaction_id": "MzE5NjQ3OTM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X696MDAH",
+        "transaction_id": "MzE3ODc0Mzc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-06-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X696BQIG",
+        "transaction_id": "MzE3ODczMjYyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 37,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://4-roads.com",
+    "headcount": 15,
+    "tech_stack": [],
+    "business_keywords": [
+      "digital experiences",
+      "innovation",
+      "transformation",
+      "Intelligent Self-Service",
+      "communication",
+      "cutting-edge technology",
+      "web development",
+      "digital agency",
+      "customer experience",
+      "strategy",
+      "execution",
+      "projects"
+    ],
+    "services": [],
+    "customer_segments": [
+      "brands"
+    ],
+    "business_description": "4 Roads is an Intelligent Self-Service agency that focuses on revolutionizing digital experiences by simplifying communication, elevating experiences, and inspiring through cutting-edge technology. They help brands improve how they assist their customers and create digital experiences people love.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:46:53.691Z"
+  },
+  "scraped_at": "2026-01-10T10:46:49.152Z",
+  "updated_at": "2026-01-10T10:46:53.690Z",
+  "version": 1
+}

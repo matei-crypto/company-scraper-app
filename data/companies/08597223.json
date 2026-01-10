@@ -1,0 +1,476 @@
+{
+  "company_name": "TAREMTEC LTD",
+  "company_number": "08597223",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-07-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "20 Brockley Cross Business Centre, 96 Endwell Road, London, SE4 2PD, England",
+  "registered_address_structured": {
+    "address_line_1": "20 Brockley Cross Business Centre",
+    "address_line_2": "96 Endwell Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE4 2PD"
+  },
+  "sic_codes": [
+    "62090",
+    "96090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CBSECUREPASS LIMITED",
+      "ceased_on": "2016-02-15",
+      "effective_from": "2015-07-14"
+    },
+    {
+      "name": "FAIRLIVING CARD LIMITED",
+      "ceased_on": "2015-07-14",
+      "effective_from": "2014-07-21"
+    },
+    {
+      "name": "TAREM TRADING LIMITED",
+      "ceased_on": "2014-07-21",
+      "effective_from": "2013-07-04"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-01",
+    "last_made_up_to": "2025-11-17",
+    "next_made_up_to": "2026-11-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KOMOLAFE, Samuel Adetunji",
+        "officer_role": "director",
+        "appointed_on": "2013-07-04",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brockley Cross Business Centre",
+          "address_line_2": "Endwell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE4 2PD",
+          "premises": "Unit 19"
+        }
+      },
+      {
+        "name": "KOMOLAFE, Titus Oluwaseyi",
+        "officer_role": "director",
+        "appointed_on": "2013-12-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "96 Endwell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE4 2PD",
+          "premises": "20 Brockley Cross Business Centre"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "KOMOLAFE, Samuel Adetunji",
+        "officer_role": "secretary",
+        "appointed_on": "2013-07-04",
+        "address": {
+          "address_line_1": "Brockley Cross Business Centre",
+          "address_line_2": "Endwell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE4 2PD",
+          "premises": "Unit 19"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Securepass Group Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2020-08-01",
+        "address": {
+          "address_line_1": "Endwell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE4 2PD",
+          "premises": "19"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England & Wales",
+          "country_registered": "England",
+          "place_registered": "England",
+          "registration_number": "12473192"
+        }
+      },
+      {
+        "name": "Mr Samuel Adetunji Komolafe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-08-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brockley Cross Business Centre",
+          "address_line_2": "Endwell Road",
+          "locality": "London",
+          "postal_code": "SE4 2PD",
+          "premises": "Unit 19"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "085972230001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-10-21",
+        "delivered_on": "2022-10-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ecapital Commercial Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEIHUXEP",
+        "transaction_id": "MzQ5Njg3MzI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE17D11C",
+        "transaction_id": "MzQ2NDAyNDI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDUXIZLM",
+        "transaction_id": "MzQ1MjUzMzAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCZI5LS3",
+        "transaction_id": "MzQxNTg2MTM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCU6C3UP",
+        "transaction_id": "MzQwNjcyOTU4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "ABZX0LU9",
+        "transaction_id": "MzM3NDQ5Mzc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBJHLSBK",
+        "transaction_id": "MzM2MzYyMTA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-10-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XBF2KZ4B",
+        "transaction_id": "MzM1NjA5NzkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB17SGYQ",
+        "transaction_id": "MzMzNTEyMzY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAHH1MPV",
+        "transaction_id": "MzMyMDUxMDk0M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAHH1MJC",
+        "transaction_id": "MzMyMDUxMDkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAHH1MOZ",
+        "transaction_id": "MzMyMDUxMDkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAHE3SZV",
+        "transaction_id": "MzMyMDIzOTgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-10-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAFU2088",
+        "transaction_id": "MzMxODA2Njg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFU1ZQA",
+        "transaction_id": "MzMxODA2NjczM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9XV45X5",
+        "transaction_id": "MzI5MDg2MjY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-08",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9XV45G3",
+        "transaction_id": "MzI5MDg2MjU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9VS9MQ9",
+        "transaction_id": "MzI4ODE1MDgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9E6CH2Q",
+        "transaction_id": "MzI3ODU3OTcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X9E6CFMP",
+        "transaction_id": "MzI3ODU3OTM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9E6CEE0",
+        "transaction_id": "MzI3ODU3OTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-24",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 6,
+        "barcode": "A99F97I2",
+        "transaction_id": "MzI3MzY1MDMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-07-13",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 7,
+        "barcode": "A97VDM4Y",
+        "transaction_id": "MzI3MjkzNTU1MGFkaXF6a2N4"
+      },
+      {
+        "category": "miscellaneous",
+        "date": "2020-06-25",
+        "description": "legacy",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "A966HPIH",
+        "transaction_id": "MzI2ODIzNjI1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X962UF2W",
+        "transaction_id": "MzI2NjEwMjQ4NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 46,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Taremtec.com",
+    "headcount": 8,
+    "tech_stack": [
+      "CBSecurepass sign in app",
+      "CBSecurepass visitor management system"
+    ],
+    "business_keywords": [
+      "visitor management system",
+      "school visitor management system",
+      "digital visitor management",
+      "sign in solutions",
+      "visitor management software",
+      "visitor management hardware",
+      "touchscreen sign in",
+      "attendance tracking",
+      "safeguarding solutions",
+      "Ofsted compliance",
+      "school administration software",
+      "emergency evacuation records",
+      "GDPR compliance",
+      "bespoke visitor management",
+      "CBSecurepass"
+    ],
+    "services": [
+      "Supply and installation of advanced visitor management solutions for schools",
+      "Visitor management software and hardware provision",
+      "Bespoke visitor management system configuration",
+      "Integration of visitor management systems with existing information systems",
+      "Training and support for visitor management systems",
+      "Modernisation of school reception areas with digital sign-in solutions",
+      "Simplification of administrative tasks related to visitor and attendance tracking",
+      "Provision of emergency evacuation records",
+      "Compliance with Ofsted regulations and guidelines",
+      "Customised visitor management solutions for specific school requirements"
+    ],
+    "customer_segments": [
+      "Primary schools",
+      "Secondary schools",
+      "Independent schools",
+      "Multi Academy Trusts",
+      "Sixth form colleges",
+      "Special schools",
+      "Schools in the UK",
+      "Educational institutions"
+    ],
+    "business_description": "Taremtec specialises in the supply and installation of advanced visitor management solutions for schools in the UK. The company provides bespoke digital visitor management systems, including software and hardware like touchscreens, to simplify administrative tasks, enhance safeguarding, and ensure compliance with regulations such as Ofsted. Their solutions are tailored to meet the unique requirements of various educational institutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:01:26.234Z"
+  },
+  "scraped_at": "2026-01-10T12:01:18.027Z",
+  "updated_at": "2026-01-10T12:01:26.233Z",
+  "version": 1
+}

@@ -1,0 +1,480 @@
+{
+  "company_name": "F1F9 UK LTD",
+  "company_number": "07582859",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-03-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "First Floor, 10 Temple Back, Bristol, BS1 6FL, England",
+  "registered_address_structured": {
+    "address_line_1": "First Floor",
+    "address_line_2": "10 Temple Back",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS1 6FL"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-14",
+    "last_made_up_to": "2025-03-31",
+    "next_made_up_to": "2026-03-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SIERSTED, Jacqueline Laure Denise",
+        "officer_role": "director",
+        "appointed_on": "2016-04-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Road",
+          "address_line_2": "Combe Down",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA2 5JN",
+          "premises": "149"
+        }
+      },
+      {
+        "name": "SIERSTED, Morten",
+        "officer_role": "director",
+        "appointed_on": "2011-03-29",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "Danish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Road",
+          "address_line_2": "Combe Down",
+          "country": "United Kingdom",
+          "locality": "Bath",
+          "postal_code": "BA2 5JN",
+          "premises": "149"
+        }
+      },
+      {
+        "name": "SIERSTED, Nikolai Luke Erik",
+        "officer_role": "director",
+        "appointed_on": "2023-07-10",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1998,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Road",
+          "address_line_2": "Combe Down",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA2 5JN",
+          "premises": "149"
+        }
+      },
+      {
+        "name": "COOMBE, Simon Hugh Jackson",
+        "officer_role": "director",
+        "appointed_on": "2011-04-01",
+        "resigned_on": "2016-01-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Woods Hill",
+          "address_line_2": "Limpley Stoke",
+          "country": "United Kingdom",
+          "locality": "Bath",
+          "postal_code": "BA2 7FZ",
+          "premises": "14a"
+        }
+      },
+      {
+        "name": "WHITELAW-JONES, Kenneth James",
+        "officer_role": "director",
+        "appointed_on": "2011-04-01",
+        "resigned_on": "2015-09-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Kilmersdon",
+          "country": "England",
+          "locality": "Radstock",
+          "postal_code": "BA3 5SX",
+          "premises": "Walton Farm"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Morten Siersted",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "Danish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Road",
+          "address_line_2": "Combe Down",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA2 5JN",
+          "premises": "149"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "075828590001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-04-29",
+        "delivered_on": "2020-05-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEH9QV0O",
+        "transaction_id": "MzQ5Mzc1ODI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZS01LD",
+        "transaction_id": "MzQ2MTQ2MzUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDI3PN3F",
+        "transaction_id": "MzQ0NzU4MTQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0C6BM2",
+        "transaction_id": "MzQxNzE2NzUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCI9FYQW",
+        "transaction_id": "MzQwMzgyNzkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-07-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC80D8A3",
+        "transaction_id": "MzM4NjcyNDE4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC0PC2J7",
+        "transaction_id": "MzM3NTAzNzQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBIYDBHL",
+        "transaction_id": "MzM2MjY4NTQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB101WOH",
+        "transaction_id": "MzMzNDk4NzE5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAJEU70Q",
+        "transaction_id": "MzMyMzczMDYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-12-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAJ982QY",
+        "transaction_id": "MzMyMzM5NjM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XA3UP3D4",
+        "transaction_id": "MzMwMDA0MDE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9HY955M",
+        "transaction_id": "MzI4MzQ5MjA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-05-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X94DY5YB",
+        "transaction_id": "MzI2Mzk0MTYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X932BVVL",
+        "transaction_id": "MzI2MjUzMjYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8JFPPAA",
+        "transaction_id": "MzI1MDg4MjEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8342K3V",
+        "transaction_id": "MzIzMTc0OTUzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7KVPP94",
+        "transaction_id": "MzIyMjIxNzY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7BXDWSQ",
+        "transaction_id": "MzIxMTY0MDE0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-07-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X7ACDFUZ",
+        "transaction_id": "MzIwOTkzMzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-07-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7ACD8RF",
+        "transaction_id": "MzIwOTkzMzAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-20",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X6LNDLIY",
+        "transaction_id": "MzE5MzI5MjAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-08-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6DHW7H5",
+        "transaction_id": "MzE4MzY4NTY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-08-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6DE7NIH",
+        "transaction_id": "MzE4MzU5NTkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-08-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X6CJTITL",
+        "transaction_id": "MzE4MjcwNzEzNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 65,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://F1f9.com",
+    "headcount": 6,
+    "tech_stack": [
+      "Microsoft Excel"
+    ],
+    "business_keywords": [
+      "financial modelling",
+      "Excel modelling",
+      "finance models",
+      "financial model training",
+      "financial model build",
+      "financial model review",
+      "budgeting",
+      "forecasting",
+      "reporting",
+      "best practice financial models",
+      "Excel financial models",
+      "financial modelling courses",
+      "financial modelling consultants",
+      "model clinic",
+      "remediation work"
+    ],
+    "services": [
+      "financial modelling training",
+      "financial model build",
+      "financial model review",
+      "classroom-based training",
+      "one-to-one training",
+      "online training",
+      "post-course online support",
+      "financial model remediation",
+      "model clinic",
+      "standardisation of financial modelling approaches",
+      "in-house training courses on best practice Excel modelling",
+      "consulting on financial model transparency and modification"
+    ],
+    "customer_segments": [
+      "train operating companies",
+      "electricity companies",
+      "energy businesses",
+      "investment analysts",
+      "finance professionals",
+      "analysts in various sectors",
+      "organisations requiring complex financial models"
+    ],
+    "business_description": "F1F9 is a financial modelling specialist company established since 1999, focusing on Excel-based financial modelling. They provide training, build and review financial models, and offer consulting services to help clients understand and maximize the use of financial models critical to their business success. Their services include hands-on training, model construction, and ongoing support.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:22:02.719Z"
+  },
+  "scraped_at": "2026-01-10T09:21:55.075Z",
+  "updated_at": "2026-01-10T09:22:02.719Z",
+  "version": 1
+}

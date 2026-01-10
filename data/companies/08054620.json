@@ -1,0 +1,516 @@
+{
+  "company_name": "STACK OVERFLOW LTD",
+  "company_number": "08054620",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-05-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "70 White Lion Street, London, N1 9PP, England",
+  "registered_address_structured": {
+    "address_line_1": "70 White Lion Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 9PP"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "STACK EXCHANGE LTD",
+      "ceased_on": "2019-04-17",
+      "effective_from": "2012-05-02"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-15",
+    "last_made_up_to": "2025-05-01",
+    "next_made_up_to": "2026-05-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CHANDRASEKAR, Prashanth",
+        "officer_role": "director",
+        "appointed_on": "2021-08-02",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "White Lion Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 9PP",
+          "premises": "70"
+        }
+      },
+      {
+        "name": "NIKOLAEV, Denis",
+        "officer_role": "director",
+        "appointed_on": "2021-08-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "White Lion Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 9PP",
+          "premises": "70"
+        }
+      },
+      {
+        "name": "PRYOR, Michael",
+        "officer_role": "director",
+        "appointed_on": "2012-05-02",
+        "resigned_on": "2018-05-14",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1976,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "William Street",
+          "country": "United States",
+          "locality": "New York",
+          "postal_code": "NY 10038",
+          "premises": "110"
+        }
+      },
+      {
+        "name": "SPOLSKY, Avram Joel",
+        "officer_role": "director",
+        "appointed_on": "2012-05-02",
+        "resigned_on": "2021-08-02",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1965,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "William Street",
+          "country": "United States",
+          "locality": "New York",
+          "postal_code": "NY 10038",
+          "premises": "110"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HIGH STREET PARTNERS EUROPE LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2012-05-02",
+        "resigned_on": "2013-04-30",
+        "address": {
+          "address_line_1": "Dover Street",
+          "address_line_2": "5th Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1S 4NG",
+          "premises": "34"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Prashanth Chandrasekar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2021-04-22",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "White Lion Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 9PP",
+          "premises": "70"
+        }
+      },
+      {
+        "name": "Mr Avram Joel Spolsky",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-05-02",
+        "ceased_on": "2020-12-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1965,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "William Street",
+          "country": "United States",
+          "locality": "New York",
+          "postal_code": "NY 10038",
+          "premises": "110"
+        }
+      },
+      {
+        "name": "Stack Exchange Inc.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-05-02",
+        "ceased_on": "2020-12-31",
+        "address": {
+          "address_line_1": "William Street",
+          "country": "United States",
+          "locality": "New York",
+          "postal_code": "NY 10038",
+          "premises": "110"
+        },
+        "identification": {
+          "legal_form": "Corporation",
+          "legal_authority": "Delaware General Corporation Law",
+          "country_registered": "United States",
+          "place_registered": "Delaware - United States",
+          "registration_number": "27-2445468"
+        }
+      },
+      {
+        "name": "Mr Michael Pryor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-05-02",
+        "ceased_on": "2018-05-14",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1976,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "William Street",
+          "country": "United States",
+          "locality": "New York",
+          "postal_code": "NY 10038",
+          "premises": "110"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "080546200002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-01-27",
+        "delivered_on": "2025-02-05",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-12-05",
+        "delivered_on": "2012-12-14",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£42,000.00."
+        },
+        "persons_entitled": [
+          {
+            "name": "Rosemount Kirkaldy LLP"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£42,000.00 due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-06",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "AEI20UEJ",
+        "transaction_id": "MzQ5NzA3MTQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1QILDM",
+        "transaction_id": "MzQ2NDk2Njg4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-03",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "ADZDR5R7",
+        "transaction_id": "MzQ2MTE2ODc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDVRBQ34",
+        "transaction_id": "MzQ1MzgzNjU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-12",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "AD4N7GWW",
+        "transaction_id": "MzQyNDU5MTk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD284FUG",
+        "transaction_id": "MzQyMDQ2MzQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC7HL1W1",
+        "transaction_id": "MzM4NTg0MjI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6NV9GY",
+        "transaction_id": "MzM4NDQ4NzU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "JC3KH7A9",
+        "transaction_id": "MzM3OTY2NzA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3TSSCI",
+        "transaction_id": "MzMzOTE1MTEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAJYCLT6",
+        "transaction_id": "MzMyNDcwMjY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-02",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 27,
+        "barcode": "JAE0XTOI",
+        "transaction_id": "MzMxNTYxODYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAB5GJUY",
+        "transaction_id": "MzMxMTA3Mzk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAB5GK2X",
+        "transaction_id": "MzMxMTA3Mzk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAB5GJOJ",
+        "transaction_id": "MzMxMTA3Mzg5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3S0AXL",
+        "transaction_id": "MzI5OTkwNTE5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XA2Y8PE8",
+        "transaction_id": "MzI5ODY3MDMzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-22",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA2Y8OU1",
+        "transaction_id": "MzI5ODY3MDI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA0UNEZK",
+        "transaction_id": "MzI5NTI2MDU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-04",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "J9KGWM3F",
+        "transaction_id": "MzI4Njc0MzM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9463BEA",
+        "transaction_id": "MzI2Mzc3MTI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-11",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 25,
+        "barcode": "A8F3SFS0",
+        "transaction_id": "MzI0NTk1NDQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X84L4VTD",
+        "transaction_id": "MzIzMzU0OTk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-04-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X83K1U0Q",
+        "transaction_id": "MzIzMjI4NjYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-02",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 25,
+        "barcode": "A7FCHKQA",
+        "transaction_id": "MzIxNTgzMzQ4NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 47,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 12961000,
+    "ebitda": 578000,
+    "employees": 62
+  },
+  "enrichment": {
+    "website": "https://Stackoverflow.com",
+    "headcount": 62,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T10:42:22.877Z",
+  "scraped_at": "2026-01-10T10:42:22.877Z"
+}

@@ -1,0 +1,423 @@
+{
+  "company_name": "FIASCO DESIGN LTD",
+  "company_number": "08671860",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-09-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Cigar Factory Ground Floor, 127-131 Raleigh Road, Bristol, Avon, BS3 1QU, England",
+  "registered_address_structured": {
+    "address_line_1": "Cigar Factory Ground Floor",
+    "address_line_2": "127-131 Raleigh Road",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS3 1QU",
+    "region": "Avon"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-12",
+    "last_made_up_to": "2025-04-28",
+    "next_made_up_to": "2026-04-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SMITH, Jason",
+        "officer_role": "director",
+        "appointed_on": "2013-09-02",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ground Floor",
+          "address_line_2": "127-131 Raleigh Road",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS3 1QU",
+          "premises": "Cigar Factory",
+          "region": "Avon"
+        }
+      },
+      {
+        "name": "STEERS, Ben",
+        "officer_role": "director",
+        "appointed_on": "2013-09-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ground Floor",
+          "address_line_2": "127-131 Raleigh Road",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS3 1QU",
+          "premises": "Cigar Factory",
+          "region": "Avon"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ben Ian David Steers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-09-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ground Floor",
+          "address_line_2": "127-131 Raleigh Road",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS3 1QU",
+          "premises": "Cigar Factory",
+          "region": "Avon"
+        }
+      },
+      {
+        "name": "Mr Jason Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-09-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ground Floor",
+          "address_line_2": "127-131 Raleigh Road",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS3 1QU",
+          "premises": "Cigar Factory",
+          "region": "Avon"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "086718600002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-05-01",
+        "delivered_on": "2024-05-09",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Atom Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "086718600001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-04-04",
+        "delivered_on": "2019-04-17",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2024-05-17",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2025-11-13",
+        "description": "capital-return-purchase-own-shares-treasury-capital-date",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AEF5FAO1",
+        "transaction_id": "MzQ4ODUyOTgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEF1ZZTT",
+        "transaction_id": "WUVGMVpaVFRhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-01",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE5V7FZ6",
+        "transaction_id": "MzQ3MjE3NzU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-03",
+        "description": "capital-return-purchase-own-shares-treasury-capital-date",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AE3O3YEA",
+        "transaction_id": "MzQ2ODc3NDE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE3TYVPD",
+        "transaction_id": "MzQ2ODY1MzQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XE3G3Q0A",
+        "transaction_id": "MzQ2Nzk0MTE2N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-05-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE35PYII",
+        "transaction_id": "MzQ2NzcwNzUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD69CYEI",
+        "transaction_id": "MzQyNzEyMjY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XD4B09YX",
+        "transaction_id": "MzQyMzgzMTE5MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-05-21",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 19,
+        "barcode": "YD3C5V4J",
+        "transaction_id": "MzQyMjI4NjU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-05-21",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUQzQzVVNTRhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-05-17",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD3C8GO3",
+        "transaction_id": "MzQyMjMwNzE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-05-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "XD2QS2BT",
+        "transaction_id": "MzQyMTE2MzI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XC88GPL7",
+        "transaction_id": "MzM4NzE1NTAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC41WVNC",
+        "transaction_id": "MzM4MDM2MDk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-02",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YC244WIB",
+        "transaction_id": "MzM3NzMyNDE4M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-04-24",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUMxTlVYWUdhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-04-24",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 16,
+        "barcode": "YC1NUYT4",
+        "transaction_id": "MzM3NjUxMzgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-24",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YC1NUYP4",
+        "transaction_id": "MzM3NjUxMzgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XC1NUZK0",
+        "transaction_id": "MzM3NjUxMzcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC1NUWE0",
+        "transaction_id": "MzM3NjUxMzAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBG9GUD4",
+        "transaction_id": "MzM1NzcyNzQ2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB3WF9GP",
+        "transaction_id": "MzMzOTI0ODM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-02-03",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "AAWQ6RXK",
+        "transaction_id": "MzMyODUwNDEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-02-03",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUFXUTZSVzhhZGlxemtjeA"
+      }
+    ],
+    "total_count": 53,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Fiascodesign.co.uk",
+    "headcount": 15,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T12:13:35.289Z",
+  "scraped_at": "2026-01-10T12:13:35.289Z"
+}

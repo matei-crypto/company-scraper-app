@@ -1,0 +1,447 @@
+{
+  "company_name": "QA SYSTEMS LTD",
+  "company_number": "07888143",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-12-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "5th Floor Cambridge House North, 1 Henry Street, Bath, BA1 1JS, England",
+  "registered_address_structured": {
+    "address_line_1": "5th Floor Cambridge House North",
+    "address_line_2": "1 Henry Street",
+    "country": "England",
+    "locality": "Bath",
+    "postal_code": "BA1 1JS"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-30",
+    "last_made_up_to": "2025-12-16",
+    "next_made_up_to": "2026-12-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SCZEPANSKY, Andreas",
+        "officer_role": "director",
+        "appointed_on": "2011-12-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "country": "Germany",
+          "locality": "Waiblingen",
+          "postal_code": "71334",
+          "premises": "Roggenstr. 11"
+        }
+      },
+      {
+        "name": "DAVIS, Matthew Neal",
+        "officer_role": "director",
+        "appointed_on": "2015-05-06",
+        "resigned_on": "2025-08-31",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Henry Street",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 1JS",
+          "premises": "5th Floor Cambridge House North"
+        }
+      },
+      {
+        "name": "TRIEP, Jurgen",
+        "officer_role": "director",
+        "appointed_on": "2011-12-20",
+        "resigned_on": "2015-05-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1962,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "address_line_1": "70435",
+          "country": "Germany",
+          "locality": "Stuttgart",
+          "premises": "Schwieberdinger Str. 56"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "FOX, Sarah Jane",
+        "officer_role": "secretary",
+        "appointed_on": "2022-12-05",
+        "address": {
+          "address_line_1": "Cambridge House",
+          "address_line_2": "Henry Street",
+          "country": "England",
+          "locality": "Bath",
+          "postal_code": "BA1 1JS",
+          "premises": "Cambridge House",
+          "region": "Somerset"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andreas Sczepansky",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "country": "Germany",
+          "locality": "Waiblingen",
+          "postal_code": "71334",
+          "premises": "Roggenstr. 11"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2012-08-20",
+        "delivered_on": "2012-08-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEHTHX7V",
+        "transaction_id": "MzQ5NTYzMzE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEC6P08Y",
+        "transaction_id": "MzQ4MzI5OTU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-03",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEAABSI8",
+        "transaction_id": "MzQ3OTY2ODcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-09",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XE05E79F",
+        "transaction_id": "MzQ2MjAwNzI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDJ0BSP5",
+        "transaction_id": "MzQ0OTI4NDgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDCRHA49",
+        "transaction_id": "MzQzNzc0OTU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCJ8MOBC",
+        "transaction_id": "MzQwNTY5MzM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC773Z81",
+        "transaction_id": "MzM4NTU2NTQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBJX81U9",
+        "transaction_id": "MzM2NDExNjY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBJX81TL",
+        "transaction_id": "MzM2NDExNjY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBJX8161",
+        "transaction_id": "MzM2NDExNjQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBII51N7",
+        "transaction_id": "MzM2MTYwNjI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJPL1FM",
+        "transaction_id": "MzMyNDEwODk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAE4NTCA",
+        "transaction_id": "MzMxNTczMjE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA4GCEDN",
+        "transaction_id": "MzMwMTA2NTU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9VHB9CO",
+        "transaction_id": "MzI4NzQ3NTg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X9BDYJUB",
+        "transaction_id": "MzI3NTMyNzYxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8VS5HFS",
+        "transaction_id": "MzI1MzYwMzk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-08-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8CD92T6",
+        "transaction_id": "MzI0MjM1NDI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-08-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8C7RU0X",
+        "transaction_id": "MzI0MjAyMDA1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X86C6WWW",
+        "transaction_id": "MzIzNTM1OTkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7L9JCT6",
+        "transaction_id": "MzIyMjc4MjAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A7DS46A2",
+        "transaction_id": "MzIxMzk5NjUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6LNFPTM",
+        "transaction_id": "MzE5MzI5Mzk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A6FSP9QO",
+        "transaction_id": "MzE4NjQyNjY2N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Qa-systems.com",
+    "headcount": 11,
+    "tech_stack": [
+      "GoogleTest GoogleTest",
+      "GoogleTest GoogleMock"
+    ],
+    "business_keywords": [
+      "static analysis",
+      "verification tools",
+      "embedded software",
+      "safety standards compliance",
+      "automated testing",
+      "coding standards compliance",
+      "unit testing",
+      "integration testing",
+      "runtime error analysis",
+      "data race analysis",
+      "software quality",
+      "safety-critical software",
+      "C/C++ code",
+      "Ada code",
+      "GoogleTest"
+    ],
+    "services": [
+      "automated static analysis",
+      "automated coding standards compliance for C/C++ code",
+      "sound analysis proving absence of runtime errors and data races for C/C++",
+      "automated unit and integration testing for C/C++ code",
+      "safety standards compliance for GoogleTest suites",
+      "test status management dashboard add-on",
+      "automated unit and integration testing for Ada code",
+      "integration of non-Cantata test suites like GoogleTest and GoogleMock"
+    ],
+    "customer_segments": [
+      "safety and business critical sectors",
+      "organisations developing embedded software",
+      "industries requiring safety standards compliance"
+    ],
+    "business_description": "QA Systems provides automated static analysis and verification tools for embedded software to accelerate safety standards compliance. The company offers solutions for coding standards compliance, runtime error analysis, and automated unit and integration testing for C/C++ and Ada code, serving organisations in safety and business-critical sectors.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T10:12:56.044Z"
+  },
+  "scraped_at": "2026-01-10T10:12:47.030Z",
+  "updated_at": "2026-01-10T10:12:56.044Z",
+  "version": 1
+}

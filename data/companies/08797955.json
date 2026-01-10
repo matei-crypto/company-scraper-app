@@ -1,0 +1,500 @@
+{
+  "company_name": "COMPANY X CONSULTING LTD",
+  "company_number": "08797955",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-12-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Rectory Churchway, Broad Blunsdon, Swindon, SN26 7DG, England",
+  "registered_address_structured": {
+    "address_line_1": "Rectory Churchway",
+    "address_line_2": "Broad Blunsdon",
+    "country": "England",
+    "locality": "Swindon",
+    "postal_code": "SN26 7DG"
+  },
+  "sic_codes": [
+    "62020",
+    "70229"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-16",
+    "last_made_up_to": "2025-12-02",
+    "next_made_up_to": "2026-12-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COFFEY, David John",
+        "officer_role": "director",
+        "appointed_on": "2013-12-02",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stickleback Road",
+          "country": "United Kingdom",
+          "locality": "Calne",
+          "postal_code": "SN11 9RB",
+          "premises": "36"
+        }
+      },
+      {
+        "name": "KERR, Kevin William",
+        "officer_role": "director",
+        "appointed_on": "2013-12-02",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Warleigh Lane",
+          "address_line_2": "Tamerton Foliot",
+          "country": "United Kingdom",
+          "locality": "Plymouth",
+          "postal_code": "PL5 4ND",
+          "premises": "Russell Cottage"
+        }
+      },
+      {
+        "name": "SMITH, Kevin Robert Jack",
+        "officer_role": "director",
+        "appointed_on": "2013-12-02",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wynwards Road",
+          "country": "United Kingdom",
+          "locality": "Swindon",
+          "postal_code": "SN25 4ZP",
+          "premises": "64"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "KERR, Joanna",
+        "officer_role": "secretary",
+        "appointed_on": "2021-11-12",
+        "address": {
+          "address_line_1": "Old Warleigh Lane",
+          "address_line_2": "Tamerton Foliot",
+          "country": "England",
+          "locality": "Plymouth",
+          "postal_code": "PL5 4ND",
+          "premises": "Russell Cottage"
+        }
+      },
+      {
+        "name": "SMITH, Ian Robert",
+        "officer_role": "secretary",
+        "appointed_on": "2017-01-23",
+        "address": {
+          "address_line_1": "Churchway",
+          "address_line_2": "Broad Blunsdon",
+          "country": "England",
+          "locality": "Swindon",
+          "postal_code": "SN26 7DG",
+          "premises": "Rectory"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Kevin Robert Jack Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Churchway",
+          "address_line_2": "Broad Blunsdon",
+          "country": "England",
+          "locality": "Swindon",
+          "postal_code": "SN26 7DG",
+          "premises": "Rectory"
+        }
+      },
+      {
+        "name": "Mr David John Coffey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Churchway",
+          "address_line_2": "Broad Blunsdon",
+          "country": "England",
+          "locality": "Swindon",
+          "postal_code": "SN26 7DG",
+          "premises": "Rectory"
+        }
+      },
+      {
+        "name": "Mr Kevin William Kerr",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Churchway",
+          "address_line_2": "Broad Blunsdon",
+          "country": "England",
+          "locality": "Swindon",
+          "postal_code": "SN26 7DG",
+          "premises": "Rectory"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "087979550001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-08-21",
+        "delivered_on": "2017-08-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHYZL15",
+        "transaction_id": "MzQ5NTc5NTkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHHSN8A",
+        "transaction_id": "MzQ5NDA3NjU2N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE02M3QG",
+        "transaction_id": "MzQ2MTc5MzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE02M2UJ",
+        "transaction_id": "MzQ2MTc5MzAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE02M22O",
+        "transaction_id": "MzQ2MTc5Mjg5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDH4HDA0",
+        "transaction_id": "MzQ0NTcwNjQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDDQHQC2",
+        "transaction_id": "MzQzOTMyMDE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCI67YM3",
+        "transaction_id": "MzQwMzM5NDgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCHNEEFO",
+        "transaction_id": "MzQwMjQzNjU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHZIJLF",
+        "transaction_id": "MzM2MDc2OTU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-28",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBFL79HE",
+        "transaction_id": "MzM1NjgxODA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB9HJFC3",
+        "transaction_id": "MzM0NzQxODUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAIIJYZ5",
+        "transaction_id": "MzMyMjI0MTI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-25",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XAHZVVIG",
+        "transaction_id": "MzMyMTM5NzMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XACP7AQ1",
+        "transaction_id": "MzMxMzM2MDM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9J5BAX4",
+        "transaction_id": "MzI4NTEyMjMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-10-07",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A9ELBPJK",
+        "transaction_id": "MzI3OTM5NzYxM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-08-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9AVDNJF",
+        "transaction_id": "MzI3NDY4NTU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9ASP4Z6",
+        "transaction_id": "MzI3NDU4OTYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8JFOQJ7",
+        "transaction_id": "MzI1MDg3MjAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X88H470P",
+        "transaction_id": "MzIzNzk4NzQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7K54J6H",
+        "transaction_id": "MzIyMTI1MzI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7GW2BOO",
+        "transaction_id": "MzIxNzM0MzA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-08-15",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X7BVI049",
+        "transaction_id": "MzIxMTY2MzY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-07-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7AX1F2X",
+        "transaction_id": "MzIxMDU2NTc4NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 41
+  },
+  "enrichment": {
+    "website": "https://Cxc-ltd.com",
+    "headcount": 41,
+    "tech_stack": [],
+    "business_keywords": [
+      "consultancy",
+      "project management",
+      "information assurance",
+      "risk management",
+      "cyber security",
+      "managed ICT solutions",
+      "change management",
+      "transformation",
+      "organisational change",
+      "quality management",
+      "business continuity management",
+      "commercial",
+      "procurement",
+      "SME",
+      "PAYE"
+    ],
+    "services": [
+      "Portfolio, Programme and Project Management (P3M)",
+      "Cyber Security & Information Assurance",
+      "Risk Management",
+      "Cyber Management",
+      "Managed ICT Solutions",
+      "Transformation & Organisational Change",
+      "Quality Management",
+      "Business Continuity Management (BCM)",
+      "Commercial & Procurement advice/expertise for the public sector and central Government"
+    ],
+    "customer_segments": [
+      "Government",
+      "Industry",
+      "public sector",
+      "central Government",
+      "organisations across diverse sectors"
+    ],
+    "business_description": "Company X Consulting (CXC) Limited is an award-winning Small to Medium Enterprise (SME) consultancy specializing in providing consultancy specialists, outcomes, and services to support clients in achieving high-quality results. The company delivers expertise in areas such as project management, cyber security, risk management, ICT solutions, and organisational change, primarily serving government and industry sectors.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:34:08.599Z"
+  },
+  "scraped_at": "2026-01-10T12:34:01.702Z",
+  "updated_at": "2026-01-10T12:34:08.599Z",
+  "version": 1
+}

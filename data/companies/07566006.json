@@ -1,0 +1,385 @@
+{
+  "company_name": "NEXUS POINT LTD",
+  "company_number": "07566006",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-03-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "Norfolk House, Bostock Road, Winsford, Cheshire, CW7 3BD, England",
+  "registered_address_structured": {
+    "address_line_1": "Norfolk House",
+    "address_line_2": "Bostock Road",
+    "country": "England",
+    "locality": "Winsford",
+    "postal_code": "CW7 3BD",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-30",
+    "last_made_up_to": "2025-03-16",
+    "next_made_up_to": "2026-03-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WEBB, Christopher James",
+        "officer_role": "director",
+        "appointed_on": "2011-03-16",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bostock Road",
+          "country": "England",
+          "locality": "Winsford",
+          "postal_code": "CW7 3BD",
+          "premises": "Norfolk House",
+          "region": "Cheshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WEBB, Madeleine",
+        "officer_role": "secretary",
+        "appointed_on": "2020-04-01",
+        "address": {
+          "address_line_1": "Bostock Road",
+          "country": "England",
+          "locality": "Winsford",
+          "postal_code": "CW7 3BD",
+          "premises": "Norfolk House",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Chris Webb",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bostock Road",
+          "country": "England",
+          "locality": "Winsford",
+          "postal_code": "CW7 3BD",
+          "premises": "Norfolk House",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHQUUA9",
+        "transaction_id": "MzQ5NTQxMDMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYJKRAX",
+        "transaction_id": "MzQ1ODg5NDg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDY0PX6Q",
+        "transaction_id": "MzQ1Nzg1MTA1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDIKM6U0",
+        "transaction_id": "MzQ0ODc1NjE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD09D78O",
+        "transaction_id": "MzQxNzAxOTAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC950IQP",
+        "transaction_id": "MzM4ODU4OTA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC950ISY",
+        "transaction_id": "MzM4ODU4OTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC5ZPQYY",
+        "transaction_id": "MzM4MzQxMDgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC1NTX3D",
+        "transaction_id": "MzM3NjUwMDQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-15",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YC0P8X7D",
+        "transaction_id": "MzM3NTAxMDQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBDF5089",
+        "transaction_id": "MzM1MzIwMTMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-08-17",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YBAITWJU",
+        "transaction_id": "MzM0ODc2NzIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB08GC6Q",
+        "transaction_id": "MzMzMzQzMzUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-03-18",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YAZXR6OW",
+        "transaction_id": "MzMzMzAyNzc1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XAID3PYO",
+        "transaction_id": "MzMyMTg4MjU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA3XEOI8",
+        "transaction_id": "MzMwMDE2OTA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9F5685E",
+        "transaction_id": "MzI3OTkyOTg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-08-03",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 23,
+        "barcode": "J99UPOFS",
+        "transaction_id": "MzI3MzcxODg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-08-03",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "Sjk5VVBPRkthZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2020-06-30",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X98APFVK",
+        "transaction_id": "MzI3MjAwODg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X915QHQB",
+        "transaction_id": "MzI2MDI1MzE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8JNUUQG",
+        "transaction_id": "MzI1MTMwOTcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-04-05",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 1,
+        "barcode": "A829Q38Y",
+        "transaction_id": "MzIzMDkzNzg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8281UU3",
+        "transaction_id": "MzIzMDY2MDA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-10-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7G7U17D",
+        "transaction_id": "MzIxNjU2NzE1OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 46
+  },
+  "enrichment": {
+    "website": "https://Nexuspoint.co.uk",
+    "headcount": 46,
+    "tech_stack": [],
+    "business_keywords": [
+      "automotive websites",
+      "automotive software",
+      "CMS",
+      "CRM",
+      "DMS",
+      "SaaS",
+      "bespoke websites",
+      "dealership software",
+      "customer engagement",
+      "stock management",
+      "website design",
+      "website engineering",
+      "behavioural science",
+      "marketing services",
+      "automotive sector"
+    ],
+    "services": [
+      "Website Solutions",
+      "SaaS (Software as a Service) website solutions",
+      "Bespoke website development",
+      "Apex Software Suite (CMS, CRM, DMS)",
+      "Website maintenance",
+      "Customer engagement tools",
+      "Stock management tools"
+    ],
+    "customer_segments": [
+      "automotive businesses",
+      "dealerships"
+    ],
+    "business_description": "Nexus Point Ltd builds market-leading automotive websites and software, specializing in solutions for the automotive sector. They offer a complete software suite (CMS, CRM, DMS) and provide both SaaS and bespoke website solutions to help dealerships engage with customers and manage stock effectively.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:17:29.304Z"
+  },
+  "scraped_at": "2026-01-10T09:17:23.967Z",
+  "updated_at": "2026-01-10T09:17:29.304Z",
+  "version": 1
+}

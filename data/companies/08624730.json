@@ -1,0 +1,496 @@
+{
+  "company_name": "KENTECH SOLUTIONS LIMITED",
+  "company_number": "08624730",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-07-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "115 Edwin Road, Gillingham, ME8 0AG, England",
+  "registered_address_structured": {
+    "address_line_1": "115 Edwin Road",
+    "country": "England",
+    "locality": "Gillingham",
+    "postal_code": "ME8 0AG"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-01",
+    "last_made_up_to": "2025-04-17",
+    "next_made_up_to": "2026-04-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COPPINS, Mark",
+        "officer_role": "director",
+        "appointed_on": "2013-07-25",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edwin Road",
+          "country": "England",
+          "locality": "Gillingham",
+          "postal_code": "ME8 0AG",
+          "premises": "115"
+        }
+      },
+      {
+        "name": "PARTINGTON, Lee Michael William",
+        "officer_role": "director",
+        "appointed_on": "2013-07-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edwin Road",
+          "country": "England",
+          "locality": "Gillingham",
+          "postal_code": "ME8 0AG",
+          "premises": "115"
+        }
+      },
+      {
+        "name": "WILLIS, Alun David",
+        "officer_role": "director",
+        "appointed_on": "2013-07-25",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edwin Road",
+          "country": "England",
+          "locality": "Gillingham",
+          "postal_code": "ME8 0AG",
+          "premises": "115"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mark Coppins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edwin Road",
+          "country": "England",
+          "locality": "Gillingham",
+          "postal_code": "ME8 0AG",
+          "premises": "115"
+        }
+      },
+      {
+        "name": "Mr Lee Partington",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edwin Road",
+          "country": "England",
+          "locality": "Gillingham",
+          "postal_code": "ME8 0AG",
+          "premises": "115"
+        }
+      },
+      {
+        "name": "Mr Alun David Willis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Edwin Road",
+          "country": "England",
+          "locality": "Gillingham",
+          "postal_code": "ME8 0AG",
+          "premises": "115"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "086247300001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-11-14",
+        "delivered_on": "2016-11-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE1KXBVU",
+        "transaction_id": "MzQ2NDY2NDcxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1F93U8",
+        "transaction_id": "MzQ2NDIyMzYzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8CO76H",
+        "transaction_id": "MzQzMDQxNTI1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD1RL7VS",
+        "transaction_id": "MzQxOTcxMDQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC9I439U",
+        "transaction_id": "MzM4ODkyMjI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC8M448Q",
+        "transaction_id": "MzM4NzgzNTg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBEE9KO0",
+        "transaction_id": "MzM1NDcxOTMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBEE9H4Z",
+        "transaction_id": "MzM1NDcxODUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-10-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBEE9DEO",
+        "transaction_id": "MzM1NDcxNzU4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9KCAIQ",
+        "transaction_id": "MzM0NzU1ODc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB96VY6G",
+        "transaction_id": "MzM0NzA5MDE5NWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-10-13",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMxNjczMTQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEXTLAA",
+        "transaction_id": "MzMxNjczMTMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-10-12",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMxNjAzNjM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA3GZ7YQ",
+        "transaction_id": "MzI5OTQyODIzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X9GMEWRK",
+        "transaction_id": "MzI4MTg3NDU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X92K074X",
+        "transaction_id": "MzI2MjAyMTI4M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-11-04",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X8HAZIEV",
+        "transaction_id": "MzI0ODMzMDM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8D61WAJ",
+        "transaction_id": "MzI0MzE4NjgxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X84FCZIG",
+        "transaction_id": "MzIzMzEyNzUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7F6QPUJ",
+        "transaction_id": "MzIxNTIxNjgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X74XMMJC",
+        "transaction_id": "MzIwMzgwNjcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6BXW8AX",
+        "transaction_id": "MzE4MjAzOTQ3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-04-19",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X64NWNHC",
+        "transaction_id": "MzE3MzgzODE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2016-11-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "X5K8SQUG",
+        "transaction_id": "MzE2MjM1NjUyOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Kentech.info",
+    "headcount": 6,
+    "tech_stack": [
+      "Apple iPhone",
+      "Apple iPad",
+      "Apple MacBook",
+      "Samsung Tablets",
+      "Netflix (streaming devices)",
+      "Showmax (streaming devices)",
+      "Windows",
+      "Android"
+    ],
+    "business_keywords": [
+      "smartphone repairs",
+      "computer repairs",
+      "mobile accessories",
+      "refurbished desktops",
+      "refurbished laptops",
+      "technical support",
+      "IT solutions",
+      "network setup",
+      "network support",
+      "virus removal",
+      "data recovery",
+      "graphic design",
+      "web design",
+      "device setup assistance",
+      "information transfer",
+      "internet connection",
+      "upgrade solutions",
+      "cloud storage solutions",
+      "IT outsourcing",
+      "IT hardware"
+    ],
+    "services": [
+      "Smartphone repairs (screen replacements, battery replacements, software repairs)",
+      "Tablet repairs",
+      "Laptop repairs",
+      "Desktop repairs",
+      "MacBook repairs",
+      "Device setup assistance (computers, smartphones, network equipment, streaming devices)",
+      "Information transfer between devices (Android to Apple, Windows, etc.)",
+      "Internet connection support and installation",
+      "Computer diagnostics and upgrades",
+      "Sale of IT hardware (USB drives, laptop chargers, ethernet cables, converters, Wi-Fi routers, extenders, network tools)",
+      "Cloud storage solutions (backups, OS upgrades)",
+      "IT outsourcing (entire departments, specific tasks, urgent call outs)",
+      "Network design, installation, and maintenance",
+      "On-site call outs (within 50km of Richards Bay)",
+      "Peripheral device integration (printers, etc.)",
+      "Insurance claim damage reports",
+      "Warranty applications for new parts",
+      "Rush service for urgent repairs",
+      "Free basic over-the-counter device diagnosis (under 30 minutes)",
+      "Paid device inspection (over 30 minutes, R170 fee)"
+    ],
+    "customer_segments": [
+      "individuals",
+      "homes",
+      "businesses",
+      "corporate clients",
+      "private clients"
+    ],
+    "business_description": "Kentech Solutions Limited specializes in smartphone and computer repairs, including screen replacements, battery replacements, and software repairs. The company also sells mobile accessories, refurbished and new desktops or laptops, and provides IT solutions such as network setup, device setup assistance, internet connection support, and cloud storage solutions. Additionally, they offer on-site technical support and IT outsourcing services for homes and businesses in Richards Bay and surrounding areas.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 15,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:07:05.026Z"
+  },
+  "scraped_at": "2026-01-10T12:06:48.633Z",
+  "updated_at": "2026-01-10T12:07:05.026Z",
+  "version": 1
+}

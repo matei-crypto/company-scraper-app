@@ -1,0 +1,426 @@
+{
+  "company_name": "STUDIO GRAPHENE LIMITED",
+  "company_number": "09104776",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-06-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "124 City Road, London, EC1V 2NX, England",
+  "registered_address_structured": {
+    "address_line_1": "124 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "STUDIOGRAPHENE LIMITED",
+      "ceased_on": "2014-06-30",
+      "effective_from": "2014-06-26"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-10",
+    "last_made_up_to": "2025-06-26",
+    "next_made_up_to": "2026-06-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GANDHI, Ritam",
+        "officer_role": "director",
+        "appointed_on": "2014-06-26",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Studio Graphene Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-08",
+        "address": {
+          "address_line_1": "71 Central Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 8AB",
+          "premises": "Fora - Old Street"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Law Of England And Wales",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "13095762"
+        }
+      },
+      {
+        "name": "Mr Ritam Gandhi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-01-08",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Fora - Old Street",
+          "address_line_2": "71 Central Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 8AB",
+          "premises": "Studio Graphene Ltd"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "091047760001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-07-01",
+        "delivered_on": "2020-07-09",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5V801F",
+        "transaction_id": "MzQ3MjE4MjAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-26",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XE5JXKM0",
+        "transaction_id": "MzQ3MTYzMTMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE0J17Q3",
+        "transaction_id": "MzQ2MjcwODE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 17,
+        "barcode": "ADZQE4DF",
+        "transaction_id": "MzQ2MTUzNTk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-02-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDWAF75C",
+        "transaction_id": "MzQ1NDkzMDcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDGG8MWZ",
+        "transaction_id": "MzQ0NDYyMDMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDGG8MDE",
+        "transaction_id": "MzQ0NDYyMDIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD697HL1",
+        "transaction_id": "MzQyNzA1MjIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "ACZVBI60",
+        "transaction_id": "MzQxNjYxOTg4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCWI1ZR6",
+        "transaction_id": "MzQxMDYwMDI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6L1BAX",
+        "transaction_id": "MzM4NDMwMTcwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-06-27",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XC6I9OXE",
+        "transaction_id": "MzM4NDE0NTUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "AC0WJNG1",
+        "transaction_id": "MzM3NTc5Mjg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB73UREQ",
+        "transaction_id": "MzM0NDAyMzI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "AB0VWKJN",
+        "transaction_id": "MzMzNDg1Mjg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAV6CE2J",
+        "transaction_id": "MzMyNjA1NTYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA89IS22",
+        "transaction_id": "MzMwNzAxNjU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-05",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XA7TJWDT",
+        "transaction_id": "MzMwNjQ0MjExNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "AA4NWFAQ",
+        "transaction_id": "MzMwMTgxNzAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-03-02",
+        "description": "capital-cancellation-treasury-shares-with-date-currency-capital-figure",
+        "type": "SH05",
+        "pages": 4,
+        "barcode": "A9YYHPWA",
+        "transaction_id": "MzI5MjcwMzg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-02-09",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 35,
+        "barcode": "A9WK3ONC",
+        "transaction_id": "MzI5MDg1NTcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-02-09",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QTlXSzNPTVdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A9WK3ON4",
+        "transaction_id": "MzI5MDg1NTcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-02-09",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTlXSzNPTkthZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A9WK3OMG",
+        "transaction_id": "MzI5MDg1NTcyM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 85,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Studiographene.com",
+    "headcount": 20,
+    "tech_stack": [
+      "AI",
+      "data science"
+    ],
+    "business_keywords": [
+      "digital product design",
+      "digital product development",
+      "AI",
+      "emerging technologies",
+      "digital products",
+      "digital solutions",
+      "innovation",
+      "data science",
+      "intuitive solutions",
+      "future-proof digital products",
+      "operational efficiency",
+      "business growth",
+      "market-ready products",
+      "opportunity discovery",
+      "collaboration"
+    ],
+    "services": [
+      "designing digital products",
+      "developing digital products",
+      "discovering opportunities",
+      "designing intuitive solutions",
+      "building future-proof digital products",
+      "using AI and emerging technologies to drive innovation"
+    ],
+    "customer_segments": [
+      "startups",
+      "scaleups",
+      "global brands"
+    ],
+    "business_description": "Studio Graphene specializes in designing and developing digital products and solutions that enrich lives, drive business growth, and improve operational efficiency. The company uses AI and emerging technologies to discover opportunities, create intuitive solutions, and build future-proof digital products for startups, scaleups, and global brands.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:24:18.882Z"
+  },
+  "scraped_at": "2026-01-10T13:24:14.399Z",
+  "updated_at": "2026-01-10T13:24:18.882Z",
+  "version": 1
+}

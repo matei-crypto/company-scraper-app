@@ -1,0 +1,454 @@
+{
+  "company_name": "CLEARTWO LIMITED",
+  "company_number": "07322277",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-07-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Aura House, London Square, Stockport, Cheshire, England",
+  "registered_address_structured": {
+    "address_line_1": "Aura House",
+    "address_line_2": "London Square",
+    "country": "England",
+    "locality": "Stockport",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-18",
+    "last_made_up_to": "2025-10-04",
+    "next_made_up_to": "2026-10-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RIAZ, Omer",
+        "officer_role": "director",
+        "appointed_on": "2011-07-22",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Square",
+          "country": "England",
+          "locality": "Stockport",
+          "premises": "Aura House",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "SINGH, Satnam",
+        "officer_role": "director",
+        "appointed_on": "2010-07-22",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Square",
+          "country": "England",
+          "locality": "Stockport",
+          "premises": "Aura House",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "AHMED, Farooq",
+        "officer_role": "director",
+        "appointed_on": "2011-07-21",
+        "resigned_on": "2015-07-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "211 Shaw Heath",
+          "country": "United Kingdom",
+          "locality": "Stockport",
+          "postal_code": "SK2 6QZ",
+          "premises": "Aruba House",
+          "region": "Cheshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Omer Riaz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "London Square",
+          "country": "England",
+          "locality": "Stockport",
+          "premises": "Aura House",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "Mr Satnam Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Square",
+          "country": "England",
+          "locality": "Stockport",
+          "premises": "Aura House",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "073222770001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-08-26",
+        "delivered_on": "2020-09-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECV98AJ",
+        "transaction_id": "MzQ4NDQ1MDQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE14IX82",
+        "transaction_id": "MzQ2MzgzMTkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDD0307S",
+        "transaction_id": "MzQzODQzOTExOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCY5C7A1",
+        "transaction_id": "MzQxMzI5MDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCEY9UVM",
+        "transaction_id": "MzM5NzkyNDUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC2CEBRN",
+        "transaction_id": "MzM3Nzc5MDIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDY5LVV",
+        "transaction_id": "MzM1NDA0ODYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB9PSWMK",
+        "transaction_id": "MzM0Nzg0NTUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB9PSWE2",
+        "transaction_id": "MzM0Nzg0NTQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB9N0TQY",
+        "transaction_id": "MzM0NzcwMTM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB2UVR2Y",
+        "transaction_id": "MzMzNzcxNDQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAG27AVN",
+        "transaction_id": "MzMxODUwNzc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA3HIUFV",
+        "transaction_id": "MzI5OTY0NjM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9FAK3BC",
+        "transaction_id": "MzI4MDEyNjk0M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9CX889S",
+        "transaction_id": "MzI3Njk4NTA1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8Y4VUJN",
+        "transaction_id": "MzI1NjQwODc5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8G1LUN7",
+        "transaction_id": "MzI0NjcwODg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-06-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X872SV3F",
+        "transaction_id": "MzIzNjI4MzM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X84I6SMZ",
+        "transaction_id": "MzIzMzI3ODU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7IO5EUX",
+        "transaction_id": "MzIxOTQwODI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-04-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X74O8TP7",
+        "transaction_id": "MzIwMzU3MzIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6KLR9S8",
+        "transaction_id": "MzE5MTgyMjk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-04-28",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X65BQFT7",
+        "transaction_id": "MzE3NDY4Njg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-10-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X5HHIPMZ",
+        "transaction_id": "MzE1OTY0ODM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-10-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X5GWGMK8",
+        "transaction_id": "MzE1ODk0ODU0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Cleartwo.co.uk",
+    "headcount": 13,
+    "tech_stack": [
+      "Shopify"
+    ],
+    "business_keywords": [
+      "business solutions",
+      "digital partner",
+      "web development",
+      "IT support",
+      "SEO",
+      "PPC",
+      "branding",
+      "AI automation",
+      "digital marketing",
+      "CRM systems",
+      "e-commerce",
+      "digital strategy",
+      "consultancy",
+      "AI",
+      "managed services"
+    ],
+    "services": [
+      "Web Design & Development",
+      "E-Commerce",
+      "Branding & Creative Services",
+      "Digital Marketing",
+      "AI & Automation",
+      "CRM Systems & Integration",
+      "IT Support & Managed Services",
+      "Digital Strategy & Consultancy"
+    ],
+    "customer_segments": [
+      "businesses",
+      "companies who appreciate performance",
+      "UK businesses",
+      "SMEs",
+      "small businesses",
+      "schools"
+    ],
+    "business_description": "Cleartwo provides business solutions and acts as a digital partner, delivering expert services in web development, IT support, SEO, PPC, branding, and AI automation. With 15 years of experience, the company combines technology, creativity, and strategy to help businesses grow, offering one-stop digital solutions under a single roof.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 16,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T08:34:33.144Z"
+  },
+  "scraped_at": "2026-01-10T08:34:27.996Z",
+  "updated_at": "2026-01-10T08:34:33.143Z",
+  "version": 1
+}

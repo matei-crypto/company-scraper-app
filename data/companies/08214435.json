@@ -1,0 +1,370 @@
+{
+  "company_name": "NEXDYNAMIC LIMITED",
+  "company_number": "08214435",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-09-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Shell Store Canary Drive, Skylon Park, Hereford, HR2 6SR, England",
+  "registered_address_structured": {
+    "address_line_1": "The Shell Store Canary Drive",
+    "address_line_2": "Skylon Park",
+    "country": "England",
+    "locality": "Hereford",
+    "postal_code": "HR2 6SR"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-05",
+    "last_made_up_to": "2025-04-21",
+    "next_made_up_to": "2026-04-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SLATER, Mark Darren",
+        "officer_role": "director",
+        "appointed_on": "2012-09-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Falaise Close",
+          "country": "United Kingdom",
+          "locality": "Ross-On-Wye",
+          "postal_code": "HR9 5UT",
+          "premises": "5"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mark Darren Slater",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Canary Drive",
+          "address_line_2": "Skylon Park",
+          "country": "England",
+          "locality": "Hereford",
+          "postal_code": "HR2 6SR",
+          "premises": "The Shell Store"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEHYNX0I",
+        "transaction_id": "MzQ5NTcwNDAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 3,
+        "barcode": "XE14JGEJ",
+        "transaction_id": "MzQ2MzgzNjUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XE14J36O",
+        "transaction_id": "MzQ2MzgzMzM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDI71622",
+        "transaction_id": "MzQ0ODE5MjI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-07-12",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "AD6W761N",
+        "transaction_id": "MzQyODQ5OTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-07-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUQ2Vzc4QjRhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1J6YM3",
+        "transaction_id": "MzQxOTE1MjQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-12-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCIET65S",
+        "transaction_id": "MzQwNDIwODQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCI926QJ",
+        "transaction_id": "MzQwMzU4Mjg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3B4WIO",
+        "transaction_id": "MzM3OTI1ODAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBJBW4GG",
+        "transaction_id": "MzM2MzI2ODE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDF2M0A",
+        "transaction_id": "MzM1MzE3OTk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-28",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAYTBT0J",
+        "transaction_id": "MzMzMTI5NjA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAGVN00I",
+        "transaction_id": "MzMxOTYzNzUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA7QVJ4H",
+        "transaction_id": "MzMwNjMxMTI1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-05-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA4QV822",
+        "transaction_id": "MzMwMTMzNzY5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X9FNSUR4",
+        "transaction_id": "MzI4MDU5NDg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X98AU1AZ",
+        "transaction_id": "MzI3MjA0NzQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ECGZAI",
+        "transaction_id": "MzI0NDYyOTQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X88JVOM2",
+        "transaction_id": "MzIzODA5NzkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7EUXLFT",
+        "transaction_id": "MzIxNDk1MzgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X795K98P",
+        "transaction_id": "MzIwODY3OTI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-10-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6GHOABS",
+        "transaction_id": "MzE4NzIzMTk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X69MXINT",
+        "transaction_id": "MzE3OTI4MDQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-09-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5GDVQ2Y",
+        "transaction_id": "MzE1ODMzNjU4NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Nexdynamic.com",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "consultation",
+      "analysis",
+      "app development",
+      "software development",
+      "legacy system integration",
+      "cloud integration",
+      "data services",
+      "API development",
+      "workflow automation",
+      "mobile service business",
+      "Squeegee"
+    ],
+    "services": [
+      "Consultation",
+      "Analysis",
+      "App Development",
+      "Software Development",
+      "Legacy System Integration",
+      "Cloud Integration",
+      "Data Services",
+      "API Development",
+      "Workflow Automation"
+    ],
+    "customer_segments": [
+      "mobile service businesses"
+    ],
+    "business_description": "NexDynamic Limited provides consultation, analysis, app and software development, legacy system integration, cloud integration, data services, API development, and workflow automation. Their flagship product, Squeegee, has transformed the mobile service business.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T11:09:09.036Z"
+  },
+  "scraped_at": "2026-01-10T11:09:05.066Z",
+  "updated_at": "2026-01-10T11:09:09.036Z",
+  "version": 1
+}

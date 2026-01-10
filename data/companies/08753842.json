@@ -1,0 +1,437 @@
+{
+  "company_name": "MURPHY IT LIMITED",
+  "company_number": "08753842",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-10-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "35 Westgate, Huddersfield, West Yorkshire, HD1 1PB, England",
+  "registered_address_structured": {
+    "address_line_1": "35 Westgate",
+    "country": "England",
+    "locality": "Huddersfield",
+    "postal_code": "HD1 1PB",
+    "region": "West Yorkshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-30",
+    "next_accounts_period_end_on": "2025-10-30",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-28",
+    "last_made_up_to": "2025-10-14",
+    "next_made_up_to": "2026-10-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JONES, Oliver James Edward",
+        "officer_role": "director",
+        "appointed_on": "2013-10-30",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Westgate",
+          "country": "England",
+          "locality": "Huddersfield",
+          "postal_code": "HD1 1PB",
+          "premises": "35",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "SKELLAM, Hannah Kristina",
+        "officer_role": "director",
+        "appointed_on": "2013-10-30",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Nursery Lane",
+          "address_line_2": "Nursery Lane Addingham",
+          "country": "United Kingdom",
+          "locality": "Leeds",
+          "postal_code": "LS29 0TN",
+          "premises": "12"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SKELLAM, Hannah Kristina",
+        "officer_role": "secretary",
+        "appointed_on": "2013-10-30",
+        "address": {
+          "address_line_1": "Westgate",
+          "country": "England",
+          "locality": "Huddersfield",
+          "postal_code": "HD1 1PB",
+          "premises": "35",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Auctus Investments Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-04-24",
+        "address": {
+          "address_line_1": "Westgate",
+          "country": "United Kingdom",
+          "locality": "Huddersfield",
+          "postal_code": "HD1 1PA",
+          "premises": "35",
+          "region": "West Yorkshire"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "13306529"
+        }
+      },
+      {
+        "name": "Hannah Skellam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-04-24",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Westgate",
+          "country": "England",
+          "locality": "Huddersfield",
+          "postal_code": "HD1 1PA",
+          "premises": "35"
+        }
+      },
+      {
+        "name": "Mr Oliver Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-04-24",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Westgate",
+          "country": "England",
+          "locality": "Huddersfield",
+          "postal_code": "HD1 1PA",
+          "premises": "35"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "087538420001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-09-04",
+        "delivered_on": "2020-09-10",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEEAYGM9",
+        "transaction_id": "MzQ4NzAwNDI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XE7W2PSZ",
+        "transaction_id": "MzQ3NTY5Mjk5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFH37OB",
+        "transaction_id": "MzQ0MjQ2OTAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD7GA9JM",
+        "transaction_id": "MzQyODg4MTM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCEQ4CR4",
+        "transaction_id": "MzM5NzQ2MzA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCD0DWWA",
+        "transaction_id": "MzM5NDgxOTkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-14",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC7PWCUQ",
+        "transaction_id": "MzM4NjM1NDgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XC71M6VD",
+        "transaction_id": "MzM4NTE4MDc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBFII7NS",
+        "transaction_id": "MzM1NjcxNDE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-27",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XBFII3TC",
+        "transaction_id": "MzM1NjcxMzAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBFII0X6",
+        "transaction_id": "MzM1NjcxMjMzM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBFII0I0",
+        "transaction_id": "MzM1NjcxMjI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB7C6HWG",
+        "transaction_id": "MzM0NDQ3NjM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFGF2AA",
+        "transaction_id": "MzMxNzM3NjMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA7L3IPE",
+        "transaction_id": "MzMwNTkyMzg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-12-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9J2L8ZM",
+        "transaction_id": "MzI4NDk5ODE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-12-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9J2L8FV",
+        "transaction_id": "MzI4NDk5Nzk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-12-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9J2L7J7",
+        "transaction_id": "MzI4NDk5Nzg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-12-02",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9J2L7VD",
+        "transaction_id": "MzI4NDk5NzgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9GH1HKH",
+        "transaction_id": "MzI4MTYzODU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X9DAFW5S",
+        "transaction_id": "MzI3NzMzNjQ3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-08-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9CC1TRS",
+        "transaction_id": "MzI3NjI5NTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X92ZI1DU",
+        "transaction_id": "MzI2MjMwNTE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8G1S5YX",
+        "transaction_id": "MzI0Njc3ODAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X88BM1Y2",
+        "transaction_id": "MzIzNzY1MDAwOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Clairemurphylegal.co.uk",
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T12:26:14.114Z",
+  "scraped_at": "2026-01-10T12:26:14.114Z"
+}

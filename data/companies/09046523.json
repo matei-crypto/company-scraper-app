@@ -1,0 +1,458 @@
+{
+  "company_name": "EVO MOTION DESIGN LTD",
+  "company_number": "09046523",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-05-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 1 The Ajm Centre, Prospect Business Park, Swanage, Dorset, BH19 1FE, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Unit 1 The Ajm Centre",
+    "address_line_2": "Prospect Business Park",
+    "country": "United Kingdom",
+    "locality": "Swanage",
+    "postal_code": "BH19 1FE",
+    "region": "Dorset"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-01",
+    "last_made_up_to": "2025-01-18",
+    "next_made_up_to": "2026-01-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COLLIER, Jonathan Matthew",
+        "officer_role": "director",
+        "appointed_on": "2014-05-19",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1966,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Keysworth",
+          "country": "England",
+          "locality": "Wareham",
+          "postal_code": "BH20 7BH",
+          "premises": "All Seasons"
+        }
+      },
+      {
+        "name": "HOPE-ROSS, Sasfi Chantal",
+        "officer_role": "director",
+        "appointed_on": "2014-06-23",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Keysworth",
+          "country": "England",
+          "locality": "Wareham",
+          "postal_code": "BH20 7BH",
+          "premises": "All Seasons"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ms Sasfi Chantal Hope-Ross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2024-06-30",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Keysworth",
+          "country": "England",
+          "locality": "Wareham",
+          "postal_code": "BH20 7BH",
+          "premises": "All Seasons"
+        }
+      },
+      {
+        "name": "Mr Jonathan Matthew Collier",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1966,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Keysworth",
+          "country": "England",
+          "locality": "Wareham",
+          "postal_code": "BH20 7BH",
+          "premises": "All Seasons"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "090465230002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-01-29",
+        "delivered_on": "2018-02-15",
+        "particulars": {
+          "type": "brief-description",
+          "description": "F/H property k/a unit 6 westminster road, wareham, dorset. T/no ST26496.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "090465230001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-08-26",
+        "delivered_on": "2016-08-26",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All that freehold property known as units C2 and C3, 46 holton road, holton heath trading park, poole, BH16 6LT registered at the land registry under title number DT301375.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC"
+          }
+        ],
+        "satisfied_on": "2017-01-10",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDXCCC09",
+        "transaction_id": "MzQ1Njg1MzUyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVB75EY",
+        "transaction_id": "MzQ1MzE1NjE2MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDF8THZE",
+        "transaction_id": "MzQ0MjAxMTEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD8VHFV6",
+        "transaction_id": "MzQzMTE3NjY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD8VHFU2",
+        "transaction_id": "MzQzMTE3NjU2OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-01",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XD6EMOSG",
+        "transaction_id": "MzQyNzIxMjM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD6EMMQJ",
+        "transaction_id": "MzQyNzIxMTk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCXRK6S8",
+        "transaction_id": "MzQxMjU0ODA5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCWF9O9L",
+        "transaction_id": "MzQxMDYyMDY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBY2H597",
+        "transaction_id": "MzM3MDYwODE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXUBPQW",
+        "transaction_id": "MzM3MDA3NTEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAYTBCEG",
+        "transaction_id": "MzMzMTI5MTYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWNPVVL",
+        "transaction_id": "MzMyODE3Mzk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA3H3VS1",
+        "transaction_id": "MzI5OTQ2NjU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA03PIH1",
+        "transaction_id": "MzI5NDE3OTU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Y52FR4",
+        "transaction_id": "MzI1NjUyOTI3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8XGU2J5",
+        "transaction_id": "MzI1NTU3ODQzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X805KQQW",
+        "transaction_id": "MzIyODEzMTQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7XFFPYG",
+        "transaction_id": "MzIyNDc4MzM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X78L6DL6",
+        "transaction_id": "MzIwNzk1MDU3NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-02-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 29,
+        "barcode": "A6ZUJSCX",
+        "transaction_id": "MzE5ODA1MDY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-02-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6ZPIWU3",
+        "transaction_id": "MzE5NzYxNTIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-06-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X67ZZUFS",
+        "transaction_id": "MzE3NzQ5MTA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X67ZUW3U",
+        "transaction_id": "MzE3NzQ4NjE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-06-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X67ZUJGB",
+        "transaction_id": "MzE3NzQ4NTgxMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 34,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 22
+  },
+  "enrichment": {
+    "website": "https://Evomotiondesign.co.uk",
+    "headcount": 22,
+    "tech_stack": [],
+    "business_keywords": [
+      "campervan furniture",
+      "motorhome furniture",
+      "flat pack furniture",
+      "DIY campervan furniture",
+      "trade campervan furniture",
+      "VW T5 furniture",
+      "VW T6.1 furniture",
+      "VW T6 furniture",
+      "Ford Transit furniture",
+      "Mercedes Sprinter furniture",
+      "VW Crafter furniture",
+      "Citroen Relay furniture",
+      "overland furniture",
+      "van conversion furniture",
+      "light weight plywood"
+    ],
+    "services": [
+      "design and sale of flat-pack campervan and motorhome furniture",
+      "online product configurators for custom furniture setups",
+      "supply of pre-designed furniture layouts",
+      "supply of appliances for campervans and motorhomes",
+      "supply of parts for campervans and motorhomes",
+      "supply of lightweight plywood for van conversions"
+    ],
+    "customer_segments": [
+      "DIY campervan converters",
+      "trade customers",
+      "recognized converters",
+      "local converters and suppliers"
+    ],
+    "business_description": "EVO MOTION DESIGN LTD specializes in designing and supplying flat-pack furniture for campervans and motorhomes, including pre-designed layouts and customizable setups. They offer products for various van models such as VW T5, T6, T6.1, Ford Transit, and Mercedes Sprinter, catering to both DIY and trade customers.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:14:58.011Z"
+  },
+  "scraped_at": "2026-01-10T13:14:48.116Z",
+  "updated_at": "2026-01-10T13:14:58.011Z",
+  "version": 1
+}

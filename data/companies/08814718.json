@@ -1,0 +1,470 @@
+{
+  "company_name": "INTERACTIVE DIGITAL SYSTEMS LIMITED",
+  "company_number": "08814718",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-12-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "West Wing Bowcliffe Hall, Bramham, Wetherby, LS23 6LP, England",
+  "registered_address_structured": {
+    "address_line_1": "West Wing Bowcliffe Hall",
+    "address_line_2": "Bramham",
+    "country": "England",
+    "locality": "Wetherby",
+    "postal_code": "LS23 6LP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-24",
+    "last_made_up_to": "2025-05-10",
+    "next_made_up_to": "2026-05-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HALLIDAY, Nicholas Edward",
+        "officer_role": "director",
+        "appointed_on": "2013-12-13",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bowcliffe Hall",
+          "address_line_2": "Bramham",
+          "country": "England",
+          "locality": "Wetherby",
+          "postal_code": "LS23 6LP",
+          "premises": "West Wing"
+        }
+      },
+      {
+        "name": "POWNALL, Martin Stephen",
+        "officer_role": "director",
+        "appointed_on": "2018-04-24",
+        "resigned_on": "2019-05-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bowcliffe Hall",
+          "address_line_2": "Bramham",
+          "country": "England",
+          "locality": "Wetherby",
+          "postal_code": "LS23 6LP",
+          "premises": "Bowcliffe Hall"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ids-Group Uk (Eot) Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control-as-trust"
+        ],
+        "notified_on": "2025-02-06",
+        "address": {
+          "address_line_1": "Bowcliffe Hall",
+          "address_line_2": "Bramham",
+          "country": "England",
+          "locality": "Wetherby",
+          "postal_code": "LS23 6LP",
+          "premises": "West Wing"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Guarantee",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "16161281"
+        }
+      },
+      {
+        "name": "Mr Nicholas Edward Halliday",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-06-01",
+        "ceased_on": "2025-02-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bowcliffe Hall",
+          "address_line_2": "Bramham",
+          "country": "England",
+          "locality": "Wetherby",
+          "postal_code": "LS23 6LP",
+          "premises": "West Wing"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "088147180002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-02-08",
+        "delivered_on": "2023-02-13",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank Commercial Finance LTD"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "088147180001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-06-12",
+        "delivered_on": "2019-06-12",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEC6K87T",
+        "transaction_id": "MzQ4MzI2MTkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6R8MLK",
+        "transaction_id": "MzQ3MzM5OTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-02-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDW4VXDU",
+        "transaction_id": "MzQ1NDQ5NDg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-02-11",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDW4VVKP",
+        "transaction_id": "MzQ1NDQ5NDQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDCRLSNF",
+        "transaction_id": "MzQzNzc4Njc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2TDZKA",
+        "transaction_id": "MzQyMTI0NzU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCD3BNOH",
+        "transaction_id": "MzM5NDk4OTkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC41TIC3",
+        "transaction_id": "MzM4MDMzMDk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-02-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 23,
+        "barcode": "XBX8YPEY",
+        "transaction_id": "MzM2OTA2MDc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBJEXQ22",
+        "transaction_id": "MzM2MzUwMjE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB49NHA0",
+        "transaction_id": "MzMzOTY2OTEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB46WLRM",
+        "transaction_id": "MzMzOTUwNDQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB46WCKR",
+        "transaction_id": "MzMzOTUwMjEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAAK78ZL",
+        "transaction_id": "MzMxMDI3Nzk4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-08-10",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAAK71GJ",
+        "transaction_id": "MzMxMDI3NjMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA6WVDCI",
+        "transaction_id": "MzMwNDgzNzI5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA6EEVLN",
+        "transaction_id": "MzMwNDE5NzUyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA5PZFSP",
+        "transaction_id": "MzMwMjk2NDc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-06-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA5PZF0X",
+        "transaction_id": "MzMwMjk2NDUwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-10",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9ZY6DOR",
+        "transaction_id": "MzI5MzkxNjU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-25",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A9VZSRIH",
+        "transaction_id": "MzI4OTUyODYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-25",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A9VZSRGX",
+        "transaction_id": "MzI4OTUyODYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-25",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A9VZSRK1",
+        "transaction_id": "MzI4OTUyODYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-25",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A9VZSRK9",
+        "transaction_id": "MzI4OTUyODYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-25",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A9VZSRIP",
+        "transaction_id": "MzI4OTUyODYwNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 56,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Ids-group.co.uk",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "software development",
+      "systems integration",
+      "SaaS platforms",
+      "cyber security",
+      "compliance",
+      "technical due diligence",
+      "penetration testing",
+      "software consultancy",
+      "digital transformation",
+      "system security",
+      "UX",
+      "data",
+      "tech accelerator",
+      "enterprise systems",
+      "mission critical platforms"
+    ],
+    "services": [
+      "Software Development",
+      "Systems Integration",
+      "Technical Due Diligence",
+      "Penetration Testing",
+      "Software Consultancy",
+      "Software Security"
+    ],
+    "customer_segments": [
+      "scale-ups with huge ambitions",
+      "large multinational organisations",
+      "enterprise businesses",
+      "startups",
+      "Series A and B funded companies",
+      "established SaaS businesses",
+      "businesses preparing for investment rounds"
+    ],
+    "business_description": "INTERACTIVE DIGITAL SYSTEMS LIMITED (IDS Group) specializes in transforming software and systems into business solutions for scale-ups and large multinational organizations. They provide services including SaaS platform development, complex systems integration, software development, cyber security, technical due diligence, and penetration testing to support growth, security, and digital transformation.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:37:11.420Z"
+  },
+  "scraped_at": "2026-01-10T12:37:05.393Z",
+  "updated_at": "2026-01-10T12:37:11.420Z",
+  "version": 1
+}

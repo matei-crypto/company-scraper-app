@@ -1,0 +1,410 @@
+{
+  "company_name": "STEER73 LIMITED",
+  "company_number": "09089553",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-06-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "167-169 Great Portland Street, 5th Floor, London, W1W 5PF, England",
+  "registered_address_structured": {
+    "address_line_1": "167-169 Great Portland Street",
+    "address_line_2": "5th Floor",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 5PF"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TALL TECHNOLOGIES LIMITED",
+      "ceased_on": "2014-07-18",
+      "effective_from": "2014-06-17"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-01",
+    "last_made_up_to": "2025-06-17",
+    "next_made_up_to": "2026-06-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WOODWARD, Philip Nial Roman",
+        "officer_role": "director",
+        "appointed_on": "2014-06-17",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "5th Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Philip Nial Roman Woodward",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "5th Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "090895530001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-04-17",
+        "delivered_on": "2018-04-17",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Marketinvoice Limited"
+          }
+        ],
+        "satisfied_on": "2020-06-08",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-09-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEB6QYWA",
+        "transaction_id": "MzQ4MTM4NzQwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEB6PT4I",
+        "transaction_id": "MzQ4MTM3NzYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE5EINSZ",
+        "transaction_id": "MzQ3MTMwMjMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDZGWQKY",
+        "transaction_id": "MzQ2MDg0NjQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD6PK1R4",
+        "transaction_id": "MzQyNzc4MTM2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD692OS1",
+        "transaction_id": "MzQyNzAxMTU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCD3BASO",
+        "transaction_id": "MzM5NDk4NzE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC5X0G8R",
+        "transaction_id": "MzM4MzM0MTU3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "ABDKQLXV",
+        "transaction_id": "MzM1Mzc0OTUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB6Q48E1",
+        "transaction_id": "MzM0MzMxMDEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AAE4SNLL",
+        "transaction_id": "MzMxNTkwNjI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA6UAGQ8",
+        "transaction_id": "MzMwNDc3MTYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9EM7BGY",
+        "transaction_id": "MzI3OTA1ODc1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-09-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9EBLIAW",
+        "transaction_id": "MzI3ODczODM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X97HCWB7",
+        "transaction_id": "MzI2NzY1NDg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-08",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X96QR600",
+        "transaction_id": "MzI2NjgxNDAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-04-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTkxUVJDRjdhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8Z0O6CW",
+        "transaction_id": "MzI1NzQxNzY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-03",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8Y2865K",
+        "transaction_id": "MzI1NjMxMTY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X88RP5V6",
+        "transaction_id": "MzIzODI0NjgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-06-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X88E940W",
+        "transaction_id": "MzIzNzc1ODU1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-06-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X88E946H",
+        "transaction_id": "MzIzNzc1ODUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X828AJQI",
+        "transaction_id": "MzIzMDc1ODEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-12-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7JZWNEX",
+        "transaction_id": "MzIyMTA0MzUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X78DWOUW",
+        "transaction_id": "MzIwNzYyNDczM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 39,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Steer73.com",
+    "headcount": 15,
+    "tech_stack": [
+      "Power BI"
+    ],
+    "business_keywords": [
+      "digital transformation",
+      "custom software",
+      "AI systems",
+      "data warehousing",
+      "customer portals",
+      "mobile apps",
+      "web apps",
+      "data projects",
+      "artificial intelligence",
+      "generative AI",
+      "agentic workflows",
+      "NLP",
+      "semantic search",
+      "AI copilots",
+      "MVP",
+      "cloud",
+      "PC applications",
+      "Power BI",
+      "hardware integrations"
+    ],
+    "services": [
+      "Custom software development for web, cloud, PC, and mobile",
+      "Mobile and web app development and maintenance",
+      "Data projects (data source integration and utilization)",
+      "Digital transformation (assessment, roadmap creation, implementation, and management)",
+      "Artificial intelligence system design and delivery",
+      "Building and launching technology from idea to MVP to growth",
+      "Long-term system improvement and management",
+      "Free discovery service for problem understanding and solution development"
+    ],
+    "customer_segments": [
+      "enterprise clients",
+      "SME clients",
+      "startups",
+      "£60bn+ enterprises"
+    ],
+    "business_description": "Steer73 is a digital transformation agency that specializes in handling business-critical technology projects for enterprise and SME clients. They help organizations solve challenges, improve performance, and unlock opportunities using custom software, AI systems, data projects, and digital transformation services. The company builds, launches, and manages technology solutions from idea to MVP to growth, ensuring delivery on time and on budget.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:22:18.947Z"
+  },
+  "scraped_at": "2026-01-10T13:22:11.443Z",
+  "updated_at": "2026-01-10T13:22:18.947Z",
+  "version": 1
+}

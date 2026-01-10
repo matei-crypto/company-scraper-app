@@ -1,0 +1,765 @@
+{
+  "company_name": "ECOMNOVA LIMITED",
+  "company_number": "08293632",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-11-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "Capital House 272 Manchester Road, Droylsden, Manchester, M43 6PW, England",
+  "registered_address_structured": {
+    "address_line_1": "Capital House 272 Manchester Road",
+    "address_line_2": "Droylsden",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M43 6PW"
+  },
+  "sic_codes": [
+    "47910",
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BEAULILY TRADING LIMITED",
+      "ceased_on": "2014-07-17",
+      "effective_from": "2012-11-14"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-15",
+    "last_made_up_to": "2025-12-01",
+    "next_made_up_to": "2026-12-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JOHNSON, Paul Thomas",
+        "officer_role": "director",
+        "appointed_on": "2014-02-14",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "272 Manchester Road",
+          "address_line_2": "Droylsden",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M43 6PW",
+          "premises": "Capital House"
+        }
+      },
+      {
+        "name": "KHAN, Muhammad Tashfin",
+        "officer_role": "director",
+        "appointed_on": "2014-02-14",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "272 Manchester Road",
+          "address_line_2": "Droylsden",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M43 6PW",
+          "premises": "Capital House"
+        }
+      },
+      {
+        "name": "BATE, Andrew Thomas James",
+        "officer_role": "director",
+        "appointed_on": "2013-04-05",
+        "resigned_on": "2013-11-27",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Crank Road",
+          "address_line_2": "Crank",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA11 7RP",
+          "premises": "Rainford Hall",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "CHEN, Yan",
+        "officer_role": "director",
+        "appointed_on": "2017-06-15",
+        "resigned_on": "2022-10-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station Court",
+          "country": "England",
+          "locality": "Cannock",
+          "postal_code": "WS11 0EJ",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "GAO, Yu",
+        "officer_role": "director",
+        "appointed_on": "2017-04-12",
+        "resigned_on": "2023-09-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1980,
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station Court",
+          "country": "England",
+          "locality": "Cannock",
+          "postal_code": "WS11 0EJ",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "NEWMAN, Anthony Spencer",
+        "officer_role": "director",
+        "appointed_on": "2013-11-27",
+        "resigned_on": "2025-08-11",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "272 Manchester Road",
+          "address_line_2": "Droylsden",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M43 6PW",
+          "premises": "Capital House"
+        }
+      },
+      {
+        "name": "ROBERTS, Ian",
+        "officer_role": "director",
+        "appointed_on": "2013-12-06",
+        "resigned_on": "2014-02-14",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Chapel Street",
+          "country": "England",
+          "locality": "Salford",
+          "postal_code": "M3 5DW",
+          "premises": "112"
+        }
+      },
+      {
+        "name": "ROBERTS, Ian David",
+        "officer_role": "director",
+        "appointed_on": "2012-11-14",
+        "resigned_on": "2013-04-05",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Crank Road",
+          "address_line_2": "Crank",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA11 7RP",
+          "premises": "Rainford Hall",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "WANG, Tingfang",
+        "officer_role": "director",
+        "appointed_on": "2017-11-27",
+        "resigned_on": "2023-09-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1981,
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station Court",
+          "country": "England",
+          "locality": "Cannock",
+          "postal_code": "WS11 0EJ",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "WILSON, David Christopher",
+        "officer_role": "director",
+        "appointed_on": "2013-04-05",
+        "resigned_on": "2013-12-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Crank Road",
+          "address_line_2": "Crank",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA11 7RP",
+          "premises": "Rainford Hall",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "ZHANG, Dong",
+        "officer_role": "director",
+        "appointed_on": "2017-10-16",
+        "resigned_on": "2022-10-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1992,
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station Court",
+          "country": "England",
+          "locality": "Cannock",
+          "postal_code": "WS11 0EJ",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "ZHAO, Pan",
+        "officer_role": "director",
+        "appointed_on": "2017-09-11",
+        "resigned_on": "2023-09-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1994,
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Station Court",
+          "country": "England",
+          "locality": "Cannock",
+          "postal_code": "WS11 0EJ",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Muhammad Tashfin Khan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-08-18",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "272 Manchester Road",
+          "address_line_2": "Droylsden",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M43 6PW",
+          "premises": "Capital House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "082936320006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-11-07",
+        "delivered_on": "2025-11-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Caprelease Financing Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "082936320005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-05-18",
+        "delivered_on": "2024-06-07",
+        "particulars": {
+          "type": "brief-description",
+          "description": "1. by way of first legal mortgage, all freehold and leasehold property wherever situate (other than any heritable property in scotland), and includes all liens, charges, options, agreements, rights and interests in or over such property or the proceeds of sale of such property and all buildings and fixtures and fittings (including trade fixtures and fittings, but excluding any fixtures and fittings belonging to a tenant), fixed plant and machinery and other items attached to that property, whether or not constituting a fixture at law thereon and all rights, easements and privileges appurtenant to, or benefiting, the same (properties), now owned by the company or in which that company has an interest;. 2. by way of first fixed charge (to the extent not subject of a legal mortgage by virtue of clause 3.1(a) of the deed, all present and future properties now or from time to time hereafter owned by the company or in which the company may have an interest;. 3. by way of first fixed charge, all patents (including applications for and rights to apply for patents), trademarks and service marks (whether registered or not) and applications for the same, trade names, registered designs, design rights, database rights, copyrights, computer programs, know-how and trade secrets and all other intellectual or intangible property or rights and all licenses, agreements and ancillary and connected rights relating to intellectual and intangible property including any renewals, revivals or extensions thereof and wherever in the world subsisting, now or from time to time hereafter owned by the company or in which the company may have an interest.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Uncapped LTD"
+          }
+        ],
+        "satisfied_on": "2025-07-10",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "082936320004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-06-30",
+        "delivered_on": "2023-07-04",
+        "particulars": {
+          "type": "brief-description",
+          "description": "By way of fixed charge, any freehold,. Leasehold or other immovable property; any buildings, erections, fixtures or fittings from time to. Time situated on or forming part of such property (including any trade fixtures and fittings) and any. Of their related rights (as defined in the debenture) now or at any time in the future belonging to. The company; by way of fixed charge, all present and future patents, trade marks, service marks,. Designs, business names, copyrights, design rights, moral rights, inventions, confidential information,. Knowhow and other intellectual property rights and interests, whether registered or unregistered. Owned by the company and the benefit of all applications and rights to use such assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wtb Spv No 3 Limited"
+          }
+        ],
+        "satisfied_on": "2024-05-09",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "082936320003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-12-18",
+        "delivered_on": "2018-12-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Paul Johnson"
+          }
+        ],
+        "satisfied_on": "2019-05-21",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "082936320002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-12-18",
+        "delivered_on": "2018-12-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Anthony Newman"
+          }
+        ],
+        "satisfied_on": "2019-05-21",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "082936320001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-12-18",
+        "delivered_on": "2018-12-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Mohammad Tashfin Khan"
+          }
+        ],
+        "satisfied_on": "2019-05-21",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 6,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "insolvency": {
+    "cases": [
+      {
+        "dates": [
+          {
+            "type": "voluntary-arrangement-started-on",
+            "date": "2019-05-10"
+          },
+          {
+            "type": "voluntary-arrangement-ended-on",
+            "date": "2024-03-20"
+          }
+        ],
+        "notes": [],
+        "practitioners": [
+          {
+            "name": "Andrew Poxon",
+            "address": {
+              "address_line_1": "Leonard Curtis House Elms Square",
+              "address_line_2": "Bury New Road",
+              "locality": "Whitefield",
+              "postal_code": "M45 7TA"
+            },
+            "role": "practitioner"
+          },
+          {
+            "name": "Martin Maloney",
+            "address": {
+              "address_line_1": "Leonard Curtis House 1a Elms Square",
+              "address_line_2": "Bury New Road",
+              "locality": "Manchester",
+              "postal_code": "M45 7TA"
+            },
+            "role": "practitioner"
+          }
+        ]
+      }
+    ],
+    "has_insolvency_history": true
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEGHXMIP",
+        "transaction_id": "MzQ5MTcxNDIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-25",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XEG1IF4W",
+        "transaction_id": "MzQ5MDc5NzA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-25",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XEG1IA3U",
+        "transaction_id": "MzQ5MDc5NTc1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEFLHV9F",
+        "transaction_id": "MzQ4OTM2NDg3N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-11-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 16,
+        "barcode": "XEEU65XU",
+        "transaction_id": "MzQ4Nzg2MDQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-08-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE9WRXJ7",
+        "transaction_id": "MzQ3OTAwNDUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-10",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE6GRXSR",
+        "transaction_id": "MzQ3MzE2NDkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XDWD773M",
+        "transaction_id": "MzQ1NTA3MDk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDIV2Y2R",
+        "transaction_id": "MzQ0OTE1NjE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-06-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 22,
+        "barcode": "XD4RBXDF",
+        "transaction_id": "MzQyNDU2NTAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-05-09",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD2QRY2A",
+        "transaction_id": "MzQyMTE2MjM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD15W7OA",
+        "transaction_id": "MzQxODU5MjY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2024-03-29",
+        "description": "liquidation-voluntary-arrangement-completion",
+        "type": "CVA4",
+        "pages": 26,
+        "barcode": "YCZ9X356",
+        "transaction_id": "MzQxNTQzMjQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "XCIVGL2T",
+        "transaction_id": "MzQwNTI5NjU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCB547EG",
+        "transaction_id": "MzM5MTY0NTUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCB546Y2",
+        "transaction_id": "MzM5MTY0NTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCB546GX",
+        "transaction_id": "MzM5MTY0NTMzOGFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2023-07-11",
+        "description": "liquidation-cva-supervisors-abstract-of-receipts-payments-with-brought-down-date",
+        "type": "CVA3",
+        "pages": 24,
+        "barcode": "YC6YXU0O",
+        "transaction_id": "MzM4NTA1MzczM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7HJO54",
+        "transaction_id": "MzM4NTgzMDYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-07-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 26,
+        "barcode": "XC71ITQM",
+        "transaction_id": "MzM4NTE0OTAxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBJHKOCJ",
+        "transaction_id": "MzM2MzYxMTY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBEZOLE0",
+        "transaction_id": "MzM1NTgwMzkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBEZOJT4",
+        "transaction_id": "MzM1NTgwMzU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2022-07-06",
+        "description": "liquidation-cva-supervisors-abstract-of-receipts-payments-with-brought-down-date",
+        "type": "CVA3",
+        "pages": 24,
+        "barcode": "YB7C25D6",
+        "transaction_id": "MzM0NDQzNzkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB49QU4A",
+        "transaction_id": "MzMzOTcwMTM1MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 102,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 28
+  },
+  "enrichment": {
+    "website": "https://Ecomnova.com",
+    "headcount": 28,
+    "tech_stack": [
+      "open source technologies",
+      "proprietary technologies",
+      "Google",
+      "Facebook",
+      "social media platforms"
+    ],
+    "business_keywords": [
+      "ecommerce",
+      "web design",
+      "web development",
+      "digital marketing",
+      "ecommerce innovation",
+      "project management",
+      "multi channel ecommerce",
+      "social media marketing",
+      "Google Adwords",
+      "open source technologies",
+      "proprietary technologies",
+      "third party platforms",
+      "apprenticeships",
+      "graduation positions",
+      "ecommerce websites"
+    ],
+    "services": [
+      "web design",
+      "web development",
+      "digital marketing",
+      "project planning",
+      "project management",
+      "ecommerce solutions",
+      "multi channel ecommerce promotion"
+    ],
+    "customer_segments": [],
+    "business_description": "Ecomnova Limited is a company with 7 years of experience in web design, development, and marketing projects, known for delivering high-quality services. They focus on ecommerce innovation, offering solutions using a blend of open source, proprietary technologies, and third-party platforms. Ecomnova also manages in-house ecommerce brands and provides digital marketing services.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T11:19:30.874Z"
+  },
+  "scraped_at": "2026-01-10T11:19:25.695Z",
+  "updated_at": "2026-01-10T11:19:30.874Z",
+  "version": 1
+}

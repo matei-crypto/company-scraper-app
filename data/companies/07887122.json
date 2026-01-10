@@ -1,0 +1,440 @@
+{
+  "company_name": "ANTILLION LTD",
+  "company_number": "07887122",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-12-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Antillion, Rio House 715 Waterside Drive, Aztec West, Almondsbury, Bristol, BS32 4UD, England",
+  "registered_address_structured": {
+    "address_line_1": "Antillion, Rio House 715 Waterside Drive",
+    "address_line_2": "Aztec West, Almondsbury",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS32 4UD"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090",
+    "84220"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SWIPPA LTD",
+      "ceased_on": "2012-09-13",
+      "effective_from": "2011-12-20"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-15",
+    "last_made_up_to": "2025-11-01",
+    "next_made_up_to": "2026-11-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRADBROOK, Alistair Lawrence Ralph",
+        "officer_role": "director",
+        "appointed_on": "2012-09-13",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "715 Waterside Drive",
+          "address_line_2": "Aztec West, Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4UD",
+          "premises": "Antillion, Rio House"
+        }
+      },
+      {
+        "name": "COX, Jonathan David",
+        "officer_role": "director",
+        "appointed_on": "2012-09-18",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "715 Waterside Drive",
+          "address_line_2": "Aztec West, Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4UD",
+          "premises": "Antillion, Rio House"
+        }
+      },
+      {
+        "name": "CARLIN, John Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2012-10-29",
+        "resigned_on": "2013-01-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Lonsdale Gardens",
+          "country": "England",
+          "locality": "Tunbridge Wells",
+          "postal_code": "TN1 1PA",
+          "premises": "12"
+        }
+      },
+      {
+        "name": "RANDALL, Simon James",
+        "officer_role": "director",
+        "appointed_on": "2012-10-29",
+        "resigned_on": "2013-10-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Potbridge Road",
+          "country": "England",
+          "locality": "Winchfield",
+          "postal_code": "RG27 8BT",
+          "premises": "Winchfield Lodge",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "RANDALL, Simon James",
+        "officer_role": "director",
+        "appointed_on": "2011-12-20",
+        "resigned_on": "2012-09-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Potbridge Road",
+          "country": "England",
+          "locality": "Winchfield",
+          "postal_code": "RG27 8BT",
+          "premises": "Winchfield Lodge",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DURRANT, Hannah",
+        "officer_role": "secretary",
+        "appointed_on": "2019-09-23",
+        "address": {
+          "address_line_1": "715 Waterside Drive",
+          "address_line_2": "Aztec West",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS32 4UD",
+          "premises": "Antillion, Rio House"
+        }
+      },
+      {
+        "name": "MBM SECRETARIAL SERVICES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2024-05-24",
+        "address": {
+          "address_line_1": "Orchard Brae House",
+          "address_line_2": "30 Queensferry Road",
+          "country": "United Kingdom",
+          "locality": "Edinburgh",
+          "postal_code": "EH4 2HS",
+          "premises": "Suite 2, Ground Floor"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Antillion Parent Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Waterside Drive, Aztec West",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4UD",
+          "premises": "Antillion, Rio House"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEIWQIF",
+        "transaction_id": "MzQ4NzIxMzk4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE3LO1QZ",
+        "transaction_id": "MzQ2ODMwMDY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDEYA85S",
+        "transaction_id": "MzQ0MTczMTAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-24",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XD3SFQDD",
+        "transaction_id": "MzQyMzExNzMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCZNBW2Q",
+        "transaction_id": "MzQxNTkyOTY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFPB0QQ",
+        "transaction_id": "MzM5ODk4MDYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC4A0BDU",
+        "transaction_id": "MzM4MDgwNDg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGERHP5",
+        "transaction_id": "MzM1Nzk1MTAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB4MZ1UX",
+        "transaction_id": "MzM0MDE2MzU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAGCNCGY",
+        "transaction_id": "MzMxODc1MzgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA5FJSBF",
+        "transaction_id": "MzMwMjY4MzYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9GZPNTM",
+        "transaction_id": "MzI4MjI5NjkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X91YWU89",
+        "transaction_id": "MzI2MTM0NDE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8HO0J51",
+        "transaction_id": "MzI0ODY3NTgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-30",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X8F3AS4R",
+        "transaction_id": "MzI0NTU5MDM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-23",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X8EMRVQG",
+        "transaction_id": "MzI0NDg3MDc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X864GXL4",
+        "transaction_id": "MzIzNTIzNjI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7I6NRUZ",
+        "transaction_id": "MzIxODg4MjU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X75Z1KTK",
+        "transaction_id": "MzIwNDk2MzM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6INPL0Q",
+        "transaction_id": "MzE4OTU0NzQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-05-23",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6724LMJ",
+        "transaction_id": "MzE3NjQyMzYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-11-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5JNUWI2",
+        "transaction_id": "MzE2MTgxOTA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-11-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5JDHRU3",
+        "transaction_id": "MzE2MTU3NjU3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-05-10",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A56CXOQO",
+        "transaction_id": "MzE0ODE2ODU4MmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-11-01",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X4JA2X03",
+        "transaction_id": "MzEzNDI0NzU0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 49,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Antillion.co.uk",
+    "headcount": 25,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T10:11:27.318Z",
+  "scraped_at": "2026-01-10T10:11:27.318Z"
+}

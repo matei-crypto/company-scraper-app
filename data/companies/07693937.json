@@ -1,0 +1,427 @@
+{
+  "company_name": "UWP LIMITED",
+  "company_number": "07693937",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-07-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "3rd Floor, 56 Leman Street, London, E1 8EU, England",
+  "registered_address_structured": {
+    "address_line_1": "3rd Floor, 56 Leman Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 8EU"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-16",
+    "last_made_up_to": "2025-07-02",
+    "next_made_up_to": "2026-07-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MALIK, Dipta",
+        "officer_role": "director",
+        "appointed_on": "2011-07-13",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "56 Leman Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8EU",
+          "premises": "3rd Floor,"
+        }
+      },
+      {
+        "name": "HOWLADER, Hasib Reza",
+        "officer_role": "director",
+        "appointed_on": "2011-07-05",
+        "resigned_on": "2011-07-13",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Leman Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E18EU",
+          "premises": "56"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Uwp Holding Company Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-03-31",
+        "address": {
+          "address_line_1": "56 Leman Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 8EU",
+          "premises": "3rd Floor,"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Dipta Malik",
+          "registration_number": "14732569"
+        }
+      },
+      {
+        "name": "Mr Dipta Malik",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-06-01",
+        "ceased_on": "2023-03-31",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "112 Clerkenwell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1M 5SA",
+          "premises": "Floor 4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XEHZBGUJ",
+        "transaction_id": "MzQ5NjAyMzgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6GTRX7",
+        "transaction_id": "MzQ3MzE4MTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-09",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDHKUS69",
+        "transaction_id": "MzQ0NjU5NTkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDEF2MBN",
+        "transaction_id": "MzQ0MDgzMTYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD7GGRO3",
+        "transaction_id": "MzQyODkzOTY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCHVRMOY",
+        "transaction_id": "MzQwMzAyNzk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCE9XT2G",
+        "transaction_id": "MzM5NjYxNTA4NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCDJAGO3",
+        "transaction_id": "MzM5NTQ2NjI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC80CHRT",
+        "transaction_id": "MzM4NjcxODAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XC3R4P2H",
+        "transaction_id": "MzM3OTk0Njc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-17",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC3R4OG8",
+        "transaction_id": "MzM3OTk0NjU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBZVK58A",
+        "transaction_id": "MzM3Mzc4NTA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBFW9NSP",
+        "transaction_id": "MzM1NzM0NzIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB85C6MR",
+        "transaction_id": "MzM0NTU2MTMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAD2LPXM",
+        "transaction_id": "MzMxMzkxNjkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7WC02Y",
+        "transaction_id": "MzMwNjU3MTc2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-15",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 5,
+        "barcode": "AA5V21YX",
+        "transaction_id": "MzMwMzgwMjk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-10-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9F7S7H7",
+        "transaction_id": "MzI4MDAwNzczMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X9B8J0PL",
+        "transaction_id": "MzI3NTA2NzE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X99HA3D7",
+        "transaction_id": "MzI3MzMyODI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-09",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 5,
+        "barcode": "A92IS3G8",
+        "transaction_id": "MzI2MjEyMjkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8L03VPS",
+        "transaction_id": "MzI1MzA0ODcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X88X3YA9",
+        "transaction_id": "MzIzODQ4ODkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X7L6V3R5",
+        "transaction_id": "MzIyMjY2OTMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X79EMPDM",
+        "transaction_id": "MzIwODg4OTk1MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 52,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Uwpgroup.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "AdWords"
+    ],
+    "business_keywords": [
+      "digital marketing",
+      "web design",
+      "AdWords",
+      "SEO",
+      "social media",
+      "PPC",
+      "content design",
+      "PR",
+      "conversions",
+      "video",
+      "web development",
+      "workflow automation",
+      "ROI",
+      "CPA",
+      "leads",
+      "traffic"
+    ],
+    "services": [
+      "AdWords",
+      "SEO",
+      "social media",
+      "web design",
+      "PPC",
+      "content design",
+      "PR",
+      "conversions",
+      "video",
+      "web development",
+      "workflow automation"
+    ],
+    "customer_segments": [
+      "financial services",
+      "legal",
+      "healthcare",
+      "education",
+      "property",
+      "professional services",
+      "construction",
+      "facilities management",
+      "security",
+      "trades",
+      "e-commerce"
+    ],
+    "business_description": "UWP LIMITED is a full-service digital marketing and web design company based in London, offering services such as PPC, SEO, social media, web development, and workflow automation. The company focuses on delivering measurable results like increased traffic, leads, and ROI without long-term contracts, serving a variety of industries.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:40:58.657Z"
+  },
+  "scraped_at": "2026-01-10T09:40:52.874Z",
+  "updated_at": "2026-01-10T09:40:58.657Z",
+  "version": 1
+}

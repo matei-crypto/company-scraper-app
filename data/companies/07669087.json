@@ -1,0 +1,468 @@
+{
+  "company_name": "HASSELL INCLUSION LIMITED",
+  "company_number": "07669087",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-06-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "205 Wrotham Road, Gravesend, Kent, DA11 7LE, England",
+  "registered_address_structured": {
+    "address_line_1": "205 Wrotham Road",
+    "country": "England",
+    "locality": "Gravesend",
+    "postal_code": "DA11 7LE",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-30",
+    "last_made_up_to": "2025-09-16",
+    "next_made_up_to": "2026-09-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HASSELL, Jonathan Philip, Dr",
+        "officer_role": "director",
+        "appointed_on": "2011-06-14",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wrotham Road",
+          "country": "England",
+          "locality": "Gravesend",
+          "postal_code": "DA11 7LE",
+          "premises": "205",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "HASSELL, Rosnah Moya",
+        "officer_role": "director",
+        "appointed_on": "2011-06-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wrotham Road",
+          "country": "England",
+          "locality": "Gravesend",
+          "postal_code": "DA11 7LE",
+          "premises": "205",
+          "region": "Kent"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Dr Jonathan Philip Hassell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-06-14",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wrotham Road",
+          "country": "England",
+          "locality": "Gravesend",
+          "postal_code": "DA11 7LE",
+          "premises": "205",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "Mrs Rosnah Moya Hassell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-06-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wrotham Road",
+          "country": "England",
+          "locality": "Gravesend",
+          "postal_code": "DA11 7LE",
+          "premises": "205",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "076690870002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-10-13",
+        "delivered_on": "2025-10-15",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "076690870001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-04",
+        "delivered_on": "2020-06-05",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC as Security Trustee"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-10-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 16,
+        "barcode": "XED8ESUA",
+        "transaction_id": "MzQ4NTA0ODgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEC3M8JN",
+        "transaction_id": "MzQ4MzA2MTc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDYPH9DC",
+        "transaction_id": "MzQ1OTUxNzkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBRWV96",
+        "transaction_id": "MzQzNTkzMTM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCCBIC3S",
+        "transaction_id": "MzM5MzQyNjc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCC17H6Q",
+        "transaction_id": "MzM5MzEyNDQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XC0BRGAO",
+        "transaction_id": "MzM3NDUyODI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBCOE6UP",
+        "transaction_id": "MzM1MjA5OTA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBCG6EOP",
+        "transaction_id": "MzM1MTY4MDQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XB0UEG09",
+        "transaction_id": "MzMzNDY2MzA5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XACX3K1M",
+        "transaction_id": "MzMxMzYxNzc1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA1AIH34",
+        "transaction_id": "MzI5NjAxNzQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DKS0G3",
+        "transaction_id": "MzI3NzU1NDczNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97XEK0B",
+        "transaction_id": "MzI2ODIzMDczNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 15,
+        "barcode": "X96LJ55D",
+        "transaction_id": "MzI2NjY5MTU3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8GJZW4Y",
+        "transaction_id": "MzI0NzIwNjQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X88GXM4P",
+        "transaction_id": "MzIzNzg4MDIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X7HR3TSQ",
+        "transaction_id": "MzIxODMwMzU0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-08-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X7CXYWI0",
+        "transaction_id": "MzIxMjc0NDQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-08-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X7CXYROR",
+        "transaction_id": "MzIxMjc0NDIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7921KMI",
+        "transaction_id": "MzIwODUyNTYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X727HXEJ",
+        "transaction_id": "MzIwMDYyNzEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X69JZD6H",
+        "transaction_id": "MzE3OTEzNTE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-02-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X60XT1EB",
+        "transaction_id": "MzE2OTczMzYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-06-14",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X5943SYY",
+        "transaction_id": "MzE1MDY5MzQ2OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 37,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Hassellinclusion.com",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "digital accessibility",
+      "inclusive web experiences",
+      "app accessibility",
+      "accessibility training",
+      "accessibility audits",
+      "user research",
+      "accessibility benchmarking",
+      "accessibility workshops",
+      "WCAG",
+      "ISO 30071-1",
+      "accessibility maturity",
+      "digital inclusion",
+      "accessibility consulting",
+      "accessibility ROI",
+      "customer journey accessibility"
+    ],
+    "services": [
+      "Digital accessibility training",
+      "Content and PDF accessibility training",
+      "Live Audits (WCAG and consumer journey accessibility)",
+      "User-research sessions with people with disabilities",
+      "Industry benchmarking reports",
+      "Accessibility awards workshops and application roadmaps",
+      "Accessibility maturity scorecard (ISO 30071-1)",
+      "Webinars on digital accessibility",
+      "Accessibility plan development",
+      "Research on digital preferences of older adults"
+    ],
+    "customer_segments": [
+      "Organisations globally",
+      "Government councils (e.g., Nottinghamshire County Council)",
+      "Aviation industry (e.g., Civil Aviation Authority, airlines)",
+      "Financial services (e.g., Monzo)",
+      "Technology companies (e.g., ServiceNow)",
+      "Charities and non-profits (e.g., Tearfund, Scope)",
+      "Software development companies (e.g., Galaxkey)",
+      "Digital service providers",
+      "Retail and e-commerce organisations",
+      "Older online customers (over-65s)"
+    ],
+    "business_description": "Hassell Inclusion helps organisations globally embed digital accessibility by delivering sustainable and mature accessible digital experiences. They provide services such as training, audits, user research, benchmarking, and workshops to enable inclusive web and app user experiences for everyone, including people with disabilities and older adults. Their goal is to integrate accessibility solutions into organisations to improve customer journeys and meet business objectives.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:36:43.611Z"
+  },
+  "scraped_at": "2026-01-10T09:36:34.069Z",
+  "updated_at": "2026-01-10T09:36:43.611Z",
+  "version": 1
+}

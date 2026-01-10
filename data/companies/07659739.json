@@ -1,0 +1,449 @@
+{
+  "company_name": "BIG BRAND IDEAS LIMITED",
+  "company_number": "07659739",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2011-06-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Manchester House, 86 Princess Street, Manchester, M1 6NG, England",
+  "registered_address_structured": {
+    "address_line_1": "Manchester House",
+    "address_line_2": "86 Princess Street",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M1 6NG"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-01",
+    "last_made_up_to": "2025-05-18",
+    "next_made_up_to": "2026-05-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BUTLER, Jonathan",
+        "officer_role": "director",
+        "appointed_on": "2011-06-07",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Newhall Street",
+          "country": "United Kingdom",
+          "locality": "Macclesfield",
+          "postal_code": "SK10 3AB",
+          "premises": "39"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Jonathan Butler",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Chepstow Close",
+          "country": "England",
+          "locality": "Macclesfield",
+          "postal_code": "SK10 2WE",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "076597390003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-08-11",
+        "delivered_on": "2017-08-16",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "076597390002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-04-21",
+        "delivered_on": "2017-04-21",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true,
+          "chargor_acting_as_bare_trustee": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Growth Street Provision Limited"
+          }
+        ],
+        "satisfied_on": "2017-07-24",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "076597390001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-04-21",
+        "delivered_on": "2017-04-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true,
+          "chargor_acting_as_bare_trustee": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Growth Street Provision Limited"
+          }
+        ],
+        "satisfied_on": "2017-07-24",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE305DE1",
+        "transaction_id": "MzQ2NzM2MDY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-01",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD8L0RZM",
+        "transaction_id": "MzQzMDkxNTc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD45K7C0",
+        "transaction_id": "MzQyMzUzNDEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCZW4DWZ",
+        "transaction_id": "MzQxNjU5ODU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-03-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUNZNUZSTlRhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-04",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCY5FTSQ",
+        "transaction_id": "MzQxMzMxNzM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-03-02",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUNYUklSV1hhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-02",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YCXRITJW",
+        "transaction_id": "MzQxMjUzNjkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC9I4BRN",
+        "transaction_id": "MzM4ODkyNDEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC9I4ACI",
+        "transaction_id": "MzM4ODkyMzgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-08-03",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "YC8LTYMH",
+        "transaction_id": "MzM4NzY5NTc1M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-08-03",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUM4TFRYWFVhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-03",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YC8LTYH4",
+        "transaction_id": "MzM4NzY5NTc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-02",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YC8LTYKH",
+        "transaction_id": "MzM4NzY5NTc1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC3RDGRV",
+        "transaction_id": "MzM4MDA3MjQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-22",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 8,
+        "barcode": "AC1JA7Z4",
+        "transaction_id": "MzM3NjY3ODEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBI7DEOX",
+        "transaction_id": "MzM2MDk4NzA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB49LVYJ",
+        "transaction_id": "MzMzOTY1NTI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-04-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB1APUUB",
+        "transaction_id": "MzMzNTMxMDE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-03",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAYZ5H92",
+        "transaction_id": "MzMzMTgxNzk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA7A67U8",
+        "transaction_id": "MzMwNTM0NzE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA5Q2EGJ",
+        "transaction_id": "MzMwMjk5MDk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97996AJ",
+        "transaction_id": "MzI2NzMzMTUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8EV5OJ5",
+        "transaction_id": "MzI0NTM2NDA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X883QXRE",
+        "transaction_id": "MzIzNzQ2NjM1OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 75
+  },
+  "enrichment": {
+    "website": "https://Bigbrandideas.co.uk",
+    "headcount": 75,
+    "tech_stack": [
+      "WordPress"
+    ],
+    "business_keywords": [
+      "marketing agency",
+      "growth",
+      "ambitious brands",
+      "consulting",
+      "crafting solutions",
+      "connecting marketing",
+      "industry insight",
+      "business growth",
+      "brand partnerships",
+      "gamification",
+      "digital PR",
+      "search performance",
+      "WordPress",
+      "sports sponsorship",
+      "hospitality"
+    ],
+    "services": [
+      "consulting to understand goals as a long-term partner",
+      "crafting solutions with impact",
+      "connecting marketing dots to drive meaningful results",
+      "driving tyre ecommerce category growth",
+      "launching refreshed brand and website",
+      "boosting funding for grassroots sports through film",
+      "maximising search performance with Digital PR",
+      "bespoke WordPress approach",
+      "accelerating brand partnerships through gamification"
+    ],
+    "customer_segments": [
+      "ambitious brands",
+      "leading brands",
+      "sectors",
+      "ecommerce",
+      "finance",
+      "hospitality",
+      "professional services",
+      "sports"
+    ],
+    "business_description": "Trunk is an award-winning marketing agency that drives growth for ambitious brands. The company acts as a long-term partner, consulting to understand goals, crafting impactful solutions, and connecting marketing efforts to deliver meaningful results. Their work is shaped by deep industry insight and focuses on pushing beyond briefs to achieve business growth.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T09:34:36.790Z"
+  },
+  "scraped_at": "2026-01-10T09:34:29.287Z",
+  "updated_at": "2026-01-10T09:34:36.790Z",
+  "version": 1
+}

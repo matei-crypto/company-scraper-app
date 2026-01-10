@@ -1,0 +1,502 @@
+{
+  "company_name": "BEDIGITALUK LTD",
+  "company_number": "08886685",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-02-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "Tramshed Tech, Pendyris Street, Cardiff, CF11 6BH, Wales",
+  "registered_address_structured": {
+    "address_line_1": "Tramshed Tech",
+    "address_line_2": "Pendyris Street",
+    "country": "Wales",
+    "locality": "Cardiff",
+    "postal_code": "CF11 6BH"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "DMSG LIMITED",
+      "ceased_on": "2021-03-10",
+      "effective_from": "2014-02-11"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-14",
+    "last_made_up_to": "2025-01-31",
+    "next_made_up_to": "2026-01-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DAVIES, Gareth",
+        "officer_role": "director",
+        "appointed_on": "2021-05-24",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Pendyris Street",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF11 6BH",
+          "premises": "Tramshed Tech"
+        }
+      },
+      {
+        "name": "MATTHEWS, Paul Brian",
+        "officer_role": "director",
+        "appointed_on": "2014-02-11",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Pendyris Street",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF11 6BH",
+          "premises": "Tramshed Tech"
+        }
+      },
+      {
+        "name": "TYLER, Richard Andrew",
+        "officer_role": "director",
+        "appointed_on": "2021-05-24",
+        "resigned_on": "2025-07-21",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Pendyris Street",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF11 6BH",
+          "premises": "Tramshed Tech"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Bedigital Group Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-05-24",
+        "address": {
+          "address_line_1": "Pendyris Street",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF11 6BH",
+          "premises": "Tramshed Tech"
+        },
+        "identification": {
+          "legal_form": "Ltd",
+          "legal_authority": "Companies House",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House, Jersey Financial Services Commiss",
+          "registration_number": "13261903"
+        }
+      },
+      {
+        "name": "Mr Paul Brian Matthews",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-05-24",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "Pendyris Street",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF11 6BH",
+          "premises": "Tramshed Tech"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "088866850002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-01-16",
+        "delivered_on": "2023-01-24",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "088866850001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-04-05",
+        "delivered_on": "2019-04-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Rbs Invoice Finance LTD"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEGKPUK9",
+        "transaction_id": "MzQ5MTkxMjgyOGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-07-29",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YE7IO0TV",
+        "transaction_id": "WUU3SU8wVFZhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-25",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE7IO0SJ",
+        "transaction_id": "MzQ3NTE5NTMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVLS6R6",
+        "transaction_id": "MzQ1MzQ1MzI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDH4JY0W",
+        "transaction_id": "MzQ0NTcyODAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW77B3S",
+        "transaction_id": "MzQwOTk1NTg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCGWHKAP",
+        "transaction_id": "MzQwMTMyMTAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCGWHJZV",
+        "transaction_id": "MzQwMTMyMDk2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC4Q4BIA",
+        "transaction_id": "MzM4MTQ1MTcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBWCT86H",
+        "transaction_id": "MzM2Nzc2MjI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-01-24",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "XBVWFM17",
+        "transaction_id": "MzM2Njk2MzM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB4F48TT",
+        "transaction_id": "MzMzOTk3MzYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1TK8OO",
+        "transaction_id": "MzMzNjE1ODQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB1TK3GI",
+        "transaction_id": "MzMzNjE1NzI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB00QGSH",
+        "transaction_id": "MzMzMzI5NjE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "miscellaneous",
+        "date": "2021-09-06",
+        "description": "miscellaneous",
+        "type": "MISC",
+        "pages": 1,
+        "barcode": "RDT88V63",
+        "transaction_id": "MzQ2NTc3NDEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-09-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUFCVVRBNElhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-06",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "AABUTAEJ",
+        "transaction_id": "MzMxMjg2ODAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AABUTAER",
+        "transaction_id": "MzMxMjg2ODAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-09-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 45,
+        "barcode": "AABUTAEZ",
+        "transaction_id": "MzMxMjg2ODAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-06",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 3,
+        "barcode": "AABUTAEB",
+        "transaction_id": "MzMxMjg2ODAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XABO3VWJ",
+        "transaction_id": "MzMxMTg2Njc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XABO3V9E",
+        "transaction_id": "MzMxMTg2NjU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA4DDCL6",
+        "transaction_id": "MzMwMDc5MjgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA03OBZD",
+        "transaction_id": "MzI5NDE2NTI3OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 51,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Dmsgint.com",
+    "headcount": 20,
+    "tech_stack": [
+      "ISO9001质量体系认证",
+      "ISO22000食品安全体系标准",
+      "配送可追溯系统",
+      "信息化管理系统",
+      "6级监控系统",
+      "4级检测系统"
+    ],
+    "business_keywords": [
+      "食材配送",
+      "蔬菜配送",
+      "粮油配送",
+      "调味料配送",
+      "副食品配送",
+      "净菜加工",
+      "成品配送",
+      "半成品配送",
+      "冷链配送",
+      "无公害生态基地",
+      "食品安全",
+      "食品质量标准",
+      "配送管理",
+      "仓库管理",
+      "供应商管理",
+      "信息化管理系统",
+      "食品检测",
+      "食材加工",
+      "冷冻库",
+      "保鲜库"
+    ],
+    "services": [
+      "成品配送",
+      "半成品配送",
+      "净菜加工",
+      "一站式食材配送",
+      "食材挑选、洗涤、切分加工",
+      "食材清洗、去泥、去烂叶加工",
+      "免洗净菜加工",
+      "按需加工",
+      "规模加工",
+      "创新加工",
+      "冷链配送",
+      "食品安全检测",
+      "食材采购",
+      "仓库管理",
+      "配送管理",
+      "供应商管理",
+      "应急措施"
+    ],
+    "customer_segments": [
+      "企事业单位食堂",
+      "深圳各区域客户"
+    ],
+    "business_description": "欧宝app登录入口-欧宝(中国)是一家专业的食材配送企业，为广大企事业单位食堂提供蔬菜、粮油、调味料及副食品等一站式配送服务。公司拥有自有配送中心、净菜加工车间、检测中心、配送车队及保鲜冷冻库，并通过信息化管理系统和严格的食品安全标准，确保食材新鲜、安全和高效配送。",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:50:40.887Z"
+  },
+  "scraped_at": "2026-01-10T12:50:29.647Z",
+  "updated_at": "2026-01-10T12:50:40.887Z",
+  "version": 1
+}

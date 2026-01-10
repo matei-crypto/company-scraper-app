@@ -1,0 +1,438 @@
+{
+  "company_name": "FYOOZ LTD",
+  "company_number": "08836350",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-01-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 5 Cromwell Office Park, York Road, Wetherby, West Yorkshire, LS22 7SU",
+  "registered_address_structured": {
+    "address_line_1": "Unit 5 Cromwell Office Park",
+    "address_line_2": "York Road",
+    "locality": "Wetherby",
+    "postal_code": "LS22 7SU",
+    "region": "West Yorkshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-14",
+    "last_made_up_to": "2025-12-31",
+    "next_made_up_to": "2026-12-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CLARK, David Stewart",
+        "officer_role": "director",
+        "appointed_on": "2014-01-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Manor Drive North",
+          "country": "United Kingdom",
+          "locality": "York",
+          "postal_code": "YO26 5SD",
+          "premises": "151",
+          "region": "North Yorkshire"
+        }
+      },
+      {
+        "name": "MYERS, Peter Anthony",
+        "officer_role": "director",
+        "appointed_on": "2015-05-14",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cromwell Office Park",
+          "address_line_2": "York Road",
+          "country": "England",
+          "locality": "Wetherby",
+          "postal_code": "LS22 7SU",
+          "premises": "Unit 5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "WATTS, Edward",
+        "officer_role": "director",
+        "appointed_on": "2015-05-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cromwell Office Park",
+          "address_line_2": "York Road",
+          "country": "England",
+          "locality": "Wetherby",
+          "postal_code": "LS22 7SU",
+          "premises": "Unit 5",
+          "region": "West Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CLARK, David",
+        "officer_role": "secretary",
+        "appointed_on": "2014-01-08",
+        "address": {
+          "address_line_1": "Manor Drive North",
+          "country": "United Kingdom",
+          "locality": "York",
+          "postal_code": "YO26 5SD",
+          "premises": "151",
+          "region": "North Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr David Stewart Clark",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-12-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cromwell Office Park",
+          "address_line_2": "York Road",
+          "locality": "Wetherby",
+          "postal_code": "LS22 7SU",
+          "premises": "Unit 5",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XESWYJ4J",
+        "transaction_id": "MzQ5NzM3MDYzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEFLIOCI",
+        "transaction_id": "MzQ4OTM3MTcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDTD0V2R",
+        "transaction_id": "MzQ0OTczNTkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD7Z0WAO",
+        "transaction_id": "MzQyOTczNDQ3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCTY8PLL",
+        "transaction_id": "MzQwNjM5NjQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCI95GOA",
+        "transaction_id": "MzQwMzYwOTE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBUHKUCR",
+        "transaction_id": "MzM2NDYwNzYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBCLQWW9",
+        "transaction_id": "MzM1MjAxMjU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAV0T8NK",
+        "transaction_id": "MzMyNTczMjIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA7KZ4LL",
+        "transaction_id": "MzMwNTkzNDkxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9W2RAK8",
+        "transaction_id": "MzI4ODQ3ODYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X9G3P7OJ",
+        "transaction_id": "MzI4MTE4NzMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8WL2I36",
+        "transaction_id": "MzI1NDQ2ODA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8CFW4I0",
+        "transaction_id": "MzI0MjQ1Mzk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7WBT4T4",
+        "transaction_id": "MzIyMzUyMjYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X7EBUWJT",
+        "transaction_id": "MzIxNDMzOTUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6WS8IVG",
+        "transaction_id": "MzE5NDE3OTMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X683ZBHM",
+        "transaction_id": "MzE3NzU5ODc4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-01-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5XFY1X4",
+        "transaction_id": "MzE2NTk2NjM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-11-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X5KTUMO3",
+        "transaction_id": "MzE2MzEzNzY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-01-19",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 6,
+        "barcode": "X4YXC5NU",
+        "transaction_id": "MzEzOTk2NzUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2015-07-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X4CJLWUW",
+        "transaction_id": "MzEyNzgxNzQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-07-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X4CJL3MJ",
+        "transaction_id": "MzEyNzgwOTIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-07-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X4CJL237",
+        "transaction_id": "MzEyNzgwODkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-07-27",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X4CJKUG9",
+        "transaction_id": "MzEyNzgwNzAzM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Fyooz.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Agility PIM",
+      "Adobe InDesign",
+      "Pentaho Data Integration"
+    ],
+    "business_keywords": [
+      "PIM",
+      "Product Information Management",
+      "data integration",
+      "Agility PIM",
+      "strategic setup",
+      "integration",
+      "ongoing support",
+      "data unification",
+      "multi-channel distribution",
+      "automated collateral",
+      "Adobe InDesign",
+      "Pentaho Data Integration",
+      "server hosting",
+      "database maintenance",
+      "e-commerce",
+      "marketing materials"
+    ],
+    "services": [
+      "strategic setup for Agility PIM",
+      "integration services for Agility PIM",
+      "ongoing support for Agility PIM",
+      "custom Data Integration workflows",
+      "Reliable Data Unification",
+      "Seamless Multi-Channel Distribution",
+      "Automated Collateral generation via Agility PIM Connector to Adobe InDesign",
+      "comprehensive server hosting",
+      "database maintenance",
+      "robust backups",
+      "health monitoring",
+      "fast support for Agility PIM system and integrations"
+    ],
+    "customer_segments": [
+      "Agricultural",
+      "Automotive",
+      "Education",
+      "Industrial Supplies",
+      "Lab Supplies",
+      "Leisure",
+      "Marine",
+      "Member Groups",
+      "Security",
+      "Technology",
+      "Travel"
+    ],
+    "business_description": "FYOOZ LTD specializes in maximizing the value of Product Information Management (PIM) systems, particularly Agility PIM, through strategic setup, integration, and ongoing support. They provide reliable data unification, seamless multi-channel distribution, and automated collateral generation using verified product data. Their services include comprehensive server hosting, database maintenance, and fast support to ensure system uptime and stability.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T12:41:53.808Z"
+  },
+  "scraped_at": "2026-01-10T12:41:47.188Z",
+  "updated_at": "2026-01-10T12:41:53.808Z",
+  "version": 1
+}

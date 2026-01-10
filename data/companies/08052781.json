@@ -1,0 +1,435 @@
+{
+  "company_name": "INTOUCH TECH LTD",
+  "company_number": "08052781",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2012-05-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "Centaur House Ancells Business Park, Ancells Road, Fleet, Hampshire, GU51 2UJ",
+  "registered_address_structured": {
+    "address_line_1": "Centaur House Ancells Business Park",
+    "address_line_2": "Ancells Road",
+    "locality": "Fleet",
+    "postal_code": "GU51 2UJ",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "61100",
+    "61200",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "INTOUCH COMMUNICATIONS LTD",
+      "ceased_on": "2025-07-23",
+      "effective_from": "2012-05-29"
+    },
+    {
+      "name": "CLOUD TELEPHONY LTD",
+      "ceased_on": "2012-05-29",
+      "effective_from": "2012-05-01"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-15",
+    "last_made_up_to": "2025-05-01",
+    "next_made_up_to": "2026-05-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GARLAND, James Christopher",
+        "officer_role": "director",
+        "appointed_on": "2012-05-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Malthouse Close",
+          "address_line_2": "Church Crookham",
+          "country": "England",
+          "locality": "Fleet",
+          "postal_code": "GU52 6TB",
+          "premises": "15"
+        }
+      },
+      {
+        "name": "HUGHES, David Andrew",
+        "officer_role": "director",
+        "appointed_on": "2025-09-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ancells Business Park",
+          "address_line_2": "Ancells Road",
+          "locality": "Fleet",
+          "postal_code": "GU51 2UJ",
+          "premises": "Centaur House",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GARLAND, James",
+        "officer_role": "secretary",
+        "appointed_on": "2012-05-01",
+        "resigned_on": "2013-06-01",
+        "address": {
+          "address_line_1": "Lime Drive",
+          "country": "England",
+          "locality": "Fleet",
+          "postal_code": "GU51 2XJ",
+          "premises": "18",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr James Christopher Garland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ancells Business Park",
+          "address_line_2": "Ancells Road",
+          "locality": "Fleet",
+          "postal_code": "GU51 2UJ",
+          "premises": "Centaur House",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-09-03",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEAAFTFE",
+        "transaction_id": "MzQ3OTcwMzM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-07-23",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE7CY8Y1",
+        "transaction_id": "MzQ3NDg1MzEyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE20TBNL",
+        "transaction_id": "MzQ2NTE3NDg0M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE20S2RL",
+        "transaction_id": "MzQ2NTE2Mzk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE20S13C",
+        "transaction_id": "MzQ2NTE2MzUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-05-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE20RQSR",
+        "transaction_id": "MzQ2NTE2MTA2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDU99X6H",
+        "transaction_id": "MzQ1MTI1MzQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3K3HIO",
+        "transaction_id": "MzQyMjYyNDYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCX8KVJD",
+        "transaction_id": "MzQxMTYwMjc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC330483",
+        "transaction_id": "MzM3ODc4NTY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBWY8R1C",
+        "transaction_id": "MzM2ODYyMjU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3G7MDM",
+        "transaction_id": "MzMzODQ2NjMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAYT7U3V",
+        "transaction_id": "MzMzMTI2MjI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA4QV3S8",
+        "transaction_id": "MzMwMTMzNjQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4DB2B7",
+        "transaction_id": "MzMwMDc3MzQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94TJ9WB",
+        "transaction_id": "MzI2NDQyNjgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8XRN616",
+        "transaction_id": "MzI1NjA1NzMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X84VEPVU",
+        "transaction_id": "MzIzMzcwNDM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7ZMU6DE",
+        "transaction_id": "MzIyNzMxNzYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X752OBCB",
+        "transaction_id": "MzIwNDA2Njg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X70MSHYZ",
+        "transaction_id": "MzE5ODgyMTA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X661TW7F",
+        "transaction_id": "MzE3NTM0NzE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-02-11",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X6027VC2",
+        "transaction_id": "MzE2ODc0OTI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-05-26",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X57T6ENF",
+        "transaction_id": "MzE0OTQ3NzIyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-01-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X4ZNKHAI",
+        "transaction_id": "MzE0MDgxMDc2N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "website": "https://Intouchcomms.co.uk",
+    "headcount": 17,
+    "tech_stack": [
+      "Microsoft 365",
+      "Microsoft SharePoint"
+    ],
+    "business_keywords": [
+      "business telecoms",
+      "IT solutions",
+      "cybersecurity",
+      "connectivity",
+      "mobile services",
+      "telecoms services",
+      "IT support",
+      "managed services",
+      "contact centers",
+      "phone systems",
+      "network security",
+      "cloud computing",
+      "software development",
+      "IT consulting",
+      "VPN connections",
+      "data protection",
+      "compliance",
+      "risk management"
+    ],
+    "services": [
+      "voice calls",
+      "messaging",
+      "high-speed internet connectivity",
+      "telecoms services",
+      "custom IT support",
+      "managed IT services",
+      "network security",
+      "cloud computing",
+      "software development",
+      "IT consulting",
+      "threat detection and prevention",
+      "secure network solutions",
+      "data protection and encryption",
+      "compliance and risk management",
+      "high-speed internet",
+      "secure VPN connections",
+      "dedicated lines",
+      "business mobile services",
+      "customisable mobile plans",
+      "contact center solutions",
+      "advanced phone systems"
+    ],
+    "customer_segments": [
+      "businesses",
+      "modern enterprises",
+      "companies across multiple sectors"
+    ],
+    "business_description": "Intouch Tech Ltd provides expert IT, telecoms, and cybersecurity solutions to enhance business connectivity, streamline operations, and protect companies. The company offers tailored services including managed IT, telecoms, mobile, connectivity, and cybersecurity solutions, designed to meet the specific needs of businesses across multiple sectors.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 39,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T10:42:06.557Z"
+  },
+  "scraped_at": "2026-01-10T10:42:00.145Z",
+  "updated_at": "2026-01-10T10:42:06.557Z",
+  "version": 1
+}

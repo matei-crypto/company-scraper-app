@@ -1,0 +1,425 @@
+{
+  "company_name": "SERENITY CONSULTANCY (UK) LTD",
+  "company_number": "08753329",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-10-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "767 The Big Peg, 120 Vyse Street, Jewellery Quarter, Birmingham, West Midlands, B18 6NF",
+  "registered_address_structured": {
+    "address_line_1": "767 The Big Peg, 120 Vyse Street",
+    "address_line_2": "Jewellery Quarter",
+    "locality": "Birmingham",
+    "postal_code": "B18 6NF",
+    "region": "West Midlands"
+  },
+  "sic_codes": [
+    "62020",
+    "68209"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-02",
+    "last_made_up_to": "2025-11-18",
+    "next_made_up_to": "2026-11-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "YOUSAF, Mohammed",
+        "officer_role": "director",
+        "appointed_on": "2013-10-29",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Vyse Street",
+          "address_line_2": "Jewellery Quarter",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B18 6NF",
+          "premises": "767 The Big Peg, 120",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "KHAN, Amreen",
+        "officer_role": "director",
+        "appointed_on": "2014-05-01",
+        "resigned_on": "2014-07-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Vyse Street",
+          "address_line_2": "Jewellery Quarter",
+          "locality": "Birmingham",
+          "postal_code": "B18 6NP",
+          "premises": "767 The Big Peg 120",
+          "region": "West Midlands"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mohammed Yousaf",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Vyse Street",
+          "address_line_2": "Jewellery Quarter",
+          "locality": "Birmingham",
+          "postal_code": "B18 6NF",
+          "premises": "767 The Big Peg, 120",
+          "region": "West Midlands"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "087533290003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-01-22",
+        "delivered_on": "2021-01-26",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All that land known as 15 and 15A finch road, lozells B19 1HS registered at the land registry under title number WM295436 and all that land at the rear of 13 finch road, birmingham registered at the land registry under title number WM535123.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "087533290002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-12-13",
+        "delivered_on": "2019-12-19",
+        "particulars": {
+          "type": "brief-description",
+          "description": "65 winson street, west midlands, B18 4JR.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Kensington Mortgage Company Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "087533290001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-05-04",
+        "delivered_on": "2016-05-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "19 dogpool lane birmimgham t/no MM55317.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEFLGDQH",
+        "transaction_id": "MzQ4OTM2MDcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEDB62VN",
+        "transaction_id": "MzQ4NTIwMjE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-18",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XDI6MVV7",
+        "transaction_id": "MzQ0Nzk3MTM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-12-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDI6MN43",
+        "transaction_id": "MzQ0Nzk2OTIwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDH77OPC",
+        "transaction_id": "MzQ0NTg5MDc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDEVLQ22",
+        "transaction_id": "MzQ0MTYyMzQyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIV8874",
+        "transaction_id": "MzQwNTIxNzQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC8WWQQ9",
+        "transaction_id": "MzM4ODE4MjA4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBUKF7TE",
+        "transaction_id": "MzM2NDc3MTAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBFIFYSG",
+        "transaction_id": "MzM1NjY5NTMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJ9EVJ5",
+        "transaction_id": "MzMyMzQ2MjUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA9TOW8W",
+        "transaction_id": "MzMwOTMxNjkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-01-26",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 11,
+        "barcode": "X9WYTIWH",
+        "transaction_id": "MzI4OTY1NjY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9VK2HF7",
+        "transaction_id": "MzI4NzU3ODExOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X97UQR1C",
+        "transaction_id": "MzI2ODEzOTIxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8XGUTSJ",
+        "transaction_id": "MzI1NTU4MzYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-12-19",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "X8KMVF6Z",
+        "transaction_id": "MzI1MjY1MTIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-07",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 7,
+        "barcode": "A8B7DJJ7",
+        "transaction_id": "MzI0MTIzMDcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8AU2JOM",
+        "transaction_id": "MzI0MDczODE5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7K7YP42",
+        "transaction_id": "MzIyMTQyOTI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X7AV4IEG",
+        "transaction_id": "MzIxMDQ0NzA0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6K2OZIY",
+        "transaction_id": "MzE5MTEzMzEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6IUEHNU",
+        "transaction_id": "MzE4OTgyOTA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-07-23",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6BALVUH",
+        "transaction_id": "MzE4MTIwNzc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-11-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5JQGKP4",
+        "transaction_id": "MzE2MTg2NDM1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T12:25:50.201Z",
+  "scraped_at": "2026-01-10T12:25:50.201Z"
+}

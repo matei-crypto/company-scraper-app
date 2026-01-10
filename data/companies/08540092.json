@@ -1,0 +1,411 @@
+{
+  "company_name": "SENOVO IT LTD",
+  "company_number": "08540092",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-05-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 110 Coppergate House, 10 Whites Row, London, E1 7NF, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 110 Coppergate House",
+    "address_line_2": "10 Whites Row",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 7NF"
+  },
+  "sic_codes": [
+    "62020",
+    "78200"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-10",
+    "last_made_up_to": "2025-10-27",
+    "next_made_up_to": "2026-10-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "INNAMORATI, Fabrizio",
+        "officer_role": "director",
+        "appointed_on": "2013-05-22",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St John's Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1M 4NH",
+          "premises": "6-8"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Fabrizio Innamorati",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Coppergate House",
+          "address_line_2": "10 Whites Row",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 7NF",
+          "premises": "Unit 110"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "085400920003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-06-12",
+        "delivered_on": "2024-06-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All present and future freehold and leasehold land, all present and future intellectual property and all present and future aircraft as defined in, and pursuant to, clause 3.1 of the accompanying copy instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Zodeq LTD"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "085400920002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-05-10",
+        "delivered_on": "2022-05-10",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Sonovate Limited"
+          }
+        ],
+        "satisfied_on": "2024-06-25",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "085400920001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-07-24",
+        "delivered_on": "2013-08-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "To secure payment and performance as provided for in clause 2 the company hereby charges in favour of calverton finance with full title guarantee by way of fixed charge, all fixed assets, all specific book debts, calverton’s account and all other debts. By way of floating charge, the floating assets.. Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Calverton Finance LTD"
+          }
+        ],
+        "satisfied_on": "2022-04-11",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-30",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEEAMURN",
+        "transaction_id": "MzQ4Njg0NzQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEE29ZQH",
+        "transaction_id": "MzQ4NjM5Mzg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEDUGWAQ",
+        "transaction_id": "MzQ4NjIzMjMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-16",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDUC3QIV",
+        "transaction_id": "MzQ1MTQ5ODYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-24",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDIND1FE",
+        "transaction_id": "MzQ0ODg4MzEyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDHCOFPN",
+        "transaction_id": "MzQ0NjIyODE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDEYFRJU",
+        "transaction_id": "MzQ0MTc3NzAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-06-25",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD60PJLK",
+        "transaction_id": "MzQyNjQ2NzYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-06-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 21,
+        "barcode": "XD5I0360",
+        "transaction_id": "MzQyNTY3NDI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCXRQW4R",
+        "transaction_id": "MzQxMjYwNTQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFXL7Z5",
+        "transaction_id": "MzM5OTQxNzcwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBYARYYG",
+        "transaction_id": "MzM3MTAxMzE2MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-01-26",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUJXMVJSRTNhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-01-26",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 22,
+        "barcode": "YBW1RQ7D",
+        "transaction_id": "MzM2NzIyNzUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBFYU0SA",
+        "transaction_id": "MzM1NzQxOTg1NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-06-15",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YB64XZLM",
+        "transaction_id": "MzM0MjUxMDQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-05-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 28,
+        "barcode": "XB3QTK49",
+        "transaction_id": "MzMzODgzNTYzOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-04-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XB1QNAN4",
+        "transaction_id": "MzMzNTg2MDY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAYIO14B",
+        "transaction_id": "MzMzMDkzNzIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAG23S83",
+        "transaction_id": "MzMxODQ3Nzk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA3HBX28",
+        "transaction_id": "MzI5OTY3MDAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9H54OAA",
+        "transaction_id": "MzI4MjUzNTI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X90HQ0UR",
+        "transaction_id": "MzI1OTI4NzUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8ZRHRO2",
+        "transaction_id": "MzI1ODU3MDE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2020-02-15",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzI1NzE0MDU5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Senovo-it.com",
+    "headcount": 13,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T11:53:19.603Z",
+  "scraped_at": "2026-01-10T11:53:19.603Z"
+}

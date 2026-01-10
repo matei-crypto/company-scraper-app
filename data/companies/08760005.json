@@ -1,0 +1,361 @@
+{
+  "company_name": "STARTECH INTERNET LTD",
+  "company_number": "08760005",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-11-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "65 Percy Street, Newcastle Upon Tyne, NE1 7RN, England",
+  "registered_address_structured": {
+    "address_line_1": "65 Percy Street",
+    "country": "England",
+    "locality": "Newcastle Upon Tyne",
+    "postal_code": "NE1 7RN"
+  },
+  "sic_codes": [
+    "62090",
+    "68209"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NLD PROPERTIES LTD",
+      "ceased_on": "2014-06-09",
+      "effective_from": "2013-11-04"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-08",
+    "last_made_up_to": "2025-10-25",
+    "next_made_up_to": "2026-10-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TSANG, Bo Ching, Dr",
+        "officer_role": "director",
+        "appointed_on": "2013-11-04",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Percy Street",
+          "country": "England",
+          "locality": "Newcastle Upon Tyne",
+          "postal_code": "NE1 7RN",
+          "premises": "65"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Bo Ching Tsang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-11-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Percy Street",
+          "country": "England",
+          "locality": "Newcastle Upon Tyne",
+          "postal_code": "NE1 7RN",
+          "premises": "65"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "087600050001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-10-31",
+        "delivered_on": "2014-11-07",
+        "particulars": {
+          "type": "brief-description",
+          "description": "L/H property k/a unit 4 britannia centre point pleasant hadrian road wallsend t/no TY390406.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEGCMBI3",
+        "transaction_id": "MzQ5MTYxMDcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEU1R0Q",
+        "transaction_id": "MzQ4NzgyMzg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDGZ8HG1",
+        "transaction_id": "MzQ0NTYxOTYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFH7JU1",
+        "transaction_id": "MzQ0MjUzNzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCH9S2UB",
+        "transaction_id": "MzQwMTc1MjAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCEVNY9L",
+        "transaction_id": "MzM5NzgxMDIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGC064E",
+        "transaction_id": "MzM1Nzc4NDY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBD4HL08",
+        "transaction_id": "MzM1MjgwNjYxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB9CCGQZ",
+        "transaction_id": "MzM0NzM0OTAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAV0Y3SR",
+        "transaction_id": "MzMyNTc3NTg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-30",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "RA0KCNLS",
+        "transaction_id": "MzI5NjIwOTg5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-30",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "AA0KSHEA",
+        "transaction_id": "MzI5NjIwOTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 2,
+        "barcode": "AA0KSHC3",
+        "transaction_id": "MzI5NjIwOTU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "restoration",
+        "date": "2021-03-30",
+        "description": "administrative-restoration-company",
+        "type": "RT01",
+        "pages": 3,
+        "barcode": "AA0KSHEI",
+        "transaction_id": "MzI5NjIwOTQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2020-11-17",
+        "description": "gazette-dissolved-compulsory",
+        "type": "GAZ2",
+        "pages": 1,
+        "transaction_id": "MzI4MjgxNjM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2020-02-14",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzI1NzE3MTAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2020-02-04",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzI1NTQzODAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8J83CIR",
+        "transaction_id": "MzI1MDgwNjkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A7JR7O15",
+        "transaction_id": "MzIyMDcyNzYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7J6NXXL",
+        "transaction_id": "MzIxOTk4Mjg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6L9RD7V",
+        "transaction_id": "MzE5Mjg5MTE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A6KAIGII",
+        "transaction_id": "MzE5MTk3NzcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-04-05",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X63NCPCQ",
+        "transaction_id": "MzE3MjgwNTkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5LUUZ8Z",
+        "transaction_id": "MzE2NDUzOTQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-12-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5LUUOQY",
+        "transaction_id": "MzE2NDUzNjM5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 34,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T12:27:17.349Z",
+  "scraped_at": "2026-01-10T12:27:17.349Z"
+}
