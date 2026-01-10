@@ -1,0 +1,551 @@
+{
+  "company_name": "CHECKBOARD LIMITED",
+  "company_number": "12243866",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-10-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "313 Mirror Works 12 Marshgate Lane, London, E15 2NH, England",
+  "registered_address_structured": {
+    "address_line_1": "313 Mirror Works 12 Marshgate Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E15 2NH"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CUBIC LEASE LIMITED",
+      "ceased_on": "2022-07-11",
+      "effective_from": "2019-10-10"
+    },
+    {
+      "name": "CUBASE LTD",
+      "ceased_on": "2019-10-10",
+      "effective_from": "2019-10-04"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-24",
+    "last_made_up_to": "2025-03-10",
+    "next_made_up_to": "2026-03-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BAJINA, Yazad",
+        "officer_role": "director",
+        "appointed_on": "2020-10-14",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1999,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "12 Marshgate Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E15 2NH",
+          "premises": "313 Mirror Works"
+        }
+      },
+      {
+        "name": "NAIK, Uresh",
+        "officer_role": "director",
+        "appointed_on": "2023-10-03",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "12 Marshgate Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E15 2NH",
+          "premises": "313 Mirror Works"
+        }
+      },
+      {
+        "name": "OWUSU-AGYEMANG, James Kwaku",
+        "officer_role": "director",
+        "appointed_on": "2019-10-04",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "12 Marshgate Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E15 2NH",
+          "premises": "313 Mirror Works"
+        }
+      },
+      {
+        "name": "DEEPBRIDGE NED LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2023-10-03",
+        "address": {
+          "address_line_1": "Honeycomb East",
+          "address_line_2": "Chester Business Park",
+          "country": "England",
+          "locality": "Chester",
+          "postal_code": "CH4 9QN",
+          "premises": "Deepbridge House"
+        }
+      },
+      {
+        "name": "BARBIEUX, Virgile Auguste G",
+        "officer_role": "director",
+        "appointed_on": "2020-05-04",
+        "resigned_on": "2021-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1992,
+        "nationality": "Belgian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Suite 23",
+          "address_line_2": "63-66 Hatton Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8LE",
+          "premises": "Fifth Floor"
+        }
+      },
+      {
+        "name": "DE JONGH, Marjolein",
+        "officer_role": "director",
+        "appointed_on": "2019-11-25",
+        "resigned_on": "2020-05-05",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1989,
+        "nationality": "Dutch",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Suite 23",
+          "address_line_2": "63-66 Hatton Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8LE",
+          "premises": "Fifth Floor"
+        }
+      },
+      {
+        "name": "GORDON, Annarrah Ni-Cola",
+        "officer_role": "director",
+        "appointed_on": "2019-11-25",
+        "resigned_on": "2020-07-10",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1994,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Suite 23",
+          "address_line_2": "63-66 Hatton Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8LE",
+          "premises": "Fifth Floor"
+        }
+      },
+      {
+        "name": "HARLEY, Richard Alastair",
+        "officer_role": "director",
+        "appointed_on": "2021-04-01",
+        "resigned_on": "2024-05-13",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "12 Marshgate Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E15 2NH",
+          "premises": "213 Mirror Works"
+        }
+      },
+      {
+        "name": "MUKINAY, Tatiana",
+        "officer_role": "director",
+        "appointed_on": "2019-11-27",
+        "resigned_on": "2020-10-16",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Suite 23",
+          "address_line_2": "63-66 Hatton Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8LE",
+          "premises": "Fifth Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr James Kwaku Owusu-Agyemang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2024-10-07",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "12 Marshgate Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E15 2NH",
+          "premises": "302 Mirror Works"
+        }
+      },
+      {
+        "name": "Mr James Kwaku Owusu-Agyemang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-10-04",
+        "ceased_on": "2024-10-07",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Seymour Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N9 0SE",
+          "premises": "30"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "122438660002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-02-24",
+        "delivered_on": "2023-03-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All monies and floating charges.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Rocking Horse Solutions UK Limited"
+          }
+        ],
+        "satisfied_on": "2023-05-31",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "122438660001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-11-30",
+        "delivered_on": "2021-12-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All monies and floating charges.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Rocking Horse Solutions UK Limited"
+          },
+          {
+            "name": "Rocking Horse Co-Solutions Limited"
+          }
+        ],
+        "satisfied_on": "2022-08-19",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2025-10-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XEDP3SI2",
+        "transaction_id": "MzQ4NjAwNjM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-17",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 12,
+        "barcode": "AE4Q743K",
+        "transaction_id": "MzQ3MDM2NDE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "AE45VPQH",
+        "transaction_id": "MzQ2OTMzMzczNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE0DJU38",
+        "transaction_id": "MzQ2MjM0NDE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-31",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDZGM29F",
+        "transaction_id": "MzQ2MDc2MTA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 9,
+        "barcode": "XDYS816G",
+        "transaction_id": "MzQ1OTY1Mjg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-21",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDYS80BK",
+        "transaction_id": "MzQ1OTY1MjY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-21",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDYS7Z6I",
+        "transaction_id": "MzQ1OTY1MjQwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-14",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDYBT2C1",
+        "transaction_id": "MzQ1ODcwNDUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDVZG5LF",
+        "transaction_id": "MzQ1NDE3NTc4OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-01-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDTKYYMG",
+        "transaction_id": "MzQ0OTk2NDExNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDI9L82I",
+        "transaction_id": "MzQ0ODI2Mzk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-12-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDHCRPS3",
+        "transaction_id": "MzQ0NjI1NzU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDG2IEEZ",
+        "transaction_id": "MzQ0MzY1MjI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDFP9H2W",
+        "transaction_id": "MzQ0Mjg0NDAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-14",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDDQH608",
+        "transaction_id": "MzQzOTI5MDE5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDCJAD9C",
+        "transaction_id": "MzQzNzQ4MDE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDCGK2MO",
+        "transaction_id": "MzQzNzM1NDQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDBRWUPL",
+        "transaction_id": "MzQzNTkzMTEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XD8Y82GI",
+        "transaction_id": "MzQzMTM0MjMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-07-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XD6XIXUJ",
+        "transaction_id": "MzQyODAwNzUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XD4WI9I1",
+        "transaction_id": "MzQyNDY1MTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-17",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 5,
+        "barcode": "XD31826Q",
+        "transaction_id": "MzQyMTM5NDQ2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD3C2ASZ",
+        "transaction_id": "MzQyMjI1MzUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XD2INUXC",
+        "transaction_id": "MzQyMDc1NjA0MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 91,
+    "recent_filings_count": 10
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "headcount": 11,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:43:55.339Z",
+  "scraped_at": "2026-01-10T21:43:55.339Z"
+}

@@ -1,0 +1,345 @@
+{
+  "company_name": "IRIUSRISK LTD",
+  "company_number": "12333426",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-11-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "55 Station Road, Beaconsfield, HP9 1QL, England",
+  "registered_address_structured": {
+    "address_line_1": "55 Station Road",
+    "country": "England",
+    "locality": "Beaconsfield",
+    "postal_code": "HP9 1QL"
+  },
+  "sic_codes": [
+    "58290",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-15",
+    "last_made_up_to": "2025-10-01",
+    "next_made_up_to": "2026-10-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DE VRIES, Stephen Leendert",
+        "officer_role": "director",
+        "appointed_on": "2019-11-26",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1975,
+        "nationality": "Dutch",
+        "country_of_residence": "Spain",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "RF SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2019-12-12",
+        "resigned_on": "2021-02-03",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Continuum Security Sl",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-11-26",
+        "ceased_on": "2021-02-09",
+        "address": {
+          "address_line_1": "Parque Tecnologico Walqa",
+          "country": "Spain",
+          "locality": "Cuarte",
+          "premises": "Continuum Security Sl"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Spain",
+          "country_registered": "Spain",
+          "place_registered": "Registro Mercantil",
+          "registration_number": "Esb22341713"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEAQHQO",
+        "transaction_id": "MzQ4Njg3Nzk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-13",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE4NKG6A",
+        "transaction_id": "MzQ3MDAzMzcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDCU8GAQ",
+        "transaction_id": "MzQzNzkxNDk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD4JA8LK",
+        "transaction_id": "MzQyNDE5NjY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-09",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCFXIPTN",
+        "transaction_id": "MzM5OTM5NzAyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCEI7EWQ",
+        "transaction_id": "MzM5NzE2NzkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBEZQ8Y8",
+        "transaction_id": "MzM1NTgxNzc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBAG9KH6",
+        "transaction_id": "MzM0ODcwOTcwN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-02-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAYAKMFN",
+        "transaction_id": "MzMzMDQ3NzkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAWCVIB4",
+        "transaction_id": "MzMyNzYxODk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XACP98XT",
+        "transaction_id": "MzMxMzM3OTQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-29",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XA1AJSM1",
+        "transaction_id": "MzI5NjAyNzU3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-09",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "X9XXP4BE",
+        "transaction_id": "MzI5MDkzMjA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-09",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9XXNN3N",
+        "transaction_id": "MzI5MDkxNjAzN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-02-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9XKEB3N",
+        "transaction_id": "MzI5MDQzNTc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-03",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X9XKDYUH",
+        "transaction_id": "MzI5MDQzMjg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9J8056O",
+        "transaction_id": "MzI4NTIwNzE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-12-13",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "X8K94Q14",
+        "transaction_id": "MzI1MjA3OTIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-11-26",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 29,
+        "barcode": "X8IZOFPK",
+        "transaction_id": "MzI1MDIwNDUyMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 32
+  },
+  "enrichment": {
+    "website": "https://Iriusrisk.com",
+    "headcount": 32,
+    "tech_stack": [],
+    "business_keywords": [
+      "AI threat modeling tool",
+      "threat modeling",
+      "secure software development",
+      "secure by design",
+      "AI augmentation",
+      "DevSecOps",
+      "software security",
+      "risk management",
+      "remediation avoidance",
+      "SDLC",
+      "cloud-based threat modeling",
+      "AI libraries",
+      "API integration",
+      "security testing",
+      "compliance"
+    ],
+    "services": [
+      "AI threat modeling",
+      "automated threat model generation from text prompts or image uploads",
+      "custom risk library definition",
+      "API integration for security testing",
+      "in-product threat modeling guidance",
+      "free training courses for threat modeling",
+      "cloud-based threat modeling platform",
+      "AI-driven threat model outputs (Smart Views)",
+      "secure AI system design",
+      "scaling AI security efforts",
+      "lifetime free subscription to Community Edition"
+    ],
+    "customer_segments": [
+      "global enterprises",
+      "Engineering teams",
+      "Security Teams",
+      "Developers",
+      "CISOs",
+      "DevSecOps teams",
+      "product owners",
+      "risk managers",
+      "compliance teams",
+      "organizations adopting AI-first strategies"
+    ],
+    "business_description": "IriusRisk Ltd provides an AI-powered threat modeling tool designed to empower organizations to build secure software proactively. The platform enables teams to generate threat models, define custom risk libraries, and integrate security testing into development workflows, reducing time and costs while improving security posture. It supports both securing AI systems and using AI to scale security efforts.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:00:38.368Z"
+  },
+  "scraped_at": "2026-01-10T22:00:30.404Z",
+  "updated_at": "2026-01-10T22:00:38.368Z",
+  "version": 1
+}

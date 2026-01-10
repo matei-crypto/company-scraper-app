@@ -1,0 +1,395 @@
+{
+  "company_name": "NOVA IT SUPPORT LIMITED",
+  "company_number": "11616249",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-10-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "Castlemead, Lower Castle Street, Bristol, BS1 3AG, England",
+  "registered_address_structured": {
+    "address_line_1": "Castlemead",
+    "address_line_2": "Lower Castle Street",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS1 3AG"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NOVA TECHNOLOGY MANAGEMENT LIMITED",
+      "ceased_on": "2023-01-20",
+      "effective_from": "2018-10-10"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-23",
+    "last_made_up_to": "2025-10-09",
+    "next_made_up_to": "2026-10-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ROGERSON, Oliver Moss",
+        "officer_role": "director",
+        "appointed_on": "2018-10-10",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Lower Castle Street",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS1 3AG",
+          "premises": "Castlemead"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "The Nebula It Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-07-21",
+        "address": {
+          "address_line_1": "Lower Castle Street",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS1 3AG",
+          "premises": "Castlemead"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England & Wales",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "14248118"
+        }
+      },
+      {
+        "name": "Mr Oliver Rogerson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-10-10",
+        "ceased_on": "2022-07-20",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "23 Westfield Park",
+          "country": "United Kingdom",
+          "locality": "Redland",
+          "postal_code": "BS6 6LT",
+          "premises": "The Garden Suite",
+          "region": "Bristol"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDB6B14",
+        "transaction_id": "MzQ4NTIwMzc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEC6I7PN",
+        "transaction_id": "MzQ4MzI0NTg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XEC6I754",
+        "transaction_id": "MzQ4MzI0NTc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEC6HOMZ",
+        "transaction_id": "MzQ4MzI0MTYzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEC3O9PT",
+        "transaction_id": "MzQ4MzA3OTE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDECB314",
+        "transaction_id": "MzQ0MDY2MjYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDCRN9WI",
+        "transaction_id": "MzQzNzc5ODM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCFHN7MH",
+        "transaction_id": "MzM5ODg4NDg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCFHN72Q",
+        "transaction_id": "MzM5ODg4NDc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCFHN6Q8",
+        "transaction_id": "MzM5ODg4NDcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCE9S661",
+        "transaction_id": "MzM5NjU2OTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-15",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC9Y6LPN",
+        "transaction_id": "MzM4OTU4NzY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC8WWSEP",
+        "transaction_id": "MzM4ODE4MjY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-01-20",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XBVLY2Q2",
+        "transaction_id": "MzM2NjY1MTczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBF2KBPT",
+        "transaction_id": "MzM1NjA5MTc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB99U4BE",
+        "transaction_id": "MzM0NzI5NjYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB9714TT",
+        "transaction_id": "MzM0NzEzNDc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB9714ZU",
+        "transaction_id": "MzM0NzEzNDc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAFWQPBS",
+        "transaction_id": "MzMxODE4Mzc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA5Q4FIR",
+        "transaction_id": "MzMwMzAwNzY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9GH0M3M",
+        "transaction_id": "MzI4MTYzMjIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9436Y60",
+        "transaction_id": "MzI2MzYwNTA3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X910GK1V",
+        "transaction_id": "MzI2MDAyODcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-11-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8IP9DHJ",
+        "transaction_id": "MzI0OTk3MzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-11-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8IP9F4Z",
+        "transaction_id": "MzI0OTk3Mzg5NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Novatm.co.uk",
+    "headcount": 7,
+    "tech_stack": [],
+    "business_keywords": [
+      "IT support",
+      "stress-free IT support",
+      "efficient IT support",
+      "IT resolution",
+      "IT issues",
+      "IT service",
+      "IT provider",
+      "IT partner",
+      "St. James's Place businesses",
+      "SJP Partners",
+      "wealth management IT support"
+    ],
+    "services": [],
+    "customer_segments": [
+      "St. James's Place Businesses",
+      "SJP Partners",
+      "Wealth Management firms",
+      "AAG Wealth Management",
+      "FLM Wealth Management",
+      "Throgmorton Associates",
+      "Frazer Wealth Management",
+      "Mount Stuart Wealth Management"
+    ],
+    "business_description": "Nova IT Support Limited provides stress-free and efficient IT support exclusively for St. James's Place businesses and SJP Partners. The company aims to resolve IT issues to save time and reduce frustration, allowing clients to focus on their own customers.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:07:15.333Z"
+  },
+  "scraped_at": "2026-01-10T20:07:06.251Z",
+  "updated_at": "2026-01-10T20:07:15.333Z",
+  "version": 1
+}

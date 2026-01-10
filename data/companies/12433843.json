@@ -1,0 +1,411 @@
+{
+  "company_name": "WALKING ON EARTH LTD",
+  "company_number": "12433843",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-01-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "International House, 36-38 Cornhill, London, Greater London, EC3V 3NG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "International House",
+    "address_line_2": "36-38 Cornhill",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC3V 3NG",
+    "region": "Greater London"
+  },
+  "sic_codes": [
+    "62012",
+    "62090",
+    "74909",
+    "86900"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-01",
+    "last_made_up_to": "2025-09-17",
+    "next_made_up_to": "2026-09-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MISRA, Reeva",
+        "officer_role": "director",
+        "appointed_on": "2020-01-30",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "36-38 Cornhill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3V 3NG",
+          "premises": "International House",
+          "region": "Greater London"
+        }
+      },
+      {
+        "name": "HUNT, Rebecca",
+        "officer_role": "director",
+        "appointed_on": "2021-07-14",
+        "resigned_on": "2024-10-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "36-38 Cornhill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3V 3NG",
+          "premises": "International House",
+          "region": "Greater London"
+        }
+      },
+      {
+        "name": "RUBEN, Jess",
+        "officer_role": "director",
+        "appointed_on": "2022-05-23",
+        "resigned_on": "2024-02-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "24 Holborn Viaduct",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1A 2BN",
+          "premises": "International House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Reeva Misra",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-01-30",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "24 Holborn Viaduct",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1A 2BN",
+          "premises": "International House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-02",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 13,
+        "barcode": "AEG9TSMJ",
+        "transaction_id": "MzQ5MTg3NzA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "AEESR86O",
+        "transaction_id": "MzQ4ODMzNTM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEEIZ19E",
+        "transaction_id": "MzQ4NzIzMjg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-22",
+        "description": "confirmation-statement",
+        "type": "CS01",
+        "pages": 15,
+        "barcode": "AEBC3FS9",
+        "transaction_id": "MzQ4MTk0Nzc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 13,
+        "barcode": "AE9XJ5ZN",
+        "transaction_id": "MzQ3OTA5ODY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "AE50AI9T",
+        "transaction_id": "MzQ3MDc1MjI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "AE50AI9K",
+        "transaction_id": "MzQ3MDc1MjI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-24",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "ADWS2DFC",
+        "transaction_id": "MzQ1NjE3NDYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-14",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "ADWAEBX7",
+        "transaction_id": "MzQ1NDkzODk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-01-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "ADUE4UWT",
+        "transaction_id": "MzQ1MTY4NTk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-05",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDF8ZY2Q",
+        "transaction_id": "MzQ0MjA2NzU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDDTDGCP",
+        "transaction_id": "MzQzOTYwMzU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-12",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YDCXFKRS",
+        "transaction_id": "MzQzODMzMDk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-12",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YDCXFKI9",
+        "transaction_id": "MzQzODMzMDk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-10-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 52,
+        "barcode": "YDCXFIXL",
+        "transaction_id": "MzQzODMzMDYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-10-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YDCXFITL",
+        "transaction_id": "WURDWEZJVExhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-02",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDCULVKX",
+        "transaction_id": "MzQzODE0MDY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XD60WR2X",
+        "transaction_id": "MzQyNjUzNjM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD5KSWLE",
+        "transaction_id": "MzQyNTg4MjQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD4OKRZV",
+        "transaction_id": "MzQyNDQwMDE5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD1UAX6G",
+        "transaction_id": "MzQxOTgyNTQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD1UAWEG",
+        "transaction_id": "MzQxOTgyNTI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD1UAW3I",
+        "transaction_id": "MzQxOTgyNTEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-17",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD18LM21",
+        "transaction_id": "MzQxODcyODQ3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-06",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCW9SMWG",
+        "transaction_id": "MzQxMDA0MzI3OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 53,
+    "recent_filings_count": 10
+  },
+  "financials": {
+    "employees": 22
+  },
+  "enrichment": {
+    "website": "https://Walkingonearth.com",
+    "headcount": 22,
+    "tech_stack": [
+      "100+ wearables"
+    ],
+    "business_keywords": [
+      "AI resilience coach",
+      "team performance",
+      "resilience",
+      "stress management",
+      "workforce intelligence",
+      "performance intelligence",
+      "rapid resets",
+      "data-backed insights",
+      "resilience science",
+      "wearables",
+      "physiological signals",
+      "behavioral signals",
+      "psychological signals",
+      "resilience coaching",
+      "preventative stress approach",
+      "WONE Index"
+    ],
+    "services": [
+      "Personalized rapid resets to help teams refocus",
+      "Performance measurement and intelligence",
+      "Data-backed workforce insights",
+      "Resilience coaching",
+      "Preventative stress management",
+      "Real-time resilience measurement using wearables",
+      "Bespoke resilience solutions for organizations"
+    ],
+    "customer_segments": [
+      "teams",
+      "organizations",
+      "modern workforces"
+    ],
+    "business_description": "WONE is an AI-powered resilience coach that empowers teams to perform at their peak by building resilience to stress. It provides personalized rapid resets, data-backed performance intelligence, and workforce insights grounded in resilience science. The platform uses real-time data from wearables to deliver measurable results and preventative stress management solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:17:47.627Z"
+  },
+  "scraped_at": "2026-01-10T22:17:41.542Z",
+  "updated_at": "2026-01-10T22:17:47.627Z",
+  "version": 1
+}

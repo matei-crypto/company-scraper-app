@@ -1,0 +1,410 @@
+{
+  "company_name": "PENTA PAYROLL LIMITED",
+  "company_number": "11905770",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-03-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "Oaks House, 16-22 West Street, Epsom, Surrey, KT18 7RG, England",
+  "registered_address_structured": {
+    "address_line_1": "Oaks House",
+    "address_line_2": "16-22 West Street",
+    "country": "England",
+    "locality": "Epsom",
+    "postal_code": "KT18 7RG",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "78300"
+  ],
+  "previous_company_names": [
+    {
+      "name": "PENTA SERVICES MIDDLE EAST LIMITED",
+      "ceased_on": "2021-01-06",
+      "effective_from": "2019-03-26"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-08",
+    "last_made_up_to": "2025-03-25",
+    "next_made_up_to": "2026-03-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SEARLE, Fraser",
+        "officer_role": "director",
+        "appointed_on": "2019-03-26",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "16-22 West Street",
+          "country": "England",
+          "locality": "Epsom",
+          "postal_code": "KT18 7RG",
+          "premises": "Oaks House",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Penta Consulting Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2021-04-01",
+        "ceased_on": "2021-04-01",
+        "address": {
+          "address_line_1": "West Street",
+          "country": "England",
+          "locality": "Epsom",
+          "postal_code": "KT18 7RG",
+          "premises": "16-22"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "12888293"
+        }
+      },
+      {
+        "name": "Mr Paul Richard Clark",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2021-04-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "16-22 West Street",
+          "country": "England",
+          "locality": "Epsom",
+          "postal_code": "KT18 7RG",
+          "premises": "Oaks House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Penta Consulting Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-03-26",
+        "address": {
+          "address_line_1": "West Street",
+          "country": "England",
+          "locality": "Epsom",
+          "postal_code": "KT18 7RG",
+          "premises": "16-22"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "03525651"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-12",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XEH9QKSW",
+        "transaction_id": "MzQ5Mzc1NTc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XEAQHJP3",
+        "transaction_id": "MzQ4MDI1OTA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-09",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEAQHIUB",
+        "transaction_id": "MzQ4MDI1ODkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE2JT4AZ",
+        "transaction_id": "MzQ2NjE1NjM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE2H8X6R",
+        "transaction_id": "MzQ2NTk1NjcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE26ML1F",
+        "transaction_id": "MzQ2NTY1MzI4NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE26MG77",
+        "transaction_id": "MzQ2NTY1MjI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDJ2VEL7",
+        "transaction_id": "MzQ0OTMxNTkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2APVDU",
+        "transaction_id": "MzQyMDU0MDI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCVG3KEP",
+        "transaction_id": "MzQwODg5NTM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCJE0PO9",
+        "transaction_id": "MzQwNTk3NjYwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2PKCMG",
+        "transaction_id": "MzM3ODE2NDc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBXUBKEW",
+        "transaction_id": "MzM3MDA3MzgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBJUJ80G",
+        "transaction_id": "MzM2Mzk3MTU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB2XSOGY",
+        "transaction_id": "MzMzNzg5ODE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1QJ5RD",
+        "transaction_id": "MzMzNTgwNDA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XA4ALMP5",
+        "transaction_id": "MzMwMDYxMzA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-11",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XA4ALM5S",
+        "transaction_id": "MzMwMDYxMjkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA47ZX3M",
+        "transaction_id": "MzMwMDUwNTk0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-10",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X9ZY7TH6",
+        "transaction_id": "MzI5MzkyOTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-01-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X9VMQAX4",
+        "transaction_id": "MzI4NzcxMTgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X92MNWN7",
+        "transaction_id": "MzI2MjExNjYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-03-26",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "X81ZTFWG",
+        "transaction_id": "MzIzMDIzNTc5NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 23,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 2674290,
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Pentaconsulting.com",
+    "headcount": 24,
+    "tech_stack": [
+      "end-of-life technologies"
+    ],
+    "business_keywords": [
+      "technology resource solutions",
+      "technical experts",
+      "talent provision",
+      "technologies",
+      "tailored services",
+      "cross-border compliance",
+      "administration",
+      "end-of-life technologies",
+      "skills shortages",
+      "cutting-edge technology solutions",
+      "global recognition",
+      "strategic growth",
+      "AI",
+      "OEMs",
+      "sponsorship"
+    ],
+    "services": [
+      "supply of highly skilled technical experts",
+      "bespoke provision of talent",
+      "bespoke provision of technologies",
+      "bespoke provision of tailored services",
+      "solving technical challenges such as end-of-life technologies",
+      "solving internal skills shortages",
+      "solving cross-border compliance and administration"
+    ],
+    "customer_segments": [
+      "international businesses",
+      "organisations",
+      "clients"
+    ],
+    "business_description": "Penta Consulting specializes in delivering technology resource solutions by supplying highly skilled technical experts to help organizations scale, innovate, and stay compliant across borders. The company provides bespoke talent, technologies, and tailored services to solve technical challenges such as end-of-life technologies, skills shortages, and cross-border compliance for international businesses.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:53:28.267Z"
+  },
+  "scraped_at": "2026-01-10T20:53:22.103Z",
+  "updated_at": "2026-01-10T20:53:28.267Z",
+  "version": 1
+}

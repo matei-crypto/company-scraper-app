@@ -1,0 +1,476 @@
+{
+  "company_name": "BRINGG UK LIMITED",
+  "company_number": "11563258",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-09-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "11563258 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",
+  "registered_address_structured": {
+    "address_line_1": "11563258 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-24",
+    "last_made_up_to": "2025-09-10",
+    "next_made_up_to": "2026-09-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLOCH, Guy",
+        "officer_role": "director",
+        "appointed_on": "2020-01-02",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1973,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "locality": "Cardiff",
+          "po_box": "4385",
+          "postal_code": "CF14 8LH",
+          "premises": "11563258 - Companies House Default Address"
+        }
+      },
+      {
+        "name": "REDER, Nurit",
+        "officer_role": "director",
+        "appointed_on": "2023-01-16",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1974,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "locality": "Cardiff",
+          "po_box": "4385",
+          "postal_code": "CF14 8LH",
+          "premises": "11563258 - Companies House Default Address"
+        }
+      },
+      {
+        "name": "SION, Lior",
+        "officer_role": "director",
+        "appointed_on": "2018-09-11",
+        "resigned_on": "2022-01-24",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1976,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "address_line_1": "The Stables Market",
+          "address_line_2": "Chalk Farm Road, Camden Town",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW1 8AH",
+          "premises": "Office 2-14 Labs Atrium"
+        }
+      },
+      {
+        "name": "ZIEVE, Alon",
+        "officer_role": "director",
+        "appointed_on": "2020-01-02",
+        "resigned_on": "2023-01-16",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1980,
+        "nationality": "British,Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "address_line_1": "The Stables Market",
+          "address_line_2": "Chalk Farm Road, Camden Town",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW1 8AH",
+          "premises": "Office 2-14 Labs Atrium"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SION, Lior",
+        "officer_role": "secretary",
+        "appointed_on": "2018-09-11",
+        "resigned_on": "2022-01-24",
+        "address": {
+          "address_line_1": "The Stables Market",
+          "address_line_2": "Chalk Farm Road, Camden Town",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW1 8AH",
+          "premises": "Office 2-14 Labs Atrium"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "115632580002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-06-06",
+        "delivered_on": "2022-06-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley Bank"
+          }
+        ],
+        "satisfied_on": "2024-04-18",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "115632580001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-05-20",
+        "delivered_on": "2021-05-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley Bank"
+          }
+        ],
+        "satisfied_on": "2024-04-18",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "gazette",
+        "date": "2026-01-06",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ5Njc1NDMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "AEH9H0JT",
+        "transaction_id": "MzQ5Mzk2NTI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-01",
+        "description": "default-companies-house-service-address-applied-officer",
+        "type": "RP09",
+        "pages": 1,
+        "barcode": "XEGHUIOP",
+        "transaction_id": "MzQ5MTY4ODg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-01",
+        "description": "default-companies-house-service-address-applied-officer",
+        "type": "RP09",
+        "pages": 1,
+        "barcode": "XEGHUIGJ",
+        "transaction_id": "MzQ5MTY4ODc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-01",
+        "description": "default-companies-house-registered-office-address-applied",
+        "type": "RP05",
+        "pages": 1,
+        "barcode": "UEGHN96I",
+        "transaction_id": "MzQ5MTY4ODYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEB6UBCI",
+        "transaction_id": "MzQ4MTQxNzQyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "ADI5H1AW",
+        "transaction_id": "MzQ0ODE3NDk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBUOT43",
+        "transaction_id": "MzQzNjE2ODkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "AD1U6T54",
+        "transaction_id": "MzQyMDI1OTQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-04-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD1B8WWO",
+        "transaction_id": "MzQxODgyNDk3NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-04-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD1B8XQ8",
+        "transaction_id": "MzQxODgyNTI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-03-23",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQxNTc4NDcxMmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-03-12",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQxMjcyNjI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCW7837S",
+        "transaction_id": "MzQwOTk2MjE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCC13S40",
+        "transaction_id": "MzM5Mjk1NzE3MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBXH1AL4",
+        "transaction_id": "MzM2OTU4Mzg0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-08",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ABWM0S95",
+        "transaction_id": "MzM2ODMwNTk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBVJ2Z0I",
+        "transaction_id": "MzM2NjQ1Mzg5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-19",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XBVJ2YW2",
+        "transaction_id": "MzM2NjQ1Mzc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBVGIP23",
+        "transaction_id": "MzM2NjMxNDUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBVGIORT",
+        "transaction_id": "MzM2NjMxNDQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEZTS2Q",
+        "transaction_id": "MzM1NTkzNzM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-06-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "XB5ODP3D",
+        "transaction_id": "MzM0MTY3ODgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AAJXHREP",
+        "transaction_id": "MzMyNTI1NzIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XADQPEDT",
+        "transaction_id": "MzMxNDg4ODQwN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "website": "https://Zenkraft.com",
+    "headcount": 17,
+    "tech_stack": [
+      "Salesforce",
+      "Salesforce B2B Commerce",
+      "Salesforce B2C Commerce",
+      "Salesforce Commerce Cloud",
+      "Salesforce CPQ",
+      "Salesforce Communities",
+      "Salesforce Einstein Recommendations"
+    ],
+    "business_keywords": [
+      "Salesforce shipping integration",
+      "shipping booking",
+      "tracking",
+      "rating",
+      "returns",
+      "post-purchase tracking",
+      "self-service returns",
+      "estimated delivery dates",
+      "shipping labels",
+      "automated tracking",
+      "branded tracking emails",
+      "return labels",
+      "carrier support",
+      "B2B commerce",
+      "B2C commerce"
+    ],
+    "services": [
+      "Salesforce shipping integration",
+      "post-purchase tracking for B2B and B2C commerce",
+      "self-service returns",
+      "shipping label generation",
+      "rating and quoting for shipping costs",
+      "automated tracking updates",
+      "branded tracking emails",
+      "real-time shipment tracking",
+      "return label generation",
+      "estimated delivery date provision",
+      "automated shipping on Salesforce",
+      "Commerce Cloud tracking",
+      "Commerce Cloud returns"
+    ],
+    "customer_segments": [
+      "Fortune 100 companies",
+      "B2B commerce customers",
+      "B2C commerce customers"
+    ],
+    "business_description": "Zenkraft provides 100% native Salesforce apps for shipping booking, tracking, rating, and returns, used by over 70,000 users including Fortune 100 companies. The company offers post-purchase tracking, self-service returns, automated shipping label generation, and real-time tracking updates for B2B and B2C commerce on the Salesforce platform.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:00:39.756Z"
+  },
+  "scraped_at": "2026-01-10T20:00:32.814Z",
+  "updated_at": "2026-01-10T20:00:39.756Z",
+  "version": 1
+}

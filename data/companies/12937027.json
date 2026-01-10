@@ -1,0 +1,414 @@
+{
+  "company_name": "MAVERICK LIVE LIMITED",
+  "company_number": "12937027",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-10-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Howley Point 2, Holmesfield Road, Warrington, Cheshire, WA1 2DS, England",
+  "registered_address_structured": {
+    "address_line_1": "Howley Point 2",
+    "address_line_2": "Holmesfield Road",
+    "country": "England",
+    "locality": "Warrington",
+    "postal_code": "WA1 2DS",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "59132",
+    "60200",
+    "62090",
+    "63120"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-18",
+    "last_made_up_to": "2025-03-04",
+    "next_made_up_to": "2026-03-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARTON, Sean Michael",
+        "officer_role": "director",
+        "appointed_on": "2021-02-27",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Holmesfield Road",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA1 2DS",
+          "premises": "Howley Point 2",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "CARGIUS, John",
+        "officer_role": "director",
+        "appointed_on": "2020-10-08",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Borras Hall Lane",
+          "address_line_2": "Llan-Y-Pwll",
+          "country": "United Kingdom",
+          "locality": "Wrexham",
+          "postal_code": "LL13 9AD",
+          "premises": "4 Gourton Hall Court",
+          "region": "Clwyd"
+        }
+      },
+      {
+        "name": "MONCKTON, James",
+        "officer_role": "director",
+        "appointed_on": "2020-10-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Crewe Road",
+          "address_line_2": "Shavington",
+          "country": "United Kingdom",
+          "locality": "Cheshire",
+          "postal_code": "CW2 5DW",
+          "premises": "117a",
+          "region": "Cheshire East"
+        }
+      },
+      {
+        "name": "ROBERTS, Rhys",
+        "officer_role": "director",
+        "appointed_on": "2020-10-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "South View",
+          "country": "United Kingdom",
+          "locality": "Chester",
+          "postal_code": "CH4 7EP",
+          "premises": "1",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "NUTTALL, Jess",
+        "officer_role": "director",
+        "appointed_on": "2021-02-27",
+        "resigned_on": "2022-08-16",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1992,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Colville Court",
+          "address_line_2": "Winwick Quay",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA2 8QT",
+          "premises": "Unit 12",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "STEERS, James Charles",
+        "officer_role": "director",
+        "appointed_on": "2020-10-08",
+        "resigned_on": "2021-02-12",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "John Street",
+          "country": "United Kingdom",
+          "locality": "Winsford",
+          "postal_code": "CW7 1HQ",
+          "premises": "15",
+          "region": "Cheshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "129370270001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-07-17",
+        "delivered_on": "2024-07-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Handelsbanken PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE7QBWM0",
+        "transaction_id": "MzQ3NTI4MTA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXPYZ4O",
+        "transaction_id": "MzQ1NzQ1MDY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDC0HVDL",
+        "transaction_id": "MzQzNjY5NDQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "XD7LRCA0",
+        "transaction_id": "MzQyOTMwNDgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD0SICGI",
+        "transaction_id": "MzQxNzkzODkzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0POFVT",
+        "transaction_id": "MzQxNzc2MTczN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBZ9O4FS",
+        "transaction_id": "MzM3MjUwMjUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBIYEAFU",
+        "transaction_id": "MzM2MjY5NDcyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-16",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBAIYPY3",
+        "transaction_id": "MzM0ODgxNDYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XB6KU65U",
+        "transaction_id": "MzM0MzA0ODQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB5WK4U9",
+        "transaction_id": "MzM0MjA4MzczN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB5OFCPK",
+        "transaction_id": "MzM0MTY5NTc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB0GQK4Z",
+        "transaction_id": "MzMzMzk2NTg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA5Y7INF",
+        "transaction_id": "MzMwMzQ2MjgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9ZKTYFC",
+        "transaction_id": "MzI5MzMxMDE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9Z7DLBM",
+        "transaction_id": "MzI5MjgxMDMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9Z7DLDE",
+        "transaction_id": "MzI5MjgxMDMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9Z7DL75",
+        "transaction_id": "MzI5MjgxMDMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-10-08",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 30,
+        "barcode": "X9F57NOI",
+        "transaction_id": "MzI3OTk0MTc3MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Mavericklive.co.uk",
+    "headcount": 16,
+    "tech_stack": [],
+    "business_keywords": [
+      "event production",
+      "creative events agency",
+      "live experiences",
+      "conferences",
+      "product launches",
+      "corporate events",
+      "award evenings",
+      "gala dinners",
+      "exhibitions",
+      "brand activations",
+      "event management",
+      "technical event production",
+      "registration and delegate management",
+      "creative content production",
+      "strategic event planning"
+    ],
+    "services": [
+      "Full Service Event Management",
+      "Technical Event Production",
+      "Registration and Delegate Management",
+      "Creative Content Production",
+      "Strategic approaches to make events successful",
+      "Engaging people",
+      "Recognising success",
+      "Connecting with customers",
+      "Building lasting partnerships"
+    ],
+    "customer_segments": [
+      "brands",
+      "corporate clients"
+    ],
+    "business_description": "Maverick Live is an award-winning full-service creative events agency specializing in event production. They create and manage live experiences such as conferences, product launches, corporate events, award evenings, and gala dinners, focusing on delivering moments that bring brands to life. Their services include strategic planning, technical production, and creative content to ensure successful and impactful events.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:12:28.403Z"
+  },
+  "scraped_at": "2026-01-10T23:12:22.688Z",
+  "updated_at": "2026-01-10T23:12:28.403Z",
+  "version": 1
+}

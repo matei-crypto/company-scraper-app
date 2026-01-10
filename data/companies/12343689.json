@@ -1,0 +1,544 @@
+{
+  "company_name": "CHECU COMP LTD",
+  "company_number": "12343689",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-12-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "13 Durand Way, London, NW10 0QY, England",
+  "registered_address_structured": {
+    "address_line_1": "13 Durand Way",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW10 0QY"
+  },
+  "sic_codes": [
+    "56103",
+    "56290",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2024-09-30",
+    "next_accounts_period_end_on": "2023-12-31",
+    "next_accounts_period_start_on": "2023-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2022-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2023-12-11",
+    "last_made_up_to": "2022-11-27",
+    "next_made_up_to": "2023-11-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ABBAS, Bashir",
+        "officer_role": "director",
+        "appointed_on": "2021-01-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Durand Way",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW10 0QY",
+          "premises": "13"
+        }
+      },
+      {
+        "name": "CHOHAN, Bashir",
+        "officer_role": "director",
+        "appointed_on": "2021-01-05",
+        "resigned_on": "2021-01-05",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wendover Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW10 4RT",
+          "premises": "56b"
+        }
+      },
+      {
+        "name": "ENACHESCU, Robert",
+        "officer_role": "director",
+        "appointed_on": "2019-12-02",
+        "resigned_on": "2020-04-04",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1995,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Merlin Crescent",
+          "country": "United Kingdom",
+          "locality": "Edgware",
+          "postal_code": "HA8 6JJ",
+          "premises": "33c"
+        }
+      },
+      {
+        "name": "SINGH, Baljit",
+        "officer_role": "director",
+        "appointed_on": "2021-01-05",
+        "resigned_on": "2021-02-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wendover Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW10 4RT",
+          "premises": "56b"
+        }
+      },
+      {
+        "name": "SINGH, Baljit",
+        "officer_role": "director",
+        "appointed_on": "2020-04-04",
+        "resigned_on": "2021-01-05",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Keswick Close",
+          "country": "England",
+          "locality": "Todmorden",
+          "postal_code": "OL14 8EJ",
+          "premises": "5"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ENACHESCU, Robert",
+        "officer_role": "secretary",
+        "appointed_on": "2019-12-02",
+        "resigned_on": "2020-04-04",
+        "address": {
+          "address_line_1": "Merlin Crescent",
+          "country": "United Kingdom",
+          "locality": "Edgware",
+          "postal_code": "HA8 6JJ",
+          "premises": "33c"
+        }
+      },
+      {
+        "name": "SINGH, Baljit",
+        "officer_role": "secretary",
+        "appointed_on": "2020-04-04",
+        "resigned_on": "2020-04-10",
+        "address": {
+          "address_line_1": "Osterley Park Road",
+          "country": "England",
+          "locality": "Southall",
+          "postal_code": "UB2 4GQ",
+          "premises": "Flat 14 Penny Sagam Court"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Baljit Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-trust",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-trust",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2021-01-05",
+        "ceased_on": "2021-02-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "Portuguese",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wendover Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW10 4RT",
+          "premises": "56b"
+        }
+      },
+      {
+        "name": "Mr Bashir Chohan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-trust",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-trust",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2021-01-05",
+        "ceased_on": "2021-01-05",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wendover Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW10 4RT",
+          "premises": "56b"
+        }
+      },
+      {
+        "name": "Mr Bashir Abbas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-trust",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-trust",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2021-01-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Durand Way",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW10 0QY",
+          "premises": "13"
+        }
+      },
+      {
+        "name": "Mr Baljit Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-trust",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-trust",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2020-04-04",
+        "ceased_on": "2021-01-05",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "Portuguese",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Osterley Park Road",
+          "country": "England",
+          "locality": "Southall",
+          "postal_code": "UB2 4GQ",
+          "premises": "Flat 14 Penny Sagam Court"
+        }
+      },
+      {
+        "name": "Mr Robert Enachescu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-12-02",
+        "ceased_on": "2020-04-04",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1995,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Merlin Crescent",
+          "country": "United Kingdom",
+          "locality": "Edgware",
+          "postal_code": "HA8 6JJ",
+          "premises": "33c"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2024-03-12",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQxNDAwNDU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-02-20",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQxMDUzMzgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCE9XJPL",
+        "transaction_id": "MzM5NjYxMjg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-10-11",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM5NTkyODE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDTZ0GP",
+        "transaction_id": "MzM5NTkyODQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCDTYZ09",
+        "transaction_id": "MzM5NTkyODA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2023-01-17",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzM2NTgwNjk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-11-29",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM1OTI5OTAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAI54HN5",
+        "transaction_id": "MzMyMTYwNzc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAI54HMP",
+        "transaction_id": "MzMyMTYwNzc1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAI54HMH",
+        "transaction_id": "MzMyMTYwNzc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAI54HKX",
+        "transaction_id": "MzMyMTYwNzc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-27",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 3,
+        "barcode": "XAI54HO1",
+        "transaction_id": "MzMyMTYwNzcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAI54HGG",
+        "transaction_id": "MzMyMTYwNzY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2Y6P3V",
+        "transaction_id": "MzI5ODY1NDE5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA1GU65L",
+        "transaction_id": "MzI5NjYzMjA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-01",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 3,
+        "barcode": "XA1GU595",
+        "transaction_id": "MzI5NjYzMTg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA1GU4PS",
+        "transaction_id": "MzI5NjYzMTc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA1GU4RC",
+        "transaction_id": "MzI5NjYzMTc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-04-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA1GU3D7",
+        "transaction_id": "MzI5NjYzMTYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-15",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA0BEIND",
+        "transaction_id": "MzI5NDI4NTUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 3,
+        "barcode": "XA0BEIN5",
+        "transaction_id": "MzI5NDI4NTUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-14",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA08WM7T",
+        "transaction_id": "MzI5NDI4NTUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-14",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA08WM7L",
+        "transaction_id": "MzI5NDI4NTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-03-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA08WMBS",
+        "transaction_id": "MzI5NDI4NTUxNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 0
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "headcount": 20,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:02:26.200Z",
+  "scraped_at": "2026-01-10T22:02:26.200Z"
+}

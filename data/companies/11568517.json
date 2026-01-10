@@ -1,0 +1,432 @@
+{
+  "company_name": "FORTUDE PTE LIMITED",
+  "company_number": "11568517",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-09-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "27 Greville Street, London, EC1N 8SU, England",
+  "registered_address_structured": {
+    "address_line_1": "27 Greville Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1N 8SU"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-27",
+    "last_made_up_to": "2025-09-13",
+    "next_made_up_to": "2026-09-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "OMAR, Sadiq",
+        "officer_role": "director",
+        "appointed_on": "2024-04-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1991,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "Singapore",
+        "address": {
+          "address_line_1": "Greville Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8SU",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "OMAR, Shiraz",
+        "officer_role": "director",
+        "appointed_on": "2024-04-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1989,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Greville Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8SU",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "SIRINANDA, Arjuna Sachintha",
+        "officer_role": "director",
+        "appointed_on": "2018-09-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "Sri Lanka",
+        "address": {
+          "country": "Sri Lanka",
+          "locality": "Colombo 7",
+          "premises": "146 Kynsey Road"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CANUTE SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2018-09-14",
+        "address": {
+          "address_line_1": "Greville Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1N 8SU",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "115685170001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-10-21",
+        "delivered_on": "2019-10-22",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Security over cash deposits.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-24",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEI225F4",
+        "transaction_id": "MzQ5NjIyMTQ0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-27",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "XEE2FO37",
+        "transaction_id": "MzQ4NjQ0MDAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEE2FO0B",
+        "transaction_id": "MzQ4NjQ0MDAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEDB8Z0G",
+        "transaction_id": "MzQ4NTIyNTkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEB3UW9C",
+        "transaction_id": "MzQ4MTA0MzgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDZGMFNV",
+        "transaction_id": "MzQ2MDc2NDA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-10-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDDG29V6",
+        "transaction_id": "MzQzOTA2MTU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-10",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "XDDG29TE",
+        "transaction_id": "MzQzOTA2MTUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDDG28T5",
+        "transaction_id": "MzQzOTA2MTM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDDG28OO",
+        "transaction_id": "MzQzOTA2MTM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDBK7LSA",
+        "transaction_id": "MzQzNTYxMzM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD1E3R94",
+        "transaction_id": "MzQxOTA2MDk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD1E3OYP",
+        "transaction_id": "MzQxOTA2MDQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCZTDAJ6",
+        "transaction_id": "MzQxNjQ0OTYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBYBUIY",
+        "transaction_id": "MzM5Mjc2NTQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC0H9UZT",
+        "transaction_id": "MzM3NDgwNjAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-16",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "XBZF56G8",
+        "transaction_id": "MzM3Mjk2MjcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-03-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBZF56E8",
+        "transaction_id": "MzM3Mjk2MjcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBCGA8H2",
+        "transaction_id": "MzM1MTcyNTQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB0X7F56",
+        "transaction_id": "MzMzNDgxMzYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-12",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "XAH3NIH7",
+        "transaction_id": "MzMyMDAzNDk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-10-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAEXXWGO",
+        "transaction_id": "MzMxNjc3NTYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XACXBC2Z",
+        "transaction_id": "MzMxMzY4OTMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA1G74Z7",
+        "transaction_id": "MzI5NjM4ODYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DKU70W",
+        "transaction_id": "MzI3NzU3NjI4N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Fortude.co",
+    "headcount": 13,
+    "tech_stack": [
+      "Microsoft Azure",
+      "Microsoft Azure Data Lake Gen2",
+      "Microsoft Azure Data Factory",
+      "Microsoft Azure Databricks",
+      "Microsoft Azure Synapse Analytics",
+      "Microsoft Azure Machine Learning",
+      "Microsoft Power BI",
+      "Microsoft Fabric",
+      "Infor M3",
+      "Infor CloudSuite",
+      "Microsoft Dynamics"
+    ],
+    "business_keywords": [
+      "digital solutions",
+      "digital transformation",
+      "automation",
+      "data insights",
+      "ERP modernization",
+      "analytics",
+      "AI",
+      "enterprise sustainability",
+      "Microsoft Azure",
+      "Infor CloudSuite",
+      "Microsoft Dynamics",
+      "Microsoft Fabric",
+      "regression testing",
+      "data management",
+      "application management"
+    ],
+    "services": [
+      "Digital Transformation Advisory",
+      "Automation Solutions Engineering",
+      "Data & AI",
+      "Infor CloudSuite Consulting",
+      "Analytics solutions on Microsoft Azure",
+      "ERP modernization",
+      "Automated regression testing",
+      "Prebuilt KPIs and dashboards (Sales & Finance Accelerators)",
+      "Unified analytics strategy with Microsoft Fabric",
+      "Future-ready analytics foundation on Azure"
+    ],
+    "customer_segments": [
+      "enterprises",
+      "global supply chain leaders",
+      "apparel industry",
+      "manufacturing",
+      "connectivity and communications technology groups",
+      "aftermarket services"
+    ],
+    "business_description": "Fortude delivers people-focused digital solutions that transform businesses through automation, data insights, ERP modernization, and analytics. The company specializes in planning and delivering analytics solutions on Microsoft Azure and provides consulting for Infor CloudSuite and Microsoft Dynamics, enabling future-ready enterprises.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 21,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:01:35.586Z"
+  },
+  "scraped_at": "2026-01-10T20:01:28.823Z",
+  "updated_at": "2026-01-10T20:01:35.585Z",
+  "version": 1
+}

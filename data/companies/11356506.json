@@ -1,0 +1,427 @@
+{
+  "company_name": "ECMS (MANAGED SOLUTIONS) LIMITED",
+  "company_number": "11356506",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-05-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "7th Floor 131 Finsbury Pavement, London, EC2A 1NT, England",
+  "registered_address_structured": {
+    "address_line_1": "7th Floor 131 Finsbury Pavement",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 1NT"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-30",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "audit-exemption-subsidiary",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-18",
+    "last_made_up_to": "2025-05-04",
+    "next_made_up_to": "2026-05-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "EAMES, Matthew Simon",
+        "officer_role": "director",
+        "appointed_on": "2018-05-11",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "131 Finsbury Pavement",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 1NT",
+          "premises": "7th Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Matthew Simon Eames",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-05-11",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "131 Finsbury Pavement",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 1NT",
+          "premises": "7th Floor"
+        }
+      },
+      {
+        "name": "Eames Consulting Group Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-05-11",
+        "address": {
+          "address_line_1": "32/38 Saffron Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 8FH",
+          "premises": "Eames Consulting Group"
+        },
+        "identification": {
+          "legal_form": "Corporate",
+          "legal_authority": "United Kingdom",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "04447763"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "113565060001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-07-31",
+        "delivered_on": "2019-08-14",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Close Brothers Limited (The “Security Trustee”)"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-20",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AECYQEVN",
+        "transaction_id": "MzQ4NTQ4ODU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-10-20",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AECYQEUB",
+        "transaction_id": "MzQ4NTQ4ODE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-03",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 38,
+        "barcode": "AEBZ3ZRD",
+        "transaction_id": "MzQ4MzY3NzM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-10-03",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AEBZ3ZQX",
+        "transaction_id": "MzQ4MzY3NzM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE421RQ1",
+        "transaction_id": "MzQ2OTA2MjA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-13",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDHVS0SW",
+        "transaction_id": "MzQ0NzIwODE4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3HHES8",
+        "transaction_id": "MzQyMjQzNDI0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCISIVQ8",
+        "transaction_id": "MzQwNTA5NzIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-09-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCB52MBE",
+        "transaction_id": "MzM5MTYzMTg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC50UWG9",
+        "transaction_id": "MzM4MTg5Njc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBJUPDJV",
+        "transaction_id": "MzM2NDA5MzE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3TEZEX",
+        "transaction_id": "MzMzODk2NjkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-17",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AAKEUIEZ",
+        "transaction_id": "MzMyNjgzMjUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-17",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 36,
+        "barcode": "AAKEUIFV",
+        "transaction_id": "MzMyNjgzMTYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-01-17",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AAKEUIFF",
+        "transaction_id": "MzMyNjgzMTM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-01-17",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AAKEUIF7",
+        "transaction_id": "MzMyNjgzMTI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACZYBIZ",
+        "transaction_id": "MzMxMzc4NDYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACXADOY",
+        "transaction_id": "MzMxMzY4MTMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-10",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "AA5DAKNL",
+        "transaction_id": "MzMwMzQ1MzgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-10",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 27,
+        "barcode": "AA5DAKOH",
+        "transaction_id": "MzMwMzQ1MTE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2021-06-10",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AA5DAKNT",
+        "transaction_id": "MzMwMzQ1MzgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3RZTB8",
+        "transaction_id": "MzI5OTkwMTE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2021-04-12",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AA15424G",
+        "transaction_id": "MzI5NzQzMzcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-30",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9KZTAT7",
+        "transaction_id": "MzI4NzIzNTQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X951NL35",
+        "transaction_id": "MzI2NDc3ODU3NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Eamesconsulting.com",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "recruitment",
+      "talent acquisition",
+      "specialist recruitment",
+      "change & transformation",
+      "technology recruitment",
+      "corporate functions recruitment",
+      "specialist disciplines recruitment",
+      "contract recruitment",
+      "interim recruitment",
+      "permanent recruitment",
+      "executive search",
+      "leadership assessments",
+      "market insights",
+      "compliance",
+      "contractor care",
+      "hiring strategies",
+      "market mapping"
+    ],
+    "services": [
+      "Contract & Interim recruitment",
+      "Permanent recruitment",
+      "Executive Search",
+      "Market insights",
+      "Leadership assessments",
+      "Compliance support for contractors",
+      "Contractor care",
+      "Hiring strategy development",
+      "Market mapping",
+      "Named candidate approaches",
+      "Contingent recruitment",
+      "Retained and exclusive recruitment projects"
+    ],
+    "customer_segments": [
+      "leading businesses worldwide",
+      "insurance sector",
+      "banking sector",
+      "financial services sector",
+      "businesses undergoing change & transformation",
+      "technology-driven businesses",
+      "corporate functions teams",
+      "specialist disciplines teams"
+    ],
+    "business_description": "Eames Consulting is a specialist recruitment partner connecting talent in change & transformation, technology, corporate functions, and specialist disciplines with leading businesses worldwide. They provide tailored contract, interim, permanent, and executive search solutions, supported by market insights, leadership assessments, and compliance services to drive client success.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:28:26.965Z"
+  },
+  "scraped_at": "2026-01-10T19:28:20.080Z",
+  "updated_at": "2026-01-10T19:28:26.965Z",
+  "version": 1
+}

@@ -1,0 +1,472 @@
+{
+  "company_name": "REBELLION DIGITAL ASSETS LTD",
+  "company_number": "12555343",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-04-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "Riverside House, Osney Mead, Oxford, Oxfordshire, OX2 0ES, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Riverside House",
+    "address_line_2": "Osney Mead",
+    "country": "United Kingdom",
+    "locality": "Oxford",
+    "postal_code": "OX2 0ES",
+    "region": "Oxfordshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "audit-exemption-subsidiary",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-14",
+    "last_made_up_to": "2025-06-30",
+    "next_made_up_to": "2026-06-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KINGSLEY, Christopher",
+        "officer_role": "director",
+        "appointed_on": "2020-04-14",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Osney Mead",
+          "country": "United Kingdom",
+          "locality": "Oxford",
+          "postal_code": "OX2 0ES",
+          "premises": "Riverside House",
+          "region": "Oxfordshire"
+        }
+      },
+      {
+        "name": "KINGSLEY, Jonathon Jason",
+        "officer_role": "director",
+        "appointed_on": "2020-04-14",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Osney Mead",
+          "country": "United Kingdom",
+          "locality": "Oxford",
+          "postal_code": "OX2 0ES",
+          "premises": "Riverside House",
+          "region": "Oxfordshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Rebellion Games Holdings Ltd ",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2024-06-28",
+        "address": {
+          "address_line_1": "Osney Mead",
+          "country": "United Kingdom",
+          "locality": "Oxford",
+          "postal_code": "OX2 0ES",
+          "premises": "Riverside House",
+          "region": "Oxfordshire"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "11433789"
+        }
+      },
+      {
+        "name": "Rebellion Central Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2020-04-14",
+        "ceased_on": "2024-06-28",
+        "address": {
+          "address_line_1": "Osney Mead",
+          "locality": "Oxford",
+          "postal_code": "OX2 0ES",
+          "premises": "Riverside House"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "United Kingdom",
+          "country_registered": "United Kingdom",
+          "place_registered": "United Kingdom",
+          "registration_number": "12530911"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "125553430002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-07-29",
+        "delivered_on": "2021-08-05",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC as Security Agent"
+          }
+        ],
+        "satisfied_on": "2025-02-12",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "125553430001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-09-10",
+        "delivered_on": "2020-09-15",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "satisfied_on": "2021-08-05",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "AEBWK66Y",
+        "transaction_id": "MzQ4MzIzMzg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 56,
+        "barcode": "AEBWK66Q",
+        "transaction_id": "MzQ4MzIzMzY2N2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-09-30",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AEBWK63L",
+        "transaction_id": "MzQ4MzIzMzUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-09-30",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AEBWK63T",
+        "transaction_id": "MzQ4MzIzMzQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5V4ZVT",
+        "transaction_id": "MzQ3MjE1NzY3MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-12",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDW7PQ3C",
+        "transaction_id": "MzQ1NDc4OTk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-18",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDG55XMI",
+        "transaction_id": "MzQ0MzcwNzgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD6K8RC2",
+        "transaction_id": "MzQyNzU3OTY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-02",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD6HHOYY",
+        "transaction_id": "MzQyNzQwNzY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-02",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD6HHOUA",
+        "transaction_id": "MzQyNzQwNzY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-15",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCIEULZT",
+        "transaction_id": "MzQwNDI1Njg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7PVKXS",
+        "transaction_id": "MzM4NjM0ODI2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBWVLTRF",
+        "transaction_id": "MzM2ODUwMjg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB79DG8G",
+        "transaction_id": "MzM0NDMyNDAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AB0VWLBE",
+        "transaction_id": "MzMzNDg1NDIzMmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-11-10",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 15,
+        "barcode": "YAGFK944",
+        "transaction_id": "MzMxODk2NDg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-11-10",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "WUFHRks5M1NhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-08-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAA9H41V",
+        "transaction_id": "MzMwOTg4MzQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-08-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 80,
+        "barcode": "XAA9LEJS",
+        "transaction_id": "MzMwOTkyNDEwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7TMI6A",
+        "transaction_id": "MzMwNjQ2NjE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AA4IW0W3",
+        "transaction_id": "MzMwMjk4NzUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9DNMVYP",
+        "transaction_id": "MzI3NzcwNDMzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X996HZEA",
+        "transaction_id": "MzI3MjkzMzEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-14",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X92ZLM8X",
+        "transaction_id": "MzI2MjM0NzIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-04-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 24,
+        "barcode": "X92WWE9M",
+        "transaction_id": "MzI2MjI1MTg2OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Rebellion.com",
+    "headcount": 9,
+    "tech_stack": [
+      "iPhone",
+      "iPad",
+      "Mac",
+      "consoles",
+      "VR"
+    ],
+    "business_keywords": [
+      "multimedia studio",
+      "independent studio",
+      "video games",
+      "game development",
+      "Sniper Elite series",
+      "stealth gameplay",
+      "sniping gameplay",
+      "comics",
+      "2000 AD",
+      "British comic book art",
+      "film studio",
+      "comic archive",
+      "consoles",
+      "iPhone",
+      "iPad",
+      "Mac",
+      "VR"
+    ],
+    "services": [
+      "game development",
+      "comic publishing",
+      "film studio operations"
+    ],
+    "customer_segments": [
+      "players",
+      "gamers",
+      "comic book readers",
+      "console gamers",
+      "mobile gamers"
+    ],
+    "business_description": "Rebellion is an independent multimedia studio founded in 1992, known for developing video games such as the Sniper Elite series and publishing comics like 2000 AD. The company also operates a film studio and owns the world’s largest archive of English language comics.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:35:52.701Z"
+  },
+  "scraped_at": "2026-01-10T22:35:47.176Z",
+  "updated_at": "2026-01-10T22:35:52.701Z",
+  "version": 1
+}

@@ -1,0 +1,412 @@
+{
+  "company_name": "RADIANT AGENCY LTD",
+  "company_number": "11347789",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-05-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "Spacemade, 10 Brindley Place, Birmingham, B1 2JB, England",
+  "registered_address_structured": {
+    "address_line_1": "Spacemade, 10 Brindley Place",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B1 2JB"
+  },
+  "sic_codes": [
+    "62020",
+    "63120"
+  ],
+  "previous_company_names": [
+    {
+      "name": "FULL FAT COMMERCE LTD",
+      "ceased_on": "2023-06-20",
+      "effective_from": "2018-05-04"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-07",
+    "last_made_up_to": "2025-10-24",
+    "next_made_up_to": "2026-10-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LANE, James William",
+        "officer_role": "director",
+        "appointed_on": "2018-05-04",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Arab Emirates",
+        "address": {
+          "address_line_1": "10 Brindley Place",
+          "country": "United Kingdom",
+          "locality": "Birmingham",
+          "postal_code": "B1 2JB",
+          "premises": "Spacemade"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Jwl Ventures Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-04-20",
+        "address": {
+          "address_line_1": "Brindley Place",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B1 2JB",
+          "premises": "Spacemade, 10"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "England",
+          "place_registered": "Register Of Companies",
+          "registration_number": "15649315"
+        }
+      },
+      {
+        "name": "Mr James William Lane",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-05-04",
+        "ceased_on": "2024-04-20",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brindley Place",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B1 2JB",
+          "premises": "Spacemade, 10"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEEB12C0",
+        "transaction_id": "MzQ4NzAyNTc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEEAZQM9",
+        "transaction_id": "MzQ4NzAxNDY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDEF42CZ",
+        "transaction_id": "MzQ0MDg0NDc5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDDW7VEJ",
+        "transaction_id": "MzQzOTkyNDI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-17",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDDW7U7T",
+        "transaction_id": "MzQzOTkyNDAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDDTCT6B",
+        "transaction_id": "MzQzOTU5ODM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-15",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YD9BL6EW",
+        "transaction_id": "MzQzMTg1ODE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-14",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YD9BL78O",
+        "transaction_id": "MzQzMTg1ODM5MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-08-07",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 36,
+        "barcode": "YD8VD6E8",
+        "transaction_id": "MzQzMTExNjYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-07-30",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD8FHTFN",
+        "transaction_id": "MzQzMDU4MTk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-11",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD520AG8",
+        "transaction_id": "MzQyNDkwOTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD1UEGZD",
+        "transaction_id": "MzQxOTg1ODgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD1GN6WA",
+        "transaction_id": "MzQxOTEzMjAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD1GN68B",
+        "transaction_id": "MzQxOTEzMTY2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCVQKU0X",
+        "transaction_id": "MzQwOTE5MDk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCEKSTCY",
+        "transaction_id": "MzM5NzI4OTcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-06-20",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XC5ZLX9K",
+        "transaction_id": "MzM4MzU0NDMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC2461AI",
+        "transaction_id": "MzM3NzMzNDMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC1QYSO0",
+        "transaction_id": "MzM3Njg5NTk3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1QYEOZ",
+        "transaction_id": "MzM3Njg5MjY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBWI8UCQ",
+        "transaction_id": "MzM2ODA2NDI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-11-15",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUJHTTRXWFNhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBF2K1QX",
+        "transaction_id": "MzM1NjA4OTQyMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-08-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUJBUjVPNjhhZGlxemtjeA"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB6D1VM0",
+        "transaction_id": "MzM0Mjg5NjUxOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 41,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Fullfatcommerce.com",
+    "headcount": 12,
+    "tech_stack": [
+      "Shopify",
+      "Shopify Plus"
+    ],
+    "business_keywords": [
+      "Shopify agency",
+      "ecommerce",
+      "Shopify Plus agency",
+      "UX design",
+      "UI design",
+      "website design",
+      "website development",
+      "website optimisation",
+      "ecommerce strategy",
+      "custom theme development",
+      "Shopify app development",
+      "replatforming",
+      "data migration",
+      "tech integrations",
+      "site speed optimisation",
+      "affordable-luxury brands",
+      "support & maintenance",
+      "audits & analysis",
+      "backend development"
+    ],
+    "services": [
+      "UX/UI Design",
+      "Custom Theme Development",
+      "E-Commerce Strategy",
+      "Website Optimisation",
+      "Support & Maintenance",
+      "Shopify App Development",
+      "Replatforming",
+      "Data Migration",
+      "Tech Integrations",
+      "Site Speed Optimisation",
+      "Audits & Analysis",
+      "Backend Development"
+    ],
+    "customer_segments": [
+      "ecommerce businesses",
+      "affordable-luxury brands",
+      "new e-commerce businesses",
+      "established e-commerce businesses",
+      "brands at different stages in their journey"
+    ],
+    "business_description": "Radiant is a Shopify and ecommerce agency specializing in custom UX website design, development, and support for brands. They work with affordable-luxury brands to design, develop, and optimize Shopify Plus stores, offering tailored solutions to help businesses grow and succeed online.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:27:10.049Z"
+  },
+  "scraped_at": "2026-01-10T19:27:03.091Z",
+  "updated_at": "2026-01-10T19:27:10.049Z",
+  "version": 1
+}

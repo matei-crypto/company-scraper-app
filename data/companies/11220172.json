@@ -1,0 +1,456 @@
+{
+  "company_name": "WYSA LTD",
+  "company_number": "11220172",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-02-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "1 London Street, Reading, Berkshire, RG1 4PN, England",
+  "registered_address_structured": {
+    "address_line_1": "1 London Street",
+    "country": "England",
+    "locality": "Reading",
+    "postal_code": "RG1 4PN",
+    "region": "Berkshire"
+  },
+  "sic_codes": [
+    "58290",
+    "62011",
+    "62090",
+    "63120"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-07",
+    "last_made_up_to": "2025-02-21",
+    "next_made_up_to": "2026-02-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AGGARWAL, Jyotsana Vempati",
+        "officer_role": "director",
+        "appointed_on": "2018-02-22",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Adarsh Vista",
+          "address_line_2": "Doddenakundi",
+          "country": "India",
+          "locality": "Bengaluru",
+          "postal_code": "560 03",
+          "premises": "152",
+          "region": "Karnataka"
+        }
+      },
+      {
+        "name": "VEMPATI, Ramakant Venkata",
+        "officer_role": "director",
+        "appointed_on": "2018-02-22",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Adarsh Vista",
+          "address_line_2": "Doddenakundi",
+          "country": "India",
+          "locality": "Bengaluru",
+          "postal_code": "560 037",
+          "premises": "152",
+          "region": "Karnataka"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SPEAFI SECRETARIAL LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2020-08-11",
+        "address": {
+          "address_line_1": "London Street",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG1 4PN",
+          "premises": "1",
+          "region": "Berkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Touchkin Eservices Private Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2020-08-11",
+        "address": {
+          "address_line_1": "Lgf Floor",
+          "address_line_2": "Diamond District",
+          "country": "India",
+          "locality": "Bangalore 560008",
+          "premises": "Moss Office Tower B",
+          "region": "Karnataka"
+        },
+        "identification": {
+          "legal_form": "Company Limited By Shares",
+          "legal_authority": "Roc-Bangalore",
+          "country_registered": "India",
+          "place_registered": "Roc-Bangalore",
+          "registration_number": "U72200ka2015ptc078356"
+        }
+      },
+      {
+        "name": "Ms Jyotsana Vempati Aggarwal",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2018-02-22",
+        "ceased_on": "2020-08-11",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "Mr Ramakant Venkata Vempati",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2018-02-22",
+        "ceased_on": "2020-08-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "AEIEL8AY",
+        "transaction_id": "MzQ5NzM2NjI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXKC17D",
+        "transaction_id": "MzQ1NzA0Nzg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDXKBZ6Y",
+        "transaction_id": "MzQ1NzA0NzQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDXKBW01",
+        "transaction_id": "MzQ1NzA0Njc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDXKBS5S",
+        "transaction_id": "MzQ1NzA0NTkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-31",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "ADEKEYY1",
+        "transaction_id": "MzQ0MTU5MzYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXGZ0SJ",
+        "transaction_id": "MzQxMjIxNTQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-05",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "ACH82I1U",
+        "transaction_id": "MzQwMjE1NDI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBZ9Q1RF",
+        "transaction_id": "MzM3MjUyMTU1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBJ8Y9BV",
+        "transaction_id": "MzM2Mjk5MjI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-01",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBFW1NLU",
+        "transaction_id": "MzM1NzIxNTczM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZ9KNOW",
+        "transaction_id": "MzMzMjA2NjcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAYAGGPU",
+        "transaction_id": "MzMzMDQ0MDgzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-23",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XA7A41O1",
+        "transaction_id": "MzMwNTMyNTY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA1TKMYO",
+        "transaction_id": "MzI5NjgzODU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA1J4TF4",
+        "transaction_id": "MzI5NjU3NDM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA1J4FB5",
+        "transaction_id": "MzI5NjU3MDk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-26",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X9WYQZNS",
+        "transaction_id": "MzI4OTYyOTU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-09-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9DQ8W3D",
+        "transaction_id": "MzI3Nzg0OTI5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-16",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "X9DQ8V0Q",
+        "transaction_id": "MzI3Nzg0ODkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-09-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9DQ8VIO",
+        "transaction_id": "MzI3Nzg0ODk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-16",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9DQ8RTV",
+        "transaction_id": "MzI3Nzg0ODI2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-16",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9DQ8J0R",
+        "transaction_id": "MzI3Nzg0NjUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-16",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X9DQ8DHV",
+        "transaction_id": "MzI3Nzg0NjE3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X904KY6Q",
+        "transaction_id": "MzI1ODkxODQyMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "revenue": 927475,
+    "ebitda": -513303,
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Wysa.io",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "mental health",
+      "behavioral health",
+      "anxiety support",
+      "emotional support",
+      "anonymous mental health",
+      "pandemic anxiety",
+      "lockdown coping",
+      "clinically validated",
+      "scalable mental health",
+      "secure mental health",
+      "24/7 mental health support",
+      "human-in-the-loop support",
+      "outcomes-focused care",
+      "continuum of care",
+      "digital mental health"
+    ],
+    "services": [
+      "venting support",
+      "talking through negative thoughts and emotions",
+      "coping with pandemic anxiety",
+      "coping with lockdowns",
+      "anonymous mental health support",
+      "safe mental health support",
+      "free mental health support",
+      "behavioral health rethinking",
+      "care across settings",
+      "support across the continuum",
+      "always-on mental health support"
+    ],
+    "customer_segments": [
+      "individuals experiencing negative thoughts and emotions",
+      "people coping with pandemic anxiety",
+      "people affected by lockdowns",
+      "millions worldwide"
+    ],
+    "business_description": "Wysa is an anonymous, safe, and free mental health platform that helps users cope with negative thoughts, emotions, pandemic anxiety, and lockdowns. It provides always-on support and is designed to rethink behavioral health with a focus on clinical validation and scalability.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:04:05.956Z"
+  },
+  "scraped_at": "2026-01-10T19:03:59.486Z",
+  "updated_at": "2026-01-10T19:04:05.956Z",
+  "version": 1
+}

@@ -1,0 +1,417 @@
+{
+  "company_name": "TAILEND CHASERS LTD",
+  "company_number": "12822825",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-08-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "28 Highridge Close, Weavering, Maidstone, Kent, ME14 5XQ, England",
+  "registered_address_structured": {
+    "address_line_1": "28 Highridge Close",
+    "address_line_2": "Weavering",
+    "country": "England",
+    "locality": "Maidstone",
+    "postal_code": "ME14 5XQ",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-05-31",
+    "next_accounts_period_end_on": "2026-08-31",
+    "next_accounts_period_start_on": "2025-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-08-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-21",
+    "last_made_up_to": "2025-03-07",
+    "next_made_up_to": "2026-03-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ADCOCK, Jack",
+        "officer_role": "director",
+        "appointed_on": "2023-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Highridge Close",
+          "address_line_2": "Weavering",
+          "country": "England",
+          "locality": "Maidstone",
+          "postal_code": "ME14 5XQ",
+          "premises": "28",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "MORRIS, Robert Huw John",
+        "officer_role": "director",
+        "appointed_on": "2020-08-19",
+        "resigned_on": "2021-03-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Plough Yard",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 3LP",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "WOODGATE, Gary",
+        "officer_role": "director",
+        "appointed_on": "2021-03-01",
+        "resigned_on": "2023-05-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Palace Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1E 5HX",
+          "premises": "Citibase, Audley House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BREWER, Steven Roger",
+        "officer_role": "secretary",
+        "appointed_on": "2021-03-01",
+        "address": {
+          "address_line_1": "Highridge Close",
+          "address_line_2": "Weavering",
+          "country": "England",
+          "locality": "Maidstone",
+          "postal_code": "ME14 5XQ",
+          "premises": "28",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Jack Adcock",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2023-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Highridge Close",
+          "address_line_2": "Weavering",
+          "country": "England",
+          "locality": "Maidstone",
+          "postal_code": "ME14 5XQ",
+          "premises": "28",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "Mr Gary Woodgate",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2021-03-01",
+        "ceased_on": "2023-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Palace Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1E 5HX",
+          "premises": "Citibase, Audley House"
+        }
+      },
+      {
+        "name": "Mr Robert Huw John Morris",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-08-19",
+        "ceased_on": "2021-03-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Plough Yard",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 3LP",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEB6HLM8",
+        "transaction_id": "MzQ4MTA5MzUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE20O2TT",
+        "transaction_id": "MzQ2NTEyNDM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXSRYNF",
+        "transaction_id": "MzQ1NzY2NjA1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD6682AQ",
+        "transaction_id": "MzQyNjgzMTc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD4OLF6X",
+        "transaction_id": "MzQyNDQzNDczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCYLGAS8",
+        "transaction_id": "MzQxMzk0OTY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC4QA4WX",
+        "transaction_id": "MzM4MTU2NDE0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC38DSYA",
+        "transaction_id": "MzM3OTA1MDg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-10",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XC38DRV7",
+        "transaction_id": "MzM3OTA1MDU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-10",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC38DLWX",
+        "transaction_id": "MzM3OTA0OTQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYZ4CPK",
+        "transaction_id": "MzM3MjIwMjcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBWFHXHF",
+        "transaction_id": "MzM2NzkxNDU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-13",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBV354AT",
+        "transaction_id": "MzM2NTYyMjI3MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBCIZHHN",
+        "transaction_id": "MzM1MTg2NDAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-15",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XAZUZ3BU",
+        "transaction_id": "MzMzMjgzNzA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZUZ1FV",
+        "transaction_id": "MzMzMjgzNjE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA1DHHP5",
+        "transaction_id": "MzI5NjIyMDI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-03-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA1DHGCR",
+        "transaction_id": "MzI5NjIxOTg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XA06CAQ9",
+        "transaction_id": "MzI5NDI2NDgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA06CAR5",
+        "transaction_id": "MzI5NDI2NDc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-13",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XA06CA1T",
+        "transaction_id": "MzI5NDI2NDY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA06CA82",
+        "transaction_id": "MzI5NDI2NDY3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA06CA96",
+        "transaction_id": "MzI5NDI2NDY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-08-19",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X9BOC5BC",
+        "transaction_id": "MzI3NTUzNTE2MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 24,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "headcount": 12,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:02:01.164Z",
+  "scraped_at": "2026-01-10T23:02:01.164Z"
+}

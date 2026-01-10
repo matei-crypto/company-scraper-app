@@ -1,0 +1,422 @@
+{
+  "company_name": "X-FLOW II LIMITED",
+  "company_number": "12088596",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-07-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "1st Floor, Connaught House, 255 High St, Guildford, GU1 3BS",
+  "registered_address_structured": {
+    "address_line_1": "1st Floor, Connaught House",
+    "address_line_2": "255 High St",
+    "locality": "Guildford",
+    "postal_code": "GU1 3BS"
+  },
+  "sic_codes": [
+    "62011",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-24",
+    "last_made_up_to": "2025-06-10",
+    "next_made_up_to": "2026-06-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "VERAMEYEU, Aliaksandr",
+        "officer_role": "director",
+        "appointed_on": "2019-07-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1992,
+        "nationality": "Montenegrin",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "255 High St",
+          "locality": "Guildford",
+          "postal_code": "GU1 3BS",
+          "premises": "1st Floor, Connaught House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ABOGADO NOMINEES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2022-05-16",
+        "resigned_on": "2025-01-23",
+        "address": {
+          "address_line_1": "Bishopsgate",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 4RB",
+          "premises": "280"
+        }
+      },
+      {
+        "name": "NEPTUNE SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2019-07-06",
+        "resigned_on": "2021-02-12",
+        "address": {
+          "address_line_1": "Jessop Avenue",
+          "country": "England",
+          "locality": "Cheltenham",
+          "postal_code": "GL50 3WG",
+          "premises": "Jessop House"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Aliaksandr Malykhin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-10-12",
+        "ceased_on": "2025-11-10",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1987,
+        "nationality": "Belarusian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "255 High St",
+          "locality": "Guildford",
+          "postal_code": "GU1 3BS",
+          "premises": "1st Floor, Connaught House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "120885960001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-01-07",
+        "delivered_on": "2020-01-08",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Coutts & Company"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-10",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XEF1X33S",
+        "transaction_id": "MzQ4ODAwNTY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-10",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEF1WVJU",
+        "transaction_id": "MzQ4ODAwNDAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE53XHDC",
+        "transaction_id": "MzQ3MDk1NzAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4FECNT",
+        "transaction_id": "MzQ2OTUyNDAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-10",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XE4CQ6D6",
+        "transaction_id": "MzQ2OTM4NzkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-09",
+        "description": "move-registers-to-registered-office-company-with-new-address",
+        "type": "AD04",
+        "pages": 1,
+        "barcode": "XE4CQ5FU",
+        "transaction_id": "MzQ2OTM4Nzc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-09",
+        "description": "move-registers-to-registered-office-company-with-new-address",
+        "type": "AD04",
+        "pages": 1,
+        "barcode": "XE4CQ55K",
+        "transaction_id": "MzQ2OTM4NzY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XE1HXHOZ",
+        "transaction_id": "MzQ2NDM4MDU3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-23",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XDUUVXDK",
+        "transaction_id": "MzQ1MjQzMjQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-11",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "XD75KPIO",
+        "transaction_id": "MzQyODM4Mzk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD70AFGO",
+        "transaction_id": "MzQyODEzOTk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-09",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XD70AFM1",
+        "transaction_id": "MzQyODEzOTk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD4J8XU2",
+        "transaction_id": "MzQyNDE4NTY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7712EI",
+        "transaction_id": "MzM4NTUwMDY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-10",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC38DX2H",
+        "transaction_id": "MzM3OTA1MTc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB8AT0DM",
+        "transaction_id": "MzM0NTc5OTg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB8ASXBM",
+        "transaction_id": "MzM0NTc5OTIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB8ASVOQ",
+        "transaction_id": "MzM0NTc5ODc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-15",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XB8ASQA9",
+        "transaction_id": "MzM0NTc5NzUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XB49O1YZ",
+        "transaction_id": "MzMzOTY3MzkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-17",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XB46WAOY",
+        "transaction_id": "MzMzOTUwMTcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB3WGR6G",
+        "transaction_id": "MzMzOTI2MTk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAJC6LAY",
+        "transaction_id": "MzMyMzU5MzA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-06",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XA86PTVL",
+        "transaction_id": "MzMwNjgwNTg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-06",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XA86PTZE",
+        "transaction_id": "MzMwNjgwNTg2NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 9
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://X-flow.app",
+    "headcount": 7,
+    "tech_stack": [],
+    "business_keywords": [
+      "mobile gaming",
+      "digital coloring book",
+      "ad-driven mobile apps",
+      "mobile game development",
+      "coloring app",
+      "merge and match game",
+      "partnerships",
+      "community events",
+      "charity collaborations",
+      "mobile entertainment",
+      "casual gaming",
+      "cross-platform gaming",
+      "game development",
+      "brand collaborations",
+      "social impact campaigns"
+    ],
+    "services": [
+      "development of digital coloring book apps",
+      "development of merge and match games",
+      "collaboration on mobile gaming projects",
+      "community engagement events",
+      "charity and social impact campaigns through gaming"
+    ],
+    "customer_segments": [
+      "mobile gamers",
+      "fans of digital coloring books",
+      "casual game players",
+      "mental wellness communities",
+      "animal lovers and rescue supporters",
+      "environmental conservation supporters",
+      "children with critical illnesses",
+      "seniors",
+      "global gaming community"
+    ],
+    "business_description": "X-FLOW is a mobile game development company established in 2018, known for creating Happy Color, a popular digital coloring book and one of the most successful ad-driven mobile apps globally. The company collaborates with partners to develop market-leading mobile gaming products and engages in community and charity initiatives through its games.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T21:20:27.644Z"
+  },
+  "scraped_at": "2026-01-10T21:20:21.177Z",
+  "updated_at": "2026-01-10T21:20:27.644Z",
+  "version": 1
+}

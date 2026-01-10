@@ -1,0 +1,353 @@
+{
+  "company_name": "TEQUALS0 LIMITED",
+  "company_number": "12521040",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-03-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "47 Queen Street (Ground Floor), Hull, HU1 1UU, England",
+  "registered_address_structured": {
+    "address_line_1": "47 Queen Street (Ground Floor)",
+    "country": "England",
+    "locality": "Hull",
+    "postal_code": "HU1 1UU"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-25",
+    "last_made_up_to": "2025-04-11",
+    "next_made_up_to": "2026-04-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ANSLOW, Gary John",
+        "officer_role": "director",
+        "appointed_on": "2020-03-17",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Queen Street (Ground Floor)",
+          "country": "England",
+          "locality": "Hull",
+          "postal_code": "HU1 1UU",
+          "premises": "47"
+        }
+      },
+      {
+        "name": "CUTTING, James Edward",
+        "officer_role": "director",
+        "appointed_on": "2020-10-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Queen Street (Ground Floor)",
+          "country": "England",
+          "locality": "Hull",
+          "postal_code": "HU1 1UU",
+          "premises": "47"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Iparus Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-03-17",
+        "ceased_on": "2020-11-13",
+        "address": {
+          "address_line_1": "Cheyne Walk",
+          "country": "England",
+          "locality": "Northampton",
+          "postal_code": "NN1 5PT",
+          "premises": "11"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Uk Register Of Companies",
+          "registration_number": "08297429"
+        }
+      },
+      {
+        "name": "Innovate0",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-03-17",
+        "address": {
+          "address_line_1": "Queen Street",
+          "country": "England",
+          "locality": "Hull",
+          "postal_code": "HU1 1UU",
+          "premises": "C4di At The Dock 31-38"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Uk Register Of Companies",
+          "registration_number": "12420358"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-11-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEELP7IY",
+        "transaction_id": "MzQ4NzM2NjM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE20YHGW",
+        "transaction_id": "MzQ2NTMyNzMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE14630Z",
+        "transaction_id": "MzQ2MzY1MzAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDXPWBJQ",
+        "transaction_id": "MzQ1NzQyODQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0SDH8O",
+        "transaction_id": "MzQxNzg5NTA3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCIHGPSP",
+        "transaction_id": "MzQwNDU3NDU4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC17VQ1M",
+        "transaction_id": "MzM3NTczNDE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBUUR9HF",
+        "transaction_id": "MzM2NTAxMDQ5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBIVGDLM",
+        "transaction_id": "MzM2MjA5NTg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1ALMOA",
+        "transaction_id": "MzMzNTI3MDg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAITDRY0",
+        "transaction_id": "MzMyMjc1OTg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA2F6ZQN",
+        "transaction_id": "MzI5Nzc0MzYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-14",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA2F6ZXC",
+        "transaction_id": "MzI5Nzc0MzYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9HQIDZT",
+        "transaction_id": "MzI4MzM1MTI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9HQHOPT",
+        "transaction_id": "MzI4MzM0NDc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9F529SX",
+        "transaction_id": "MzI3OTg5Mzk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-10-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9F26TAX",
+        "transaction_id": "MzI3OTU5MjE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-10-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9F26RRM",
+        "transaction_id": "MzI3OTU5MTc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X91W2R8O",
+        "transaction_id": "MzI2MTE2MzM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-03-17",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 12,
+        "barcode": "X90XS11V",
+        "transaction_id": "MzI1OTkyNzAwMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Itarus.com",
+    "headcount": 11,
+    "tech_stack": [],
+    "business_keywords": [
+      "prepress services",
+      "packaging",
+      "software solutions",
+      "tailored services",
+      "process simplification",
+      "diverse processes",
+      "customer processes",
+      "packaging solutions",
+      "prepress",
+      "custom solutions"
+    ],
+    "services": [
+      "tailored prepress services",
+      "software solutions for packaging"
+    ],
+    "customer_segments": [],
+    "business_description": "Itarus Limited provides tailored prepress services and software solutions specifically for the packaging industry. Their mission is to simplify the complexity of their customers' diverse processes.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:29:49.128Z"
+  },
+  "scraped_at": "2026-01-10T22:29:40.145Z",
+  "updated_at": "2026-01-10T22:29:49.128Z",
+  "version": 1
+}

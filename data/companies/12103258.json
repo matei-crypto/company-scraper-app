@@ -1,0 +1,402 @@
+{
+  "company_name": "DIGITAL RFQ LIMITED",
+  "company_number": "12103258",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-07-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "4th Floor 100 Fenchurch Street, London, EC3M 5JD, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "4th Floor 100 Fenchurch Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC3M 5JD"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2023-10-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-09-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-07",
+    "last_made_up_to": "2025-06-23",
+    "next_made_up_to": "2026-06-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KHURSHID, Jamal",
+        "officer_role": "director",
+        "appointed_on": "2020-10-05",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "100 Fenchurch Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3M 5JD",
+          "premises": "4th Floor"
+        }
+      },
+      {
+        "name": "GREENACRE, Michael Stephen",
+        "officer_role": "director",
+        "appointed_on": "2019-07-15",
+        "resigned_on": "2020-10-05",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "100 Fenchurch Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3M 5JD",
+          "premises": "4th Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Match Financial Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-08-04",
+        "address": {
+          "address_line_1": "100 Fenchurch Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3M 5JD",
+          "premises": "4th Floor"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England & Wales",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "16094601"
+        }
+      },
+      {
+        "name": "Match Financial Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-07-05",
+        "ceased_on": "2025-08-04",
+        "address": {
+          "address_line_1": "100 Fenchurch Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3M 5JD",
+          "premises": "4th Floor"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England & Wales",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "11864364"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "121032580001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-03-06",
+        "delivered_on": "2024-03-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Craig Vallis"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-25",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEBVBNYZ",
+        "transaction_id": "MzQ4MjcwOTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-08-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE8V4TIZ",
+        "transaction_id": "MzQ3NzA4Mjk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-08-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE8V4T29",
+        "transaction_id": "MzQ3NzA4Mjg1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5SCWHF",
+        "transaction_id": "MzQ3MjAwOTQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDICT01S",
+        "transaction_id": "MzQ0ODYwNTQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD693J5N",
+        "transaction_id": "MzQyNzAxODA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD5Y4TCA",
+        "transaction_id": "MzQyNjM2NDg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 55,
+        "barcode": "XCZCR5W0",
+        "transaction_id": "MzQxNTYyNjEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-13",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC7N8POA",
+        "transaction_id": "MzM4NjI1NDkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC6R0CNC",
+        "transaction_id": "MzM4NDg3NTI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6NWMZS",
+        "transaction_id": "MzM4NDQ5OTYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-12",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBIQ1HY8",
+        "transaction_id": "MzM2MTgxMDkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-06",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB7P9YNK",
+        "transaction_id": "MzM0NDg0MjQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-05",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XB7MO5KI",
+        "transaction_id": "MzM0NDcyODM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB73QH8I",
+        "transaction_id": "MzM0Mzk4NzEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB08FL7D",
+        "transaction_id": "MzMzMzQyNzY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-10-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAE7BEWX",
+        "transaction_id": "MzMxNTgyNzgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA7W8CKQ",
+        "transaction_id": "MzMwNjUzOTQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA7CXN6P",
+        "transaction_id": "MzMwNTUyMzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA1DKYBD",
+        "transaction_id": "MzI5NjI0NDQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-06",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9F2H42W",
+        "transaction_id": "MzI3OTc0NTIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9F2H2KX",
+        "transaction_id": "MzI3OTc0NDk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X97UO9DV",
+        "transaction_id": "MzI2ODExMzgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-16",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X89SU10Y",
+        "transaction_id": "MzIzOTQ0MjcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-07-15",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 30,
+        "barcode": "X89Q1OFD",
+        "transaction_id": "MzIzOTMxNzYzM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Matchfintech.com",
+    "headcount": 12,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:22:48.027Z",
+  "scraped_at": "2026-01-10T21:22:48.027Z"
+}

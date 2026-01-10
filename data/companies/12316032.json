@@ -1,0 +1,390 @@
+{
+  "company_name": "SEARCHPILOT LIMITED",
+  "company_number": "12316032",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-11-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "4th Floor Silverstream House, 45 Fitzroy Street, London, W1T 6EB, England",
+  "registered_address_structured": {
+    "address_line_1": "4th Floor Silverstream House",
+    "address_line_2": "45 Fitzroy Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1T 6EB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-27",
+    "last_made_up_to": "2025-11-13",
+    "next_made_up_to": "2026-11-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CRITCHLOW, William Charles",
+        "officer_role": "director",
+        "appointed_on": "2019-11-14",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "45 Fitzroy Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1T 6EB",
+          "premises": "4th Floor Silverstream House"
+        }
+      },
+      {
+        "name": "MORRIS, Duncan Richard",
+        "officer_role": "director",
+        "appointed_on": "2019-11-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "45 Fitzroy Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1T 6EB",
+          "premises": "4th Floor Silverstream House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Searchpilot Holdings Liimited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-01-31",
+        "address": {
+          "address_line_1": "Eastcheap",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3M 1JP",
+          "premises": "Second Floor / 51"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "12314023"
+        }
+      },
+      {
+        "name": "Distilled Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-11-14",
+        "ceased_on": "2020-01-31",
+        "address": {
+          "address_line_1": "Eastcheap",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3M 1JP",
+          "premises": "Second Floor / 51"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "07788765"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "123160320001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-04",
+        "delivered_on": "2020-06-08",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley Bank"
+          }
+        ],
+        "satisfied_on": "2020-10-06",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEFLFPXU",
+        "transaction_id": "MzQ4OTM0Mzg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEFANRZC",
+        "transaction_id": "MzQ4ODg1OTYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDGG1TBS",
+        "transaction_id": "MzQ0NDU2MjYxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFRUAQH",
+        "transaction_id": "MzQ0MzAzODg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCGDRUY8",
+        "transaction_id": "MzQwMDMxMTEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCG7ZW36",
+        "transaction_id": "MzM5OTcxODYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBIVN3UG",
+        "transaction_id": "MzM2MjIxNzMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGXQVCJ",
+        "transaction_id": "MzM1ODkyNzAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB4PR24H",
+        "transaction_id": "MzM0MDMyMzcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAHBLOFV",
+        "transaction_id": "MzMyMDIzNzk2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA89QKK0",
+        "transaction_id": "MzMwNzE2NTY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9IEHHAZ",
+        "transaction_id": "MzI4NDE0NjExOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-10-06",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X9F2FD9L",
+        "transaction_id": "MzI3OTczMDE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-28",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9A7NC3E",
+        "transaction_id": "MzI3NDAzNzE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 6,
+        "barcode": "X96QUICH",
+        "transaction_id": "MzI2Njg0MzU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-02-11",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 3,
+        "barcode": "L8YB4KMI",
+        "transaction_id": "MzI1Njg1MzcwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-02-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 4,
+        "barcode": "L8YB4KMQ",
+        "transaction_id": "MzI1Njg1MzcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-02-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 12,
+        "transaction_id": "TDhZQjRLTVlhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-11-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X8I6R368",
+        "transaction_id": "MzI0OTM1MjM3NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Searchpilot.com",
+    "headcount": 15,
+    "tech_stack": [
+      "Google Search Console"
+    ],
+    "business_keywords": [
+      "SEO A/B testing",
+      "SEO strategy",
+      "organic search",
+      "controlled experiments",
+      "SEO testing",
+      "GEO experiments",
+      "LLM traffic",
+      "AI searches",
+      "enterprise SEO",
+      "CRO",
+      "SEO impact",
+      "traffic optimization",
+      "revenue growth",
+      "SEO hypotheses",
+      "statistical analysis"
+    ],
+    "services": [
+      "SEO A/B testing platform",
+      "SEO testing at scale",
+      "controlled SEO and GEO experiments",
+      "SEO test result dashboard",
+      "test program overview and management",
+      "SEO test result detail and analysis",
+      "test readiness analysis",
+      "advanced statistical analysis for SEO tests",
+      "Googlebot crawl analysis",
+      "Search Console analysis for SEO tests",
+      "publish screen insights for enterprise workflows",
+      "infrastructure monitoring for website performance"
+    ],
+    "customer_segments": [
+      "enterprise websites",
+      "SEO teams",
+      "C-suite executives",
+      "e-commerce businesses"
+    ],
+    "business_description": "SearchPilot provides an SEO A/B testing platform that helps businesses optimize their SEO strategy through controlled experiments. The platform enables users to run tests at scale, eliminate guesswork, and drive revenue growth by identifying meaningful website changes. It supports SEO, CRO, and GEO optimization for enterprise websites.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T21:58:35.762Z"
+  },
+  "scraped_at": "2026-01-10T21:58:29.252Z",
+  "updated_at": "2026-01-10T21:58:35.761Z",
+  "version": 1
+}

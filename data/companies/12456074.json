@@ -1,0 +1,292 @@
+{
+  "company_name": "POLYSURANCE LIMITED",
+  "company_number": "12456074",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-02-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "Franklin Building, 124 Goswell Road, London, EC1V 7DP, England",
+  "registered_address_structured": {
+    "address_line_1": "Franklin Building",
+    "address_line_2": "124 Goswell Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 7DP"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-11-30",
+    "next_accounts_period_end_on": "2025-02-28",
+    "next_accounts_period_start_on": "2024-03-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2024-02-29",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-24",
+    "last_made_up_to": "2025-02-10",
+    "next_made_up_to": "2026-02-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AHMED, Anwar",
+        "officer_role": "director",
+        "appointed_on": "2023-10-16",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "124 Goswell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 7DP",
+          "premises": "Franklin Building"
+        }
+      },
+      {
+        "name": "TOPE, Cameron James",
+        "officer_role": "director",
+        "appointed_on": "2020-02-11",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "124 Goswell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 7DP",
+          "premises": "Franklin Building"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Cameron James Tope",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-02-11",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "124 Goswell Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 7DP",
+          "premises": "Franklin Building"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2025-04-07",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDZZYXC9",
+        "transaction_id": "MzQ2MTY2NTQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDX3MBUX",
+        "transaction_id": "MzQ1NjExNzg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-02-04",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ1MzQ5NDAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDVLWXQJ",
+        "transaction_id": "MzQ1MzQ5MzkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-01-28",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ1MjAwMTkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD0PCX0P",
+        "transaction_id": "MzQxNzUzMjg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCHD16HM",
+        "transaction_id": "MzQwMjE3NzQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCEYF5D5",
+        "transaction_id": "MzM5Nzk3NDU3NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-05-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC2VBI95",
+        "transaction_id": "MzM3ODY2NzYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 8,
+        "barcode": "AC1VY057",
+        "transaction_id": "MzM3NzE0NDk1M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-04-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "WUMxUjBHMllhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-04-27",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 48,
+        "barcode": "YC1R0G2Q",
+        "transaction_id": "MzM3NjkwODkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBXX62PD",
+        "transaction_id": "MzM3MDMwMTQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-01-19",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 7,
+        "barcode": "YBVGK6OJ",
+        "transaction_id": "MzM2NjMyNjU4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBHTSUGI",
+        "transaction_id": "MzM2MDIxMDk0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAYG5BU9",
+        "transaction_id": "MzMzMDg0MjYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-27",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAFZHQLM",
+        "transaction_id": "MzMxODM0NjIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9Y0GEFV",
+        "transaction_id": "MzI5MTA3MzMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-02-11",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X8YI7GY1",
+        "transaction_id": "MzI1Njg3NzgxM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Polysurance.com",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:20:30.784Z",
+  "scraped_at": "2026-01-10T22:20:30.784Z"
+}

@@ -1,0 +1,491 @@
+{
+  "company_name": "BIZTORY LTD",
+  "company_number": "11266637",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-03-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "8 Devonshire Square, Office Number 06-119, London, EC2M 4YJ, England",
+  "registered_address_structured": {
+    "address_line_1": "8 Devonshire Square",
+    "address_line_2": "Office Number 06-119",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2M 4YJ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "THEJURISTS LONDON LTD",
+      "ceased_on": "2018-11-29",
+      "effective_from": "2018-03-21"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-18",
+    "last_made_up_to": "2025-09-04",
+    "next_made_up_to": "2026-09-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DE WIT, Josephus",
+        "officer_role": "director",
+        "appointed_on": "2018-03-21",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1957,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "Devonshire Square",
+          "address_line_2": "Office Number 06-119",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 4YJ",
+          "premises": "8"
+        }
+      },
+      {
+        "name": "DEROOST, Dirk",
+        "officer_role": "director",
+        "appointed_on": "2018-03-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1960,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "Devonshire Square",
+          "address_line_2": "Office Number 06-119",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 4YJ",
+          "premises": "8"
+        }
+      },
+      {
+        "name": "SMOLDERS, Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2018-10-30",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1979,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "3 More London Riverside",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 2RE",
+          "premises": "Regus"
+        }
+      },
+      {
+        "name": "DOBBELAERE-WELVAERT, Matthias",
+        "officer_role": "director",
+        "appointed_on": "2018-03-21",
+        "resigned_on": "2018-10-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1987,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "1 Primrose Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2EX",
+          "premises": "Wework Spitalfields"
+        }
+      },
+      {
+        "name": "MILLER, Matthew Mark",
+        "officer_role": "director",
+        "appointed_on": "2018-12-20",
+        "resigned_on": "2020-06-16",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "American",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "3 More London Riverside",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 2RE",
+          "premises": "Regus"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Biztory Nv",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-01-21",
+        "address": {
+          "address_line_1": "Kontich",
+          "country": "Belgium",
+          "locality": "Veldkant 31",
+          "premises": "B-2250"
+        },
+        "identification": {
+          "legal_form": "Nv",
+          "legal_authority": "Belgian Code Of Companies 1999",
+          "country_registered": "Belgium",
+          "place_registered": "Banque-Carrefour Des Entreprises",
+          "registration_number": "0568.854.619"
+        }
+      },
+      {
+        "name": "Dejuristen Bvba",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-03-21",
+        "ceased_on": "2019-01-21",
+        "address": {
+          "address_line_1": "Ghent",
+          "country": "Belgium",
+          "locality": "Belgium",
+          "postal_code": "9000",
+          "premises": "Heernislaan 19"
+        },
+        "identification": {
+          "legal_form": "Belgian Equivalent Of A Private Limited Company",
+          "legal_authority": "Belgian Law"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-18",
+        "description": "accounts-amended-with-accounts-type-small",
+        "type": "AAMD",
+        "pages": 11,
+        "barcode": "AEB71Y9D",
+        "transaction_id": "MzQ4MTY4ODg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEAD6J3U",
+        "transaction_id": "MzQ3OTgzMDA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "AE7R0W94",
+        "transaction_id": "MzQ3NTY0NDI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-05-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE307HAB",
+        "transaction_id": "MzQ2NzM3ODk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE1F1365",
+        "transaction_id": "MzQ2NDE0NzQ1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZMFRYY",
+        "transaction_id": "MzQ2MTE3NjEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-06",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDFBPM63",
+        "transaction_id": "MzQ0MjIyNTY3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCZ9XSDF",
+        "transaction_id": "MzQxNTQ0MDUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCD08S8X",
+        "transaction_id": "MzM5NDc3NDU1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-23",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XC5RKTD7",
+        "transaction_id": "MzM4MzExMjEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-06-17",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM4MzE1MDU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC5RNZOZ",
+        "transaction_id": "MzM4MzE1MDUyOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-06-06",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM4MTE1NTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBDNM0XT",
+        "transaction_id": "MzM1Mzc1OTc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB17UZQW",
+        "transaction_id": "MzMzNTE0NTA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAE4DVYH",
+        "transaction_id": "MzMxNTY0MjQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA3UO9SR",
+        "transaction_id": "MzMwMDAzMjk1MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-05-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XA3UNRBM",
+        "transaction_id": "MzMwMDAyODIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9G3RYLL",
+        "transaction_id": "MzI4MTIxMjA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-15",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X99BX2WX",
+        "transaction_id": "MzI3MzE0ODg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X926Y7EA",
+        "transaction_id": "MzI2MTY4ODY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8FRCHI8",
+        "transaction_id": "MzI0NjU0Mzc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-09-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8DRBVEY",
+        "transaction_id": "MzI0NDAxNzAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-15",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X89Q4168",
+        "transaction_id": "MzIzOTM0MDg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X82LIG4X",
+        "transaction_id": "MzIzMTE1NTExNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "revenue": 5457595,
+    "ebitda": -451005,
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Biztory.com",
+    "headcount": 25,
+    "tech_stack": [
+      "Fivetran",
+      "Snowflake",
+      "Tableau Server",
+      "Tableau Cloud",
+      "TabMove",
+      "ThoughtSpot",
+      "Wiiisdom"
+    ],
+    "business_keywords": [
+      "data strategy",
+      "AI activation",
+      "data engineering",
+      "BI & analytics",
+      "data governance",
+      "data monetisation",
+      "data culture",
+      "data transformation",
+      "data warehousing",
+      "dashboarding",
+      "reporting",
+      "conversational analytics",
+      "embedded analytics",
+      "generative AI",
+      "agentic analytics",
+      "AI agents",
+      "data stack modernisation",
+      "data stack implementation",
+      "data stack optimisation"
+    ],
+    "services": [
+      "Data Strategy",
+      "Business Alignment",
+      "Data Governance",
+      "Data Culture & Training",
+      "Data Monetisation",
+      "Data Engineering",
+      "Data Ingestion",
+      "Data Warehousing",
+      "Data Transformation",
+      "BI & Analytics",
+      "Dashboarding & Reporting",
+      "Conversational Analytics",
+      "Embedded Analytics",
+      "Data & AI Activation",
+      "Generative AI",
+      "Agentic Analytics",
+      "AI Agents",
+      "Data Stack Modernisation",
+      "Data Stack Implementation",
+      "Data Stack Optimisation"
+    ],
+    "customer_segments": [
+      "Financial services",
+      "Manufacturing",
+      "Retail & consumer services",
+      "Healthcare & life sciences"
+    ],
+    "business_description": "Biztory helps businesses turn data into actionable insights by designing modern data and AI solutions. They provide services in data strategy, data engineering, BI & analytics, and AI activation to empower teams with clarity, confidence, and measurable impact. Their solutions focus on unifying data, eliminating silos, and enabling faster decision-making.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:12:15.102Z"
+  },
+  "scraped_at": "2026-01-10T19:12:07.729Z",
+  "updated_at": "2026-01-10T19:12:15.102Z",
+  "version": 1
+}

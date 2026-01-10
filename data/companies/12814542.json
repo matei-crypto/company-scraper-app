@@ -1,0 +1,466 @@
+{
+  "company_name": "BENDI SOFTWARE LTD",
+  "company_number": "12814542",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-08-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "Flat 60. Woodbourne Augustus Road, Birmingham, B15 3PJ, England",
+  "registered_address_structured": {
+    "address_line_1": "Flat 60. Woodbourne Augustus Road",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B15 3PJ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BENDI.WTF LTD",
+      "ceased_on": "2023-03-01",
+      "effective_from": "2020-08-14"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-23",
+    "last_made_up_to": "2025-08-09",
+    "next_made_up_to": "2026-08-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BACS, Olivier",
+        "officer_role": "director",
+        "appointed_on": "2022-07-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1989,
+        "nationality": "Belgian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "9 Temple Court",
+          "address_line_2": "Rectory Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 3NU",
+          "premises": "9 Temple Court"
+        }
+      },
+      {
+        "name": "NORSWORTHY, Benjamin Thomas",
+        "officer_role": "director",
+        "appointed_on": "2021-01-29",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Augustus Road",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B15 3PJ",
+          "premises": "Flat 60. Woodbourne"
+        }
+      },
+      {
+        "name": "SOOR, Mandeep Kaur",
+        "officer_role": "director",
+        "appointed_on": "2020-08-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Augustus Road",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B15 3PJ",
+          "premises": "Flat 60. Woodbourne"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Benjamin Thomas Norsworthy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-29",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Augustus Road",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B15 3PJ",
+          "premises": "Flat 60. Woodbourne"
+        }
+      },
+      {
+        "name": "Mandeep Kaur Soor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-08-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Augustus Road",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B15 3PJ",
+          "premises": "Flat 60. Woodbourne"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "128145420003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-18",
+        "delivered_on": "2025-07-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Sprk Capital Limited"
+          }
+        ],
+        "satisfied_on": "2025-08-27",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "128145420002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-09-15",
+        "delivered_on": "2023-09-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All monies and floating charges.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Rocking Horse Solutions UK Limited"
+          }
+        ],
+        "satisfied_on": "2024-01-18",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "128145420001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-03-23",
+        "delivered_on": "2023-03-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All monies and floating charges.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Rocking Horse Solutions UK Limited"
+          }
+        ],
+        "satisfied_on": "2023-11-24",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-08",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XETAX4HK",
+        "transaction_id": "MzQ5ODI3NzM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAYND8P",
+        "transaction_id": "MzQ4MDgxMzYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-08-27",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE9TXMYI",
+        "transaction_id": "MzQ3ODgwNDEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XE7CZ4OA",
+        "transaction_id": "MzQ3NDY4NDkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "XE72C8EG",
+        "transaction_id": "MzQ3NDMyNDU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XDWKYSF6",
+        "transaction_id": "MzQ1NTIwNzQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 8,
+        "barcode": "ADAYZ376",
+        "transaction_id": "MzQzNDkxMTg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XDAVY9V7",
+        "transaction_id": "MzQzNDMzNDY2OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-08-25",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 38,
+        "barcode": "YDA2GESX",
+        "transaction_id": "MzQzMzEyOTk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-08-25",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YDA2FZS0",
+        "transaction_id": "WURBMkZaUzBhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-06-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUQ1S1U3TTlhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-06-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUQ1RkNQMFFhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD5KUACG",
+        "transaction_id": "MzQyNTg5NDI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD5FCSQP",
+        "transaction_id": "MzQyNTU4NDcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-29",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XD3MWCTT",
+        "transaction_id": "MzQyMjgzODg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-29",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XD3MWO43",
+        "transaction_id": "MzQyMjg0MTY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-29",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 4,
+        "barcode": "XD3MW0V5",
+        "transaction_id": "MzQyMjgzNTk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD3MW5OP",
+        "transaction_id": "MzQyMjgzNzE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-01-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCUZVEA8",
+        "transaction_id": "MzQwODA1NzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-11-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCGZ530A",
+        "transaction_id": "MzQwMTQxMjQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-09-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 26,
+        "barcode": "XCCBOSO1",
+        "transaction_id": "MzM5MzQ4Mzc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAJKNI2",
+        "transaction_id": "MzM5MDU4NjE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCA3P9J6",
+        "transaction_id": "MzM5MDAwMjg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-03-25",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 26,
+        "barcode": "XC00X2QJ",
+        "transaction_id": "MzM3NDAyMzYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-03-01",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XBY7XLC3",
+        "transaction_id": "MzM3MTIxMzE2N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:01:34.688Z",
+  "scraped_at": "2026-01-10T23:01:34.688Z"
+}

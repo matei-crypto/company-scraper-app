@@ -1,0 +1,511 @@
+{
+  "company_name": "MINTAGO LIMITED",
+  "company_number": "12000248",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-05-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "Finchley Park, Emmet Hill Lane, Laddingford, Kent, ME18 6BG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Finchley Park",
+    "address_line_2": "Emmet Hill Lane",
+    "country": "United Kingdom",
+    "locality": "Laddingford",
+    "postal_code": "ME18 6BG",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-01",
+    "last_made_up_to": "2025-02-15",
+    "next_made_up_to": "2026-02-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAO, Chieu",
+        "officer_role": "director",
+        "appointed_on": "2019-05-16",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Emmet Hill Lane",
+          "country": "United Kingdom",
+          "locality": "Laddingford",
+          "postal_code": "ME18 6BG",
+          "premises": "Finchley Park",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "CONTI, Daniel Timothy",
+        "officer_role": "director",
+        "appointed_on": "2022-12-15",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Emmet Hill Lane",
+          "country": "United Kingdom",
+          "locality": "Laddingford",
+          "postal_code": "ME18 6BG",
+          "premises": "Finchley Park",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "KING, Malcolm Anthony Wallace, Dr",
+        "officer_role": "director",
+        "appointed_on": "2025-03-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "British,South African",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "18 Smith Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1P 3HZ",
+          "premises": "C/O Guinness Ventures Limited"
+        }
+      },
+      {
+        "name": "CLIFFORD, Shane",
+        "officer_role": "director",
+        "appointed_on": "2023-07-12",
+        "resigned_on": "2024-07-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1976,
+        "nationality": "Irish",
+        "country_of_residence": "Portugal",
+        "address": {
+          "address_line_1": "1 Vincent Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1P 2PN",
+          "premises": "Wellers Accountants"
+        }
+      },
+      {
+        "name": "ELLIOTT, Giles",
+        "officer_role": "director",
+        "appointed_on": "2020-10-17",
+        "resigned_on": "2022-11-17",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Emmet Hill Lane",
+          "country": "United Kingdom",
+          "locality": "Laddingford",
+          "postal_code": "ME18 6BG",
+          "premises": "Finchley Park",
+          "region": "Kent"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Chieu Cao",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-05-16",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Emmet Hill Lane",
+          "country": "United Kingdom",
+          "locality": "Laddingford",
+          "postal_code": "ME18 6BG",
+          "premises": "Finchley Park",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "120002480002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-03-08",
+        "delivered_on": "2024-03-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Innovateuk Loans Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "120002480001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-01-05",
+        "delivered_on": "2024-01-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Innovate UK Loans Limited"
+          }
+        ],
+        "satisfied_on": "2024-03-12",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2026-01-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XETGDU17",
+        "transaction_id": "MzQ5ODU0OTM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-07-29",
+        "description": "legacy",
+        "type": "RP04SH01",
+        "pages": 5,
+        "barcode": "XE7L7T6D",
+        "transaction_id": "MzQ3NTIzNzMwNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-07-25",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "XE7IILIO",
+        "transaction_id": "MzQ3NTE0OTU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-07-25",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YE7FMH8Y",
+        "transaction_id": "MzQ3NDg4MTU0NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-07-24",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YE7FMI0A",
+        "transaction_id": "MzQ3NDg4MTgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-05-01",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 65,
+        "barcode": "YE17CYO0",
+        "transaction_id": "MzQ2NDAyMzg3N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-05-01",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YE17CXFU",
+        "transaction_id": "WUUxN0NYRlVhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-25",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 8,
+        "barcode": "XE17CVQJ",
+        "transaction_id": "MzQ2NDAyMzA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-25",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE17CSWP",
+        "transaction_id": "MzQ2NDAyMjQ2OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-04-25",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YE0LTFKY",
+        "transaction_id": "WUUwTFRGS1lhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-25",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YE0LTEWQ",
+        "transaction_id": "MzQ2Mjk3Mjk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-25",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YE0LTEQJ",
+        "transaction_id": "MzQ2Mjk3MjkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XE0LTFTT",
+        "transaction_id": "MzQ2Mjk3Mjg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDX154AJ",
+        "transaction_id": "MzQ1NjEyMzQ5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDGLEDF6",
+        "transaction_id": "MzQ0NDc0NzIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-25",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD825WRU",
+        "transaction_id": "MzQzMDEyNjE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 19,
+        "barcode": "XCZ4JDS8",
+        "transaction_id": "MzQxNDk1Mjc3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-12",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCYQYSJ7",
+        "transaction_id": "MzQxNDE5MTc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCXXCZXE",
+        "transaction_id": "MzQxMzAxNTg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 15,
+        "barcode": "XCWY04AI",
+        "transaction_id": "MzQxMTMwNjUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 9,
+        "barcode": "XCUBL9MB",
+        "transaction_id": "MzQwNjg1Nzk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-01-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 19,
+        "barcode": "XCUBGL3K",
+        "transaction_id": "MzQwNjgxMzMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 10,
+        "barcode": "XC7N8957",
+        "transaction_id": "MzM4NjI1MTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-07-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC7N7X9F",
+        "transaction_id": "MzM4NjI0ODY4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC7N7W1T",
+        "transaction_id": "MzM4NjI0ODQ3NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 62,
+    "recent_filings_count": 14
+  },
+  "financials": {
+    "employees": 27
+  },
+  "enrichment": {
+    "website": "https://Mintago.com",
+    "headcount": 27,
+    "tech_stack": [],
+    "business_keywords": [
+      "employee financial benefits",
+      "financial wellbeing",
+      "salary sacrifice",
+      "pensions",
+      "retail savings",
+      "financial education",
+      "staff benefits",
+      "health and wellbeing",
+      "EAP",
+      "Virtual GP",
+      "financial advice",
+      "pension dashboard",
+      "pension search",
+      "employee assistance programme",
+      "ISO 27001"
+    ],
+    "services": [
+      "Salary sacrifice implementation",
+      "Comprehensive staff benefits",
+      "Employee Assistance Programme (EAP)",
+      "Virtual GP",
+      "Pension Dashboard",
+      "Pension Search (finding lost pension pots)",
+      "Impartial financial advice",
+      "Pension provider review",
+      "Free financial advice for employees",
+      "Expert masterclasses (financial topics)",
+      "Learning library (financial skills)",
+      "Employer guidance for HMRC reporting",
+      "Retail discounts (online and high street)",
+      "Entertainment discounts (cinema, concerts, gigs)",
+      "Health and fitness discounts (gym memberships, healthy eating)",
+      "Travel discounts",
+      "Restaurant discounts",
+      "Days out discounts",
+      "Life insurance",
+      "Health cash plans",
+      "Savings calculator for salary sacrifice",
+      "Childcare salary sacrifice",
+      "Pension salary sacrifice",
+      "Electric vehicle salary sacrifice",
+      "Cycling salary sacrifice",
+      "Technology salary sacrifice",
+      "EV charging salary sacrifice"
+    ],
+    "customer_segments": [
+      "businesses",
+      "HR managers",
+      "finance managers",
+      "employers",
+      "employees"
+    ],
+    "business_description": "Mintago Limited provides a comprehensive platform for businesses to enhance their team's financial wellbeing through a wide range of employee benefits, including salary sacrifice schemes, pensions, financial education, and health and wellbeing support. The platform helps organizations reduce National Insurance contributions, improve employee financial outcomes, and streamline benefits management with an all-in-one solution.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T21:09:02.938Z"
+  },
+  "scraped_at": "2026-01-10T21:08:54.918Z",
+  "updated_at": "2026-01-10T21:09:02.938Z",
+  "version": 1
+}

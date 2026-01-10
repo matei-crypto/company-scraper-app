@@ -1,0 +1,275 @@
+{
+  "company_name": "MAB CONSULTANT LTD",
+  "company_number": "12568678",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-04-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "40 Reginald Road, London, E7 9HS, England",
+  "registered_address_structured": {
+    "address_line_1": "40 Reginald Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E7 9HS"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-31",
+    "last_made_up_to": "2025-08-17",
+    "next_made_up_to": "2026-08-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "IRFAN, Mohammad",
+        "officer_role": "director",
+        "appointed_on": "2020-04-22",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1984,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Royal Quay Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E16 2BW",
+          "premises": "106"
+        }
+      },
+      {
+        "name": "PREDA, Vicentiu-Romeo",
+        "officer_role": "director",
+        "appointed_on": "2021-02-06",
+        "resigned_on": "2021-02-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1971,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Barge Close",
+          "country": "England",
+          "locality": "Spalding",
+          "postal_code": "PE11 2YT",
+          "premises": "22"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mohammad Irfan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2020-04-22",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1984,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Reginald Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E7 9HS",
+          "premises": "40"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAYN9B5",
+        "transaction_id": "MzQ4MDgxMjY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE9R93DT",
+        "transaction_id": "MzQ3ODYzOTgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-08-26",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE9R939M",
+        "transaction_id": "MzQ3ODYzOTgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDVE47HN",
+        "transaction_id": "MzQ1MzM0NTk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDB1CGKO",
+        "transaction_id": "MzQzNDY0NTgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCVIXTMI",
+        "transaction_id": "MzQwOTA2NDIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCA3O82Z",
+        "transaction_id": "MzM4OTk5NDI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-14",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC1G932O",
+        "transaction_id": "MzM3NjI3ODM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWY9DG1",
+        "transaction_id": "MzM2ODYyODI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBIVJTPF",
+        "transaction_id": "MzM2MjEyNTMwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB05VMJM",
+        "transaction_id": "MzMzMzM5ODY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAJ1IXS8",
+        "transaction_id": "MzMyMzI1NjMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XADTBFSJ",
+        "transaction_id": "MzMxNTAwNjU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4Z4XG2",
+        "transaction_id": "MzMwMTg2NjMzN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-09-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9E3JSKB",
+        "transaction_id": "MzI3ODMzMzk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-09-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9E3JP29",
+        "transaction_id": "MzI3ODMzMjkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-04-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X93I2D4Z",
+        "transaction_id": "MzI2Mjk1MDkxOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 17,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:37:04.737Z",
+  "scraped_at": "2026-01-10T22:37:04.737Z"
+}

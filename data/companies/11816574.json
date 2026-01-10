@@ -1,0 +1,453 @@
+{
+  "company_name": "TRUST APP LTD",
+  "company_number": "11816574",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-02-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Unicorn Business Park Whitby Road, Brislington, Bristol, BS4 4EX, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Unicorn Business Park Whitby Road",
+    "address_line_2": "Brislington",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS4 4EX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TYTONICAL LTD",
+      "ceased_on": "2023-03-06",
+      "effective_from": "2019-02-11"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-09-30",
+    "next_accounts_period_end_on": "2024-12-30",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-22",
+    "last_made_up_to": "2025-07-08",
+    "next_made_up_to": "2026-07-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COOK, Chris",
+        "officer_role": "director",
+        "appointed_on": "2019-12-23",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitby Road",
+          "address_line_2": "Brislington",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS4 4EX",
+          "premises": "4 Unicorn Business Park"
+        }
+      },
+      {
+        "name": "COOK, Matthew Christopher",
+        "officer_role": "director",
+        "appointed_on": "2019-12-23",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitby Road",
+          "address_line_2": "Brislington",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS4 4EX",
+          "premises": "4 Unicorn Business Park"
+        }
+      },
+      {
+        "name": "SIDWELL, Grant",
+        "officer_role": "director",
+        "appointed_on": "2019-02-11",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitby Road",
+          "address_line_2": "Brislington",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS4 4EX",
+          "premises": "4 Unicorn Business Park"
+        }
+      },
+      {
+        "name": "SIDWELL, Eleanor",
+        "officer_role": "director",
+        "appointed_on": "2019-02-11",
+        "resigned_on": "2019-12-23",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Chiltern Drive",
+          "country": "United Kingdom",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8LP",
+          "premises": "43"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Matthew Christopher Cook",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-12-23",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitby Road",
+          "address_line_2": "Brislington",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS4 4EX",
+          "premises": "4 Unicorn Business Park"
+        }
+      },
+      {
+        "name": "Mr Chris Cook",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-12-23",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitby Road",
+          "address_line_2": "Brislington",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS4 4EX",
+          "premises": "4 Unicorn Business Park"
+        }
+      },
+      {
+        "name": "Mrs Eleanor Sidwell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-02-11",
+        "ceased_on": "2020-09-10",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Chiltern Drive",
+          "country": "United Kingdom",
+          "locality": "Surbiton",
+          "postal_code": "KT5 8LP",
+          "premises": "43"
+        }
+      },
+      {
+        "name": "Mr Grant Sidwell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-02-11",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitby Road",
+          "address_line_2": "Brislington",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS4 4EX",
+          "premises": "4 Unicorn Business Park"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7A8T89",
+        "transaction_id": "MzQ3NDUxMzcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE2XFQP8",
+        "transaction_id": "MzQ2NzE1NTc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDCB5762",
+        "transaction_id": "MzQzNzAyOTY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2QQ3H6",
+        "transaction_id": "MzQyMTE0NjQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCFHINGB",
+        "transaction_id": "MzM5ODg0NTEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCD315QW",
+        "transaction_id": "MzM5NDkwMjY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC79OMY1",
+        "transaction_id": "MzM4NTY1MzA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XC38HSOB",
+        "transaction_id": "MzM3OTE0ODk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-03-06",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 2,
+        "barcode": "ABYFT2TV",
+        "transaction_id": "MzM3MTU1NjcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-03-06",
+        "description": "change-of-name-request-comments",
+        "type": "NM06",
+        "pages": 2,
+        "barcode": "ABYFV60O",
+        "transaction_id": "MzM3MTU1NjI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-03-06",
+        "description": "change-of-name-notice",
+        "type": "CONNOT",
+        "pages": 2,
+        "barcode": "ABYFV60W",
+        "transaction_id": "MzM3MTU1NjA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBDNCI89",
+        "transaction_id": "MzM1MzY3ODM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB2X9P4B",
+        "transaction_id": "MzMzNzY3NzA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-04-26",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XB2RV8A3",
+        "transaction_id": "MzMzNzM2NDAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-04-26",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XB2RV4XK",
+        "transaction_id": "MzMzNzM2MzA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAE4JQHL",
+        "transaction_id": "MzMxNTY4NzQ5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA3HE57T",
+        "transaction_id": "MzI5OTYxNjI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-30",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA3H9H6Z",
+        "transaction_id": "MzI5OTU3OTE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-04-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XA3BDECQ",
+        "transaction_id": "MzI5OTA1MzgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-03-16",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 49,
+        "barcode": "Y9ZVGRAZ",
+        "transaction_id": "MzI5MzcyMDQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-03-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "transaction_id": "WTlaVkdXMkphZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-03-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "X9ZVGKXE",
+        "transaction_id": "MzI5MzcxODcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-10-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A9EZWSD7",
+        "transaction_id": "MzI4MDA4NjMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-09-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A9DNN7GZ",
+        "transaction_id": "MzI3ODMxMjk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-09-22",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 52,
+        "barcode": "A9DNN7HF",
+        "transaction_id": "MzI3ODMxMjk4NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 47,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Tytonical.com",
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T20:40:40.758Z",
+  "scraped_at": "2026-01-10T20:40:40.758Z"
+}

@@ -1,0 +1,321 @@
+{
+  "company_name": "DECENT DIGITAL LTD",
+  "company_number": "12187164",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-09-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "143 Beaufort Road, Bournemouth, BH6 5AX, England",
+  "registered_address_structured": {
+    "address_line_1": "143 Beaufort Road",
+    "country": "England",
+    "locality": "Bournemouth",
+    "postal_code": "BH6 5AX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-18",
+    "last_made_up_to": "2025-08-04",
+    "next_made_up_to": "2026-08-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FARMER, Daniel Peter",
+        "officer_role": "director",
+        "appointed_on": "2019-09-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beaufort Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH6 5AX",
+          "premises": "143"
+        }
+      },
+      {
+        "name": "JONES, Brandon Ian",
+        "officer_role": "director",
+        "appointed_on": "2020-03-03",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Wimborne",
+          "postal_code": "BH21 2HX",
+          "premises": "53 Cutlers Place",
+          "region": "Dorset"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Brandon Ian Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-03-03",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Wimborne",
+          "postal_code": "BH21 2HX",
+          "premises": "53 Cutlers Place",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "Mr Daniel Peter Farmer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-09-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beaufort Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH6 5AX",
+          "premises": "143"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE89BU4O",
+        "transaction_id": "MzQ3NjA1Nzg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDW7L702",
+        "transaction_id": "MzQ1NDczNDQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-12-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDHT6TO8",
+        "transaction_id": "MzQ0NzExODUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDHT6TAY",
+        "transaction_id": "MzQ0NzExODQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-12-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDHT6STK",
+        "transaction_id": "MzQ0NzExODMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-12-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDHT6GFD",
+        "transaction_id": "MzQ0NzExNTQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD8VD6MP",
+        "transaction_id": "MzQzMTExNjUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIPG30I",
+        "transaction_id": "MzQwNDc5MDAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC9FCZKO",
+        "transaction_id": "MzM4ODc3ODAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC0PDTV7",
+        "transaction_id": "MzM3NTA1MjkxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-05",
+        "description": "change-to-a-person-with-significant-control-without-name-date",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHZIHKP",
+        "transaction_id": "MzM2MDc2OTEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBHZIH6Z",
+        "transaction_id": "MzM2MDc2OTAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB9PNNU9",
+        "transaction_id": "MzM0Nzc5NzU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB4V2F9D",
+        "transaction_id": "MzM0MDYxNjAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAA6SPCX",
+        "transaction_id": "MzMwOTY4NDczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9XEVO3K",
+        "transaction_id": "MzI5MDE2NDc2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9B8F1QI",
+        "transaction_id": "MzI3NTAzMTYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9608X3T",
+        "transaction_id": "MzI2NjAxMzAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9608PV8",
+        "transaction_id": "MzI2NjAxMTQ2M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-09-03",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X8D64PWO",
+        "transaction_id": "MzI0MzIyMTUwMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:33:17.361Z",
+  "scraped_at": "2026-01-10T21:33:17.361Z"
+}

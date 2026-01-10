@@ -1,0 +1,390 @@
+{
+  "company_name": "HUNDO LTD",
+  "company_number": "12401171",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-01-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "Camburgh House, 27 New Dover Road, Canterbury, Kent, CT1 3DN, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Camburgh House",
+    "address_line_2": "27 New Dover Road",
+    "country": "United Kingdom",
+    "locality": "Canterbury",
+    "postal_code": "CT1 3DN",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "62090",
+    "78109",
+    "78300",
+    "85320"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-09-30",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-05",
+    "last_made_up_to": "2025-03-22",
+    "next_made_up_to": "2026-03-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COLLINS, Piers Edward Hicks",
+        "officer_role": "director",
+        "appointed_on": "2020-01-13",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "27 New Dover Road",
+          "country": "United Kingdom",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "Camburgh House",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "O'CALLAGHAN, Esther Maria",
+        "officer_role": "director",
+        "appointed_on": "2021-09-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "27 New Dover Road",
+          "country": "United Kingdom",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "Camburgh House",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "WHITFIELD, Michael Alexander Gardiner",
+        "officer_role": "director",
+        "appointed_on": "2021-01-11",
+        "resigned_on": "2024-10-11",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Gerard Road",
+          "address_line_2": "Barnes",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW13 9RQ",
+          "premises": "1"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Esther O'Callaghan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-03-02",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "27 New Dover Road",
+          "country": "United Kingdom",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "Camburgh House",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "Mr Piers Edward Hicks Collins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-01-13",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "27 New Dover Road",
+          "country": "United Kingdom",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "Camburgh House",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZ02P42",
+        "transaction_id": "MzQ1OTg0MDAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-31",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDEVFZGO",
+        "transaction_id": "MzQ0MTU3Mjk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD3HDNZF",
+        "transaction_id": "MzQyMjQwMzc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XD0ESLEH",
+        "transaction_id": "MzQxNzI1MzQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-14",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCYWHFGJ",
+        "transaction_id": "MzQxNDU4NjA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-15",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCWY3FX7",
+        "transaction_id": "MzQxMTMzNDE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCV2J788",
+        "transaction_id": "MzQwODIwMjg3MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCV2J72X",
+        "transaction_id": "MzQwODIwMjg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XCV2J780",
+        "transaction_id": "MzQwODIwMjgzOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-02",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCTVKI5F",
+        "transaction_id": "MzQwNjI0ODM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-11",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCI6DGEX",
+        "transaction_id": "MzQwMzQzOTExNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCI3LD00",
+        "transaction_id": "MzQwMzMyOTk3NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-03",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC0P852Y",
+        "transaction_id": "MzM3NTAwMzU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XBYIYMZU",
+        "transaction_id": "MzM3MTQ0ODI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-02-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBXZV8U2",
+        "transaction_id": "MzM3MDQ2MDUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-02-23",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 4,
+        "barcode": "XBXX5PZE",
+        "transaction_id": "MzM3MDI5ODY2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBXJQWSZ",
+        "transaction_id": "MzM2OTY5MzczMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUJFWkw3MjNhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-10-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XBEZOFIQ",
+        "transaction_id": "MzM1NTgwMjQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUJEWUVYSUhhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBCLOPMG",
+        "transaction_id": "MzM1MTk5MDUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XAW2DLL4",
+        "transaction_id": "MzMyNzMwNjE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-07",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAITA4YW",
+        "transaction_id": "MzMyMjcxMTA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-12-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 54,
+        "barcode": "YAIADAYJ",
+        "transaction_id": "MzMyMTcwNTIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-12-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUFJQTlVSE5hZGlxemtjeA"
+      }
+    ],
+    "total_count": 49,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "headcount": 11,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:12:37.977Z",
+  "scraped_at": "2026-01-10T22:12:37.977Z"
+}

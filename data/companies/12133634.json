@@ -1,0 +1,485 @@
+{
+  "company_name": "SPAD GROUP LIMITED",
+  "company_number": "12133634",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-08-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Shard, London Bridge Street, London, SE1 9SG, England",
+  "registered_address_structured": {
+    "address_line_1": "The Shard",
+    "address_line_2": "London Bridge Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 9SG"
+  },
+  "sic_codes": [
+    "62090",
+    "64110",
+    "73110",
+    "85600"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SEC SOURCE ENTERPRISE LTD",
+      "ceased_on": "2023-06-26",
+      "effective_from": "2019-08-01"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-10-01",
+    "next_accounts_period_end_on": "2025-01-01",
+    "next_accounts_period_start_on": "2024-01-02",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2024-01-01",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 1,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2024-03-23",
+    "last_made_up_to": "2023-03-09",
+    "next_made_up_to": "2024-03-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SOPHAT, Chann, Dr",
+        "officer_role": "director",
+        "appointed_on": "2019-08-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1992,
+        "nationality": "Cambodian",
+        "country_of_residence": "Cambodia",
+        "address": {
+          "address_line_1": "London Bridge Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 9SG",
+          "premises": "The Shard"
+        }
+      },
+      {
+        "name": "THE ROYAL OF SEC SOURCE CORPORATION",
+        "officer_role": "corporate-director",
+        "appointed_on": "2020-03-09",
+        "resigned_on": "2023-03-01",
+        "address": {
+          "address_line_1": "285 Fulton Street",
+          "country": "United States",
+          "locality": "New York",
+          "premises": "One World Trade Center",
+          "region": "Ny"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SOPHA, Chann, Dr",
+        "officer_role": "secretary",
+        "appointed_on": "2019-08-01",
+        "resigned_on": "2021-03-09",
+        "address": {
+          "address_line_1": "Chiswick Park",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W4 5YG",
+          "premises": "Venture X Chiswick"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Spadx Assets & Finance Llc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "ownership-of-shares-25-to-50-percent-as-trust",
+          "ownership-of-shares-25-to-50-percent-as-firm",
+          "voting-rights-25-to-50-percent",
+          "voting-rights-25-to-50-percent-as-trust",
+          "voting-rights-25-to-50-percent-as-firm"
+        ],
+        "notified_on": "2021-03-09",
+        "ceased_on": "2022-01-01",
+        "address": {
+          "address_line_1": "London Bridge Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 9SG",
+          "premises": "The Shard"
+        },
+        "identification": {
+          "legal_form": "Companies Act 2006",
+          "legal_authority": "Cardif",
+          "country_registered": "England & Wales",
+          "place_registered": "Companies House",
+          "registration_number": "13496972"
+        }
+      },
+      {
+        "name": "Sec Source Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "ownership-of-shares-25-to-50-percent-as-trust",
+          "ownership-of-shares-25-to-50-percent-as-firm",
+          "voting-rights-25-to-50-percent",
+          "voting-rights-25-to-50-percent-as-trust",
+          "voting-rights-25-to-50-percent-as-firm"
+        ],
+        "notified_on": "2021-03-09",
+        "address": {
+          "address_line_1": "London Bridge Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 9SG",
+          "premises": "The Shard"
+        },
+        "identification": {
+          "legal_form": "Companies Act 2006",
+          "legal_authority": "Cardif",
+          "country_registered": "England & Wales",
+          "place_registered": "Companies House",
+          "registration_number": "13399599"
+        }
+      },
+      {
+        "name": "The Royal Of Sec Source Corporation",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "ownership-of-shares-25-to-50-percent-as-trust",
+          "ownership-of-shares-25-to-50-percent-as-firm",
+          "voting-rights-25-to-50-percent",
+          "voting-rights-25-to-50-percent-as-trust",
+          "voting-rights-25-to-50-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2020-08-08",
+        "ceased_on": "2023-02-01",
+        "address": {
+          "address_line_1": "285 Fulton Street",
+          "country": "United States",
+          "locality": "Ny",
+          "premises": "One World Trade Center",
+          "region": "New York"
+        },
+        "identification": {
+          "legal_form": "Cod",
+          "legal_authority": "Rsc"
+        }
+      },
+      {
+        "name": "Sec Source Academy Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "ownership-of-shares-25-to-50-percent-as-trust",
+          "ownership-of-shares-25-to-50-percent-as-firm",
+          "voting-rights-25-to-50-percent",
+          "voting-rights-25-to-50-percent-as-trust",
+          "voting-rights-25-to-50-percent-as-firm"
+        ],
+        "notified_on": "2020-08-08",
+        "address": {
+          "address_line_1": "Chiswick High Rd",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W4 5YG",
+          "premises": "Chiswick Park"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "Cardiff",
+          "registration_number": "12564724"
+        }
+      },
+      {
+        "name": "Dr Chann Sophat",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-trust",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-trust",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-trust",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2019-08-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1992,
+        "nationality": "Cambodian",
+        "country_of_residence": "Cambodia",
+        "address": {
+          "address_line_1": "London Bridge Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 9SG",
+          "premises": "The Shard"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2025-03-14",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQ1ODM4NDgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-02-18",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ1NDIwNTYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-10-01",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQzNzY5ODA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDCRB0N6",
+        "transaction_id": "MzQzNzY5Nzg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2024-08-06",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQzMTE0NDg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-07-09",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQyNjcxNTEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCCBICRK",
+        "transaction_id": "MzM5MzQyNjg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-07-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC831GGB",
+        "transaction_id": "MzM4Njg3NjMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC71GU49",
+        "transaction_id": "MzM4NTEyNzM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-07-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC71GS6R",
+        "transaction_id": "MzM4NTEyNjc2NGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-06-26",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XC5JCU7M",
+        "transaction_id": "MzM4NDEyMTQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBZSE4AI",
+        "transaction_id": "MzM3MzM2NDk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBYDG388",
+        "transaction_id": "MzM3MTE0NzU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBYDG339",
+        "transaction_id": "MzM3MTE0NzU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBDNALXK",
+        "transaction_id": "MzM1MzY1ODc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB0E1ESJ",
+        "transaction_id": "MzMzMzgxNjc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-03-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB0E1ECG",
+        "transaction_id": "MzMzMzgxNjYyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XA8C95UI",
+        "transaction_id": "MzMwNzI0MTM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XA8C95S2",
+        "transaction_id": "MzMwNzI0MTM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XA404BMP",
+        "transaction_id": "MzMwMDMwNzg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA4049PC",
+        "transaction_id": "MzMwMDMwNzQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA40466A",
+        "transaction_id": "MzMwMDMwNjY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA38K72P",
+        "transaction_id": "MzI5ODkwNDM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XA0BK6KG",
+        "transaction_id": "MzI5NDM0NDUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X9ZVJO3N",
+        "transaction_id": "MzI5Mzc1MDQ0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 42,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Secsource.ltd",
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:26:54.405Z",
+  "scraped_at": "2026-01-10T21:26:54.405Z"
+}

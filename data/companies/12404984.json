@@ -1,0 +1,375 @@
+{
+  "company_name": "ORENDA FS HOLDINGS LIMITED",
+  "company_number": "12404984",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-01-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "St Martins House, 1 Gresham Street, London, EC2V 7BX, England",
+  "registered_address_structured": {
+    "address_line_1": "St Martins House",
+    "address_line_2": "1 Gresham Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2V 7BX"
+  },
+  "sic_codes": [
+    "62012",
+    "62090",
+    "63110",
+    "63990"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ORENDA FINANCIAL SERVICES LIMITED",
+      "ceased_on": "2025-07-08",
+      "effective_from": "2020-02-20"
+    },
+    {
+      "name": "ORENDA TECH LIMITED",
+      "ceased_on": "2020-02-20",
+      "effective_from": "2020-01-15"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-28",
+    "last_made_up_to": "2025-01-14",
+    "next_made_up_to": "2026-01-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "VITTORI, Phillip",
+        "officer_role": "director",
+        "appointed_on": "2020-01-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "SWANEPOEL, Alistair Gregory",
+        "officer_role": "director",
+        "appointed_on": "2022-12-01",
+        "resigned_on": "2025-06-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "31 King Street West",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M3 2PJ",
+          "premises": "Reedham House",
+          "region": "Greater Manchester"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "VITTORI, Phillip",
+        "officer_role": "secretary",
+        "appointed_on": "2020-01-15",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Phillip Vittori",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2020-01-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "change-of-name",
+        "date": "2025-07-08",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE6DTCO2",
+        "transaction_id": "MzQ3MjkxMTU4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE5V26Y0",
+        "transaction_id": "MzQ3MjEzMTkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-25",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE1773Q3",
+        "transaction_id": "MzQ2Mzk3Mjg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDU8YYYX",
+        "transaction_id": "MzQ1MDk0NTQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDI70B4R",
+        "transaction_id": "MzQ0ODE4NTU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDF8WD42",
+        "transaction_id": "MzQ0MjAzODIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDF8WCAQ",
+        "transaction_id": "MzQ0MjAzODEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCW9LR5D",
+        "transaction_id": "MzQwOTkyMzk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCJ8L01T",
+        "transaction_id": "MzQwNTY3ODcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCIMRRKR",
+        "transaction_id": "MzQwNDY4ODk5NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCIMRQIH",
+        "transaction_id": "MzQwNDY4ODc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCIMRQ3N",
+        "transaction_id": "MzQwNDY4ODY4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCIMRPBV",
+        "transaction_id": "MzQwNDY4ODQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBZCGZ1S",
+        "transaction_id": "MzM3MjY4MTI2MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-15",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBZCEMZV",
+        "transaction_id": "MzM3MjY2MjAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-12",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBIPUM40",
+        "transaction_id": "MzM2MTcyOTg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBH0CNFN",
+        "transaction_id": "MzM1ODk5ODk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-09-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBC3208O",
+        "transaction_id": "MzM1MTIxMTQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-07-25",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUI4UVUxNU1hZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-07-25",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 23,
+        "barcode": "YB8QU1E1",
+        "transaction_id": "MzM0NjM4NTE4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-14",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XB64MQ35",
+        "transaction_id": "MzM0MjQyMjYwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB64MPW0",
+        "transaction_id": "MzM0MjQyMjU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB64MQ5D",
+        "transaction_id": "MzM0MjQyMjYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-16",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB445WPD",
+        "transaction_id": "MzMzOTM3NjgyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZSC68G",
+        "transaction_id": "MzMzMjc0NDk3NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 32,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Orenda.finance",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:13:12.522Z",
+  "scraped_at": "2026-01-10T22:13:12.522Z"
+}

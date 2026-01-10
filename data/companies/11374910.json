@@ -1,0 +1,363 @@
+{
+  "company_name": "BIPROCSI LTD",
+  "company_number": "11374910",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-05-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Third Floor 1 London Square, Cross Lanes, Guildford, GU1 1UN, England",
+  "registered_address_structured": {
+    "address_line_1": "Third Floor 1 London Square",
+    "address_line_2": "Cross Lanes",
+    "country": "England",
+    "locality": "Guildford",
+    "postal_code": "GU1 1UN"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ANALYTICS ACADEMY LTD",
+      "ceased_on": "2020-12-17",
+      "effective_from": "2018-05-22"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-01",
+    "last_made_up_to": "2025-04-17",
+    "next_made_up_to": "2026-04-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAVILLE, Daniel David",
+        "officer_role": "director",
+        "appointed_on": "2018-05-22",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 London Square",
+          "address_line_2": "Cross Lanes",
+          "country": "England",
+          "locality": "Guildford",
+          "postal_code": "GU1 1UN",
+          "premises": "Third Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ddhg Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-10-12",
+        "address": {
+          "address_line_1": "Cross Lanes",
+          "country": "England",
+          "locality": "Guildford",
+          "postal_code": "GU1 1UN",
+          "premises": "Third Floor 1 London Square"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House, Cardiff",
+          "registration_number": "13517085"
+        }
+      },
+      {
+        "name": "Mr Daniel David Haville",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-28",
+        "ceased_on": "2021-10-11",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Green Lanes",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N13 4BS",
+          "premises": "483"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AEC6URUJ",
+        "transaction_id": "MzQ4Mzc4NTEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4I50AB",
+        "transaction_id": "MzQ2OTY5OTgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-31",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD8I8DRU",
+        "transaction_id": "MzQzMDc1Mzc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AD6M3KJU",
+        "transaction_id": "MzQyODA2NDkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD51WRQQ",
+        "transaction_id": "MzQyNDg3OTY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD18NNSH",
+        "transaction_id": "MzQxODc0NTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC4NCOWI",
+        "transaction_id": "MzM4MTI0MTc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC44MKKP",
+        "transaction_id": "MzM4MDQ5MjExMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBCODTBE",
+        "transaction_id": "MzM1MjA5MjUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB5J1JH7",
+        "transaction_id": "MzM0MTQ5MTA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XAF61N75",
+        "transaction_id": "MzMxNzE0MTE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-15",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAF61KCB",
+        "transaction_id": "MzMxNzE0MDMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAE1EQD7",
+        "transaction_id": "MzMxNTM3MDEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA56YK7F",
+        "transaction_id": "MzMwMjA0NjM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-04-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA2SQHYZ",
+        "transaction_id": "MzI5ODI3OTI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XA03P67N",
+        "transaction_id": "MzI5NDE3NTg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-17",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 3,
+        "barcode": "A9XP1B6J",
+        "transaction_id": "MzI5MTQwOTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-17",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "A9XP1B6B",
+        "transaction_id": "MzI5MTQwOTc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-02-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QTlYUDFCNjNhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-02",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9XHNQVM",
+        "transaction_id": "MzI5MDI5ODk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-12-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X9K1ABLK",
+        "transaction_id": "MzI4NjI1NjIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9ASRP95",
+        "transaction_id": "MzI3NDYxNDYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9604Q4I",
+        "transaction_id": "MzI2NTk3NTY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8CSQXT5",
+        "transaction_id": "MzI0Mjc2NDEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-08-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8B9O6KJ",
+        "transaction_id": "MzI0MTA5NDM0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Analyticsacademy.com",
+    "headcount": 24,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T19:32:02.639Z",
+  "scraped_at": "2026-01-10T19:32:02.639Z"
+}

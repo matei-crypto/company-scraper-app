@@ -1,0 +1,528 @@
+{
+  "company_name": "SCHOOLS BI LIMITED",
+  "company_number": "12835884",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-08-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "167-169 Great Portland Street, London, W1W 5PF, England",
+  "registered_address_structured": {
+    "address_line_1": "167-169 Great Portland Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 5PF"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-07",
+    "last_made_up_to": "2025-08-24",
+    "next_made_up_to": "2026-08-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GWILLYM, Rhys",
+        "officer_role": "director",
+        "appointed_on": "2020-08-25",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        }
+      },
+      {
+        "name": "JONES, Richard Allan",
+        "officer_role": "director",
+        "appointed_on": "2025-05-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        }
+      },
+      {
+        "name": "STUCKE, Daniel Philip",
+        "officer_role": "director",
+        "appointed_on": "2025-04-23",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        }
+      },
+      {
+        "name": "GWILLYM, Alison",
+        "officer_role": "director",
+        "appointed_on": "2020-08-25",
+        "resigned_on": "2025-08-05",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wellington Road",
+          "address_line_2": "Rumwell",
+          "country": "England",
+          "locality": "Taunton",
+          "postal_code": "TA4 1EL",
+          "premises": "Rumwell Hall"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Bright Socks Consultancy Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-07-06",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Registrar Of Companies",
+          "registration_number": "13301828"
+        }
+      },
+      {
+        "name": "Mrs Alison Gwillym",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-08-25",
+        "ceased_on": "2021-07-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Higher Comeytrowe",
+          "country": "United Kingdom",
+          "locality": "Taunton",
+          "postal_code": "TA4 1EQ",
+          "premises": "Suite 4",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "Mr Rhys Gwillym",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-08-25",
+        "ceased_on": "2021-07-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Courtyard",
+          "address_line_2": "Higher Comeytrowe",
+          "country": "United Kingdom",
+          "locality": "Taunton",
+          "postal_code": "TA4 1EQ",
+          "premises": "Suite 4",
+          "region": "Somerset"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "128358840002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-08-12",
+        "delivered_on": "2025-08-12",
+        "particulars": {
+          "type": "brief-description",
+          "description": "1. by way of equitable charge: 1.1 all its estates, rights, benefits, remedies or power under contract of any other kind including the proceeds of any client's interests in any freehold or leasehold property which it has now or may subsequently acquire in any other real property and the proceeds of any sale of them. 2. by way of first fixed charge: 2.1 all rights, benefits, remedies or powers under all contracts or of any other kind including the proceeds of any claims and any patents, trademarks, service marks, know-how, copyright, registered or registerable designs or applications for any of these, trade or business names, rights under licences or consents or any similar rights.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Swif - Debt Area a LP Acting by Its General Partner Fse Swif Debt Gp Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "128358840001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-12-20",
+        "delivered_on": "2023-12-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Swif Smaller Loans Limited Partnership"
+          }
+        ],
+        "satisfied_on": "2024-12-05",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "AEF5T5IH",
+        "transaction_id": "MzQ4ODU1OTE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XECN0960",
+        "transaction_id": "MzQ4NDAwNzA2NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-08-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE9TSRJ5",
+        "transaction_id": "MzQ3ODc1OTkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-08-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE9TSOPF",
+        "transaction_id": "MzQ3ODc1OTIwNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-08-12",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 23,
+        "barcode": "XE8SEZG9",
+        "transaction_id": "MzQ3NjkxODY0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-05",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE89ROLL",
+        "transaction_id": "MzQ3NjIzNTU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE3G0FEB",
+        "transaction_id": "MzQ2NzkxMTcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-23",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE14DLJC",
+        "transaction_id": "MzQ2MzcxNjQwNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-12-20",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 55,
+        "barcode": "YDI3RHFM",
+        "transaction_id": "MzQ0NzU5NzQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-12-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "YDI3RHZ4",
+        "transaction_id": "WURJM1JIWjRhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-12-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDHCQ50Q",
+        "transaction_id": "MzQ0NjI0MzMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDAFOBVS",
+        "transaction_id": "MzQzMzYzNjUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "AD5P75NU",
+        "transaction_id": "MzQyNjIxMjAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD0EXUIY",
+        "transaction_id": "MzQxNzI5ODM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD0EXT1V",
+        "transaction_id": "MzQxNzI5ODAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD0EXSI0",
+        "transaction_id": "MzQxNzI5ODAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD06NYL7",
+        "transaction_id": "MzQxNjg3MTczN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-13",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "ACWK9DMP",
+        "transaction_id": "MzQxMDg3NjMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-12-20",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 28,
+        "barcode": "XCISCH9M",
+        "transaction_id": "MzQwNTAxNDg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "ACDRXMEG",
+        "transaction_id": "MzM5NzEzNzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAOY5ZD",
+        "transaction_id": "MzM5MDg2MTU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "ABFHIAJM",
+        "transaction_id": "MzM1NjgwODg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBB1RGLG",
+        "transaction_id": "MzM0OTY4MDI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XABLH7OQ",
+        "transaction_id": "MzMxMTczODcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-07-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUE4TTJPRDVhZGlxemtjeA"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Schoolsbi.co.uk",
+    "headcount": 11,
+    "tech_stack": [
+      "youHQ",
+      "SOCS"
+    ],
+    "business_keywords": [
+      "data analytics",
+      "data dashboards",
+      "school data",
+      "MIS integration",
+      "attendance analysis",
+      "education data",
+      "business intelligence",
+      "data insights",
+      "school improvement",
+      "multi-academy trusts",
+      "independent schools",
+      "international schools",
+      "SSO integration",
+      "data visualization",
+      "actionable insights"
+    ],
+    "services": [
+      "Bespoke data dashboards for schools and MATs",
+      "Automatic display of important insights from MIS and other software",
+      "Attendance data analysis with national, local, and school trend comparisons",
+      "Integration of MIS, attainment, finance, assessment, and HR data into a central source",
+      "Single Sign-On (SSO) setup and MIS integration",
+      "Custom dashboard development tailored to school needs",
+      "Daily data updates and maintenance",
+      "Data analysis for headteachers, middle leaders, teachers, and support staff",
+      "Comparison of pupil performance data across schools (for MATs)",
+      "Provision of exclusive data updates and tips"
+    ],
+    "customer_segments": [
+      "Schools",
+      "Multi-Academy Trusts (MATs)",
+      "Independent Schools",
+      "International Schools",
+      "Single State Schools"
+    ],
+    "business_description": "Schools BI Limited provides data analytics solutions for educational settings, transforming MIS and other school data into actionable insights through bespoke dashboards. The company integrates multiple data sources, such as attendance, finance, HR, and assessment, into a central platform to support informed decision-making and school improvement. Their services are designed for schools, multi-academy trusts, and international educational institutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:03:46.580Z"
+  },
+  "scraped_at": "2026-01-10T23:03:38.421Z",
+  "updated_at": "2026-01-10T23:03:46.579Z",
+  "version": 1
+}

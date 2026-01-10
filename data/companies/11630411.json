@@ -1,0 +1,297 @@
+{
+  "company_name": "WINSPIRE LTD",
+  "company_number": "11630411",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-10-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "35 Lowsley Farm Drive, Liphook, Hampshire, GU30 7WN, England",
+  "registered_address_structured": {
+    "address_line_1": "35 Lowsley Farm Drive",
+    "country": "England",
+    "locality": "Liphook, Hampshire",
+    "postal_code": "GU30 7WN"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-08",
+    "last_made_up_to": "2025-09-24",
+    "next_made_up_to": "2026-09-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KATTA, Bharat",
+        "officer_role": "director",
+        "appointed_on": "2018-10-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lowsley Farm Drive",
+          "country": "England",
+          "locality": "Liphook, Hampshire",
+          "postal_code": "GU30 7WN",
+          "premises": "35"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Bharat Katta",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-10-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lowsley Farm Drive",
+          "country": "England",
+          "locality": "Liphook, Hampshire",
+          "postal_code": "GU30 7WN",
+          "premises": "35"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEBV71YR",
+        "transaction_id": "MzQ4MjY2OTI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE7CR1OG",
+        "transaction_id": "MzQ3NDYxMTczOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-16",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 8,
+        "barcode": "AE6K3W4G",
+        "transaction_id": "MzQ3Mzg5OTA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDCB1P4J",
+        "transaction_id": "MzQzNjk5NjY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD6H9YKQ",
+        "transaction_id": "MzQyNzM0MjcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD6H9YJ6",
+        "transaction_id": "MzQyNzM0MjY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD6H9Y4W",
+        "transaction_id": "MzQyNzM0MjU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD36M1T5",
+        "transaction_id": "MzQyMjAwMDA0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCCXIPR5",
+        "transaction_id": "MzM5NDY0OTI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBIYBUA7",
+        "transaction_id": "MzM2MjQ4NDUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBIY3C6Y",
+        "transaction_id": "MzM2MjIwMTQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBIY3C6A",
+        "transaction_id": "MzM2MjIwMTQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-12-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBIY3C3D",
+        "transaction_id": "MzM2MjIwMTM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBD71XCH",
+        "transaction_id": "MzM1MjkwMjYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB5BF0E2",
+        "transaction_id": "MzM0MTM3ODg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XADW1GRV",
+        "transaction_id": "MzMxNTExMjM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-09",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA6BAPBK",
+        "transaction_id": "MzMwMzg3Nzk2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9HAJ9IG",
+        "transaction_id": "MzI4MjgwNjkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8LI6VIA",
+        "transaction_id": "MzI1MzQwOTA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8GCDO0A",
+        "transaction_id": "MzI0NzEzNTIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-10-18",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X7GR4M3U",
+        "transaction_id": "MzIxNzIwNDEwNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 21,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Winspireit.co.uk",
+    "headcount": 13,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T20:09:49.341Z",
+  "scraped_at": "2026-01-10T20:09:49.341Z"
+}

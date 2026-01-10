@@ -1,0 +1,308 @@
+{
+  "company_name": "LIFTANGO LTD",
+  "company_number": "12760405",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-07-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Second Floor, 201 Great Portland Street, London, W1W 5AB, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Second Floor",
+    "address_line_2": "201 Great Portland Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "W1W 5AB"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-07",
+    "last_made_up_to": "2025-07-24",
+    "next_made_up_to": "2026-07-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ORR, Kevin",
+        "officer_role": "director",
+        "appointed_on": "2020-07-22",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "201 Great Portland Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 5AB",
+          "premises": "Second Floor"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CAMPBELL, Jamie",
+        "officer_role": "secretary",
+        "appointed_on": "2023-08-01",
+        "address": {
+          "address_line_1": "201 Great Portland Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 5AB",
+          "premises": "Second Floor"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Liftango Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-12-22",
+        "address": {
+          "address_line_1": "The Mart",
+          "address_line_2": "Station Road",
+          "country": "United Kingdom",
+          "locality": "East Linton",
+          "postal_code": "EH40 3DN",
+          "premises": "Liftango",
+          "region": "East Lothian"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "Sc706481"
+        }
+      },
+      {
+        "name": "Kevin Orr",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-07-22",
+        "ceased_on": "2021-12-22",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "201 Great Portland Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 5AB",
+          "premises": "Second Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE7FUK08",
+        "transaction_id": "MzQ3NTAyNDc5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE7FIV3V",
+        "transaction_id": "MzQ3NDg0OTk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDCGIA30",
+        "transaction_id": "MzQzNzMzNTk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD84IJKY",
+        "transaction_id": "MzQzMDA4MzE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCCXBLXF",
+        "transaction_id": "MzM5NDU4Mzg5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-01",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XC8ZLKSY",
+        "transaction_id": "MzM4ODMyODg3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC8J32I0",
+        "transaction_id": "MzM4NzUxMDIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBA0BVPV",
+        "transaction_id": "MzM0ODE4NzU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XBA0BAQ9",
+        "transaction_id": "MzM0ODE4MjQ0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-09",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBA0B9OZ",
+        "transaction_id": "MzM0ODE4MjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-07-19",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM0NTk3MzI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XB8IPBKM",
+        "transaction_id": "MzM0NTk3MzI3MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-07-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB7MPVRM",
+        "transaction_id": "MzM0NDc0MzY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-06-21",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM0MjI0MzAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-28",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAYTF6ND",
+        "transaction_id": "MzMzMTMyNDk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "AAHXTQFD",
+        "transaction_id": "MzMyMTIwNzMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAA6TA7E",
+        "transaction_id": "MzMwOTY4OTUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-07-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 16,
+        "barcode": "X99RM8YG",
+        "transaction_id": "MzI3MzUwODk3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "headcount": 17,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:55:47.394Z",
+  "scraped_at": "2026-01-10T22:55:47.394Z"
+}

@@ -1,0 +1,399 @@
+{
+  "company_name": "JAM CODING UK LTD",
+  "company_number": "11941837",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-04-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 4 The Weaving Shed, Holmes Mill, Clitheroe, BB7 1AJ, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 4 The Weaving Shed",
+    "address_line_2": "Holmes Mill",
+    "country": "England",
+    "locality": "Clitheroe",
+    "postal_code": "BB7 1AJ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-12",
+    "last_made_up_to": "2025-07-29",
+    "next_made_up_to": "2026-07-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GROGAN, Roger Simon",
+        "officer_role": "director",
+        "appointed_on": "2019-04-12",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Weaving Shed",
+          "address_line_2": "Holmes Mill",
+          "country": "England",
+          "locality": "Clitheroe",
+          "postal_code": "BB7 1AJ",
+          "premises": "Unit 4"
+        }
+      },
+      {
+        "name": "JACKSON, Rebecca",
+        "officer_role": "director",
+        "appointed_on": "2021-11-16",
+        "resigned_on": "2022-07-27",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Challenge Way",
+          "country": "England",
+          "locality": "Blackburn",
+          "postal_code": "BB1 5QB",
+          "premises": "Blackburn Technology Mangement Centre",
+          "region": "Lancashire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Roger Simon Grogan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-04-12",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Exchange Street",
+          "country": "England",
+          "locality": "Blackburn",
+          "postal_code": "BB1 7JN",
+          "premises": "The Making Rooms"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-09-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEBMXJY3",
+        "transaction_id": "MzQ4MjE0OTgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE8F2GXE",
+        "transaction_id": "MzQ3NjUxMDM0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE5HBDH5",
+        "transaction_id": "MzQ3MTUzMjEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDDW8U4O",
+        "transaction_id": "MzQzOTkzMjc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8FGW5V",
+        "transaction_id": "MzQzMDU3NTA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCF91B9E",
+        "transaction_id": "MzM5ODI2NjcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC928SZV",
+        "transaction_id": "MzM4ODQ1NTQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBEZJXQP",
+        "transaction_id": "MzM1NTc1NjMyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBEZJX68",
+        "transaction_id": "MzM1NTc1NjIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-10-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBEZJXDN",
+        "transaction_id": "MzM1NTc1NjE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-29",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB99OAP5",
+        "transaction_id": "MzM0NzI0Nzk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB99OBQA",
+        "transaction_id": "MzM0NzI0ODIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB99NQII",
+        "transaction_id": "MzM0NzI0MzI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB99NQ81",
+        "transaction_id": "MzM0NzI0MzIwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB3AW48X",
+        "transaction_id": "MzMzODI3MDU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB3AVTS0",
+        "transaction_id": "MzMzODI2ODAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAZCFLXC",
+        "transaction_id": "MzMzMjIyNDE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XAIT38HT",
+        "transaction_id": "MzMyMjU2Nzg5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAIT3837",
+        "transaction_id": "MzMyMjU2NzY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAG4SG3T",
+        "transaction_id": "MzMxODU3NDI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4TKDI3",
+        "transaction_id": "MzMwMTQ5NDQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9Y5V3FS",
+        "transaction_id": "MzI5MTI4ODA2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-12",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9Y5UYU8",
+        "transaction_id": "MzI5MTI4NzAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "A942GIUI",
+        "transaction_id": "MzI2Mzc0ODU3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93Q0MG0",
+        "transaction_id": "MzI2MzI4MTgxN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 26,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Jamcoding.co.uk",
+    "headcount": 12,
+    "tech_stack": [],
+    "business_keywords": [
+      "computing workshops",
+      "coding workshops",
+      "digital education",
+      "primary schools education",
+      "computing curriculum",
+      "coding competition",
+      "holiday clubs",
+      "staffing solutions",
+      "digital skills",
+      "edutainment",
+      "computing lessons",
+      "coding clubs",
+      "after-school clubs",
+      "CPD (Continuing Professional Development)",
+      "PPA (Planning, Preparation and Assessment) time"
+    ],
+    "services": [
+      "Bespoke computing curriculum for schools",
+      "Personalised and engaging computing lessons",
+      "Enriching holiday clubs (free & funded and private)",
+      "Specialist-led delivery of computing education in classrooms",
+      "Independent delivery of computing curriculum by teaching staff",
+      "Blended approach to computing education delivery (mix of specialist-led and in-house)",
+      "Free coding competition for schools",
+      "After-school coding clubs",
+      "Birthday parties (implied by enquiry option)",
+      "Code Coach training (implied by enquiry option)"
+    ],
+    "customer_segments": [
+      "primary schools",
+      "schools (general)",
+      "community groups",
+      "local authorities",
+      "private organisations",
+      "pupil premium families",
+      "children at risk of isolation",
+      "children needing social opportunities and nutritious meals",
+      "pupils with ASD (Autism Spectrum Disorder)",
+      "parents",
+      "teaching staff"
+    ],
+    "business_description": "Jam Coding is a UK-based provider of computing and coding education, specializing in workshops and curricula for primary schools, community groups, and private organizations. They offer bespoke computing lessons, holiday clubs, and flexible staffing solutions to inspire and educate young people in digital skills. Their approach blends education and entertainment to make computing engaging and accessible for all learners.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:58:47.075Z"
+  },
+  "scraped_at": "2026-01-10T20:58:35.003Z",
+  "updated_at": "2026-01-10T20:58:47.075Z",
+  "version": 1
+}

@@ -1,0 +1,428 @@
+{
+  "company_name": "DATAMETICA UK LIMITED",
+  "company_number": "12169142",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-08-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 6, Second Floor 213, Kingsbury Road, Jubilee Business Centre, London, NW9 8AQ, England",
+  "registered_address_structured": {
+    "address_line_1": "Suite 6, Second Floor 213, Kingsbury Road",
+    "address_line_2": "Jubilee Business Centre",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW9 8AQ"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-04",
+    "last_made_up_to": "2025-08-21",
+    "next_made_up_to": "2026-08-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DONOVAN, Zoe Elizabeth",
+        "officer_role": "director",
+        "appointed_on": "2019-08-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Babbacombe Road",
+          "country": "United Kingdom",
+          "locality": "Bromley",
+          "postal_code": "BR1 3LS",
+          "premises": "118"
+        }
+      },
+      {
+        "name": "GUPTA, Rajiv",
+        "officer_role": "director",
+        "appointed_on": "2019-08-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1969,
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "address": {
+          "address_line_1": "Yoo Pune Kirtane Baug",
+          "address_line_2": "Magarpatta Road",
+          "country": "India",
+          "locality": "Hadapsar (Nv), Pune",
+          "postal_code": "411028",
+          "premises": "F-801",
+          "region": "Maharashtra"
+        }
+      },
+      {
+        "name": "SHELLEY, Philip, Dr",
+        "officer_role": "director",
+        "appointed_on": "2019-08-22",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1956,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Apalachicola",
+          "country": "United States",
+          "locality": "Fl",
+          "postal_code": "32320",
+          "premises": "98 Bay Ave"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JAIN, Mukta",
+        "officer_role": "secretary",
+        "appointed_on": "2021-01-25",
+        "address": {
+          "address_line_1": "The Ridgeway",
+          "address_line_2": "North Harrow",
+          "country": "England",
+          "locality": "Harrow",
+          "postal_code": "HA2 7DD",
+          "premises": "182"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Datametica Solutions Pte. Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2023-10-02",
+        "address": {
+          "address_line_1": "Paya Lebar Road",
+          "address_line_2": "Paya Lebar Square",
+          "country": "Singapore",
+          "locality": "Singapore",
+          "po_box": "409051",
+          "premises": "60"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Singapore",
+          "country_registered": "Singapore",
+          "place_registered": "Singapore",
+          "registration_number": "201611471w"
+        }
+      },
+      {
+        "name": "Babubhai Makwana",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-08-22",
+        "ceased_on": "2023-10-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1937,
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "address": {
+          "address_line_1": "Damnagar",
+          "country": "India",
+          "locality": "Amreli, Damnagar",
+          "postal_code": "365220",
+          "premises": "Main Bazaar"
+        }
+      },
+      {
+        "name": "Dr Philip Shelley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-08-22",
+        "ceased_on": "2023-10-02",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1956,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Walnut Street",
+          "country": "United States",
+          "locality": "Florida",
+          "postal_code": "32043-3443",
+          "premises": "411"
+        }
+      },
+      {
+        "name": "Mr Rajiv Gupta",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-08-22",
+        "ceased_on": "2023-10-02",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1969,
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "address": {
+          "address_line_1": "Amanora Park Town",
+          "country": "India",
+          "locality": "Pune",
+          "postal_code": "411 028",
+          "premises": "1201, Tower 9 Aspire Towers"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-11-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEFTMS4Z",
+        "transaction_id": "MzQ5MDM4Nzg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEFO7TI1",
+        "transaction_id": "MzQ4OTg0MTM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-13",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "AEF5FDE3",
+        "transaction_id": "MzQ4ODU0NzUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEA7BXO1",
+        "transaction_id": "MzQ3OTMyNzE4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-27",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "XDIV5RFK",
+        "transaction_id": "MzQ0OTE4MzU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBXKEKP",
+        "transaction_id": "MzQzNjM5NzMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-09-06",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDB40JSB",
+        "transaction_id": "MzQzNDc3MjQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-09-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDB40B4J",
+        "transaction_id": "MzQzNDc3MDAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-09-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDB40ATD",
+        "transaction_id": "MzQzNDc2OTkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-09-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDB40APD",
+        "transaction_id": "MzQzNDc2OTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-19",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCGJ2DWG",
+        "transaction_id": "MzQwMDc0NjgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAGV37E",
+        "transaction_id": "MzM5MDQwNzM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBWVLAYP",
+        "transaction_id": "MzM2ODQ5NTM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBGXLQZK",
+        "transaction_id": "MzM1ODgyNDcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBB4GABM",
+        "transaction_id": "MzM0OTgxMDc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAKGHG3S",
+        "transaction_id": "MzMyNTI2OTQ0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAD83H0G",
+        "transaction_id": "MzMxNDE3NTA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-02",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X9XHMH7Y",
+        "transaction_id": "MzI5MDI4Nzc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-02-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9XHMEKZ",
+        "transaction_id": "MzI5MDI4NzExMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9DNO536",
+        "transaction_id": "MzI3NzcxNDE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9CUMAP4",
+        "transaction_id": "MzI3NjkxODM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-10",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X92PC9FC",
+        "transaction_id": "MzI2MjIwMDkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-08-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 34,
+        "barcode": "X8CAMI5T",
+        "transaction_id": "MzI0MjI0NTEyMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 23,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 1946982,
+    "ebitda": 174773,
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:31:11.519Z",
+  "scraped_at": "2026-01-10T21:31:11.519Z"
+}

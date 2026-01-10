@@ -1,0 +1,362 @@
+{
+  "company_name": "XTREME DB SYSTEMS LTD",
+  "company_number": "12338205",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-11-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "First Floor, 85 Great Portland Street, London, W1W 7LT, England",
+  "registered_address_structured": {
+    "address_line_1": "First Floor",
+    "address_line_2": "85 Great Portland Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 7LT"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2025-12-11",
+    "last_made_up_to": "2024-11-27",
+    "next_made_up_to": "2025-11-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAMID, Ghufran",
+        "officer_role": "director",
+        "appointed_on": "2019-11-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "85 Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "First Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ghufran Hamid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-11-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "85 Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "First Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "123382050001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-01-30",
+        "delivered_on": "2025-02-14",
+        "particulars": {
+          "type": "brief-description",
+          "description": "2.1.1 by way of legal mortgage all freehold and leasehold property now vested in the company together with all buildings fixtures (including trade fixtures) and fixed plant and machinery from time to time on that property. 2.1.2 by way of fixed charge all estates or interests in any freehold and leasehold property of the company (not being property charged by clause 2.1.1) now and in the future vested in the company together with all buildings fixtures (including trade fixtures) and fixed plant and machinery from time to time on that property. 2.1.3 by way of fixed charge all stocks shares and loan capital of the company in any subsidiary of the company. 2.1.4 by way of fixed charge all the goodwill and uncalled capital for the time being of the company. 2.1.5 by way of fixed charge all book debts and other debts now and in the future due or owing to the company. 2.1.6 by way of fixed charge all intellectual property rights choses in action and claims now and in the future belonging to the company. 2.1.7 by way of floating charge all the company's present and future undertaking and assets whatever and wherever including (without limitation) all other property and assets not subject to a fixed charge under this debenture.",
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Shahban Hussain"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE8F8M2J",
+        "transaction_id": "MzQ3NjU2MTM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 13,
+        "barcode": "XDWD7AL4",
+        "transaction_id": "MzQ1NTA3MTYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHKS2RK",
+        "transaction_id": "MzQ0NjU3MTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCWPWZA2",
+        "transaction_id": "MzQxMDgwOTEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUBQ27K",
+        "transaction_id": "MzQwNjk2Nzc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCUBQ0X6",
+        "transaction_id": "MzQwNjk2NzM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCUBQ0SX",
+        "transaction_id": "MzQwNjk2NzM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUBQ042",
+        "transaction_id": "MzQwNjk2NzIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCTY8IKQ",
+        "transaction_id": "MzQwNjM5NDgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCTY8DD7",
+        "transaction_id": "MzQwNjM5MzU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIVAIB6",
+        "transaction_id": "MzQwNTI0MTAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBIQ2N1L",
+        "transaction_id": "MzM2MTgyMTAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHQWX23",
+        "transaction_id": "MzM2MDAxNDQ1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 2,
+        "barcode": "AAV8VEY1",
+        "transaction_id": "MzMyNjE5MTI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAJERNFC",
+        "transaction_id": "MzMyMzcwNjQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA0BN72O",
+        "transaction_id": "MzI5NDM2OTE4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9VXH5QG",
+        "transaction_id": "MzI4ODI1ODI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-11-28",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "X8J53LE3",
+        "transaction_id": "MzI1MDQ5NzYxMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Xtremedbsystems.com",
+    "headcount": 8,
+    "tech_stack": [
+      "SAP Sybase",
+      "Oracle Database",
+      "Microsoft SQL Server",
+      "Oracle Cloud",
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "EMC Isilon storage",
+      "Delphix",
+      "Oracle Autonomous Data Warehouse"
+    ],
+    "business_keywords": [
+      "database support",
+      "data management",
+      "cloud platform",
+      "managed services",
+      "DBA consultancy",
+      "database cloud",
+      "datacentre migration",
+      "database performance tuning",
+      "24/7 production support",
+      "cloud migrations",
+      "on-premise advisory",
+      "database security",
+      "non-production virtualisation",
+      "data analytics",
+      "replication setup"
+    ],
+    "services": [
+      "SAP Sybase database product support",
+      "Oracle database product support",
+      "Microsoft database product support",
+      "Managed Services for databases",
+      "DBA Consulting Services",
+      "Database Cloud Services",
+      "Analytical Services",
+      "Datacentre migration services",
+      "Database platform optimisation",
+      "Database performance and tuning",
+      "24/7 production support",
+      "Cloud migration preparations",
+      "Data analytics",
+      "Replication setup and support",
+      "Non-production environment virtualisation using Delphix",
+      "On-premise or cloud advisory",
+      "Database security patching",
+      "Upgrade of existing Sybase or Oracle database infrastructure",
+      "Oracle Autonomous Data Warehouse development",
+      "SQL Server estate modernisation",
+      "Migration to SQL Managed Instance in Azure",
+      "Machine Learning and AI support"
+    ],
+    "customer_segments": [
+      "Financial Services",
+      "Health Care",
+      "Distribution",
+      "Telecoms",
+      "Asset Management",
+      "County councils",
+      "Global distribution companies",
+      "UK media groups"
+    ],
+    "business_description": "XTREME DB SYSTEMS is a specialist provider of database support, managed services, and cloud solutions for industry-standard production and non-production environments. The company focuses on Sybase, Oracle, and Microsoft database technologies, offering services such as 24/7 support, performance tuning, cloud migrations, and data analytics for on-premise, cloud, or hybrid environments. They also assist with modernising database estates and implementing advanced technologies like Machine Learning and AI.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 17,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T22:01:30.939Z"
+  },
+  "scraped_at": "2026-01-10T22:01:20.373Z",
+  "updated_at": "2026-01-10T22:01:30.939Z",
+  "version": 1
+}

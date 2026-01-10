@@ -1,0 +1,471 @@
+{
+  "company_name": "BOOKINGLAB LIMITED",
+  "company_number": "11764238",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-01-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "Spaces Lewis Building, 35 Bull Street, Birmingham, B4 6AF, England",
+  "registered_address_structured": {
+    "address_line_1": "Spaces Lewis Building",
+    "address_line_2": "35 Bull Street",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B4 6AF"
+  },
+  "sic_codes": [
+    "62011",
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-27",
+    "last_made_up_to": "2025-01-13",
+    "next_made_up_to": "2026-01-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DUGGAN, Chad Alex Roger",
+        "officer_role": "director",
+        "appointed_on": "2019-01-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spaces",
+          "address_line_2": "Level 1 Mailbox",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B1 1RD",
+          "premises": "3 Wharfside Street",
+          "region": "West Midlands"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Chad Alex Roger Duggan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-01-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spaces",
+          "address_line_2": "Level 1 Mailbox",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B1 1RD",
+          "premises": "3 Wharfside Street",
+          "region": "West Midlands"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "117642380003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2026-01-06",
+        "delivered_on": "2026-01-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Innovate UK Loans Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "117642380002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-04-29",
+        "delivered_on": "2019-05-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bcrs Meif Gp Limited"
+          }
+        ],
+        "satisfied_on": "2021-01-29",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "117642380001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-04-29",
+        "delivered_on": "2019-05-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bcrs Cief Limited"
+          }
+        ],
+        "satisfied_on": "2021-01-29",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2026-01-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 19,
+        "barcode": "XET87NEH",
+        "transaction_id": "MzQ5ODEzMTA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEHKR3EX",
+        "transaction_id": "MzQ5NDkyMzE5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-11-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEG1IF6O",
+        "transaction_id": "MzQ5MDc5NzAwMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-07-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "AE71TKTL",
+        "transaction_id": "QUU3MVRLVExhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDU6A45X",
+        "transaction_id": "MzQ1MDc1OTAwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XD5I5UEP",
+        "transaction_id": "MzQyNTcyMjg0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCVW6LQ1",
+        "transaction_id": "MzQwOTQ4OTY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCVAOP1T",
+        "transaction_id": "MzQwODU0OTM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC2F813T",
+        "transaction_id": "MzM3Nzk4MDM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC2F810P",
+        "transaction_id": "MzM3Nzk4MDMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVAXPFD",
+        "transaction_id": "MzM2NTc3Njc2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBGXGHTF",
+        "transaction_id": "MzM1ODc3OTE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBGXGHKP",
+        "transaction_id": "MzM1ODc3OTEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-11-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBGXGH94",
+        "transaction_id": "MzM1ODc3OTEwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XB67NBRF",
+        "transaction_id": "MzM0MjY2NzUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAVOVOEH",
+        "transaction_id": "MzMyNjcwMDA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAAK2LM0",
+        "transaction_id": "MzMxMDIzNjkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA5F4PFE",
+        "transaction_id": "MzMwMjQ4ODY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-01-29",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X9X70175",
+        "transaction_id": "MzI4OTk5OTY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-01-29",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X9X701Q3",
+        "transaction_id": "MzI4OTk5OTc2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9WIOWEM",
+        "transaction_id": "MzI4ODk1NjAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9W08PAQ",
+        "transaction_id": "MzI4ODM3Nzc1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X97S0RS3",
+        "transaction_id": "MzI2ODAyNTE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8XBOZG9",
+        "transaction_id": "MzI1NTQ4NTY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-05-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 25,
+        "barcode": "X84Y1Y48",
+        "transaction_id": "MzIzMzc5NzI5NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Bookinglab.co.uk",
+    "headcount": 13,
+    "tech_stack": [
+      "WCAG 2.2 AA",
+      "ISO 27001",
+      "REST API",
+      "Capita (payment gateway)",
+      "Civica (payment gateway)",
+      "GOV.UK (payment gateway)",
+      "WorldPay (payment gateway)",
+      "HeyCentric (payment gateway)",
+      "Stripe (payment gateway)",
+      "PayPal (payment gateway)"
+    ],
+    "business_keywords": [
+      "online booking system",
+      "public sector booking platform",
+      "citizen engagement platform",
+      "workspace management platform",
+      "appointment scheduling",
+      "event management",
+      "resource booking",
+      "G-Cloud 14 Supplier",
+      "AI-powered scheduling engine",
+      "multi-channel booking",
+      "WCAG 2.2 AA compliant",
+      "ISO 27001 compliant",
+      "REST API",
+      "digital experience platform",
+      "payment gateway integration"
+    ],
+    "services": [
+      "Online booking system for the public sector",
+      "Citizen engagement platform",
+      "Workspace management platform",
+      "Appointment management",
+      "Event management (virtual and in-person)",
+      "Resource booking (desks, rooms, parking, equipment)",
+      "Queue management",
+      "Customisable surveys and feedback collection",
+      "Automated notifications and communications",
+      "Reporting and data analysis",
+      "Integration with existing enterprise apps and payment gateways",
+      "Custom booking rules and processes",
+      "Multi-channel booking (in-person, virtual, phone)"
+    ],
+    "customer_segments": [
+      "Public sector departments",
+      "Councils",
+      "Central government",
+      "NHS",
+      "Public health clinics",
+      "Registrars and ceremonies",
+      "HWRC (Household Waste Recycling Centres)"
+    ],
+    "business_description": "BOOKINGLAB LIMITED provides an online booking system and citizen engagement platform designed specifically for the public sector. The company offers solutions to improve access to services, reduce administrative costs, and enhance citizen and staff experiences through self-service booking, multi-channel management, and data-driven resource allocation. Their platforms are trusted by over 110 public sector departments and comply with accessibility, security, and reliability standards.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:32:26.029Z"
+  },
+  "scraped_at": "2026-01-10T20:32:16.158Z",
+  "updated_at": "2026-01-10T20:32:26.029Z",
+  "version": 1
+}

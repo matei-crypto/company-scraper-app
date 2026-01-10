@@ -1,0 +1,484 @@
+{
+  "company_name": "SMARTWORKS GROUP LTD",
+  "company_number": "11212647",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-02-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 20 Christchurch Business Park, Radar Way, Christchurch, Dorset, BH23 4FL, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 20 Christchurch Business Park",
+    "address_line_2": "Radar Way",
+    "country": "England",
+    "locality": "Christchurch",
+    "postal_code": "BH23 4FL",
+    "region": "Dorset"
+  },
+  "sic_codes": [
+    "41201",
+    "41202",
+    "43210",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SMART HOMEWORKS LTD",
+      "ceased_on": "2022-01-11",
+      "effective_from": "2018-02-19"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-12",
+    "last_made_up_to": "2025-02-26",
+    "next_made_up_to": "2026-02-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BALDWIN, Andrew Richard",
+        "officer_role": "director",
+        "appointed_on": "2018-07-27",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hurn",
+          "country": "England",
+          "locality": "Christchurch",
+          "postal_code": "BH23 6AS",
+          "premises": "Hurn Chapel",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "SMILES, Richard Thomas Roy",
+        "officer_role": "director",
+        "appointed_on": "2018-05-15",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Christchurch Business Park",
+          "address_line_2": "Radar Way",
+          "country": "United Kingdom",
+          "locality": "Christchurch",
+          "postal_code": "BH23 4FL",
+          "premises": "Unit 20",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "HOLT, Derek",
+        "officer_role": "director",
+        "appointed_on": "2018-07-19",
+        "resigned_on": "2021-10-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hurn",
+          "country": "England",
+          "locality": "Christchurch",
+          "postal_code": "BH23 6AS",
+          "premises": "Hurn Chapel",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "SMILES, Rosanna Emma",
+        "officer_role": "director",
+        "appointed_on": "2018-02-19",
+        "resigned_on": "2018-05-15",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Browning Avenue",
+          "country": "United Kingdom",
+          "locality": "Bournemouth",
+          "postal_code": "BH5 1NS",
+          "premises": "43",
+          "region": "Dorset"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SMILES, Roy Wilfred",
+        "officer_role": "secretary",
+        "appointed_on": "2018-05-23",
+        "resigned_on": "2024-12-04",
+        "address": {
+          "address_line_1": "Hurn",
+          "country": "England",
+          "locality": "Christchurch",
+          "postal_code": "BH23 6AS",
+          "premises": "Hurn Chapel",
+          "region": "Dorset"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Derek Holt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-11-27",
+        "ceased_on": "2021-10-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1947,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hurn",
+          "country": "England",
+          "locality": "Christchurch",
+          "postal_code": "BH23 6AS",
+          "premises": "Hurn Chapel",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "Richard Smiles",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-11-27",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Christchurch Business Park",
+          "address_line_2": "Radar Way",
+          "country": "United Kingdom",
+          "locality": "Christchurch",
+          "postal_code": "BH23 4FL",
+          "premises": "Unit 20",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "Mr Andrew Richard Baldwin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-11-27",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Christchurch Business Park",
+          "address_line_2": "Radar Way",
+          "country": "England",
+          "locality": "Christchurch",
+          "postal_code": "BH23 4FL",
+          "premises": "Unit 20",
+          "region": "Dorset"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "112126470001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-02-15",
+        "delivered_on": "2025-02-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Please refer to clause 2.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Funding Circle Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEHNWTH7",
+        "transaction_id": "MzQ5NTE5NzQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEHNWTZD",
+        "transaction_id": "MzQ5NTE5NzQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEHNWT2X",
+        "transaction_id": "MzQ5NTE5NzM5MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEHNWRY3",
+        "transaction_id": "MzQ5NTE5NzA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEHKREMP",
+        "transaction_id": "MzQ5NDkyNjQyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEHKRE43",
+        "transaction_id": "MzQ5NDkyNjM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEH6W62X",
+        "transaction_id": "MzQ5MzU3MDA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEGYCXMG",
+        "transaction_id": "MzQ5Mjc5OTg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDXN4V7E",
+        "transaction_id": "MzQ1NzIzMTM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XDWNPMGJ",
+        "transaction_id": "MzQ1NTQ1NzA0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-04",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XDHA3K0Z",
+        "transaction_id": "MzQ0NjEzMTAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDAT2GJD",
+        "transaction_id": "MzQzNDEzNDY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCYAWVVF",
+        "transaction_id": "MzQxMzYyMDIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCD359RY",
+        "transaction_id": "MzM5NDkzODQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBYJ2JDK",
+        "transaction_id": "MzM3MTQ4MjE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB803BUI",
+        "transaction_id": "MzM0NTI3NTc2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAZC9UO3",
+        "transaction_id": "MzMzMjE3MzY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-07",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XAZ9LTK1",
+        "transaction_id": "MzMzMjA2ODk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAZ9LSNL",
+        "transaction_id": "MzMzMjA2ODc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-01-11",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XAVGPM8J",
+        "transaction_id": "MzMyNjI4OTM0MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-06",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "AAIAHJN7",
+        "transaction_id": "MzMyMTg3OTg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAI53MZF",
+        "transaction_id": "MzMyMTYwMDcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAI53MQP",
+        "transaction_id": "MzMyMTYwMDY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAI53MOP",
+        "transaction_id": "MzMyMTYwMDYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-10-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 5,
+        "transaction_id": "QUFEWjVCNURhZGlxemtjeA"
+      }
+    ],
+    "total_count": 50,
+    "recent_filings_count": 10
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Smarthomeworks.co.uk",
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T19:02:06.070Z",
+  "scraped_at": "2026-01-10T19:02:06.070Z"
+}

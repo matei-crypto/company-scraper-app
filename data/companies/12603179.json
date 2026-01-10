@@ -1,0 +1,377 @@
+{
+  "company_name": "SUPPORTWAVE LTD",
+  "company_number": "12603179",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-05-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "65 London Wall, London, London, EC2M 5TU, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "65 London Wall",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2M 5TU",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NERDAPP LTD",
+      "ceased_on": "2023-07-11",
+      "effective_from": "2020-05-14"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-04",
+    "last_made_up_to": "2025-07-21",
+    "next_made_up_to": "2026-07-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GREYLING, Justin",
+        "officer_role": "director",
+        "appointed_on": "2024-11-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TU",
+          "premises": "65",
+          "region": "London"
+        }
+      },
+      {
+        "name": "WETHERILL, Kelvin",
+        "officer_role": "director",
+        "appointed_on": "2020-05-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "South African",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TU",
+          "premises": "65",
+          "region": "London"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Kelvin Wetheril",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2023-05-04",
+        "ceased_on": "2024-10-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "South African",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TU",
+          "premises": "65",
+          "region": "London"
+        }
+      },
+      {
+        "name": "Mr Kelvin Wetherill",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-05-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1980,
+        "nationality": "South African",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 5TU",
+          "premises": "65",
+          "region": "London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE7YWSF7",
+        "transaction_id": "MzQ3NTg0NTk4N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE7YVUVD",
+        "transaction_id": "MzQ3NTgzNzk3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-31",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE7YVUUA",
+        "transaction_id": "MzQ3NTgzNzk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDI3SOHK",
+        "transaction_id": "MzQ0NzYwNzA4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDFH4FDT",
+        "transaction_id": "MzQ0MjQ3OTMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-08",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDFH4A9N",
+        "transaction_id": "MzQ0MjQ3ODExNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDEF5DA8",
+        "transaction_id": "MzQ0MDg1NTQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-07",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDD7VYQO",
+        "transaction_id": "MzQzODYwMjczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD8CIM9U",
+        "transaction_id": "MzQzMDM2ODI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-04-04",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XD0C2XIY",
+        "transaction_id": "MzQxNzEzOTI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCCEFWEY",
+        "transaction_id": "MzM5MzYzNTY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XC94WBEO",
+        "transaction_id": "MzM4ODU1MzQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-07-11",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XC7K8X0P",
+        "transaction_id": "MzM4NTk1OTUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-02",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XC4T0TWB",
+        "transaction_id": "MzM4MTcxODQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-05-30",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 5,
+        "transaction_id": "QUM0NFlGMU5hZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-05-30",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 61,
+        "barcode": "AC44YF1V",
+        "transaction_id": "MzM4MDgzNTUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XC3R4T37",
+        "transaction_id": "MzM3OTk0NzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBHDJP6I",
+        "transaction_id": "MzM1OTQ3NTczOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBC0F3BT",
+        "transaction_id": "MzM1MTEwNjU1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBC0F37L",
+        "transaction_id": "MzM1MTEwNjUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-09-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBC0F22R",
+        "transaction_id": "MzM1MTEwNjM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBC2WAQW",
+        "transaction_id": "MzM1MTEwMDQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBC2WAS8",
+        "transaction_id": "MzM1MTEwMDQzMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-09-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBC2WA6X",
+        "transaction_id": "MzM1MTEwMDIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB8QTKLM",
+        "transaction_id": "MzM0NjM4MTM4MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:41:28.050Z",
+  "scraped_at": "2026-01-10T22:41:28.050Z"
+}

@@ -1,0 +1,568 @@
+{
+  "company_name": "PANGAIA HEALTHCARE (UK) LTD",
+  "company_number": "12359990",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-12-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "134 Ashley Rd, St Albans, AL1 5JR, England",
+  "registered_address_structured": {
+    "address_line_1": "134 Ashley Rd",
+    "country": "England",
+    "locality": "St Albans",
+    "postal_code": "AL1 5JR"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "HAPI HEALTHCARE UK LTD",
+      "ceased_on": "2022-10-28",
+      "effective_from": "2019-12-11"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2023-09-30",
+    "next_accounts_period_end_on": "2022-12-31",
+    "next_accounts_period_start_on": "2022-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2021-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2024-05-26",
+    "last_made_up_to": "2023-05-12",
+    "next_made_up_to": "2024-05-12"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAPI ONE UK LTD",
+        "officer_role": "corporate-director",
+        "appointed_on": "2024-09-05",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "BUNKER, Kristofer",
+        "officer_role": "director",
+        "appointed_on": "2019-12-11",
+        "resigned_on": "2024-07-03",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Goswell Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1M 7AD",
+          "premises": "60"
+        }
+      },
+      {
+        "name": "FORSYTH, Benjamin",
+        "officer_role": "director",
+        "appointed_on": "2022-09-21",
+        "resigned_on": "2024-09-05",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "HELPSTREET GLOBAL UK LTD",
+        "officer_role": "corporate-director",
+        "appointed_on": "2019-12-11",
+        "resigned_on": "2020-05-18",
+        "address": {
+          "address_line_1": "Goswell Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1M 7AD",
+          "premises": "60"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BUNKER, Kristofer",
+        "officer_role": "secretary",
+        "appointed_on": "2020-05-18",
+        "resigned_on": "2024-07-03",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "HELPSTREET GLOBAL UK LTD",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2019-12-11",
+        "resigned_on": "2020-05-18",
+        "address": {
+          "address_line_1": "Goswell Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1M 7AD",
+          "premises": "60"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Hapi One Uk Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-09-05",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Uk",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "12572659"
+        }
+      },
+      {
+        "name": "Mr Benjamin Forsyth",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-09-21",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Ashley Rd",
+          "country": "England",
+          "locality": "St Albans",
+          "postal_code": "AL1 5JR",
+          "premises": "134"
+        }
+      },
+      {
+        "name": "Hapi One (Uk) Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-01",
+        "ceased_on": "2022-09-21",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "12572659"
+        }
+      },
+      {
+        "name": "Mr Kristofer Bunker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-05-18",
+        "ceased_on": "2021-10-19",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "Helpstreet Global Uk Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2019-12-11",
+        "ceased_on": "2020-05-18",
+        "address": {
+          "address_line_1": "Goswell Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "premises": "60"
+        },
+        "identification": {
+          "legal_form": "Uk",
+          "legal_authority": "Uk"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "123599900001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-12-08",
+        "delivered_on": "2020-12-10",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bibby Financial Services Limited"
+          }
+        ],
+        "satisfied_on": "2022-03-14",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-09-05",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDB1CCW2",
+        "transaction_id": "MzQzNDY0NTAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-05",
+        "description": "appoint-corporate-director-company-with-name-date",
+        "type": "AP02",
+        "pages": 2,
+        "barcode": "XDB1CBK9",
+        "transaction_id": "MzQzNDY0NDY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDB1C9IR",
+        "transaction_id": "MzQzNDY0NDIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-05",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDB1C7OX",
+        "transaction_id": "MzQzNDY0MzgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-03",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XD6K89VU",
+        "transaction_id": "MzQyNzU3NjAxMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-03",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD6K891D",
+        "transaction_id": "MzQyNzU3NTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2024-01-16",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQwNzUwODY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-11-28",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQwMDkzMDAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC41S183",
+        "transaction_id": "MzM4MDMxOTQ4NmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-10-28",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XBFIHNG3",
+        "transaction_id": "MzM1NjgwMzU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBDKP7LL",
+        "transaction_id": "MzM1MzU5MTgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-29",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBDKP7K9",
+        "transaction_id": "MzM1MzU5MTY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBDKP74Z",
+        "transaction_id": "MzM1MzU5MTU1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-29",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBDKP4QZ",
+        "transaction_id": "MzM1MzU5MTEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB3W5LAA",
+        "transaction_id": "MzMzOTEwNjMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-14",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAZSA7FK",
+        "transaction_id": "MzMzMjcyODg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-19",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAFGMHDT",
+        "transaction_id": "MzMxNzQ0NDgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-09-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUFESU1JOElhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-23",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YADIMI4Q",
+        "transaction_id": "MzMxNDQ0NTgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XADFSVLC",
+        "transaction_id": "MzMxNDI5NjUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-20",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XADFSUZN",
+        "transaction_id": "MzMxNDI5NDUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XADFSU08",
+        "transaction_id": "MzMxNDI5NDMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XACPDHA3",
+        "transaction_id": "MzMxMzQ3NzA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4W9LJ7",
+        "transaction_id": "MzMwMTY0OTMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-12-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 25,
+        "barcode": "X9JL9OLT",
+        "transaction_id": "MzI4NTY0NDg5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 34,
+    "recent_filings_count": 0
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "website": "https://Hapihealthcare.com",
+    "headcount": 17,
+    "tech_stack": [
+      "Google Tag Manager GTM-P658T6FZ",
+      "RapidCare4U app",
+      "Rapid LovedOnes",
+      "Patient Management System (integration capability)"
+    ],
+    "business_keywords": [
+      "care home management software",
+      "digital health communication platform",
+      "external health provision",
+      "compliance management",
+      "rostering",
+      "billing",
+      "appointment booking",
+      "health professionals scheduling",
+      "patient management system integration",
+      "real-time communication",
+      "family communication",
+      "payment collection",
+      "care home portal",
+      "health information-sharing",
+      "care home compliance"
+    ],
+    "services": [
+      "Management of external health services for care homes",
+      "Booking appointments for external health professionals",
+      "Scheduling health professionals",
+      "Documenting outcomes of external health services",
+      "Ensuring compliance of external health providers",
+      "Facilitating family communication in real-time",
+      "Payment collection for external health services",
+      "Integration with existing Patient Management Systems",
+      "Providing a free platform for care homes to manage external health services",
+      "Offering a Pay-As-You-Go option for appointment booking",
+      "Providing an online care home portal and app (RapidCare4U) for loved ones"
+    ],
+    "customer_segments": [
+      "Care Home Managers",
+      "Loved Ones of care home residents",
+      "Health Professionals",
+      "Care Homes",
+      "Patients in care homes"
+    ],
+    "business_description": "Rapid is a digital health communication platform designed for care homes to simplify the management of external health provision, such as podiatry and physiotherapy. It offers tools for booking appointments, scheduling health professionals, ensuring compliance, facilitating real-time communication with residents' loved ones, and integrating with existing Patient Management Systems. The platform is provided free of charge to care homes.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:05:54.728Z"
+  },
+  "scraped_at": "2026-01-10T22:05:45.382Z",
+  "updated_at": "2026-01-10T22:05:54.728Z",
+  "version": 1
+}

@@ -1,0 +1,434 @@
+{
+  "company_name": "345 TECHNOLOGY LIMITED",
+  "company_number": "12182889",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-09-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "8 Spur Road, Cosham, Portsmouth, PO6 3EB, England",
+  "registered_address_structured": {
+    "address_line_1": "8 Spur Road",
+    "address_line_2": "Cosham",
+    "country": "England",
+    "locality": "Portsmouth",
+    "postal_code": "PO6 3EB"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-15",
+    "last_made_up_to": "2025-09-01",
+    "next_made_up_to": "2026-09-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BROWN, Paul David",
+        "officer_role": "director",
+        "appointed_on": "2019-09-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spur Road",
+          "address_line_2": "Cosham",
+          "country": "England",
+          "locality": "Portsmouth",
+          "postal_code": "PO6 3EB",
+          "premises": "8"
+        }
+      },
+      {
+        "name": "HOCKEY, James Robert",
+        "officer_role": "director",
+        "appointed_on": "2019-09-02",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spur Road",
+          "address_line_2": "Cosham",
+          "country": "England",
+          "locality": "Portsmouth",
+          "postal_code": "PO6 3EB",
+          "premises": "8"
+        }
+      },
+      {
+        "name": "RIVERS, Andrew, Dr",
+        "officer_role": "director",
+        "appointed_on": "2019-09-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spur Road",
+          "address_line_2": "Cosham",
+          "country": "England",
+          "locality": "Portsmouth",
+          "postal_code": "PO6 3EB",
+          "premises": "8"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Dr Andrew Rivers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-09-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spur Road",
+          "address_line_2": "Cosham",
+          "country": "England",
+          "locality": "Portsmouth",
+          "postal_code": "PO6 3EB",
+          "premises": "8"
+        }
+      },
+      {
+        "name": "Mr Paul David Brown",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-09-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spur Road",
+          "address_line_2": "Cosham",
+          "country": "England",
+          "locality": "Portsmouth",
+          "postal_code": "PO6 3EB",
+          "premises": "8"
+        }
+      },
+      {
+        "name": "Mr James Robert Hockey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-09-02",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Spur Road",
+          "address_line_2": "Cosham",
+          "country": "England",
+          "locality": "Portsmouth",
+          "postal_code": "PO6 3EB",
+          "premises": "8"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "121828890001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-02-13",
+        "delivered_on": "2024-02-26",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ecapital Commercial Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEC6I6IP",
+        "transaction_id": "MzQ4MzI0NTU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAVY1Q0",
+        "transaction_id": "MzQ4MDU3MzIwOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-04-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "barcode": "ADZJ4FZF",
+        "transaction_id": "QURaSjRGWkZhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-04-08",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 28,
+        "barcode": "ADZJ4FZR",
+        "transaction_id": "MzQ2MTY0MzMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-08",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "ADZJ4G02",
+        "transaction_id": "MzQ2MTY0MzMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-08",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "ADZJ4FXF",
+        "transaction_id": "MzQ2MTY0MzMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCRIA8P",
+        "transaction_id": "MzQzNzc1ODI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDB9EF3K",
+        "transaction_id": "MzQzNDk3NDYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-02-26",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XCXOXUIR",
+        "transaction_id": "MzQxMjQzODA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCBNOGXE",
+        "transaction_id": "MzM5MjMwMDIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC9KVS82",
+        "transaction_id": "MzM4OTA5MTU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-02-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUJYRFhCV0phZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-01-03",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 27,
+        "barcode": "ABJ7Z6PU",
+        "transaction_id": "MzM2MjkyNDI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-01-03",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "ABJ7Z6Q2",
+        "transaction_id": "MzM2MjkyNDI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-01-03",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "ABJ7Z6QA",
+        "transaction_id": "MzM2MjkyNDI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-07",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBE3PQKZ",
+        "transaction_id": "MzM1NDQxOTE5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBC06OCP",
+        "transaction_id": "MzM1MDkyNDkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB08KT8H",
+        "transaction_id": "MzMzMzQ3NDUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAEN5Q6G",
+        "transaction_id": "MzMxNjM1OTI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XA6UBYOI",
+        "transaction_id": "MzMwNDc4MzM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA29NPBF",
+        "transaction_id": "MzI5NzQ0Mjk3NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA29NOLU",
+        "transaction_id": "MzI5NzQ0MjgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA29NNPV",
+        "transaction_id": "MzI5NzQ0MjU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-04-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA29NMID",
+        "transaction_id": "MzI5NzQ0MjQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CRZZOJ",
+        "transaction_id": "MzI3Njg1MjE0MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 22
+  },
+  "enrichment": {
+    "website": "https://345.technology",
+    "headcount": 22,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:32:33.999Z",
+  "scraped_at": "2026-01-10T21:32:33.999Z"
+}

@@ -1,0 +1,505 @@
+{
+  "company_name": "CALABRIO UK LIMITED",
+  "company_number": "11121518",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-12-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Smiths Building Great Portland Street, 179, London, W1W 5PL, England",
+  "registered_address_structured": {
+    "address_line_1": "The Smiths Building Great Portland Street",
+    "address_line_2": "179",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 5PL"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-03",
+    "last_made_up_to": "2025-12-20",
+    "next_made_up_to": "2026-12-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GILLERT, Carl Eugene",
+        "officer_role": "director",
+        "appointed_on": "2025-03-10",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1970,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "179",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PL",
+          "premises": "The Smiths Building"
+        }
+      },
+      {
+        "name": "GELLER, Joshua Samuel",
+        "officer_role": "director",
+        "appointed_on": "2024-11-27",
+        "resigned_on": "2026-01-08",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1980,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "179",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PL",
+          "premises": "The Smiths Building"
+        }
+      },
+      {
+        "name": "GOODMANSON, Thomas",
+        "officer_role": "director",
+        "appointed_on": "2017-12-21",
+        "resigned_on": "2023-01-25",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1969,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "North 5th Ave, Suite 1200",
+          "country": "United States",
+          "locality": "Minneapolis",
+          "postal_code": "55401",
+          "premises": "241",
+          "region": "Mn"
+        }
+      },
+      {
+        "name": "GRASSEL, Susan",
+        "officer_role": "director",
+        "appointed_on": "2020-09-01",
+        "resigned_on": "2024-02-09",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1985,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Suite 1200",
+          "country": "United States",
+          "locality": "Minneapolis",
+          "postal_code": "55401",
+          "premises": "241 North 5th Ave",
+          "region": "Mn"
+        }
+      },
+      {
+        "name": "HANSEN, Jill Diana",
+        "officer_role": "director",
+        "appointed_on": "2024-02-19",
+        "resigned_on": "2025-09-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1978,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "179",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 5PL",
+          "premises": "The Smiths Building"
+        }
+      },
+      {
+        "name": "JONES, Kevin Milas",
+        "officer_role": "director",
+        "appointed_on": "2023-01-25",
+        "resigned_on": "2024-02-19",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Suite 1200",
+          "country": "United States",
+          "locality": "Minneapolis",
+          "premises": "241 N 5th Ave"
+        }
+      },
+      {
+        "name": "KRAY, Jennifer",
+        "officer_role": "director",
+        "appointed_on": "2017-12-21",
+        "resigned_on": "2020-08-31",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1974,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "North 5th Ave, Suite 1200",
+          "country": "United States",
+          "locality": "Minneapolis",
+          "postal_code": "55401",
+          "premises": "241",
+          "region": "Mn"
+        }
+      },
+      {
+        "name": "LADDUSAW, Todd Alan",
+        "officer_role": "director",
+        "appointed_on": "2024-02-19",
+        "resigned_on": "2024-11-15",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1967,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Melcombe Place",
+          "address_line_2": "Marylebone",
+          "locality": "London",
+          "postal_code": "NW1 6JJ",
+          "premises": "12"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Kkr & Co. L.P.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-12-21",
+        "ceased_on": "2021-03-05",
+        "address": {
+          "address_line_1": "Suite 4200",
+          "country": "United States",
+          "locality": "New York",
+          "postal_code": "10019",
+          "premises": "9 West 57th Street",
+          "region": "New York"
+        },
+        "identification": {
+          "legal_form": "Corporation",
+          "legal_authority": "Delaware, United States"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2026-01-08",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XETB0XU9",
+        "transaction_id": "MzQ5ODMwNjgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2026-01-07",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XET881KH",
+        "transaction_id": "MzQ5ODEzNDIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEI27NN4",
+        "transaction_id": "MzQ5NjI2ODQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEE2FEDU",
+        "transaction_id": "MzQ4NjQzNzk2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-01",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE5V4JHL",
+        "transaction_id": "MzQ3MjE1MzUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDZMC6VF",
+        "transaction_id": "MzQ2MTE0MzMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDY3E489",
+        "transaction_id": "MzQ1Nzk2NzQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDJ30X0O",
+        "transaction_id": "MzQ0OTM2OTQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDGR2Y41",
+        "transaction_id": "MzQ0NTE1MzM0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDGR2UXD",
+        "transaction_id": "MzQ0NTE1MjY1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-27",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCJGL9D",
+        "transaction_id": "MzQzNzUzNTg5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCZ4DBVL",
+        "transaction_id": "MzQxNDkwMDc5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCZ4DF3L",
+        "transaction_id": "MzQxNDkwMTQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCZ4DCY2",
+        "transaction_id": "MzQxNDkwMDk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCZ4D9L5",
+        "transaction_id": "MzQxNDkwMDMwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCTYD2RT",
+        "transaction_id": "MzQwNjQzNTgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIVSMX6",
+        "transaction_id": "MzQwNTQ0OTAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-30",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XC4NC703",
+        "transaction_id": "MzM4MTIzNzkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-30",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC4NC5C3",
+        "transaction_id": "MzM4MTIzNzU0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-25",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBVZ42NE",
+        "transaction_id": "MzM2NzA5ODQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-25",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBVZ3T5E",
+        "transaction_id": "MzM2NzA5NjI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBJBV9JC",
+        "transaction_id": "MzM2MzI2MTI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBDKJ080",
+        "transaction_id": "MzM1MzUzMzc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJSHFU9",
+        "transaction_id": "MzMyNDI3MDI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-25",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XABLF740",
+        "transaction_id": "MzMxMTcxOTc5NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 37,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 33
+  },
+  "enrichment": {
+    "website": "https://Calabrio.com",
+    "headcount": 33,
+    "tech_stack": [],
+    "business_keywords": [
+      "AI-Powered Workforce Engagement Management",
+      "Workforce Engagement Management Software",
+      "Contact Center Intelligence",
+      "AI-driven WFM software",
+      "Conversation Intelligence",
+      "Performance Management",
+      "Workforce Optimization",
+      "Agent Engagement",
+      "Customer Experience (CX)",
+      "AI-powered automation",
+      "Sentiment Analysis",
+      "Quality Management (QM)",
+      "Scheduling",
+      "Agent Assist",
+      "GenAI"
+    ],
+    "services": [
+      "AI-powered workforce engagement management software suite for contact centers",
+      "AI-driven workforce management (WFM) software",
+      "AI-powered Conversation Intelligence solutions",
+      "Performance Management connecting quality and workforce data",
+      "Auto Quality Management (Auto QM) with AI scoring of customer interactions",
+      "Agent Assist for self-service scheduling and task automation",
+      "Trending Topics tool for identifying customer call drivers",
+      "Advanced Sentiment analysis for customer and agent interactions",
+      "GenAI-powered Interaction Summaries for post-call insights",
+      "Skills-based forecasting and scheduling",
+      "Agent portal for goals, feedback, and scheduling",
+      "Bot performance visibility and optimization"
+    ],
+    "customer_segments": [
+      "Contact centers",
+      "Global brands",
+      "Remote workforces",
+      "Customer service teams",
+      "Workforce optimization teams",
+      "Quality assurance (QA) analysts",
+      "Supervisors",
+      "Agents"
+    ],
+    "business_description": "Calabrio UK Limited provides an AI-powered workforce engagement management (WEM) software suite designed for contact centers. The platform integrates workforce optimization, conversation intelligence, and agent engagement tools to enhance efficiency, reduce manual effort, and improve customer and agent experiences. Calabrio ONE delivers AI-driven insights, automation, and performance management in a unified platform.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:47:21.025Z"
+  },
+  "scraped_at": "2026-01-10T18:47:13.169Z",
+  "updated_at": "2026-01-10T18:47:21.024Z",
+  "version": 1
+}

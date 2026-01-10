@@ -1,0 +1,480 @@
+{
+  "company_name": "TASMAN GROUP LIMITED",
+  "company_number": "11264566",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-03-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "167-169 Great Portland Street, 5th Floor, London, W1W 5PF, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "167-169 Great Portland Street",
+    "address_line_2": "5th Floor",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "W1W 5PF"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-28",
+    "last_made_up_to": "2025-02-14",
+    "next_made_up_to": "2026-02-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SHIMON, Jennifer Erin",
+        "officer_role": "director",
+        "appointed_on": "2024-03-21",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1986,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "5th Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 5PF",
+          "premises": "167-169"
+        }
+      },
+      {
+        "name": "COSTANZO, James",
+        "officer_role": "director",
+        "appointed_on": "2022-08-31",
+        "resigned_on": "2024-03-21",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1962,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Suite 600",
+          "country": "United States",
+          "locality": "Madison",
+          "premises": "2601 West Beltline Hwy",
+          "region": "Wisconsin 5373"
+        }
+      },
+      {
+        "name": "FLATLAND, Adrienne",
+        "officer_role": "director",
+        "appointed_on": "2018-03-20",
+        "resigned_on": "2022-04-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1983,
+        "nationality": "American",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "207 Old Street",
+          "address_line_2": "6th Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 9NR",
+          "premises": "The Bower"
+        }
+      },
+      {
+        "name": "FLATLAND, Jeffrey Allan",
+        "officer_role": "director",
+        "appointed_on": "2018-03-20",
+        "resigned_on": "2022-08-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "American",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "207 Old Street",
+          "address_line_2": "6th Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 9NR",
+          "premises": "The Bower"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ANNALLS, Stephen John",
+        "officer_role": "secretary",
+        "appointed_on": "2024-03-04",
+        "address": {
+          "address_line_1": "The Verne",
+          "address_line_2": "Church Crookham",
+          "country": "England",
+          "locality": "Fleet",
+          "postal_code": "GU52 6LU",
+          "premises": "32"
+        }
+      },
+      {
+        "name": "GARCIA NELEN, Guillermo Carlos",
+        "officer_role": "secretary",
+        "appointed_on": "2022-03-30",
+        "resigned_on": "2023-12-15",
+        "address": {
+          "address_line_1": "Finsbury Pavement",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 1NT",
+          "premises": "131"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Bon Secours Mercy Health, Inc.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2022-06-01",
+        "ceased_on": "2023-09-01",
+        "address": {
+          "address_line_1": "1701 Mercy Health Place",
+          "country": "United States",
+          "locality": "Ohio",
+          "postal_code": "45237",
+          "premises": "52-1301088",
+          "region": "Cincinnati"
+        },
+        "identification": {
+          "legal_form": "Incorporation, Non-Profit Organization",
+          "legal_authority": "Laws Of Florida"
+        }
+      },
+      {
+        "name": "Nordic Consulting Group",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2020-10-01",
+        "ceased_on": "2023-09-19",
+        "address": {
+          "address_line_1": "West Beltline Highway",
+          "address_line_2": "Suite 600",
+          "country": "United States",
+          "locality": "Madison",
+          "premises": "2601"
+        },
+        "identification": {
+          "legal_form": "Corporation",
+          "legal_authority": "The Securities Act Of 1933"
+        }
+      },
+      {
+        "name": "Tasman Global Holdings B.V.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2018-03-21",
+        "ceased_on": "2023-09-19",
+        "address": {
+          "address_line_1": "Eerste Jacob Van Campenstraat",
+          "country": "Netherlands",
+          "locality": "Amsterdam",
+          "postal_code": "1072 BG",
+          "premises": "46h"
+        },
+        "identification": {
+          "legal_form": "Besloten Vennootschap",
+          "legal_authority": "Boek 2 Van Het Burgerlijk Wetboek, Titel 5: Besloten Vennootschappen Met Beperkte Aansprakelijkheid (Book 2 Of Civil Code, Titel 5: Limited Liability Companies)",
+          "country_registered": "Netherlands",
+          "place_registered": "Kamer Van Koophandel (Chamber Of Commerce",
+          "registration_number": "64434877"
+        }
+      },
+      {
+        "name": "Adrienne Flatland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-03-20",
+        "ceased_on": "2020-09-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1983,
+        "nationality": "American",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "15th Floor",
+          "address_line_2": "6 Bevis Marks, Bury Court",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3A 7BA",
+          "premises": "C/O Browne Jacobson Llp"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AEHR5TTL",
+        "transaction_id": "MzQ5NTYzMzYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AEA2L6A5",
+        "transaction_id": "MzQ3OTY1ODE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWD31O3",
+        "transaction_id": "MzQ1NTAzNjU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDAVXSK2",
+        "transaction_id": "MzQzNDMzMDkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD9UA43M",
+        "transaction_id": "MzQzMjY0Njk2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD9UA32R",
+        "transaction_id": "MzQzMjY0NjczOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCZ75QAQ",
+        "transaction_id": "MzQxNTEzOTgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCYWDRB7",
+        "transaction_id": "MzQxNDU1NjI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-04",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCY5G9P6",
+        "transaction_id": "MzQxMzMyMDQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-04",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCY5G7XL",
+        "transaction_id": "MzQxMzMxOTk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCW1VU1D",
+        "transaction_id": "MzQwOTgwMTY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCHCV4SG",
+        "transaction_id": "MzQwMjEyNzkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-09",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XCFXJMXR",
+        "transaction_id": "MzM5OTQwNDI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCDJH1WN",
+        "transaction_id": "MzM5NTU0OTcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-09-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCCH8389",
+        "transaction_id": "MzM5Mzg2MDUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-09-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCCH82NE",
+        "transaction_id": "MzM5Mzg2MDI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC08ZE9F",
+        "transaction_id": "MzM3NDMyMjY2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBDNACZE",
+        "transaction_id": "MzM1MzYzNTQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBDC8TVM",
+        "transaction_id": "MzM1Mjk2NzA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBDC8S57",
+        "transaction_id": "MzM1Mjk2NjExMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-01",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 1,
+        "barcode": "XB9HJKQZ",
+        "transaction_id": "MzM0NzQxOTg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-07",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB1G6JU3",
+        "transaction_id": "MzMzNTYwMzkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-07",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XB1G6AK1",
+        "transaction_id": "MzMzNTYwMTgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1017JU",
+        "transaction_id": "MzMzNDk4MDc5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XADIHK0W",
+        "transaction_id": "MzMxNDM5ODc0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Siconsult.com",
+    "headcount": 16,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T19:11:24.187Z",
+  "scraped_at": "2026-01-10T19:11:24.187Z"
+}

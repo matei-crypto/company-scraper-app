@@ -1,0 +1,439 @@
+{
+  "company_name": "MEDIFINTECH LTD",
+  "company_number": "11932223",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-04-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Senator House, 85 Queen Victoria Street, London, EC4V 4AB, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Senator House",
+    "address_line_2": "85 Queen Victoria Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4V 4AB"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-21",
+    "last_made_up_to": "2025-04-07",
+    "next_made_up_to": "2026-04-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GAZARD, Stephen Charles",
+        "officer_role": "director",
+        "appointed_on": "2025-04-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      },
+      {
+        "name": "GEARD, Stuart James",
+        "officer_role": "director",
+        "appointed_on": "2025-04-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1974,
+        "nationality": "British,South African",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      },
+      {
+        "name": "CROSSLEY, Graham Donald",
+        "officer_role": "director",
+        "appointed_on": "2019-04-08",
+        "resigned_on": "2025-04-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "QUILTER COSEC SERVICES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2025-04-07",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      },
+      {
+        "name": "CROSSLEY, Amber Crystal",
+        "officer_role": "secretary",
+        "appointed_on": "2020-02-06",
+        "resigned_on": "2025-04-01",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Quilter Financial Planning Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-04-01",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "05372217"
+        }
+      },
+      {
+        "name": "Mrs Amber Crystal Crossley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2025-01-31",
+        "ceased_on": "2025-04-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      },
+      {
+        "name": "Mr Graham Donald Crossley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-04-08",
+        "ceased_on": "2025-04-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "85 Queen Victoria Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4V 4AB",
+          "premises": "Senator House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "AEBU06VS",
+        "transaction_id": "MzQ4Mjg5ODEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-13",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE2H7MO8",
+        "transaction_id": "MzQ2NTk0NjcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE11J8U3",
+        "transaction_id": "MzQ2MzUwNjA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE11HUFL",
+        "transaction_id": "MzQ2MzQ5Mzc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-04-14",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 27,
+        "barcode": "YDZZXOW9",
+        "transaction_id": "MzQ2MTY1NTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-10",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE05QLEO",
+        "transaction_id": "MzQ2MjE2MTQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-10",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE05QLEG",
+        "transaction_id": "MzQ2MjE2MTQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-10",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XE05JGRE",
+        "transaction_id": "MzQ2MjEwNDI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE05JGLT",
+        "transaction_id": "MzQ2MjEwNDI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE05JGI1",
+        "transaction_id": "MzQ2MjEwNDI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XE05JGPM",
+        "transaction_id": "MzQ2MjEwNDI1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-10",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE05JGHT",
+        "transaction_id": "MzQ2MjEwNDI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE030CO0",
+        "transaction_id": "MzQ2MjA1MTI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-31",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDVDX1I8",
+        "transaction_id": "MzQ1MzI4NjQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDVDVHEB",
+        "transaction_id": "MzQ1MzI3MzY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD131INF",
+        "transaction_id": "MzQxODI2MTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCVD1V2A",
+        "transaction_id": "MzQwODUwODIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC107P5L",
+        "transaction_id": "MzM3NTYwMDI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBV0976Y",
+        "transaction_id": "MzM2NTQwNjA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1TG5GJ",
+        "transaction_id": "MzMzNjExOTA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-amended-with-accounts-type-micro-entity",
+        "type": "AAMD",
+        "pages": 4,
+        "barcode": "AB0QT4X4",
+        "transaction_id": "MzMzNDQ4MzAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XB0JE1HK",
+        "transaction_id": "MzMzNDA4MDg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2SJCYP",
+        "transaction_id": "MzI5ODIxMzI4MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-01-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9WVZNM9",
+        "transaction_id": "MzI4OTUwMDA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X98LGO83",
+        "transaction_id": "MzI3MjM5OTA4OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 15
+  },
+  "financials": {
+    "revenue": 870765,
+    "ebitda": 475537,
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T20:57:33.274Z",
+  "scraped_at": "2026-01-10T20:57:33.274Z"
+}

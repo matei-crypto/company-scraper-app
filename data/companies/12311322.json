@@ -1,0 +1,489 @@
+{
+  "company_name": "OBCONNECT LIMITED",
+  "company_number": "12311322",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-11-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit Wg08 West Building, 1-45 Durham Street, London, SE11 5JH, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit Wg08 West Building",
+    "address_line_2": "1-45 Durham Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE11 5JH"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2023-12-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-11-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-25",
+    "last_made_up_to": "2025-11-11",
+    "next_made_up_to": "2026-11-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CARRASCO RAMOS BENTES ENGANA, Rui Pedro",
+        "officer_role": "director",
+        "appointed_on": "2019-11-12",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1979,
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Building",
+          "address_line_2": "1-45 Durham Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE11 5JH",
+          "premises": "Unit Wg08"
+        }
+      },
+      {
+        "name": "COLES, Simon",
+        "officer_role": "director",
+        "appointed_on": "2024-10-29",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Building",
+          "address_line_2": "1-45 Durham Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE11 5JH",
+          "premises": "Unit Wg08"
+        }
+      },
+      {
+        "name": "MORFORD, Darran Neil",
+        "officer_role": "director",
+        "appointed_on": "2019-11-12",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Building",
+          "address_line_2": "1-45 Durham Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE11 5JH",
+          "premises": "Wg08"
+        }
+      },
+      {
+        "name": "TOOLAN, Josephine Sarah Anne",
+        "officer_role": "director",
+        "appointed_on": "2024-10-29",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Building",
+          "address_line_2": "1-45 Durham Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE11 5JH",
+          "premises": "Unit Wg08"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "INDIGO CORPORATE SECRETARY LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2024-10-31",
+        "address": {
+          "address_line_1": "Vincent Court, Ground Floor",
+          "address_line_2": "853-855 London Road",
+          "country": "United Kingdom",
+          "locality": "Westcliff On Sea",
+          "postal_code": "SS0 9SZ",
+          "premises": "Indigo Independent Governance Limited",
+          "region": "Essex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Paypoint Plc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2024-10-29",
+        "address": {
+          "address_line_1": "Shire Park",
+          "country": "United Kingdom",
+          "locality": "Welwyn Garden City",
+          "postal_code": "AL7 1EL",
+          "premises": "1 The Boulevard",
+          "region": "Hertfordshire"
+        },
+        "identification": {
+          "legal_form": "Public Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "03581541"
+        }
+      },
+      {
+        "name": "Mr Darran Neil Morford",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-11-12",
+        "ceased_on": "2024-10-29",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Building",
+          "address_line_2": "1-45 Durham Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE11 5JH",
+          "premises": "Wg08"
+        }
+      },
+      {
+        "name": "Mr Rui Pedro Carrasco Ramos Bentes Engana",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-11-12",
+        "ceased_on": "2024-10-29",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1979,
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Building",
+          "address_line_2": "1-45 Durham Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE11 5JH",
+          "premises": "Unit Wg08"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGNIW49",
+        "transaction_id": "MzQ5MjE5MjIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-20",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XEFQUG36",
+        "transaction_id": "MzQ5MDA0NjgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE98DEMW",
+        "transaction_id": "MzQ3NzU5ODc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XDIKPOKX",
+        "transaction_id": "MzQ0ODc4NDg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-11",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 3,
+        "barcode": "ADHB0QM1",
+        "transaction_id": "MzQ0Njc4OTM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-11-17",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 34,
+        "barcode": "YDF8WD2Y",
+        "transaction_id": "MzQ0MjAzODQ0OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-11-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "barcode": "YDF8WCEY",
+        "transaction_id": "WURGOFdDRVlhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-11-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "barcode": "YDF8WBYG",
+        "transaction_id": "WURGOFdCWUdhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-13",
+        "description": "second-filing-of-director-appointment-with-name",
+        "type": "RP04AP01",
+        "pages": 3,
+        "barcode": "XDFMFDSA",
+        "transaction_id": "MzQ0MjY2NjY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-13",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADFEOGKW",
+        "transaction_id": "MzQ0Mjc5OTQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-13",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADFEOGJC",
+        "transaction_id": "MzQ0Mjc5OTQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-12",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "YDF8WDSX",
+        "transaction_id": "MzQ0MjAzODU2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-11",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 3,
+        "barcode": "XDFMFCD5",
+        "transaction_id": "MzQ0MjY0NjM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDFOSWLE",
+        "transaction_id": "MzQ0MjYwNzMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDF8W9TT",
+        "transaction_id": "MzQ0MjAzNzU0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-05",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDF8W8V4",
+        "transaction_id": "MzQ0MjAzNzQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-05",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDF8W8SO",
+        "transaction_id": "MzQ0MjAzNzI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDF8W86P",
+        "transaction_id": "MzQ0MjAzNzAwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDA4ZZ8I",
+        "transaction_id": "MzQzMzIyMTc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD7GBWEJ",
+        "transaction_id": "MzQyODg5NTU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCHQ49VK",
+        "transaction_id": "MzQwMjU5OTA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-11-01",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 37,
+        "barcode": "YCEVKWO2",
+        "transaction_id": "MzM5Nzc4MzY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-11-01",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "transaction_id": "WUNFVktXNTVhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC5M7SO2",
+        "transaction_id": "MzM4MjcyMzE0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-10",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBUXMQJ6",
+        "transaction_id": "MzM2NTI4MTcyMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Obconnect.io",
+    "headcount": 11,
+    "tech_stack": [
+      "Google Tag Manager (GTM-WXJ7PM6X)",
+      "Untitled (project kickstart tool)"
+    ],
+    "business_keywords": [
+      "Open Banking",
+      "Confirmation of Payee (CoP)",
+      "Verification of Payee (VoP)",
+      "Data sharing",
+      "Payments",
+      "Name checking",
+      "Identity",
+      "Compliance",
+      "API management",
+      "Bank Compliance Architecture",
+      "TPP Software",
+      "Cloud platforms",
+      "Fraud reduction",
+      "Financial inclusion",
+      "Ecosystems"
+    ],
+    "services": [
+      "Verification of Payee (VoP) implementation",
+      "Confirmation of Payee (CoP) cross-checking",
+      "Open Banking API management",
+      "Bank Compliance Architecture for data exposure and third-party payments",
+      "TPP Software for corporates (pay-by-bank, account linking, transaction access)",
+      "Open Banking solutions for corporates, banks, and financial institutions",
+      "Technology support for functionality, security, and reliability",
+      "Cloud-based Open Banking solutions"
+    ],
+    "customer_segments": [
+      "Corporates",
+      "Banks",
+      "Financial Institutions",
+      "Fintechs"
+    ],
+    "business_description": "OBCONNECT LIMITED is a UK-based provider specializing in Open Banking and Confirmation of Payee (CoP) solutions since 2019. The company offers end-to-end services, including API-driven technology, compliance architecture, and fraud-reducing payment verification tools for corporates, banks, and financial institutions. It focuses on delivering secure, scalable, and accessible Open Banking solutions without transaction or volume-based fees.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T21:57:25.718Z"
+  },
+  "scraped_at": "2026-01-10T21:57:15.593Z",
+  "updated_at": "2026-01-10T21:57:25.718Z",
+  "version": 1
+}

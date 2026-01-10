@@ -1,0 +1,330 @@
+{
+  "company_name": "AARVN IT LTD",
+  "company_number": "11265244",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-03-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Green Oaks Shopping Centre, Ground Floor, Widnes, WA8 6UD, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Green Oaks Shopping Centre",
+    "address_line_2": "Ground Floor",
+    "country": "United Kingdom",
+    "locality": "Widnes",
+    "postal_code": "WA8 6UD"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-17",
+    "last_made_up_to": "2025-04-03",
+    "next_made_up_to": "2026-04-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BOYAPALLI, Naveen Kumar Reddy",
+        "officer_role": "director",
+        "appointed_on": "2018-03-20",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Darby Road",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L19 9DF",
+          "premises": "48"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Naveen Kumar Reddy Boyapalli",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-03-20",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Darby Road",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L19 9DF",
+          "premises": "48"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XEG4AMFU",
+        "transaction_id": "MzQ5MTA2OTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE8HTYYI",
+        "transaction_id": "MzQ3NjY2MzczOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1494SH",
+        "transaction_id": "MzQ2MzY3OTE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDGWL9AA",
+        "transaction_id": "MzQ0NTUwMDY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1B8BB5",
+        "transaction_id": "MzQxODgyMDM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCAU3GW2",
+        "transaction_id": "MzM5MDk2MDkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2427JU",
+        "transaction_id": "MzM3NzI5OTUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBI7B217",
+        "transaction_id": "MzM2MDk2NzgyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB6QAIZ5",
+        "transaction_id": "MzM0MzM2ODEwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB26H0BN",
+        "transaction_id": "MzMzNjQ1MDg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAAHIZIH",
+        "transaction_id": "MzMxMDE3NzE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2Y12UJ",
+        "transaction_id": "MzI5ODYwMzAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-01",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X9CP6B37",
+        "transaction_id": "MzI3NjYyODkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X926Z5U2",
+        "transaction_id": "MzI2MTY5NjYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X91W6D3F",
+        "transaction_id": "MzI2MTIwMTY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X91W6994",
+        "transaction_id": "MzI2MTIwMDU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-03-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X91W68PD",
+        "transaction_id": "MzI2MTIwMDQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X91W67O0",
+        "transaction_id": "MzI2MTIwMDE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-04",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8DBFE29",
+        "transaction_id": "MzI0MzQ0MzI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X82LGI9L",
+        "transaction_id": "MzIzMTEzMzMzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X82LGGJC",
+        "transaction_id": "MzIzMTEzMjg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-03-20",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "X720SZ7U",
+        "transaction_id": "MzIwMDM3NjIxM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Aarvnitltd.co.uk",
+    "headcount": 7,
+    "tech_stack": [],
+    "business_keywords": [
+      "dataware housing",
+      "data applications",
+      "software solutions",
+      "business solutions",
+      "data integration",
+      "disparate datasources",
+      "single repository",
+      "IT solutions",
+      "specialist services",
+      "data management"
+    ],
+    "services": [
+      "building Dataware housing applications",
+      "integrating data from disparate datasources into a single repository"
+    ],
+    "customer_segments": [
+      "businesses"
+    ],
+    "business_description": "AARVN IT LTD specializes in building Dataware housing applications that consolidate data from disparate sources into a single repository. The company provides software solutions aimed at improving business operations.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:11:37.886Z"
+  },
+  "scraped_at": "2026-01-10T19:11:33.789Z",
+  "updated_at": "2026-01-10T19:11:37.886Z",
+  "version": 1
+}

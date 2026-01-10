@@ -1,0 +1,332 @@
+{
+  "company_name": "BRENTINNOVATE LTD",
+  "company_number": "12816372",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-08-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Teesdale Gardens, Isleworth, TW7 6AT, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Teesdale Gardens",
+    "country": "England",
+    "locality": "Isleworth",
+    "postal_code": "TW7 6AT"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "71129"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-10",
+    "last_made_up_to": "2025-05-27",
+    "next_made_up_to": "2026-05-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JAYARAJAN, Pavithra",
+        "officer_role": "director",
+        "appointed_on": "2020-08-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Teesdale Gardens",
+          "country": "England",
+          "locality": "Isleworth",
+          "postal_code": "TW7 6AT",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "RAMASWAMY, Rajesh",
+        "officer_role": "director",
+        "appointed_on": "2022-05-04",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Teesdale Gardens",
+          "country": "England",
+          "locality": "Isleworth",
+          "postal_code": "TW7 6AT",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Rajesh Ramaswamy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-05-31",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Teesdale Gardens",
+          "country": "England",
+          "locality": "Isleworth",
+          "postal_code": "TW7 6AT",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "Pavithra Jayarajan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2020-08-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Teesdale Gardens",
+          "country": "England",
+          "locality": "Isleworth",
+          "postal_code": "TW7 6AT",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE3FXT81",
+        "transaction_id": "MzQ2Nzg4NjUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE1KZH3N",
+        "transaction_id": "MzQ2NDY4MTY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4BBD09",
+        "transaction_id": "MzQyMzk3MzM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-31",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XD4AZWGP",
+        "transaction_id": "MzQyMzgyMzY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD4AZU35",
+        "transaction_id": "MzQyMzgyMzEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD4AZUGZ",
+        "transaction_id": "MzQyMzgyMzI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD4AZU0W",
+        "transaction_id": "MzQyMzgyMzEyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-31",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD4AZU41",
+        "transaction_id": "MzQyMzgyMzEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD254OOQ",
+        "transaction_id": "MzQyMDIyNTkzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCV56FZ7",
+        "transaction_id": "MzQwODI5NjAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCV56FTU",
+        "transaction_id": "MzQwODI5NjAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCV56FNL",
+        "transaction_id": "MzQwODI5NjAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCUX226X",
+        "transaction_id": "MzQwNzkwMDg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-20",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC85QOHU",
+        "transaction_id": "MzM4Njk4ODQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC831D9F",
+        "transaction_id": "MzM4Njg3NTQ1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC4PZSQR",
+        "transaction_id": "MzM4MTQxNTU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB8TJV7N",
+        "transaction_id": "MzM0NjU5ODk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB3AQE15",
+        "transaction_id": "MzMzODIxNDI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB37ZG3M",
+        "transaction_id": "MzMzODA1ODA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAB80QK3",
+        "transaction_id": "MzMxMTEzMDYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-08-16",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X9BDWN9V",
+        "transaction_id": "MzI3NTMwOTkyOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 21,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:01:42.399Z",
+  "scraped_at": "2026-01-10T23:01:42.399Z"
+}

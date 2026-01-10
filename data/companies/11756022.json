@@ -1,0 +1,407 @@
+{
+  "company_name": "FIX AN PHONE LTD",
+  "company_number": "11756022",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-01-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit-1   At 257 Northolt Road, Harrow, Middlesex, HA2 8HS, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Unit-1   At 257 Northolt Road",
+    "country": "United Kingdom",
+    "locality": "Harrow",
+    "postal_code": "HA2 8HS",
+    "region": "Middlesex"
+  },
+  "sic_codes": [
+    "47421",
+    "62090",
+    "95110"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-30",
+    "next_accounts_period_end_on": "2025-01-30",
+    "next_accounts_period_start_on": "2024-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-01-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-23",
+    "last_made_up_to": "2025-06-09",
+    "next_made_up_to": "2026-06-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NASRI, Fathima Shareeka",
+        "officer_role": "director",
+        "appointed_on": "2019-01-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Northolt Road",
+          "country": "United Kingdom",
+          "locality": "Harrow",
+          "postal_code": "HA2 8EB",
+          "premises": "280b"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Fathima Shareeka Nasri",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-01-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Northolt Road",
+          "country": "United Kingdom",
+          "locality": "Harrow",
+          "postal_code": "HA2 8EB",
+          "premises": "280b"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "117560220002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-12-01",
+        "delivered_on": "2021-12-16",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "chargor_acting_as_bare_trustee": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tallaght Financial LTD"
+          }
+        ],
+        "satisfied_on": "2024-09-30",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "117560220001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-12-14",
+        "delivered_on": "2020-12-17",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tallaght Financial LTD"
+          }
+        ],
+        "satisfied_on": "2021-11-18",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6JKFI9",
+        "transaction_id": "MzQ3MzMwNDQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XDDZ0GQJ",
+        "transaction_id": "MzQ0MDA2NzE0N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-09-30",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDCR97TE",
+        "transaction_id": "MzQzNzY4MzA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD60XAD7",
+        "transaction_id": "MzQyNjU0MDUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCUZVOWR",
+        "transaction_id": "MzQwODA2MDM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC5BRM36",
+        "transaction_id": "MzM4MjQ2MDA5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBUXKONF",
+        "transaction_id": "MzM2NTIzMDIyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBCDMS89",
+        "transaction_id": "MzM1MTYyMzEyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XAWNT69C",
+        "transaction_id": "MzMyODIwMjQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 14,
+        "barcode": "XAJHNK35",
+        "transaction_id": "MzMyMzg4NDE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-11-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAHJKUAX",
+        "transaction_id": "MzMyMDU2MjI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA8S4EBT",
+        "transaction_id": "MzMwNzc3NzMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XA1ZBCIW",
+        "transaction_id": "MzI5NzI1NjYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-08",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9VPPXEX",
+        "transaction_id": "MzI4ODA2MTM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-12-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 13,
+        "barcode": "X9K42ASZ",
+        "transaction_id": "MzI4NjMwOTc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X98TLH83",
+        "transaction_id": "MzI3MjcwODE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X90HZYOQ",
+        "transaction_id": "MzI1OTQ0MTkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-06-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8813JD6",
+        "transaction_id": "MzIzNzM0NDMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-05-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X86HFZRL",
+        "transaction_id": "MzIzNTU0MDU2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-02-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7YLQUFT",
+        "transaction_id": "MzIyNjEyMTY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-01-08",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X7WMH7BE",
+        "transaction_id": "MzIyMzg5NDY1N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 21,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Onsitephonefix.co.nz",
+    "headcount": 6,
+    "tech_stack": [
+      "Apple iPhone",
+      "Apple iPad",
+      "Apple iPod",
+      "Apple MacBook",
+      "Apple Mac Mini",
+      "Apple Mac Pro",
+      "Samsung"
+    ],
+    "business_keywords": [
+      "mobile phone repair",
+      "iPhone repair",
+      "iPad repair",
+      "screen repair",
+      "onsite repair",
+      "phone repair",
+      "tablet repair",
+      "MacBook repair",
+      "network unlocking",
+      "data transfer",
+      "water damage repair",
+      "charging fault repair",
+      "software issues repair",
+      "display repair",
+      "iPod repair"
+    ],
+    "services": [
+      "mobile phone repairs",
+      "iPhone screen repairs",
+      "iPad repairs",
+      "iPod repairs",
+      "MacBook repairs",
+      "Mac Mini repairs",
+      "Mac Pro repairs",
+      "network unlocking",
+      "data transfer",
+      "onsite phone repair",
+      "glass screen repair",
+      "LCD screen repair",
+      "iPhone diagnostic and repair",
+      "Samsung diagnostic and repair",
+      "iPad diagnostic and repair",
+      "iPod diagnostic and repair",
+      "tablet repair",
+      "charging cable replacement",
+      "tempered glass screen protector installation",
+      "clear phone case installation"
+    ],
+    "customer_segments": [
+      "small & medium sized businesses",
+      "professionals",
+      "families",
+      "students",
+      "residences"
+    ],
+    "business_description": "Onsite Phone Fix Ltd provides professional onsite mobile phone, iPad, and iPhone repair services in Auckland, including screen repairs, water damage fixes, and charging faults. They also offer MacBook repairs, network unlocking, data transfer, and onsite repair services for businesses, residences, and students. Repairs are backed by a hassle-free warranty and use high-quality parts.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:30:36.907Z"
+  },
+  "scraped_at": "2026-01-10T20:30:26.518Z",
+  "updated_at": "2026-01-10T20:30:36.907Z",
+  "version": 1
+}

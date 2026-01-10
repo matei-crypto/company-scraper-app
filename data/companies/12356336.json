@@ -1,0 +1,483 @@
+{
+  "company_name": "FRESH MANGO TECHNOLOGIES (UK) LTD",
+  "company_number": "12356336",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-12-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "6 Brewery Close, Melmerby, Ripon, HG4 5NL, England",
+  "registered_address_structured": {
+    "address_line_1": "6 Brewery Close",
+    "address_line_2": "Melmerby",
+    "country": "England",
+    "locality": "Ripon",
+    "postal_code": "HG4 5NL"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "THE WEB GUYS LTD",
+      "ceased_on": "2020-04-07",
+      "effective_from": "2019-12-10"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-13",
+    "last_made_up_to": "2025-11-29",
+    "next_made_up_to": "2026-11-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PHOENIX, Russell Guy",
+        "officer_role": "director",
+        "appointed_on": "2019-12-10",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brewery Close",
+          "address_line_2": "Melmerby",
+          "country": "England",
+          "locality": "Ripon",
+          "postal_code": "HG4 5NL",
+          "premises": "6"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "METCALF, Nicola Jane",
+        "officer_role": "secretary",
+        "appointed_on": "2023-11-20",
+        "resigned_on": "2025-04-11",
+        "address": {
+          "address_line_1": "Brewery Close",
+          "address_line_2": "Melmerby",
+          "country": "England",
+          "locality": "Ripon",
+          "postal_code": "HG4 5NL",
+          "premises": "6"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Russell Guy Phoenix",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-12-10",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brewery Close",
+          "address_line_2": "Melmerby",
+          "country": "England",
+          "locality": "Ripon",
+          "postal_code": "HG4 5NL",
+          "premises": "6 Brewery Close"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "123563360003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-12-14",
+        "delivered_on": "2023-12-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Fresh Mango Technologies LTD"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "123563360002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-12-14",
+        "delivered_on": "2023-12-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Phoenix Caribbean LTD"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "123563360001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-12-14",
+        "delivered_on": "2023-12-15",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true,
+          "chargor_acting_as_bare_trustee": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Fresh Mango Technologies LTD"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGNO03D",
+        "transaction_id": "MzQ5MjIzMjAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEG9X2HS",
+        "transaction_id": "MzQ5MTQ3NDc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEG9X16Y",
+        "transaction_id": "MzQ5MTQ3NDQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE9B1S7F",
+        "transaction_id": "MzQ3Nzg4NTI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-22",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 2,
+        "barcode": "AE0KUSCA",
+        "transaction_id": "MzQ2MzQ0MTg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDHVYNEJ",
+        "transaction_id": "MzQ0NzI3MjE2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDH7AMC3",
+        "transaction_id": "MzQ0NTkxNjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-12-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDH7ALXL",
+        "transaction_id": "MzQ0NTkxNjE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDBHFPYR",
+        "transaction_id": "MzQzNTM3OTI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-12-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 51,
+        "barcode": "XCIVPJUW",
+        "transaction_id": "MzQwNTQyMDg5MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-12-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 51,
+        "barcode": "XCIVPM7D",
+        "transaction_id": "MzQwNTQyMTM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-12-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 51,
+        "barcode": "XCIEPSZT",
+        "transaction_id": "MzQwNDAyNjEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCHCOBGJ",
+        "transaction_id": "MzQwMjAwNzE4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCHCNRQR",
+        "transaction_id": "MzQwMjAwMjk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-29",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCHCNPOY",
+        "transaction_id": "MzQwMjAwMjQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCGGI8N4",
+        "transaction_id": "MzQwMDY3ODcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC8WW27C",
+        "transaction_id": "MzM4ODE3NjUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHTQUFV",
+        "transaction_id": "MzM2MDE4MTIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB08IV7F",
+        "transaction_id": "MzMzMzQ1NjU0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAKJ343S",
+        "transaction_id": "MzMyNTM2NTYxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA8S4TS3",
+        "transaction_id": "MzMwNzc4MTYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9XEUV8X",
+        "transaction_id": "MzI5MDE1NDkyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-12-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9K6SF43",
+        "transaction_id": "MzI4NjQwNDMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-10-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9F7XUWX",
+        "transaction_id": "MzI4MDA1NjA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-10-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 24,
+        "barcode": "A9EKO0A9",
+        "transaction_id": "MzI3OTM4MzA5MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 32,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Freshmango.co.uk",
+    "headcount": 13,
+    "tech_stack": [
+      "Cloud Servers"
+    ],
+    "business_keywords": [
+      "IT Support",
+      "Yorkshire IT Support",
+      "Computer Services",
+      "Cyber Security",
+      "IT Technicians",
+      "Local IT Support",
+      "Evening IT Support",
+      "Out-of-hours IT Support",
+      "Cyber Essentials",
+      "Cyber Protection",
+      "Cyber Assessments",
+      "Proactive IT Management",
+      "Cloud Servers",
+      "Business Servers",
+      "Desktop PCs",
+      "Laptop PCs",
+      "Network Equipment",
+      "IT Audit",
+      "Remote IT Support",
+      "On-site IT Support"
+    ],
+    "services": [
+      "Yorkshire IT Support",
+      "Local IT Support",
+      "Evening IT Support (until 10:30 PM)",
+      "Out-of-hours critical IT support",
+      "Proactive IT Management",
+      "Cyber Security",
+      "Cyber Essentials",
+      "Cyber Protection",
+      "Cyber Assessments",
+      "IT Audit",
+      "Remote IT Support",
+      "On-site IT Support",
+      "Computer Equipment & Software Management",
+      "Business Servers Support",
+      "Desktop PCs Support",
+      "Cloud Servers Support",
+      "Laptop PCs Support",
+      "Network Equipment Support"
+    ],
+    "customer_segments": [
+      "Small and medium-sized businesses",
+      "Businesses in North Yorkshire",
+      "Businesses in West Yorkshire",
+      "Businesses within a 30-mile radius of Leeds and Ripon"
+    ],
+    "business_description": "Fresh Mango Technologies (UK) LTD provides IT support and computer services to businesses in Yorkshire, including remote and on-site assistance, cyber security solutions, and proactive IT management. The company serves small and medium-sized businesses within a 30-mile radius of its offices in Leeds and Ripon, offering extended hours and trusted local support.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 22,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T22:05:20.419Z"
+  },
+  "scraped_at": "2026-01-10T22:05:13.086Z",
+  "updated_at": "2026-01-10T22:05:20.419Z",
+  "version": 1
+}

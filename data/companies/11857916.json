@@ -1,0 +1,430 @@
+{
+  "company_name": "FINTECHOS TECHNOLOGY UK LTD",
+  "company_number": "11857916",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-03-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "6th Floor 9 Appold Street, London, EC2A 2AP, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "6th Floor 9 Appold Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 2AP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-17",
+    "last_made_up_to": "2025-03-03",
+    "next_made_up_to": "2026-03-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLIDARUS, Teodor",
+        "officer_role": "director",
+        "appointed_on": "2024-02-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1978,
+        "nationality": "Romanian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "9 Appold Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "6th Floor"
+        }
+      },
+      {
+        "name": "COSTACHE, Ileana-Veronica",
+        "officer_role": "director",
+        "appointed_on": "2019-03-04",
+        "resigned_on": "2024-02-14",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1972,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "9 Appold Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "6th Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Fintech Os Srl",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-03-04",
+        "ceased_on": "2019-03-04",
+        "address": {
+          "address_line_1": "Pipera Road",
+          "address_line_2": "Entrance B, 4th Floor",
+          "country": "Romania",
+          "locality": "Bucharest",
+          "premises": "Oregon Park  46d-46e-48",
+          "region": "2nd District"
+        },
+        "identification": {
+          "legal_form": "Srl",
+          "legal_authority": "Legea 31/1990 A Societatilor, Actualizata 2019",
+          "country_registered": "Romania",
+          "place_registered": "Oficiul National Al Registrului Comertului",
+          "registration_number": "38120136"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "118579160001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-01-11",
+        "delivered_on": "2022-01-13",
+        "particulars": {
+          "type": "brief-description",
+          "description": "See (I) clause 3.2 of the debenture which creates a legal mortgage and/or fixed charge over all estates or interests in any freehold or leasehold property including any real property specified in part 1 of schedule 1 of the debenture; and (ii) clause 3.9(d) of the debenture which creates a fixed charge over all intellectual property (as defined in the debenture). For more detail please refer to the debenture.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Kreos Capital Vi (UK) Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-06",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEERAJUZ",
+        "transaction_id": "MzQ4NzY4MjMzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE08EH5E",
+        "transaction_id": "MzQ2MjI2MjU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE08EH15",
+        "transaction_id": "MzQ2MjI2MjUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-03-05",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ1Njc1MzUwNmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-03-04",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ1NjI3NDE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-27",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDX9POLF",
+        "transaction_id": "MzQ1Njc1MzQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYG9HWY",
+        "transaction_id": "MzQxMzg1MzkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCXXMGGH",
+        "transaction_id": "MzQxMzE3NjQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCXXMGEX",
+        "transaction_id": "MzQxMzE3NjQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-17",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCUX6D1O",
+        "transaction_id": "MzQwNzk0MzQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC35P4TT",
+        "transaction_id": "MzM3ODkwOTI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBJ97FL5",
+        "transaction_id": "MzM2MzA3NjQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB4V6EGR",
+        "transaction_id": "MzM0MDY1Njg0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAYZ2PGX",
+        "transaction_id": "MzMzMTc5NDA4NGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-02-11",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AAXKLAFM",
+        "transaction_id": "MzMyOTYwMDczOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AAUYNBQ4",
+        "transaction_id": "MzMyNzExNTk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-01-19",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AAUYNBQG",
+        "transaction_id": "MzMyNzExMjgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-01-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 46,
+        "barcode": "XAVM4PCY",
+        "transaction_id": "MzMyNjU4MTQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAVDZW97",
+        "transaction_id": "MzMyNjE2MzE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ZVHXZ6",
+        "transaction_id": "MzI5MzczNDM0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9KKD7SR",
+        "transaction_id": "MzI4Njg5MTIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-04-27",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "X93NHB48",
+        "transaction_id": "MzI2MzIxMjI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-04-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X93NHB6G",
+        "transaction_id": "MzI2MzIxMjI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93NHAZ5",
+        "transaction_id": "MzI2MzIxMjE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-04-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X93I3WCR",
+        "transaction_id": "MzI2Mjk2NTE2M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Fintechos.com",
+    "headcount": 12,
+    "tech_stack": [
+      "no-code/low-code Studio"
+    ],
+    "business_keywords": [
+      "financial product management",
+      "no-code",
+      "low-code",
+      "AI",
+      "data",
+      "product engine",
+      "banking products",
+      "insurance products",
+      "digital journeys",
+      "back-office workflows",
+      "core system extension",
+      "embedded finance",
+      "lending",
+      "savings",
+      "risk management",
+      "fraud management",
+      "composable product engine",
+      "progressive modernization"
+    ],
+    "services": [
+      "Creation of financial products",
+      "Onboarding of financial products",
+      "Distribution of financial products",
+      "Management of financial products",
+      "Personalized customer onboarding experiences",
+      "Automation of front and back-office processes with AI and data",
+      "Personalization and data integration in a common layer",
+      "Recommendations using ML models",
+      "Risk and fraud management",
+      "End-to-end product lifecycle management",
+      "Channel distribution simplification",
+      "Back-office and servicing operations streamlining",
+      "Risk underwriting automation",
+      "Eligibility and compliance automation",
+      "Incremental modernization with no-code/low-code",
+      "Prebuilt product templates provision"
+    ],
+    "customer_segments": [
+      "banks",
+      "insurance companies",
+      "financial institutions",
+      "embedded finance providers"
+    ],
+    "business_description": "FintechOS provides a product engine that enables organizations to create, onboard, distribute, and manage financial products such as banking and insurance quickly and easily without replacing core systems. The platform combines no-code/low-code, data, and AI to extend existing infrastructure, automate processes, and drive innovation in financial product management.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:45:50.171Z"
+  },
+  "scraped_at": "2026-01-10T20:45:42.388Z",
+  "updated_at": "2026-01-10T20:45:50.170Z",
+  "version": 1
+}

@@ -1,0 +1,395 @@
+{
+  "company_name": "WINDWARD MARINE RISK (UK) LTD",
+  "company_number": "11491578",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-07-31",
+  "jurisdiction": "england-wales",
+  "registered_address": "5.2 Central House 1 Ballards Lane, London, N3 1LQ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "5.2 Central House 1 Ballards Lane",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N3 1LQ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-19",
+    "last_made_up_to": "2026-01-05",
+    "next_made_up_to": "2027-01-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DANIEL, Amiad",
+        "officer_role": "director",
+        "appointed_on": "2018-07-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "address_line_1": "1 Ballards Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N3 1LQ",
+          "premises": "5.2 Central House"
+        }
+      },
+      {
+        "name": "SEGEV, Ofer",
+        "officer_role": "director",
+        "appointed_on": "2025-03-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1959,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "address_line_1": "1 Ballards Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N3 1LQ",
+          "premises": "5.2 Central House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "114915780002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-03-18",
+        "delivered_on": "2025-03-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Glas Trust Corporation Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "114915780001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-01-02",
+        "delivered_on": "2024-01-11",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XET4XIHS",
+        "transaction_id": "MzQ5NzU5NTc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-15",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEHHM7E0",
+        "transaction_id": "MzQ5NDAyNDc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7W03JF",
+        "transaction_id": "MzQ3NTY2ODk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDZJP629",
+        "transaction_id": "MzQ2MTAwOTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-03-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 45,
+        "barcode": "XDYS0GW9",
+        "transaction_id": "MzQ1OTU5MDY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-24",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDCB4MUY",
+        "transaction_id": "MzQzNzAyNDIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8FAZBE",
+        "transaction_id": "MzQzMDUyNjU0NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD708J8I",
+        "transaction_id": "MzQyODEyNDYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-01-11",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 6,
+        "barcode": "XCUH3P40",
+        "transaction_id": "MzQwNzIyNzM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8WQQD5",
+        "transaction_id": "MzM4ODEzNDMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XC85VJBK",
+        "transaction_id": "MzM4NzAzNDkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-09",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBUUSZXC",
+        "transaction_id": "MzM2NTAyODI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9HLPXF",
+        "transaction_id": "MzM0NzQzODg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-11",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAVGTJUP",
+        "transaction_id": "MzMyNjMwMzY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA9TIIK0",
+        "transaction_id": "MzMwOTI2MjkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-14",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A9JDGS5W",
+        "transaction_id": "MzI4NTg2MTY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ACX3SH",
+        "transaction_id": "MzI3NDIxNTU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-25",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A8GLW7PM",
+        "transaction_id": "MzI0NzQ0MzYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-21",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8GK2QHM",
+        "transaction_id": "MzI0NzIzNDEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ATM1HF",
+        "transaction_id": "MzI0MDUzMjEyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-06",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7BRAWO9",
+        "transaction_id": "MzIxMTQyNTUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-07-31",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 8,
+        "barcode": "X7B9S715",
+        "transaction_id": "MzIxMDg5Mjg5MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Cotaplan.co.uk",
+    "headcount": 20,
+    "tech_stack": [],
+    "business_keywords": [
+      "modular buildings",
+      "prefabricated buildings",
+      "bespoke modular buildings",
+      "modular construction",
+      "prefab buildings",
+      "temporary buildings",
+      "permanent modular buildings",
+      "multi-storey modular buildings",
+      "refurbished modular buildings",
+      "used modular buildings",
+      "modular offices",
+      "modular classrooms",
+      "modular building hire",
+      "modular building sale",
+      "modular building lease"
+    ],
+    "services": [
+      "bespoke design and build of modular buildings",
+      "modular building sale",
+      "modular building rental",
+      "modular building lease",
+      "modular building hire (short-term and long-term)",
+      "design consultation",
+      "site survey",
+      "installation services",
+      "modular building refurbishment",
+      "buy back program for pre-owned modular buildings",
+      "complete design service",
+      "modular building maintenance (implied under hire services)"
+    ],
+    "customer_segments": [
+      "healthcare",
+      "corporate",
+      "education",
+      "government facilities",
+      "businesses",
+      "retail",
+      "schools",
+      "medical facilities",
+      "rapidly expanding businesses"
+    ],
+    "business_description": "Cotaplan is a UK-based modular construction company specializing in the design, manufacture, and delivery of bespoke modular buildings for various industries, including healthcare, education, and corporate sectors. They offer modular buildings for sale, hire, and lease, providing fast, affordable, and sustainable alternatives to traditional construction with a focus on customization and minimal disruption.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:49:24.701Z"
+  },
+  "scraped_at": "2026-01-10T19:49:16.503Z",
+  "updated_at": "2026-01-10T19:49:24.701Z",
+  "version": 1
+}

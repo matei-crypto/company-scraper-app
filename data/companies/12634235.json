@@ -1,0 +1,260 @@
+{
+  "company_name": "NACS TECHNOLOGY LIMITED",
+  "company_number": "12634235",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-05-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "86-90 Paul Street, 3rd Floor, London, EC2A 4NE, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "86-90 Paul Street",
+    "address_line_2": "3rd Floor",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 4NE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NACS-SERVICES LIMITED",
+      "ceased_on": "2021-02-05",
+      "effective_from": "2020-05-30"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-12",
+    "last_made_up_to": "2025-05-29",
+    "next_made_up_to": "2026-05-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HOPSTEIN, Tammy Rina",
+        "officer_role": "director",
+        "appointed_on": "2025-09-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Paul Street",
+          "address_line_2": "3rd Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4NE",
+          "premises": "86-90"
+        }
+      },
+      {
+        "name": "KIZIL, Dilber",
+        "officer_role": "director",
+        "appointed_on": "2020-05-30",
+        "resigned_on": "2025-09-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1996,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Paul Street",
+          "address_line_2": "3rd Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4NE",
+          "premises": "86-90"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Miss Dilber Kizil",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-05-30",
+        "ceased_on": "2025-09-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1996,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Paul Street",
+          "address_line_2": "3rd Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4NE",
+          "premises": "86-90"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-09-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEBF0XMY",
+        "transaction_id": "MzQ4MTk0MjE3MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-18",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEBCEP6H",
+        "transaction_id": "MzQ4MTc1NjEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEBCEOY2",
+        "transaction_id": "MzQ4MTc1NjAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3LOBAW",
+        "transaction_id": "MzQ2ODMwMzAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDW27FND",
+        "transaction_id": "MzQ1NDI5MDAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD45J2PM",
+        "transaction_id": "MzQyMzUyNzcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCX8PXG0",
+        "transaction_id": "MzQxMTcwMjE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC4QD1IW",
+        "transaction_id": "MzM4MTU4NzkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBXJRI0B",
+        "transaction_id": "MzM2OTY5ODk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB5TTO56",
+        "transaction_id": "MzM0MTk3NjkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAY2RDTE",
+        "transaction_id": "MzMzMDI5NzcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA5PZX7M",
+        "transaction_id": "MzMwMjk2ODc4NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-02-05",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X9XN53R7",
+        "transaction_id": "MzI5MDY4MzQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-05-30",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X962V60J",
+        "transaction_id": "MzI2NjEwOTM2MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 14,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:46:31.112Z",
+  "scraped_at": "2026-01-10T22:46:31.112Z"
+}

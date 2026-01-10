@@ -1,0 +1,457 @@
+{
+  "company_name": "ENTERPRISE RPA LIMITED",
+  "company_number": "11423723",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-06-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Peter House, Oxford Street, Manchester, M1 5AN",
+  "registered_address_structured": {
+    "address_line_1": "Peter House",
+    "address_line_2": "Oxford Street",
+    "locality": "Manchester",
+    "postal_code": "M1 5AN"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-03",
+    "last_made_up_to": "2025-06-19",
+    "next_made_up_to": "2026-06-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AGNEW, Paul",
+        "officer_role": "director",
+        "appointed_on": "2018-06-20",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M1 5AN",
+          "premises": "Peter House"
+        }
+      },
+      {
+        "name": "BOLTON, Steven John",
+        "officer_role": "director",
+        "appointed_on": "2019-12-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M1 5AN",
+          "premises": "Peter House"
+        }
+      },
+      {
+        "name": "COCKERILL, David John",
+        "officer_role": "director",
+        "appointed_on": "2018-06-20",
+        "resigned_on": "2023-12-31",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M1 5AN",
+          "premises": "Peter House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul Agnew",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-06-20",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M1 5AN",
+          "premises": "Peter House"
+        }
+      },
+      {
+        "name": "Mr David John Cockerill",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-06-20",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oxford Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M1 5AN",
+          "premises": "Peter House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "114237230001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-05-11",
+        "delivered_on": "2020-05-20",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "satisfied_on": "2025-11-19",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEHQT2TS",
+        "transaction_id": "MzQ5NTM5NjU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-11-19",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEFO3AUX",
+        "transaction_id": "MzQ4OTgwMzY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-09-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 5,
+        "barcode": "YEBMZ40O",
+        "transaction_id": "WUVCTVo0ME9hZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE511542",
+        "transaction_id": "MzQ3MDc0MzY3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDCB2LMI",
+        "transaction_id": "MzQzNzAwNTA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD66HT8W",
+        "transaction_id": "MzQyNjkxMjMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-20",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YCUH5BRK",
+        "transaction_id": "MzQwNzI0MjQxMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-01-10",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUNJVk9RQVhhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-10",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YCIVOS74",
+        "transaction_id": "MzQwNTQxNTQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-01-10",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUNJVk9SQzBhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-01-09",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 11,
+        "barcode": "YCIY0JC0",
+        "transaction_id": "MzQwNTM0MzczM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-02",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCTVKBSB",
+        "transaction_id": "MzQwNjI0NjcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCHQANJM",
+        "transaction_id": "MzQwMjY1MTc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "ACDMT3FF",
+        "transaction_id": "MzM5NzQ2OTYwMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-09-05",
+        "description": "default-companies-house-registered-office-address-applied",
+        "type": "RP05",
+        "pages": 1,
+        "barcode": "RCBBWV7L",
+        "transaction_id": "MzM5MTkyODY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC655J48",
+        "transaction_id": "MzM4Mzc2MDkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBCJ359V",
+        "transaction_id": "MzM1MTg5ODQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB6Q5BRL",
+        "transaction_id": "MzM0MzMyMDM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAH0ZJ7C",
+        "transaction_id": "MzMxOTg5MTE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAH0ZIRM",
+        "transaction_id": "MzMxOTg5MTE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAH0ZISA",
+        "transaction_id": "MzMxOTg5MTEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAH0ZID4",
+        "transaction_id": "MzMxOTg5MDgyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAH0Z517",
+        "transaction_id": "MzMxOTg4NTI1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XADL6ZLT",
+        "transaction_id": "MzMxNDYwNTQzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7TML21",
+        "transaction_id": "MzMwNjQ2Njc4NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 37,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Enterpriserpa.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "RPA (Robotic Process Automation)",
+      "AI (Artificial Intelligence)",
+      "Natural Language Processing (NLP)",
+      "CRM systems (implied by 'logged as cases in systems such as CRMs')"
+    ],
+    "business_keywords": [
+      "Robotic Process Automation (RPA)",
+      "Intelligent Automation",
+      "Artificial Intelligence (AI)",
+      "Digital Assistants",
+      "Digital Transformation",
+      "Process Automation",
+      "Social Housing",
+      "Universal Credit Verification",
+      "Direct Debit Automation",
+      "Housing Benefit (HB) Automation",
+      "Email Processing",
+      "Natural Language Processing (NLP)",
+      "Workshops",
+      "Consulting",
+      "Automation Solutions"
+    ],
+    "services": [
+      "Universal Credit Verification (UCV) Automation",
+      "Digital Transformation Planning",
+      "RPA Skills Development Workshops",
+      "Direct Debit Rent Adjustment Automation",
+      "Advanced Email Reroute Processing",
+      "Rent & Home Ownership Inbox Automation",
+      "Housing Sector Automation Solutions",
+      "Business-Wide Automation Solutions (e.g., PL inbox processing, starter, mover and leaver automation)",
+      "Process Mapping and Automation Candidate Identification",
+      "Automation Training and Competency Development",
+      "Automation Deployment and Support"
+    ],
+    "customer_segments": [
+      "Social Landlords",
+      "Housing Associations",
+      "Housing Providers",
+      "Local Authorities",
+      "Organisations across multiple industries (implied by 'tailored to suit a wide variety of other industries')"
+    ],
+    "business_description": "Enterprise RPA is a software provider specializing in Intelligent Automation and AI solutions for the social housing sector. The company helps organizations streamline operations by transforming manual, time-consuming tasks into automated processes, with a focus on housing-related applications like Universal Credit verification and rent adjustments. They also offer workshops, consulting, and digital transformation planning to equip teams with automation skills and strategies.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:38:40.505Z"
+  },
+  "scraped_at": "2026-01-10T19:38:31.991Z",
+  "updated_at": "2026-01-10T19:38:40.504Z",
+  "version": 1
+}

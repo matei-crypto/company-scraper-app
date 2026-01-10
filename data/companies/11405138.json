@@ -1,0 +1,412 @@
+{
+  "company_name": "M-XR LIMITED",
+  "company_number": "11405138",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-06-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "159 High Street, Barnet, EN5 5SU, England",
+  "registered_address_structured": {
+    "address_line_1": "159 High Street",
+    "country": "England",
+    "locality": "Barnet",
+    "postal_code": "EN5 5SU"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MIMIC INC LIMITED",
+      "ceased_on": "2019-10-02",
+      "effective_from": "2018-06-22"
+    },
+    {
+      "name": "WEAR STUDIO LTD",
+      "ceased_on": "2018-06-22",
+      "effective_from": "2018-06-08"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-28",
+    "last_made_up_to": "2025-10-14",
+    "next_made_up_to": "2026-10-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HOWELL, Ryan Glynn",
+        "officer_role": "director",
+        "appointed_on": "2018-06-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Barnet",
+          "postal_code": "EN5 5SU",
+          "premises": "159"
+        }
+      },
+      {
+        "name": "ROUND, Elliott Paul Edward",
+        "officer_role": "director",
+        "appointed_on": "2018-06-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1994,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Barnet",
+          "postal_code": "EN5 5SU",
+          "premises": "159"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ryan Glynn Howell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-06-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Barnet",
+          "postal_code": "EN5 5SU",
+          "premises": "159"
+        }
+      },
+      {
+        "name": "Mr Elliott Paul Edward Round",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-06-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1994,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Barnet",
+          "postal_code": "EN5 5SU",
+          "premises": "159"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEE52AUX",
+        "transaction_id": "MzQ4NjU0MTk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDY3GJBS",
+        "transaction_id": "MzQ1Nzk4ODQ3M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-01-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDUC20NC",
+        "transaction_id": "MzQ1MTQ4NDAwN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-01-14",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 61,
+        "barcode": "YDU6BTBE",
+        "transaction_id": "MzQ1MDc3NDQ0OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-01-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YDU6BSRL",
+        "transaction_id": "WURVNkJTUkxhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-01-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "XDU6AED5",
+        "transaction_id": "MzQ1MDc2MTM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-15",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 4,
+        "barcode": "XDDQGB7C",
+        "transaction_id": "MzQzOTI4MjU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XDDQJ8JF",
+        "transaction_id": "MzQzOTMzMzM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-30",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XDAL5B9V",
+        "transaction_id": "MzQzMzk0NjY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4RFEWW",
+        "transaction_id": "MzQyNDU5MzkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCZT7HSR",
+        "transaction_id": "MzQxNjM5OTc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC5M8K1L",
+        "transaction_id": "MzM4MjcyOTcyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC063BVN",
+        "transaction_id": "MzM3NDA4OTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-24",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUJGMjhLT0FhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUJFNTJQRVBhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-08",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 5,
+        "barcode": "AB7KUQGW",
+        "transaction_id": "MzM0NTEwMjM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB5OB935",
+        "transaction_id": "MzM0MTY1MzM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAZXXV16",
+        "transaction_id": "MzMzMzE2MzcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-11-25",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAHZQ4JK",
+        "transaction_id": "MzMyMTMzODU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA65YELM",
+        "transaction_id": "MzMwMzYzNjczMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9ZFEOIQ",
+        "transaction_id": "MzI5MzAxNTgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9IP965L",
+        "transaction_id": "MzI4NDU3NjcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X9I3O58Y",
+        "transaction_id": "MzI4MzcxNTI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-07-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X98QOMNT",
+        "transaction_id": "MzI3MjQ3ODkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X96O4EBF",
+        "transaction_id": "MzI2Njc2NTA2MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 46,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://M-xr.com",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "3D scanning",
+      "PBR texturing",
+      "3D models",
+      "3D experiences",
+      "Marso MeasureMaterial PBR software",
+      "textures",
+      "3D workflow",
+      "material PBR textures",
+      "3D capture",
+      "ring flash",
+      "3D capture program",
+      "scan service studios",
+      "automatic PBR texturing",
+      "realistic 3D",
+      "camera and flash"
+    ],
+    "services": [
+      "Automatic PBR texturing for 3D models",
+      "Marso MeasureMaterial PBR software (free trial available)",
+      "3D scanning solutions",
+      "Scan service studios in London and Europe (free scanning in some cases)",
+      "Marso Freelance Capture Program (free access for 3D capture professionals)"
+    ],
+    "customer_segments": [
+      "brands",
+      "studios",
+      "creators",
+      "3D capture professionals",
+      "top studios"
+    ],
+    "business_description": "M-XR develops the next generation of 3D scanning solutions, focusing on automatic PBR texturing for 3D models. The company provides software like Marso MeasureMaterial PBR to enable brands, studios, and creators to build realistic 3D experiences at scale, integrating into standard 3D workflows without complex hardware setups.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:35:42.376Z"
+  },
+  "scraped_at": "2026-01-10T19:35:36.148Z",
+  "updated_at": "2026-01-10T19:35:42.376Z",
+  "version": 1
+}

@@ -1,0 +1,374 @@
+{
+  "company_name": "COMPUTER RESPONSE LIMITED",
+  "company_number": "11852391",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-02-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "Response House, Foundry Street, Chesterfield, S41 9AU, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Response House",
+    "address_line_2": "Foundry Street",
+    "country": "United Kingdom",
+    "locality": "Chesterfield",
+    "postal_code": "S41 9AU"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CRL 2019 LTD",
+      "ceased_on": "2019-04-08",
+      "effective_from": "2019-02-28"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-13",
+    "last_made_up_to": "2025-02-27",
+    "next_made_up_to": "2026-02-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PERRYMAN, David",
+        "officer_role": "director",
+        "appointed_on": "2019-02-28",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Foundry Street",
+          "country": "United Kingdom",
+          "locality": "Chesterfield",
+          "postal_code": "S41 9AU",
+          "premises": "Response House"
+        }
+      },
+      {
+        "name": "POTTER, Richard",
+        "officer_role": "director",
+        "appointed_on": "2019-02-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Foundry Street",
+          "country": "United Kingdom",
+          "locality": "Chesterfield",
+          "postal_code": "S41 9AU",
+          "premises": "Response House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr David Perryman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-02-28",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Foundry Street",
+          "country": "United Kingdom",
+          "locality": "Chesterfield",
+          "postal_code": "S41 9AU",
+          "premises": "Response House"
+        }
+      },
+      {
+        "name": "Mr Richard Potter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-02-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Foundry Street",
+          "country": "United Kingdom",
+          "locality": "Chesterfield",
+          "postal_code": "S41 9AU",
+          "premises": "Response House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XEGT8Y5F",
+        "transaction_id": "MzQ5Mjc0NTIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEBCA9KQ",
+        "transaction_id": "MzQ4MTcxNzEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEBCA96X",
+        "transaction_id": "MzQ4MTcxNzAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDXCERSK",
+        "transaction_id": "MzQ1Njg3NDYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDBRYKDC",
+        "transaction_id": "MzQzNTk3NzMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDAL3FZS",
+        "transaction_id": "MzQzMzkzMTEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDAL3FR7",
+        "transaction_id": "MzQzMzkzMTAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCY5BAFM",
+        "transaction_id": "MzQxMzQ2NjY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XCDTVE1D",
+        "transaction_id": "MzM5NTg5MzU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBYYW0GQ",
+        "transaction_id": "MzM3MTk5MjI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBFA9EDC",
+        "transaction_id": "MzM1NjI0MDA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1D9J9F",
+        "transaction_id": "MzMzNTQwMjQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XA5CGQS1",
+        "transaction_id": "MzMwMjM2NTM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4G0PUX",
+        "transaction_id": "MzMwMDkxNTQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X93XUU36",
+        "transaction_id": "MzI2MzQyODc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-28",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X93XUS7T",
+        "transaction_id": "MzI2MzQyODIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X90HVI5U",
+        "transaction_id": "MzI1OTM4MDg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-04-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "A82U43MW",
+        "transaction_id": "MzIzMTUxMTg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2019-04-08",
+        "description": "change-of-name-notice",
+        "type": "CONNOT",
+        "pages": 2,
+        "barcode": "A82U43N4",
+        "transaction_id": "MzIzMTUxMTA4NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-02-28",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 32,
+        "barcode": "X805I1KA",
+        "transaction_id": "MzIyODEwODM3NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Computer-response.com",
+    "headcount": 9,
+    "tech_stack": [
+      "AHS Digital (website design partner)"
+    ],
+    "business_keywords": [
+      "IT Services",
+      "IT Solutions",
+      "IT Support",
+      "IT Management",
+      "IT Installations",
+      "WiFi",
+      "Telecoms",
+      "Networks",
+      "CCTV",
+      "Licensing",
+      "Backup",
+      "Data Protection",
+      "Website Design",
+      "Internet Supply",
+      "Telecom Supply"
+    ],
+    "services": [
+      "All-in-one IT management",
+      "IT support",
+      "IT solutions for businesses",
+      "IT installations",
+      "Internet and telecoms supply",
+      "Leased lines installation (up to 10Gbps)",
+      "Website design",
+      "Website revamp",
+      "Business marketing via website",
+      "Data protection",
+      "Data backup (multiple backups)",
+      "Data restoration"
+    ],
+    "customer_segments": [
+      "Businesses of any size",
+      "Customers in Chesterfield",
+      "Nationwide customers (UK)"
+    ],
+    "business_description": "Computer Response Limited is an IT services company with over 25 years of experience, offering IT management, support, and solutions to businesses of any size. Based in Chesterfield, they provide nationwide services, including internet/telecom supply, website design, data protection, and backup solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 16,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T20:44:46.052Z"
+  },
+  "scraped_at": "2026-01-10T20:44:39.533Z",
+  "updated_at": "2026-01-10T20:44:46.052Z",
+  "version": 1
+}

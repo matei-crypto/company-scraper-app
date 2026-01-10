@@ -1,0 +1,314 @@
+{
+  "company_name": "TECHYARD LIMITED",
+  "company_number": "12056786",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-06-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Vicarage Road, Teddington, TW11 8EZ, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Vicarage Road",
+    "country": "England",
+    "locality": "Teddington",
+    "postal_code": "TW11 8EZ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "IO173 LTD",
+      "ceased_on": "2023-09-04",
+      "effective_from": "2019-06-18"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-01",
+    "last_made_up_to": "2025-06-17",
+    "next_made_up_to": "2026-06-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FIDDAMAN, Robert John",
+        "officer_role": "director",
+        "appointed_on": "2019-06-18",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Tquila Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-04-04",
+        "address": {
+          "address_line_1": "35-37 Dominick Street",
+          "country": "Ireland",
+          "locality": "Galway",
+          "premises": "21 Ruxton Court"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2014",
+          "country_registered": "Ireland",
+          "place_registered": "Ireland",
+          "registration_number": "655143"
+        }
+      },
+      {
+        "name": "Mr Robert John Fiddaman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-06-18",
+        "ceased_on": "2024-04-04",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE53SL7D",
+        "transaction_id": "MzQ3MDkxMTc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE4VOSU2",
+        "transaction_id": "MzQ3MDM5Mjg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDFXFUJF",
+        "transaction_id": "MzQ0MzU5MDg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD7Z0HTN",
+        "transaction_id": "MzQyOTczMTM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD7Z0F6X",
+        "transaction_id": "MzQyOTczMDgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD7Z0EVS",
+        "transaction_id": "MzQyOTczMDc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-26",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCZQ2C0X",
+        "transaction_id": "MzQxNjA2NDQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCZ9X5H3",
+        "transaction_id": "MzQxNTQzMzY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-19",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YCX8F0U0",
+        "transaction_id": "MzQxMTU1MTYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-09-04",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XCB54Q2O",
+        "transaction_id": "MzM5MTc3MzcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6IEQUB",
+        "transaction_id": "MzM4NDE4ODAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-19",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC5ZM9BT",
+        "transaction_id": "MzM4MzM3NjcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-11-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBGETIYF",
+        "transaction_id": "MzM1Nzk5OTc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9HKPZU",
+        "transaction_id": "MzM0NzQzMDEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAVBEM41",
+        "transaction_id": "MzMyNjEyMDEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7WAFWJ",
+        "transaction_id": "MzMwNjU1ODc1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XA5Y5CLL",
+        "transaction_id": "MzMwMzQ0MzY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97EQDRN",
+        "transaction_id": "MzI2NzU3MjgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-12-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8JVPB1D",
+        "transaction_id": "MzI1MTU2MTk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-06-18",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X87T5KKO",
+        "transaction_id": "MzIzNzA0ODkwMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:16:12.604Z",
+  "scraped_at": "2026-01-10T21:16:12.604Z"
+}

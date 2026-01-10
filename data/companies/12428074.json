@@ -1,0 +1,393 @@
+{
+  "company_name": "TECHSEL LTD",
+  "company_number": "12428074",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-01-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 Forward Works, Bridge Lane, Warrington, Cheshire, WA1 4BA, England",
+  "registered_address_structured": {
+    "address_line_1": "9 Forward Works",
+    "address_line_2": "Bridge Lane",
+    "country": "England",
+    "locality": "Warrington",
+    "postal_code": "WA1 4BA",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "46510",
+    "47410",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-21",
+    "last_made_up_to": "2025-01-07",
+    "next_made_up_to": "2026-01-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AINSWORTH, Daniel Andrew",
+        "officer_role": "director",
+        "appointed_on": "2024-02-12",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bridge Lane",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA1 4BA",
+          "premises": "9 Forward Works",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "HILL, Michael Jonathon",
+        "officer_role": "director",
+        "appointed_on": "2022-04-21",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Forward Works",
+          "address_line_2": "Bridge Lane",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA1 4BA",
+          "premises": "9",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "TAYLOR, Christopher John",
+        "officer_role": "director",
+        "appointed_on": "2020-01-28",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bridge Lane",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA1 4BA",
+          "premises": "9 Forward Works",
+          "region": "Cheshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Christopher John Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2020-01-28",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bridge Lane",
+          "country": "England",
+          "locality": "Warrington",
+          "postal_code": "WA1 4BA",
+          "premises": "9 Forward Works",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEEAP3BU",
+        "transaction_id": "MzQ4Njg2NjA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDY3I89S",
+        "transaction_id": "MzQ1ODAwMjczM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDY3I7ZE",
+        "transaction_id": "MzQ1ODAwMjY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDUS2YGA",
+        "transaction_id": "MzQ1MjI2Mzc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDUS2YUG",
+        "transaction_id": "MzQ1MjI2MzkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDUS2YIZ",
+        "transaction_id": "MzQ1MjI2MzgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDEHRFUH",
+        "transaction_id": "MzQ0MDk1MDUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-17",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD18J4CG",
+        "transaction_id": "MzQxODcwNjkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCX0SOZC",
+        "transaction_id": "MzQxMTQ3MDM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVDHLDN",
+        "transaction_id": "MzQwODc4MzkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUX3LBT",
+        "transaction_id": "MzQwNzkxNDQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCFBYZW0",
+        "transaction_id": "MzM5ODQ4MjcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWL20I3",
+        "transaction_id": "MzM2ODIwOTAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBGKB2OH",
+        "transaction_id": "MzM1ODI2MTkyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-21",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB2ENFDV",
+        "transaction_id": "MzMzNjkzMTg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAZ9PDVD",
+        "transaction_id": "MzMzMjEwMjc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXUGNT6",
+        "transaction_id": "MzMyOTc5MDQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-02-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAWYBGWZ",
+        "transaction_id": "MzMyODQ2MjUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA3K4R4B",
+        "transaction_id": "MzI5OTc0MjY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1LXJYX",
+        "transaction_id": "MzI5Njc1MTMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-02-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "A8YK7863",
+        "transaction_id": "MzI1NjkzNjEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-01-28",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X8XJGTZE",
+        "transaction_id": "MzI1NTYzNTc0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Techsel.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "American Express",
+      "Apple Pay",
+      "Diners Club",
+      "Discover",
+      "Google Pay",
+      "Klarna",
+      "Maestro",
+      "Mastercard",
+      "PayPal",
+      "Shop Pay",
+      "Union Pay",
+      "Visa",
+      "Dell monitors",
+      "ASUS monitors",
+      "BenQ monitors",
+      "Lenovo monitors"
+    ],
+    "business_keywords": [
+      "refurbished tech",
+      "used smartphones",
+      "laptops",
+      "gadgets",
+      "budget-friendly",
+      "environmentally friendly",
+      "refurbished laptops",
+      "Apple devices",
+      "iMacs",
+      "MacBooks",
+      "iPads",
+      "laptop docking solutions",
+      "gaming deals",
+      "monitors",
+      "auctions"
+    ],
+    "services": [
+      "selling refurbished tech",
+      "selling used smartphones",
+      "selling used laptops",
+      "live auctions"
+    ],
+    "customer_segments": [
+      "budget-conscious customers",
+      "environmentally conscious customers"
+    ],
+    "business_description": "TECHSEL LTD offers top-quality refurbished tech at low prices, including used smartphones, laptops, and other gadgets. The company provides a budget-friendly and environmentally friendly way to purchase the latest devices, along with live auctions and a variety of tech products from top brands.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:16:31.798Z"
+  },
+  "scraped_at": "2026-01-10T22:16:25.200Z",
+  "updated_at": "2026-01-10T22:16:31.798Z",
+  "version": 1
+}

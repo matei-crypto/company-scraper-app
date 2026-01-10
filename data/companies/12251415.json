@@ -1,0 +1,372 @@
+{
+  "company_name": "HAPPANING LTD",
+  "company_number": "12251415",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-10-09",
+  "jurisdiction": "england-wales",
+  "registered_address": "128 City Road, London, EC1V 2NX, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-05",
+    "last_made_up_to": "2025-04-21",
+    "next_made_up_to": "2026-04-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ENIWUMIDE, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2019-10-09",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hill House Mews",
+          "country": "England",
+          "locality": "Bromley",
+          "postal_code": "BR2 0DD",
+          "premises": "Flat 4 Weymouth House"
+        }
+      },
+      {
+        "name": "SAGAY, Leslie Omatsola",
+        "officer_role": "director",
+        "appointed_on": "2023-01-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Elmfield Park",
+          "country": "England",
+          "locality": "Bromley",
+          "postal_code": "BR1 1LU",
+          "premises": "1"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andrew Eniwumide",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2019-10-09",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hill House Mews",
+          "country": "England",
+          "locality": "Bromley",
+          "postal_code": "BR2 0DD",
+          "premises": "Flat 4 Weymouth House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "122514150001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-09-28",
+        "delivered_on": "2022-09-29",
+        "particulars": {
+          "type": "brief-description",
+          "description": "The client charges by way of first legal mortgage all the land owned by it, as well as, equipment, investments, key contracts (including the grant award letter), key accounts (including the client grant account), intellectual property, debts, goodwill and uncalled capital and any rights connected with them.",
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Sprk Capital Limited"
+          }
+        ],
+        "satisfied_on": "2023-10-18",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEBHONXN",
+        "transaction_id": "MzQ4MjA1NjA3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE0YU14C",
+        "transaction_id": "MzQ2MzM5Mzc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE0YU0VU",
+        "transaction_id": "MzQ2MzM5MzcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDYPDMEJ",
+        "transaction_id": "MzQ1OTQ4ODEwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDTI436",
+        "transaction_id": "MzQzOTgwNTEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCYGDIYW",
+        "transaction_id": "MzQxMzg5MTA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCEFAUUQ",
+        "transaction_id": "MzM5Njk5ODcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCDJ8QD5",
+        "transaction_id": "MzM5NTQ1MDUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XCDJ8OAR",
+        "transaction_id": "MzM5NTQ0OTkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC9I56G9",
+        "transaction_id": "MzM4ODkzMTQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC9I4ZC1",
+        "transaction_id": "MzM4ODkyOTQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC9I4XO9",
+        "transaction_id": "MzM4ODkyOTA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-21",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC88I1KJ",
+        "transaction_id": "MzM4NzE2OTc5MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC7481WW",
+        "transaction_id": "MzM4NTMwMjc5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC3DTJGX",
+        "transaction_id": "MzM3OTM1OTY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-12",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBV2YMWW",
+        "transaction_id": "MzM2NTUyMjYzN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-09-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 21,
+        "barcode": "XBDKIATF",
+        "transaction_id": "MzM1MzUyNzQ2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB99QPR7",
+        "transaction_id": "MzM0NzI2OTE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB8TGUGI",
+        "transaction_id": "MzM0NjQ5MzM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB8TGS95",
+        "transaction_id": "MzM0NjQ5MDk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB8AW1JC",
+        "transaction_id": "MzM0NTgyNzIxNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-15",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB8AVOYJ",
+        "transaction_id": "MzM0NTgyNDUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB61WYF5",
+        "transaction_id": "MzM0MjMzMTY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB46ZCOX",
+        "transaction_id": "MzMzOTUzMzk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-08-18",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUFBSEsyUEVhZGlxemtjeA"
+      }
+    ],
+    "total_count": 35,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T21:45:52.212Z",
+  "scraped_at": "2026-01-10T21:45:52.212Z"
+}

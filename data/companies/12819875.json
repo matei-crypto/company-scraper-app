@@ -1,0 +1,483 @@
+{
+  "company_name": "JUST FIX LTD",
+  "company_number": "12819875",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-08-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "128 City Road, London, EC1V 2NX, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "43220",
+    "43390",
+    "43999",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-31",
+    "last_made_up_to": "2025-08-17",
+    "next_made_up_to": "2026-08-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GRAHAM, Adam",
+        "officer_role": "director",
+        "appointed_on": "2020-08-18",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "GRAHAM, Kathleen",
+        "officer_role": "director",
+        "appointed_on": "2020-08-18",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "KHATTOARE, Narinder",
+        "officer_role": "director",
+        "appointed_on": "2024-07-31",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "West Street",
+          "locality": "Gravesend",
+          "postal_code": "DA11 0BF",
+          "premises": "21"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GRAHAM, Adam",
+        "officer_role": "secretary",
+        "appointed_on": "2020-08-18",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "WALLACE, Peter Gary",
+        "officer_role": "secretary",
+        "appointed_on": "2022-02-22",
+        "resigned_on": "2023-08-31",
+        "address": {
+          "address_line_1": "Danby Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE15 4BS",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Adam Graham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-08-18",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "Mrs Kathleen Graham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2020-08-18",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1980,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "128198750002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-11-17",
+        "delivered_on": "2025-11-24",
+        "particulars": {
+          "type": "brief-description",
+          "description": "General fixed and floating charge over all assets of the company.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bizcap Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "128198750001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-02-29",
+        "delivered_on": "2024-03-12",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Kuflink Bridging LTD"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-11-24",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "XEG198T5",
+        "transaction_id": "MzQ5MDU4MTYzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 10,
+        "barcode": "XEDROM96",
+        "transaction_id": "MzQ4NjA3MjIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-10-20",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AED8Z1E1",
+        "transaction_id": "MzQ4NTIwNTU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEC69DCH",
+        "transaction_id": "MzQ4MzE3MDEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-04",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 6,
+        "barcode": "RDXIV9GH",
+        "transaction_id": "MzQ1NzIxMDI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDGTVNAI",
+        "transaction_id": "MzQ0NTM0MzU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDGTVML7",
+        "transaction_id": "MzQ0NTM0MzM0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCRFFYH",
+        "transaction_id": "MzQzNzczMzc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "ADAW9BB6",
+        "transaction_id": "MzQzNDY0NjczMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDAIEZGX",
+        "transaction_id": "MzQzMzgwNjg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XDAIETPV",
+        "transaction_id": "MzQzMzgwNTY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "AD9WW0QP",
+        "transaction_id": "MzQzMzA3MzI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-12",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 30,
+        "barcode": "XCYQTUOO",
+        "transaction_id": "MzQxNDE1MDQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 8,
+        "barcode": "XCC11QHC",
+        "transaction_id": "MzM5Mjg5OTIzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-06",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCBI9YBM",
+        "transaction_id": "MzM5MjA2NjczM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCBI9RAY",
+        "transaction_id": "MzM5MjA2NDc5NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCBI9PZN",
+        "transaction_id": "MzM5MjA2NDUwN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCBI9OQ9",
+        "transaction_id": "MzM5MjA2NDIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC4T25WZ",
+        "transaction_id": "MzM4MTczMjI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AC1GR5MX",
+        "transaction_id": "MzM3NjY2Mjk4MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AC1GR5QX",
+        "transaction_id": "MzM3NjY2Mjk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XBCDKO0G",
+        "transaction_id": "MzM1MTYwMzIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBCDKNYO",
+        "transaction_id": "MzM1MTYwMzE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-08-30",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 48,
+        "barcode": "YBB1PH80",
+        "transaction_id": "MzM0OTY2MzI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-08-30",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "transaction_id": "WUJCMVBFVlNhZGlxemtjeA"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Justfixit.com",
+    "headcount": 7,
+    "tech_stack": [],
+    "business_keywords": [
+      "IT solution",
+      "managed IT",
+      "cloud-based IT",
+      "downtime elimination",
+      "cost reduction",
+      "performance acceleration",
+      "plug-and-play technology",
+      "scalable IT",
+      "ZeroIT",
+      "business transformation"
+    ],
+    "services": [
+      "fully managed IT solution",
+      "cloud-based IT solution"
+    ],
+    "customer_segments": [
+      "businesses"
+    ],
+    "business_description": "Just Fix It provides ZeroIT, a fully managed, cloud-based IT solution designed to eliminate downtime, reduce costs, and accelerate business performance. The service offers plug-and-play technology that scales with businesses.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:01:53.074Z"
+  },
+  "scraped_at": "2026-01-10T23:01:50.121Z",
+  "updated_at": "2026-01-10T23:01:53.074Z",
+  "version": 1
+}

@@ -1,0 +1,433 @@
+{
+  "company_name": "MLP NEWCO 1 LIMITED",
+  "company_number": "12146836",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-08-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Buckholt Drive, Warndon, Worcester, WR4 9SR, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Buckholt Drive",
+    "address_line_2": "Warndon",
+    "country": "United Kingdom",
+    "locality": "Worcester",
+    "postal_code": "WR4 9SR"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-15",
+    "last_made_up_to": "2025-05-01",
+    "next_made_up_to": "2026-05-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BADLEY, Simon Andrew",
+        "officer_role": "director",
+        "appointed_on": "2019-08-08",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Warndon",
+          "country": "United Kingdom",
+          "locality": "Worcester",
+          "postal_code": "WR4 9SR",
+          "premises": "Buckholt Drive"
+        }
+      },
+      {
+        "name": "WARREN, Michael Anthony",
+        "officer_role": "director",
+        "appointed_on": "2025-03-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Warndon",
+          "country": "United Kingdom",
+          "locality": "Worcester",
+          "postal_code": "WR4 9SR",
+          "premises": "Buckholt Drive"
+        }
+      },
+      {
+        "name": "RALPH, Charles Philip",
+        "officer_role": "director",
+        "appointed_on": "2019-08-08",
+        "resigned_on": "2025-03-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Warndon",
+          "country": "United Kingdom",
+          "locality": "Worcester",
+          "postal_code": "WR4 9SR",
+          "premises": "Buckholt Drive"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HUGHES, Mairead Maria",
+        "officer_role": "secretary",
+        "appointed_on": "2025-03-01",
+        "address": {
+          "address_line_1": "Warndon",
+          "country": "United Kingdom",
+          "locality": "Worcester",
+          "postal_code": "WR4 9SR",
+          "premises": "Buckholt Drive"
+        }
+      },
+      {
+        "name": "MCKENNA HUGHES LTD",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2019-08-15",
+        "resigned_on": "2025-03-01",
+        "address": {
+          "address_line_1": "Dorsington Road",
+          "address_line_2": "Pebworth",
+          "country": "England",
+          "locality": "Stratford-Upon-Avon",
+          "postal_code": "CV37 8XB",
+          "premises": "The Pipings"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Open International Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-08-08",
+        "address": {
+          "address_line_1": "Warndon",
+          "locality": "Worcester",
+          "postal_code": "WR4 9SR",
+          "premises": "Buckholt Drive",
+          "region": "Worcestershire"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "United Kingdom",
+          "country_registered": "United Kingdom",
+          "place_registered": "United Kingdom",
+          "registration_number": "05716519"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "121468360001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-10-11",
+        "delivered_on": "2024-10-17",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Not applicable.",
+          "contains_fixed_charge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ares Management Limited (As Security Agent for the Beneficiaries)"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE2H8LXL",
+        "transaction_id": "MzQ2NTk1NDI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-10",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XDY0T1L5",
+        "transaction_id": "MzQ1Nzg3NTA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDY0T1J5",
+        "transaction_id": "MzQ1Nzg3NTA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-10",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDY0T1E8",
+        "transaction_id": "MzQ1Nzg3NTAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XDY0T14Z",
+        "transaction_id": "MzQ1Nzg3NTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-03",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 28,
+        "barcode": "ADX9SAQY",
+        "transaction_id": "MzQ1Njg3MjA2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVE221D",
+        "transaction_id": "MzQ1MzMyODg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-10-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 21,
+        "barcode": "XDDWEJ4Y",
+        "transaction_id": "MzQzOTk4MTI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-19",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 30,
+        "barcode": "ADBIZXA0",
+        "transaction_id": "MzQzNjM5MDA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCVG6WEO",
+        "transaction_id": "MzQwODkyNDE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC9YBQJ3",
+        "transaction_id": "MzM4OTY1ODUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-28",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 25,
+        "barcode": "ABY0PEYH",
+        "transaction_id": "MzM3MDc4ODQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBA35QTD",
+        "transaction_id": "MzM0ODM3Mzk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-15",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "AAXPONVG",
+        "transaction_id": "MzMyOTc4NDAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAB5BQLC",
+        "transaction_id": "MzMxMTAxNDc1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-04",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "A9Z112LM",
+        "transaction_id": "MzI5Mjg4NTY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9BQYVR6",
+        "transaction_id": "MzI3NTYzOTkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-13",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9BDR4DM",
+        "transaction_id": "MzI3NTIyNTM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-09-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "X8ECFFXN",
+        "transaction_id": "MzI0NDYxNDExNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-09-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A8D1PUPE",
+        "transaction_id": "MzI0MzUyMTAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-08-19",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "X8C7R8UJ",
+        "transaction_id": "MzI0MjAxNDczMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-08-08",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 22,
+        "barcode": "X8BF1PII",
+        "transaction_id": "MzI0MTMyOTAxN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 444000,
+    "ebitda": -333000,
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Opengi.co.uk",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "insurance software solutions",
+      "broker technology",
+      "policy administration systems",
+      "insurer hosted pricing",
+      "digital solutions",
+      "AI",
+      "underwriting",
+      "technology partner",
+      "insurance transactions",
+      "MGA",
+      "operational resilience",
+      "customer success",
+      "product strategy",
+      "extranet",
+      "analytics"
+    ],
+    "services": [
+      "policy administration systems",
+      "insurer hosted pricing",
+      "digital solutions",
+      "technology partnership for brokers",
+      "connecting brokers to solution providers",
+      "customer service desk",
+      "support centre"
+    ],
+    "customer_segments": [
+      "brokers",
+      "MGAs (Managing General Agents)",
+      "businesses in the UK and Ireland",
+      "Applied Systems customers"
+    ],
+    "business_description": "Open GI provides innovative insurance software solutions tailored for brokers to streamline operations using cutting-edge technology. The company serves as a specialist technology partner, connecting brokers to over 150 solution providers and driving over one-third of UK insurance transactions. Open GI supports over 900 businesses and 14,000+ users with its broker-focused technology.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T21:28:45.505Z"
+  },
+  "scraped_at": "2026-01-10T21:28:38.010Z",
+  "updated_at": "2026-01-10T21:28:45.505Z",
+  "version": 1
+}

@@ -1,0 +1,380 @@
+{
+  "company_name": "LAWADVISOR LTD",
+  "company_number": "11127712",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-12-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "Level 3 115 Golden Ln, London, EC1Y 0TJ, England",
+  "registered_address_structured": {
+    "address_line_1": "Level 3 115 Golden Ln",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1Y 0TJ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-22",
+    "last_made_up_to": "2025-07-08",
+    "next_made_up_to": "2026-07-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ONG, Brennan Jeos",
+        "officer_role": "director",
+        "appointed_on": "2017-12-29",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1985,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "115 Golden Ln",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1Y 0TJ",
+          "premises": "Level 3"
+        }
+      },
+      {
+        "name": "DUKIC, Marko",
+        "officer_role": "director",
+        "appointed_on": "2017-12-29",
+        "resigned_on": "2025-03-26",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "115 Golden Ln",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1Y 0TJ",
+          "premises": "Level 3"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Lawadvisor Ventures Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-08-23",
+        "address": {
+          "address_line_1": "15 Piazza Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PW",
+          "premises": "204, Satin House"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006"
+        }
+      },
+      {
+        "name": "Mr Brennan Jeos Ong",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-12-29",
+        "ceased_on": "2021-08-23",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1985,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Piazza Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8PW",
+          "premises": "Apartment 204,"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XEHZE38Y",
+        "transaction_id": "MzQ5NjA0NDU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6DVBWX",
+        "transaction_id": "MzQ3Mjg5MTczMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDZ5PQM8",
+        "transaction_id": "MzQ2MDI0MjcyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDYP00RE",
+        "transaction_id": "MzQ1OTMxMzgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDCR8EQ8",
+        "transaction_id": "MzQzNzY3NjMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD75L8D5",
+        "transaction_id": "MzQyODM4ODA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XCA3L8RA",
+        "transaction_id": "MzM4OTk2NjQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8LU5FK",
+        "transaction_id": "MzM4NzY5NzM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBJC2CFV",
+        "transaction_id": "MzM2MzMxOTk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-07-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB8IM12R",
+        "transaction_id": "MzM0NTk0NTg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB85DZN7",
+        "transaction_id": "MzM0NTU3NzQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-13",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB85DVSA",
+        "transaction_id": "MzM0NTU3NjQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB85DVKB",
+        "transaction_id": "MzM0NTU3NjM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAWYCATT",
+        "transaction_id": "MzMyODQ3NDI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAE4ISIQ",
+        "transaction_id": "MzMxNTY3OTkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA570MG2",
+        "transaction_id": "MzMwMjA2Mjg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9YWCQMR",
+        "transaction_id": "MzI5MjE0OTAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8X91ZI9",
+        "transaction_id": "MzI1NTM3MDg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8F8NOUZ",
+        "transaction_id": "MzI0NTgzMjIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8BF1W0Z",
+        "transaction_id": "MzI0MTMzMDg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80ITXK1",
+        "transaction_id": "MzIyODUxMjc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2017-12-29",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "X6M9TVBD",
+        "transaction_id": "MzE5NDAwMzQ2MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Lawadvisor.com",
+    "headcount": 12,
+    "tech_stack": [],
+    "business_keywords": [
+      "legal technology",
+      "legal service delivery",
+      "legal innovation",
+      "legal operations",
+      "legal project management",
+      "low-code software",
+      "customisable software",
+      "digital workflows",
+      "legaltech",
+      "matter management",
+      "contract management",
+      "legal advice",
+      "collaborative platform",
+      "legal ecosystem",
+      "legal departments"
+    ],
+    "services": [
+      "low-code and customisable software for legal service delivery",
+      "digital workflows for RFP, instruction, legal project management, and financial tracking",
+      "legal project management system (Fibonacci)",
+      "relationship tracking and engagement visibility (LegalEye)",
+      "contract creation, negotiation, and execution platform (LawAdvisor Vault™)",
+      "connecting businesses and individuals with legal advice and support"
+    ],
+    "customer_segments": [
+      "corporate legal departments",
+      "law firms",
+      "pioneering legal departments",
+      "in-house counsel"
+    ],
+    "business_description": "LawAdvisor Ltd provides low-code and customisable software solutions to transform legal service delivery for law firms and corporate legal departments. Their offerings include digital workflows, legal project management, relationship tracking, and contract management tools designed to enhance efficiency and collaboration in legal operations. They aim to innovate the legal industry through technology-driven solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:48:37.850Z"
+  },
+  "scraped_at": "2026-01-10T18:48:31.745Z",
+  "updated_at": "2026-01-10T18:48:37.850Z",
+  "version": 1
+}

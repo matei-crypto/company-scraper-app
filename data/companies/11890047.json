@@ -1,0 +1,389 @@
+{
+  "company_name": "RELIABLE INSIGHTS LTD",
+  "company_number": "11890047",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-03-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 The Heights, Leek, ST13 7LQ, England",
+  "registered_address_structured": {
+    "address_line_1": "4 The Heights",
+    "country": "England",
+    "locality": "Leek",
+    "postal_code": "ST13 7LQ"
+  },
+  "sic_codes": [
+    "58290",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-01",
+    "next_accounts_period_end_on": "2025-09-01",
+    "next_accounts_period_start_on": "2024-09-02",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-01",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 1,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-01",
+    "last_made_up_to": "2025-03-18",
+    "next_made_up_to": "2026-03-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "THOMAS, Michael",
+        "officer_role": "director",
+        "appointed_on": "2019-03-19",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Heights",
+          "country": "England",
+          "locality": "Leek",
+          "postal_code": "ST13 7LQ",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "THOMAS, Stephen",
+        "officer_role": "director",
+        "appointed_on": "2019-03-19",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Heights",
+          "country": "United Kingdom",
+          "locality": "Leek",
+          "postal_code": "ST13 7LQ",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "THOMAS, Michael",
+        "officer_role": "secretary",
+        "appointed_on": "2019-03-19",
+        "address": {
+          "address_line_1": "The Heights",
+          "country": "England",
+          "locality": "Leek",
+          "postal_code": "ST13 7LQ",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Michael Thomas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2019-03-19",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hazelrigg Lane",
+          "address_line_2": "Ellel",
+          "country": "England",
+          "locality": "Lancaster",
+          "postal_code": "LA2 0PL",
+          "premises": "1, Hazelrigg Barn"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "118900470001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-11-28",
+        "delivered_on": "2019-11-29",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tangentworks Nv"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE2MIXDC",
+        "transaction_id": "MzQ2NjM4MzIyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYMOQ0W",
+        "transaction_id": "MzQ1OTM3MTczMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XDY0T8JK",
+        "transaction_id": "MzQ1Nzg3NjUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDY0T8TL",
+        "transaction_id": "MzQ1Nzg3NjU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD4B8HX5",
+        "transaction_id": "MzQyMzkyMjUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZTEAUH",
+        "transaction_id": "MzQxNjQ1NzUyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC4A3TF5",
+        "transaction_id": "MzM4MDgzNjAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZSGV8B",
+        "transaction_id": "MzM3MzM5MDEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB4VDDPC",
+        "transaction_id": "MzM0MDc4MTI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB0BAKCQ",
+        "transaction_id": "MzMzMzYyNDEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1WC93U",
+        "transaction_id": "MzI5NzAxNzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA03O0YX",
+        "transaction_id": "MzI5NDE2Mjc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-16",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9YDJKRM",
+        "transaction_id": "MzI5MTM4OTkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9YDJLBD",
+        "transaction_id": "MzI5MTM5MDA3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9YDJK43",
+        "transaction_id": "MzI5MTM4OTYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-02-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9YDJG8R",
+        "transaction_id": "MzI5MTM4ODQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-31",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X91YVAI9",
+        "transaction_id": "MzI2MTMyOTE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X91W5S8Y",
+        "transaction_id": "MzI2MTE5NTc4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-19",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9136FD6",
+        "transaction_id": "MzI2MDE4Njk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9136G8A",
+        "transaction_id": "MzI2MDE4NzE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9136FQ8",
+        "transaction_id": "MzI2MDE4NzA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-11-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "X8J81WMP",
+        "transaction_id": "MzI1MDc3NTM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-03-19",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 30,
+        "barcode": "X81H5K1S",
+        "transaction_id": "MzIyOTUyNDAzN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 23,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Mypmr.pro",
+    "headcount": 6,
+    "tech_stack": [
+      "LinkedIn px (ads)"
+    ],
+    "business_keywords": [
+      "market intelligence",
+      "PMR Market Intelligence",
+      "data access",
+      "user account",
+      "login",
+      "platform access",
+      "market research",
+      "business insights"
+    ],
+    "services": [
+      "access to PMR Market Intelligence platform",
+      "user account creation"
+    ],
+    "customer_segments": [],
+    "business_description": "RELIABLE INSIGHTS LTD, operating as PMR Market Intelligence, provides access to a market intelligence platform. Users can log in to retrieve their data or create a new account to start using the platform.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:51:37.340Z"
+  },
+  "scraped_at": "2026-01-10T20:51:32.337Z",
+  "updated_at": "2026-01-10T20:51:37.340Z",
+  "version": 1
+}

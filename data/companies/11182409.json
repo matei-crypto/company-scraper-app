@@ -1,0 +1,406 @@
+{
+  "company_name": "CANDLEFOX LIMITED",
+  "company_number": "11182409",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-02-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite A 1 Old Court Mews, 311 Chase Road, London, N14 6JS, England",
+  "registered_address_structured": {
+    "address_line_1": "Suite A 1 Old Court Mews",
+    "address_line_2": "311 Chase Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N14 6JS"
+  },
+  "sic_codes": [
+    "62090",
+    "63120",
+    "85600"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-29",
+    "next_accounts_period_end_on": "2025-06-29",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-06",
+    "last_made_up_to": "2025-05-23",
+    "next_made_up_to": "2026-05-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "VAN DER SLUYS, Zig",
+        "officer_role": "director",
+        "appointed_on": "2018-02-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1975,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "1 Old Court Mews",
+          "address_line_2": "311 Chase Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N14 6JS",
+          "premises": "Suite A"
+        }
+      },
+      {
+        "name": "GEORGE, Wayne",
+        "officer_role": "director",
+        "appointed_on": "2018-04-19",
+        "resigned_on": "2021-09-29",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Page Street",
+          "address_line_2": "Middle Park",
+          "country": "Australia",
+          "locality": "Vic",
+          "premises": "205",
+          "region": "3206"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "VAN DER SLUYS, Zig",
+        "officer_role": "secretary",
+        "appointed_on": "2018-02-01",
+        "address": {
+          "address_line_1": "1 Old Court Mews",
+          "address_line_2": "311 Chase Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N14 6JS",
+          "premises": "Suite A"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Candlefox Group Pty Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-09-01",
+        "address": {
+          "address_line_1": "Erskine Street",
+          "address_line_2": "Middle Park",
+          "country": "Australia",
+          "locality": "Vic 3206",
+          "premises": "123"
+        },
+        "identification": {
+          "legal_form": "Proprietary Limited Company",
+          "legal_authority": "The Corporations Act 2001",
+          "country_registered": "Australia",
+          "place_registered": "Australian Securities & Investments Commission",
+          "registration_number": "661 807 709"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-10-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XECC8XXE",
+        "transaction_id": "MzQ4MzYwNjAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE35P7UG",
+        "transaction_id": "MzQ2NzcwMTI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDZPCBW1",
+        "transaction_id": "MzQ2MTM2MjM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDZB4GIO",
+        "transaction_id": "MzQ2MDU0OTcwNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XDY3H0R5",
+        "transaction_id": "MzQ1Nzk5MjYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDY3H0EJ",
+        "transaction_id": "MzQ1Nzk5MjU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDY3GWY1",
+        "transaction_id": "MzQ1Nzk5MTc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD4M00IZ",
+        "transaction_id": "MzQyNDM1NDcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4GI1JL",
+        "transaction_id": "MzQyNDA1NDk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-06-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD4GI1XF",
+        "transaction_id": "MzQyNDA1NDcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCZSVBCP",
+        "transaction_id": "MzQxNjI0MzkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-19",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XC3U0TB4",
+        "transaction_id": "MzM4MDE1Nzg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-19",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XC3U0RNO",
+        "transaction_id": "MzM4MDE1NzM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC3RBL8R",
+        "transaction_id": "MzM4MDA0MjI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC0BLBK1",
+        "transaction_id": "MzM3NDQ3MjYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXEASMZ",
+        "transaction_id": "MzM2OTQzMjQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-16",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB8DFNFU",
+        "transaction_id": "MzM0NTg4MzE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB100RDH",
+        "transaction_id": "MzMzNDk3NjczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB0X5KJ4",
+        "transaction_id": "MzMzNDc5ODk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAWYJC2W",
+        "transaction_id": "MzMyODYxMzY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-09-21",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "AAD4H1ZM",
+        "transaction_id": "MzMxNDIyODk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-09-21",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUFENEgxWkVhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AAD4H1ZU",
+        "transaction_id": "MzMxNDIyODk1MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-20",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "AAD4H202",
+        "transaction_id": "MzMxNDIyODk1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA7QPAIY",
+        "transaction_id": "MzMwNjI2ODcxMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Candlefox.com",
+    "headcount": 6,
+    "tech_stack": [
+      "Candlefox MarketingHub"
+    ],
+    "business_keywords": [
+      "education marketplace",
+      "student acquisition",
+      "education marketing",
+      "lead generation",
+      "student enrolment services",
+      "cost-per-click services",
+      "education technology",
+      "marketing diversification",
+      "quality assurance",
+      "education providers",
+      "prospective students",
+      "marketing hub",
+      "enrolment centre",
+      "high-intent traffic",
+      "learner journey"
+    ],
+    "services": [
+      "Generate Leads with the Candlefox MarketingHub",
+      "Student Enrolment Services",
+      "Cost-Per-Click Services",
+      "Marketing diversification",
+      "Quality assurance for student leads"
+    ],
+    "customer_segments": [
+      "education institutions",
+      "education providers",
+      "prospective students"
+    ],
+    "business_description": "Candlefox is Australia's largest education marketplace, connecting prospective students with education providers. The company offers bespoke solutions, including lead generation, student enrolment services, and cost-per-click marketing, to drive student acquisition and enhance marketing efforts for education providers globally.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:57:56.180Z"
+  },
+  "scraped_at": "2026-01-10T18:57:50.802Z",
+  "updated_at": "2026-01-10T18:57:56.180Z",
+  "version": 1
+}

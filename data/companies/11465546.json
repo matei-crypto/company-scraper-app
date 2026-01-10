@@ -1,0 +1,508 @@
+{
+  "company_name": "JAAM AUTOMATION LTD",
+  "company_number": "11465546",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-07-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "128 City Road, London, EC1V 2NX, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "62090",
+    "78109"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ADJUST CONSULTING LTD",
+      "ceased_on": "2020-11-04",
+      "effective_from": "2018-07-16"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-05",
+    "next_accounts_period_end_on": "2026-04-05",
+    "next_accounts_period_start_on": "2025-04-06",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-05",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 5,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-09",
+    "last_made_up_to": "2025-04-25",
+    "next_made_up_to": "2026-04-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DU TOIT, Anton",
+        "officer_role": "director",
+        "appointed_on": "2018-07-16",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Romans Way",
+          "country": "United Kingdom",
+          "locality": "Pyrford",
+          "postal_code": "GU22 8TP",
+          "premises": "17"
+        }
+      },
+      {
+        "name": "MURPHY, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2021-07-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "PENMAN, Graham Michael",
+        "officer_role": "director",
+        "appointed_on": "2022-04-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      },
+      {
+        "name": "SMITH, Justin Douglas",
+        "officer_role": "director",
+        "appointed_on": "2018-07-16",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Engliff Lane",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU22 8SU",
+          "premises": "20"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SMITH, Justin Douglas",
+        "officer_role": "secretary",
+        "appointed_on": "2018-07-16",
+        "address": {
+          "address_line_1": "Engliff Lane",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU22 8SU",
+          "premises": "20"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andrew Murphy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-07-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "160 City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "Kemp House"
+        }
+      },
+      {
+        "name": "Mr Anton Du Toit",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-01-28",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "Kemp House"
+        }
+      },
+      {
+        "name": "Mr Justin Douglas Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-01-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "128"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "114655460001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-06-24",
+        "delivered_on": "2025-07-09",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All present and future freehold or leasehold property pursuant to clause 3.3 of the accompanying copy instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Float Finance Ab as Security Trustee for the Secured Parties"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEI9VKB7",
+        "transaction_id": "MzQ5NjU0MDk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 37,
+        "barcode": "XE6GJSP6",
+        "transaction_id": "MzQ3MzA0Mjk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-07-07",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YE5XYNFK",
+        "transaction_id": "MzQ3MjM4MzI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-07-07",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 26,
+        "barcode": "YE5XYNZU",
+        "transaction_id": "MzQ3MjM4MzM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-07-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YE5XYO0Z",
+        "transaction_id": "WUU1WFlPMFphZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE17EE3T",
+        "transaction_id": "MzQ2NDAzNDQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYBQ8J3",
+        "transaction_id": "MzQ1ODY2ODc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDAYJEJD",
+        "transaction_id": "MzQzNDQ3NTgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1RKY2Y",
+        "transaction_id": "MzQxOTcwNjkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XC9VLN3F",
+        "transaction_id": "MzM4OTQ4OTAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC38ICRD",
+        "transaction_id": "MzM3OTE2NDEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XB76HY3E",
+        "transaction_id": "MzM0NDE1MzI1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB61ZG96",
+        "transaction_id": "MzM0MjM1MDA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB3O03WQ",
+        "transaction_id": "MzMzODcyMDk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-20",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XB2BZKFD",
+        "transaction_id": "MzMzNjc5MDQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB2BYLGZ",
+        "transaction_id": "MzMzNjc4MjQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAJC66NT",
+        "transaction_id": "MzMyMzU4OTQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-07",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XAEN5HBU",
+        "transaction_id": "MzMxNjM1NzAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-07-22",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XA9APTLM",
+        "transaction_id": "MzMwODQ2OTY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-22",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA9APIAP",
+        "transaction_id": "MzMwODQ2NjYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA6BH47V",
+        "transaction_id": "MzMwMzk0ODM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X9XKE8QJ",
+        "transaction_id": "MzI5MDQzNTE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X9X73D3E",
+        "transaction_id": "MzI5MDAzNDY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X9X73BW3",
+        "transaction_id": "MzI5MDAzNDQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-29",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "X9X700UR",
+        "transaction_id": "MzI4OTk5OTU3N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 31,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 2174266,
+    "ebitda": 363123,
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Jaamautomation.com",
+    "headcount": 8,
+    "tech_stack": [
+      "Microsoft Power Platform",
+      "Nintex Automation Cloud",
+      "Nintex K2"
+    ],
+    "business_keywords": [
+      "Agentic AI",
+      "business process automation",
+      "AI Agents",
+      "process automation",
+      "autonomous agents",
+      "co-pilots",
+      "document intelligence",
+      "smart insights engine",
+      "decision support",
+      "low-code platforms",
+      "rapid application development",
+      "Microsoft platform",
+      "email classification",
+      "data extraction",
+      "knowledge summarisation"
+    ],
+    "services": [
+      "Build and run AI Agents on the Microsoft platform",
+      "Build custom co-pilots and autonomous agents to automate processes",
+      "Enhance existing processes with Agentic AI",
+      "Integrate Agentic AI agents into current process automation platforms",
+      "Build new Agentic AI-powered applications using low-code platforms",
+      "Build new Agentic AI-powered applications using rapid application development (RAD) platforms",
+      "Support and manage platforms, AI agents, and applications",
+      "Provide access to multi-skilled experts for technical support",
+      "Smart Email Management (email classification and handling automation)",
+      "Autonomous Document Intelligence (document understanding, key data extraction, summarisation)",
+      "Smart Insights Engine (decision support, knowledge summarisation, communication content suggestions)"
+    ],
+    "customer_segments": [],
+    "business_description": "JAAM AUTOMATION LTD specializes in Agentic AI-powered business process automation, leveraging over 20 years of process automation expertise. The company helps businesses build and run AI agents, enhance existing processes with Agentic AI, create new AI-powered applications, and provides support and management for platforms, agents, and applications.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:45:39.741Z"
+  },
+  "scraped_at": "2026-01-10T19:45:31.739Z",
+  "updated_at": "2026-01-10T19:45:39.741Z",
+  "version": 1
+}

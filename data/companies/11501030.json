@@ -1,0 +1,382 @@
+{
+  "company_name": "SKYLOOP DIGITAL LTD",
+  "company_number": "11501030",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-08-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "125 Wood Street, London, EC2V 7AW, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "125 Wood Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2V 7AW"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-15",
+    "last_made_up_to": "2025-09-01",
+    "next_made_up_to": "2026-09-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CARVALLO, Daniel",
+        "officer_role": "director",
+        "appointed_on": "2022-08-09",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wood Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2V 7AW",
+          "premises": "125"
+        }
+      },
+      {
+        "name": "VICCI RANGEL, Geovanny",
+        "officer_role": "director",
+        "appointed_on": "2018-08-06",
+        "resigned_on": "2022-08-09",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Devonshire Park",
+          "address_line_2": "Reading",
+          "country": "United Kingdom",
+          "locality": "Berkshire",
+          "postal_code": "RG2 7DX",
+          "premises": "33",
+          "region": "Berkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "PENNSEC LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2022-08-15",
+        "address": {
+          "address_line_1": "Wood Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2V 7AW",
+          "premises": "125"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Geovanny Vicci Rangel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2018-08-06",
+        "ceased_on": "2022-08-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Devonshire Park",
+          "country": "United Kingdom",
+          "locality": "Berkshire",
+          "postal_code": "RG2 7DX",
+          "premises": "33"
+        }
+      },
+      {
+        "name": "Daniel Carvallo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2018-08-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wood Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2V 7AW",
+          "premises": "125"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEHI6M2I",
+        "transaction_id": "MzQ5NDU1ODc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEA7CT4I",
+        "transaction_id": "MzQ3OTMzNDU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYJH17F",
+        "transaction_id": "MzQ1ODg2NDMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYJH0TD",
+        "transaction_id": "MzQ1ODg2NDA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDF90AHF",
+        "transaction_id": "MzQ0MjA3MDI0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDDQNCGJ",
+        "transaction_id": "MzQzOTM2NzMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDDQNC88",
+        "transaction_id": "MzQzOTM2NzI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDAT13QZ",
+        "transaction_id": "MzQzNDEyMzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD0MUM0J",
+        "transaction_id": "MzQxNzUwNzE0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD0MUM4A",
+        "transaction_id": "MzQxNzUwNzE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCIVF7SZ",
+        "transaction_id": "MzQwNTI4MDIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBCVESO",
+        "transaction_id": "MzM5MTc1MTExMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBJRTZ23",
+        "transaction_id": "MzM2MzgwNjUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBN10M0",
+        "transaction_id": "MzM1MDUwMTgzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBAYT6XT",
+        "transaction_id": "MzM0OTM2NjA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-19",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XBAR29A3",
+        "transaction_id": "MzM0OTE5ODM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBAR2580",
+        "transaction_id": "MzM0OTE5NzUyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBAR23ZE",
+        "transaction_id": "MzM0OTE5NzIyN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBAR21H7",
+        "transaction_id": "MzM0OTE5NjYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-16",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBAIU662",
+        "transaction_id": "MzM0ODc2OTY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBA30H06",
+        "transaction_id": "MzM0ODMyNTMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBA0EOJN",
+        "transaction_id": "MzM0ODIxNTI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-09",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBA0EOOC",
+        "transaction_id": "MzM0ODIxNTI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AB0YN0KY",
+        "transaction_id": "MzMzNTE0MzgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAHBFBS2",
+        "transaction_id": "MzMyMDE2OTAwOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://L4ebill.com",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T19:51:40.915Z",
+  "scraped_at": "2026-01-10T19:51:40.915Z"
+}

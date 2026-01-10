@@ -1,0 +1,387 @@
+{
+  "company_name": "EVER NIMBLE LTD",
+  "company_number": "12219761",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-09-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite A Floor 1, 220 High Street, Swansea, SA1 1NW, Wales",
+  "registered_address_structured": {
+    "address_line_1": "Suite A Floor 1",
+    "address_line_2": "220 High Street",
+    "country": "Wales",
+    "locality": "Swansea",
+    "postal_code": "SA1 1NW"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-04",
+    "last_made_up_to": "2025-09-20",
+    "next_made_up_to": "2026-09-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GOULIOS, Alexandros",
+        "officer_role": "director",
+        "appointed_on": "2019-09-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1980,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "220 High Street",
+          "country": "Wales",
+          "locality": "Swansea",
+          "postal_code": "SA1 1NW",
+          "premises": "Suite A Floor 1"
+        }
+      },
+      {
+        "name": "MORRISSEY, Christopher",
+        "officer_role": "director",
+        "appointed_on": "2019-09-21",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1983,
+        "nationality": "English",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "220 High Street",
+          "country": "Wales",
+          "locality": "Swansea",
+          "postal_code": "SA1 1NW",
+          "premises": "Suite A Floor 1"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BROWN, Ryan",
+        "officer_role": "secretary",
+        "appointed_on": "2025-09-19",
+        "address": {
+          "address_line_1": "220 High Street",
+          "country": "Wales",
+          "locality": "Swansea",
+          "postal_code": "SA1 1NW",
+          "premises": "Suite A Floor 1"
+        }
+      },
+      {
+        "name": "EVE, Julian",
+        "officer_role": "secretary",
+        "appointed_on": "2019-09-21",
+        "resigned_on": "2025-09-19",
+        "address": {
+          "address_line_1": "220 High Street",
+          "country": "Wales",
+          "locality": "Swansea",
+          "postal_code": "SA1 1NW",
+          "premises": "Suite A Floor 1"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEDLXLE2",
+        "transaction_id": "MzQ4NTUyNzc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-20",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XEDLWWO2",
+        "transaction_id": "MzQ4NTUyMTgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-20",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XEDLWWNU",
+        "transaction_id": "MzQ4NTUyMTgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDZGW19U",
+        "transaction_id": "MzQ2MDg0MTA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDCUMIKI",
+        "transaction_id": "MzQzODE0NjU0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-11",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDBEPYG3",
+        "transaction_id": "MzQzNTI1ODE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD690NIP",
+        "transaction_id": "MzQyNjk5NDY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDB2VGB",
+        "transaction_id": "MzM5NTEwNzk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC6QSKWI",
+        "transaction_id": "MzM4NDgwOTI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDY2XOG",
+        "transaction_id": "MzM1NDAyNDE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB9HLZMW",
+        "transaction_id": "MzM0NzQ0MTQ3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB79E7A1",
+        "transaction_id": "MzM0NDMzMDE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XADYRMVK",
+        "transaction_id": "MzMxNTI2MDI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-09-04",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMxMjc4MjI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAC9FORS",
+        "transaction_id": "MzMxMjc4MjI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-08-17",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMxMDIyNTA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9H57OUX",
+        "transaction_id": "MzI4MjYxNzI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9G93JG2",
+        "transaction_id": "MzI4MTQyNTA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-23",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9G93JEY",
+        "transaction_id": "MzI4MTQyNTA0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9G93JA1",
+        "transaction_id": "MzI4MTQyNTAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-10-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9G93J54",
+        "transaction_id": "MzI4MTQyNDg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-09-21",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 39,
+        "barcode": "X8EF3ONN",
+        "transaction_id": "MzI0NDczOTkxN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Evernimble.com",
+    "headcount": 15,
+    "tech_stack": [
+      "Microsoft 365",
+      "CrowdStrike",
+      "Fortinet",
+      "Threat Locker",
+      "Barracuda",
+      "Proof Point",
+      "Dell",
+      "Datto",
+      "Zoho CRM"
+    ],
+    "business_keywords": [
+      "Managed IT Services",
+      "MSP",
+      "MSSP",
+      "Cyber Security",
+      "IT Support",
+      "Cloud Services",
+      "IT Strategy",
+      "IT Project Implementation",
+      "Business Process Improvement",
+      "Cyber Awareness Training",
+      "Compliance",
+      "Microsoft 365",
+      "24/7 Security Operations Centre",
+      "Vulnerability Scanning",
+      "Disaster Recovery"
+    ],
+    "services": [
+      "Managed IT Services (MSP)",
+      "Managed Security Services (MSSP)",
+      "IT Strategy",
+      "Cyber Security Protection",
+      "IT Support",
+      "IT Project Implementation",
+      "Business Process Improvement",
+      "Cloud Services",
+      "IT Supplies & Procurement",
+      "Cyber Awareness Training (CAT)",
+      "Email Security",
+      "24/7 Security Operations Centre (SOC)",
+      "Vulnerability Scanning",
+      "Compliance and Risk Management",
+      "Next-gen AV, XDR, and EDR",
+      "Microsoft 365 Productivity Solutions",
+      "Disaster Recovery",
+      "CRM Implementation and Training (e.g., Zoho CRM)"
+    ],
+    "customer_segments": [
+      "Mining",
+      "Financial Services",
+      "Legal",
+      "Health",
+      "SMBs (Small and Medium-sized Businesses)",
+      "Global Consultancies",
+      "Boutique Accounting Firms",
+      "Global Mining Companies",
+      "Accounting Firms"
+    ],
+    "business_description": "Ever Nimble is an award-winning managed IT and cyber services provider (MSP & MSSP) with offices in Australia, the UK, and Canada. The company specializes in delivering proactive IT support, cyber security protection, cloud services, and business process improvement to help organizations thrive. They focus on reducing risk, enhancing productivity, and ensuring compliance with a global team of over 100 experts.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 33,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T21:38:50.857Z"
+  },
+  "scraped_at": "2026-01-10T21:38:42.560Z",
+  "updated_at": "2026-01-10T21:38:50.857Z",
+  "version": 1
+}

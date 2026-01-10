@@ -1,0 +1,621 @@
+{
+  "company_name": "DUFFEL TECHNOLOGY LTD",
+  "company_number": "11188295",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-02-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "3rd Floor 100 Clifton Street, London, EC2A 4TP, England",
+  "registered_address_structured": {
+    "address_line_1": "3rd Floor 100 Clifton Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 4TP"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-18",
+    "last_made_up_to": "2025-02-04",
+    "next_made_up_to": "2026-02-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DOMIN, Steve David",
+        "officer_role": "director",
+        "appointed_on": "2018-02-05",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1989,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "100 Clifton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 4TP",
+          "premises": "3rd Floor"
+        }
+      },
+      {
+        "name": "BATES, Thomas Edward Christopher",
+        "officer_role": "director",
+        "appointed_on": "2018-02-05",
+        "resigned_on": "2022-07-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "Brazil",
+        "address": {
+          "address_line_1": "Finsbury Avenue",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 2PA",
+          "premises": "Level 6, 3"
+        }
+      },
+      {
+        "name": "PASTOR, Vincent",
+        "officer_role": "director",
+        "appointed_on": "2018-02-05",
+        "resigned_on": "2019-07-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1986,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "3rd Floor",
+          "address_line_2": "134 Curtain Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 3AR",
+          "premises": "Studio 300"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Duffel Technology Inc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-05-24",
+        "address": {
+          "country": "United States",
+          "locality": "Dover",
+          "postal_code": "19901",
+          "premises": "3500 S Dupont Hwy",
+          "region": "Delaware"
+        },
+        "identification": {
+          "legal_form": "Incorporation",
+          "legal_authority": "Delaware, Usa",
+          "country_registered": "United States",
+          "place_registered": "Duffel Technology Inc",
+          "registration_number": "6900135"
+        }
+      },
+      {
+        "name": "Mr Steve David Domin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-02-05",
+        "ceased_on": "2018-05-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1989,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "3rd Floor",
+          "address_line_2": "134 Curtain Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 3AR",
+          "premises": "Studio 300"
+        }
+      },
+      {
+        "name": "Thomas Edward Christopher Bates",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-02-05",
+        "ceased_on": "2018-05-24",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "Brazil",
+        "address": {
+          "address_line_1": "3rd Floor",
+          "address_line_2": "134 Curtain Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 3AR",
+          "premises": "Studio 300"
+        }
+      },
+      {
+        "name": "Vincent Pastor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-02-05",
+        "ceased_on": "2018-05-24",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1986,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "3rd Floor",
+          "address_line_2": "134 Curtain Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 3AR",
+          "premises": "Studio 300"
+        }
+      },
+      {
+        "name": "Mr Steve David Domin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2018-02-05",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1989,
+        "nationality": "French,British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Clifton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 4TP",
+          "premises": "3rd Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "111882950005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-03-14",
+        "delivered_on": "2025-03-17",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "111882950004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-03-14",
+        "delivered_on": "2025-03-17",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "111882950003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-11-06",
+        "delivered_on": "2023-11-16",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "satisfied_on": "2024-11-15",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "111882950002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-11-06",
+        "delivered_on": "2023-11-16",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "satisfied_on": "2024-11-14",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "111882950001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-01-30",
+        "delivered_on": "2020-02-04",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley Bank."
+          }
+        ],
+        "satisfied_on": "2022-01-26",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-26",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XEBXX8IB",
+        "transaction_id": "MzQ4Mjc4ODQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "AE7LZVQH",
+        "transaction_id": "MzQ3NTQ2NTI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-03-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDYJN9GR",
+        "transaction_id": "MzQ1ODkxNTY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-03-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDYJN8OR",
+        "transaction_id": "MzQ1ODkxNTU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVRHIQ0",
+        "transaction_id": "MzQ1Mzg4NzExMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-31",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 37,
+        "barcode": "XDJ5MRPL",
+        "transaction_id": "MzQ0OTQ4Nzc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-15",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDFXANWY",
+        "transaction_id": "MzQ0MzU0MjAyMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-14",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDFUMSFM",
+        "transaction_id": "MzQ0MzQyNjQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-15",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XCYWK8YZ",
+        "transaction_id": "MzQxNDY1NDI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCWHYLH7",
+        "transaction_id": "MzQxMDYzODY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-11-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 6,
+        "barcode": "XCGG64E8",
+        "transaction_id": "MzQwMDI3ODk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-11-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 6,
+        "barcode": "XCGG64QY",
+        "transaction_id": "MzQwMDI3OTAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCEQ8S4W",
+        "transaction_id": "MzM5NzUwMDIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBX8WS2A",
+        "transaction_id": "MzM2OTAyMzkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-16",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "ABABYOO3",
+        "transaction_id": "MzM0ODc2MDQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB9XQXF4",
+        "transaction_id": "MzM0ODEyMDQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB9XOZRV",
+        "transaction_id": "MzM0ODA5MzYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-08-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB9PPTQ0",
+        "transaction_id": "MzM0NzgxNzYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB85D4CX",
+        "transaction_id": "MzM0NTU3MDMwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXUC5CH",
+        "transaction_id": "MzMyOTczMjA5N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-01-26",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAWIARG8",
+        "transaction_id": "MzMyNzkyOTQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "AABUT9GR",
+        "transaction_id": "MzMxMjc1MDkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA6UCFC9",
+        "transaction_id": "MzMwNDc4NzA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA6RMW9D",
+        "transaction_id": "MzMwNDYzNzAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA6M77LF",
+        "transaction_id": "MzMwNDM0NzA5MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 43
+  },
+  "enrichment": {
+    "website": "https://Duffel.com",
+    "headcount": 43,
+    "tech_stack": [
+      "Node.js client library",
+      "Python client library",
+      "Ruby client library"
+    ],
+    "business_keywords": [
+      "API",
+      "travel",
+      "flights",
+      "stays",
+      "ancillaries",
+      "flight search",
+      "booking",
+      "order management",
+      "loyalty programme perks",
+      "seats",
+      "bags",
+      "hotel shopping",
+      "commission",
+      "global inventory",
+      "customisable flight-shopping experience",
+      "easy-to-use API",
+      "Node.js",
+      "Python",
+      "Ruby",
+      "seat selection",
+      "payments"
+    ],
+    "services": [
+      "Flight search and booking",
+      "Hotel search and booking",
+      "Ancillary services (seats, bags, etc.)",
+      "Order management",
+      "Managed content for global airlines",
+      "Loyalty programme integration",
+      "Customisable flight-shopping experience",
+      "Prebuilt components (seat selection, payments)",
+      "Access to airline accreditation and ticketing authority",
+      "Commission on hotel bookings"
+    ],
+    "customer_segments": [
+      "Travel startups",
+      "Financial enterprises",
+      "Challenger banks",
+      "Spend management platforms",
+      "Non-traditional travel sellers",
+      "Large enterprises"
+    ],
+    "business_description": "Duffel provides an API for businesses to search, book, and manage flights, stays, and travel extras. It enables companies to sell travel without complexity, offering tools for flight and hotel shopping, ancillary services, order management, and loyalty programme integration. The platform is designed for startups, enterprises, and non-traditional travel sellers.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:58:43.615Z"
+  },
+  "scraped_at": "2026-01-10T18:58:35.801Z",
+  "updated_at": "2026-01-10T18:58:43.615Z",
+  "version": 1
+}

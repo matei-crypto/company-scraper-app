@@ -1,0 +1,481 @@
+{
+  "company_name": "NOSSA DATA LTD",
+  "company_number": "12651742",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-06-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "First Floor, 85 Great Portland Street, London, Greater London, W1W 7LT",
+  "registered_address_structured": {
+    "address_line_1": "First Floor",
+    "address_line_2": "85 Great Portland Street",
+    "locality": "London",
+    "postal_code": "W1W 7LT",
+    "region": "Greater London"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-16",
+    "last_made_up_to": "2025-07-02",
+    "next_made_up_to": "2026-07-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DUMITRESCU, Irina Iuliana",
+        "officer_role": "director",
+        "appointed_on": "2020-06-08",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1992,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "85 Great Portland Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "First Floor",
+          "region": "Greater London"
+        }
+      },
+      {
+        "name": "FLESHER, Julianne Sloane",
+        "officer_role": "director",
+        "appointed_on": "2020-06-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "85 Great Portland Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "First Floor",
+          "region": "Greater London"
+        }
+      },
+      {
+        "name": "SYMVAN CAPITAL LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2022-04-05",
+        "address": {
+          "address_line_1": "London Wall Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2Y 5AU",
+          "premises": "2"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Symvan Capital Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2022-04-05",
+        "address": {
+          "address_line_1": "London Wall Place",
+          "address_line_2": "6th Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2Y 5AU",
+          "premises": "2"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "08772369"
+        }
+      },
+      {
+        "name": "Bgf Investment Management Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2022-04-05",
+        "address": {
+          "address_line_1": "York Buildings",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2N 6JU",
+          "premises": "13-15"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "10608481"
+        }
+      },
+      {
+        "name": "Ms Irina Iuliana Dumitrescu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-06-08",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1992,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "85 Great Portland Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "First Floor",
+          "region": "Greater London"
+        }
+      },
+      {
+        "name": "Julianne Sloane Flesher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-06-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1992,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "85 Great Portland Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "First Floor",
+          "region": "Greater London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-10-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEEAUIGB",
+        "transaction_id": "MzQ4NjkxMDk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEA7ABZS",
+        "transaction_id": "MzQ3OTMxMzQzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6R99O2",
+        "transaction_id": "MzQ3MzQwNDA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE5XUQHF",
+        "transaction_id": "MzQ3MjM0ODc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-07-24",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YD7WGCP7",
+        "transaction_id": "WUQ3V0dDUDdhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-07-24",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 47,
+        "barcode": "YD7WGD3L",
+        "transaction_id": "MzQyOTYxOTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XD6HEVXV",
+        "transaction_id": "MzQyNzM4NDg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCWSLNAA",
+        "transaction_id": "MzQxMDkyMTcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-08",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCUBIJCY",
+        "transaction_id": "MzQwNjgzMzU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCCJTQ89",
+        "transaction_id": "MzM5Mzk1MDA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC6ALIEJ",
+        "transaction_id": "MzM4NDAyMDA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC655F6O",
+        "transaction_id": "MzM4Mzc2MDAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC62DGKA",
+        "transaction_id": "MzM4MzUyMTUzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC62DABM",
+        "transaction_id": "MzM4MzUyMDAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC62DGRD",
+        "transaction_id": "MzM4MzUyMTY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC62DA5V",
+        "transaction_id": "MzM4MzUyMDAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHTRBE0",
+        "transaction_id": "MzM2MDE4NDk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHTRB2Q",
+        "transaction_id": "MzM2MDE4NDkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBHTR9S0",
+        "transaction_id": "MzM2MDE4NDYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHTR9S8",
+        "transaction_id": "MzM2MDE4NDYxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHTR8ZC",
+        "transaction_id": "MzM2MDE4NDM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBHTR8R5",
+        "transaction_id": "MzM2MDE4NDM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBHTLMH5",
+        "transaction_id": "MzM2MDEzMjQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-21",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "XBEZTMSB",
+        "transaction_id": "MzM1NTkzNjE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB5R1PJK",
+        "transaction_id": "MzM0MTgyNDMzNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 41,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Nossadata.com",
+    "headcount": 10,
+    "tech_stack": [
+      "XBRL",
+      "Inline XBRL",
+      "CDP reporting software",
+      "EcoVadis reporting software",
+      "ISSB reporting software (IFRS S1 & S2)",
+      "CSRD reporting software (ESRS)"
+    ],
+    "business_keywords": [
+      "ESG reporting",
+      "sustainability reporting",
+      "corporate ESG data management",
+      "ESG compliance",
+      "ESG frameworks",
+      "regulatory compliance",
+      "audit-readiness",
+      "ESG data collection",
+      "ESG analytics",
+      "multi-framework mapping",
+      "UK ESG standards",
+      "EU ESG standards",
+      "ESG workflows",
+      "ESG assurance",
+      "ESG disclosure"
+    ],
+    "services": [
+      "ESG data collection and controls",
+      "Multi-framework mapping for ESG and sustainability reporting",
+      "Custom ESG reporting support",
+      "Regulatory compliance guidance for UK and EU ESG standards",
+      "End-to-end ESG reporting",
+      "Annual reporting support (e.g., GRI, SASB indexes)",
+      "Direct submission to ESG standards (e.g., CDP, EcoVadis)",
+      "ESG performance insights and rating improvement",
+      "AI-assisted ESG decision-making",
+      "Automation and integrations with ERP, HRIS, and carbon accounting platforms",
+      "Workflow, approval, and assurance-readiness tools",
+      "Collaboration tools for ESG teams",
+      "Real-time ESG dashboards and disclosure outputs",
+      "Professional report generation (Excel, PDF, XBRL, Inline XBRL)",
+      "Enterprise-grade security and compliance for ESG data"
+    ],
+    "customer_segments": [
+      "Companies required to comply with UK and EU ESG regulations",
+      "Corporates managing ESG reporting",
+      "ESG stakeholders (regulators, rating agencies, investors)",
+      "Global leaders across industries (e.g., telecommunications, finance, manufacturing)"
+    ],
+    "business_description": "Nossa Data provides corporate ESG reporting and data management software designed to streamline sustainability reporting for UK and EU regulatory compliance. The platform offers templates for major ESG frameworks, multi-framework mapping, data collection and validation, and tools for audit-readiness, collaboration, and disclosure. It supports companies in managing ESG data, improving reporting efficiency, and aligning with standards like ISSB, CSRD, CDP, and EcoVadis.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:47:40.156Z"
+  },
+  "scraped_at": "2026-01-10T22:47:30.151Z",
+  "updated_at": "2026-01-10T22:47:40.156Z",
+  "version": 1
+}

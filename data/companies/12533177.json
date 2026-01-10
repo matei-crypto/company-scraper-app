@@ -1,0 +1,423 @@
+{
+  "company_name": "INVENICS SERVICES LTD",
+  "company_number": "12533177",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-03-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "25 Cabot Square, Level 11, Canary Wharf, London, E14 4QZ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "25 Cabot Square, Level 11",
+    "address_line_2": "Canary Wharf",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E14 4QZ"
+  },
+  "sic_codes": [
+    "62020",
+    "69203",
+    "70229",
+    "71122"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-19",
+    "last_made_up_to": "2025-08-05",
+    "next_made_up_to": "2026-08-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PATRA, Shyama Prasad",
+        "officer_role": "director",
+        "appointed_on": "2020-03-25",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Level 11",
+          "address_line_2": "Canary Wharf",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 4QZ",
+          "premises": "25 Cabot Square,"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "PATRA, Shyama",
+        "officer_role": "secretary",
+        "appointed_on": "2020-03-25",
+        "address": {
+          "address_line_1": "Level 11",
+          "address_line_2": "Canary Wharf",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 4QZ",
+          "premises": "25 Cabot Square,"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Suresh Babu Krishnan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-03-25",
+        "ceased_on": "2024-08-05",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bessemer Road",
+          "country": "United Kingdom",
+          "locality": "Welwyn Garden City",
+          "postal_code": "AL7 1HH",
+          "premises": "Orion House"
+        }
+      },
+      {
+        "name": "Krishnan Kumar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-03-25",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bessemer Road",
+          "country": "United Kingdom",
+          "locality": "Welwyn Garden City",
+          "postal_code": "AL7 1HH",
+          "premises": "Orion House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "125331770002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-11-11",
+        "delivered_on": "2024-11-11",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Sonovate Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "125331770001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-09-02",
+        "delivered_on": "2024-09-04",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Present & future patents, rights to inventions, copyright, moral rights, trade marks, business names & domain names, rights in get-up and trade dress, goodwill, rights in designs, rights in computer software, database rights, confidential information & all other intellectual property rights. For more details, refer to instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Invenics LTD (In Administration) (Crn: 11052310)"
+          }
+        ],
+        "satisfied_on": "2025-05-13",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEB9KZMH",
+        "transaction_id": "MzQ4MTU5ODY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XE32UEEX",
+        "transaction_id": "MzQ2NzUwNDY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-05-13",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE2H4NPN",
+        "transaction_id": "MzQ2NTkyMDY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDICOCNS",
+        "transaction_id": "MzQ0ODU2OTM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDI6N16O",
+        "transaction_id": "MzQ0Nzk3MjYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-11",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 28,
+        "barcode": "XDFMHJEO",
+        "transaction_id": "MzQ0MjY4NTMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-09-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 43,
+        "barcode": "XDAYNKGZ",
+        "transaction_id": "MzQzNDUxMTcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD9U75J4",
+        "transaction_id": "MzQzMjYyMTAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD8VJZKW",
+        "transaction_id": "MzQzMTE5ODczMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-05",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD8VJZF4",
+        "transaction_id": "MzQzMTE5ODY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD18O2HV",
+        "transaction_id": "MzQxODc0ODgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCFUS80O",
+        "transaction_id": "MzM5OTI3NjI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC41Z1UH",
+        "transaction_id": "MzM4MDM3ODI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBAG6A6Q",
+        "transaction_id": "MzM0ODY3OTk1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB61Z4SO",
+        "transaction_id": "MzM0MjM0NzU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB1TIJ7E",
+        "transaction_id": "MzMzNjE0MTEwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB1D9TGJ",
+        "transaction_id": "MzMzNTQwNTQyOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-03-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB0TY5DU",
+        "transaction_id": "MzMzNDQzMTE2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-06",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAEKEBAQ",
+        "transaction_id": "MzMxNjE5NzI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2Y749E",
+        "transaction_id": "MzI5ODY1NzU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-05",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9ZNGG3S",
+        "transaction_id": "MzI5MzM4NzY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9ZNGFSI",
+        "transaction_id": "MzI5MzM4NzU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-04-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X92ZSKY0",
+        "transaction_id": "MzI2MjQ3NjY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X92ZSKDT",
+        "transaction_id": "MzI2MjQ3NjUyN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-03-25",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 32,
+        "barcode": "X91IW854",
+        "transaction_id": "MzI2MDU4Mzc5NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 22
+  },
+  "enrichment": {
+    "website": "https://Invenics.com",
+    "headcount": 22,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:31:39.556Z",
+  "scraped_at": "2026-01-10T22:31:39.556Z"
+}

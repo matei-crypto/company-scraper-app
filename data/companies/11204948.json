@@ -1,0 +1,390 @@
+{
+  "company_name": "ELLIPSIS MARKETING LTD",
+  "company_number": "11204948",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-02-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 St. John's Lane, London, EC1M 4BH, England",
+  "registered_address_structured": {
+    "address_line_1": "5 St. John's Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1M 4BH"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-27",
+    "last_made_up_to": "2025-02-13",
+    "next_made_up_to": "2026-02-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DENKINS, Alexander Mark",
+        "officer_role": "director",
+        "appointed_on": "2018-02-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1994,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St. John's Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1M 4BH",
+          "premises": "5"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Dr Laura Denkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-12-17",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. John's Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1M 4BH",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "Mr Alexander Mark Denkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-02-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1994,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St. John's Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1M 4BH",
+          "premises": "5"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEG755AG",
+        "transaction_id": "MzQ5MTMwOTY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEEJ1YX5",
+        "transaction_id": "MzQ4NzI1NzY3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEEJ1Y2A",
+        "transaction_id": "MzQ4NzI1NzUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-11-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEEJ1XUB",
+        "transaction_id": "MzQ4NzI1NzQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDZ2Q714",
+        "transaction_id": "MzQ1OTk2OTMzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWQDJGA",
+        "transaction_id": "MzQ1NTY1OTAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDGTUB7M",
+        "transaction_id": "MzQ0NTMzMzE5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD1LUBQV",
+        "transaction_id": "MzQxOTIxMDg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD0SEVSB",
+        "transaction_id": "MzQxNzkwOTQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXEAQQ2",
+        "transaction_id": "MzQxMjA4MTMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCGDHSS9",
+        "transaction_id": "MzQwMDE2ODA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBXX5Z2C",
+        "transaction_id": "MzM3MDMwMDY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXX5ZYJ",
+        "transaction_id": "MzM3MDMwMDg0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBXX5YFF",
+        "transaction_id": "MzM3MDMwMDUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBHJ04IR",
+        "transaction_id": "MzM1OTc5MjgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAXX64AX",
+        "transaction_id": "MzMyOTg5NDgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAXX2NA8",
+        "transaction_id": "MzMyOTg1OTY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XAXX2MKO",
+        "transaction_id": "MzMyOTg1OTQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAID31L4",
+        "transaction_id": "MzMyMTg3NjE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3GXF1M",
+        "transaction_id": "MzI5OTQxMDEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9Y33X5N",
+        "transaction_id": "MzI5MTE3MzEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZOML5M",
+        "transaction_id": "MzI1ODQyMjk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X8CVM06J",
+        "transaction_id": "MzI0MjkxODEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7ZK4SHC",
+        "transaction_id": "MzIyNzIwMjY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-02-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X6ZPIU21",
+        "transaction_id": "MzE5NzYxNTEzNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Getellipsis.com",
+    "headcount": 8,
+    "tech_stack": [
+      "ChatGPT",
+      "Google AI Overviews",
+      "Wikipedia",
+      "FALCON AI (proprietary)"
+    ],
+    "business_keywords": [
+      "AI SEO agency",
+      "AI search agency",
+      "GEO agency",
+      "B2B technology marketing",
+      "AI search optimization",
+      "entity optimization",
+      "content strategy for AI",
+      "AI recommendations",
+      "ChatGPT optimization",
+      "Google AI Overviews optimization",
+      "AI citations",
+      "knowledge graph optimization",
+      "structured data optimization",
+      "AI search audit",
+      "corpus representation"
+    ],
+    "services": [
+      "AI Search Audit",
+      "Entity Optimisation",
+      "Content Strategy for AI systems",
+      "Ongoing Monitoring of AI recommendations",
+      "FALCON AI (proprietary system for predicting content performance)"
+    ],
+    "customer_segments": [
+      "B2B technology companies",
+      "$2M-$200M revenue companies"
+    ],
+    "business_description": "Ellipsis is an AI SEO agency specializing in helping B2B technology companies increase leads by optimizing for AI search systems like ChatGPT and Google AI Overviews. The company focuses on entity salience, structured data, and strategic content placement to ensure clients are the top recommendations in AI-generated responses. They use proprietary technology, FALCON AI, to predict and improve content performance in AI systems.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:01:13.785Z"
+  },
+  "scraped_at": "2026-01-10T19:01:07.829Z",
+  "updated_at": "2026-01-10T19:01:13.784Z",
+  "version": 1
+}

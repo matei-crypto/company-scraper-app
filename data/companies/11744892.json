@@ -1,0 +1,442 @@
+{
+  "company_name": "XERINI LIMITED",
+  "company_number": "11744892",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-12-31",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 Beech Court, Hurst, Reading, RG10 0RQ, England",
+  "registered_address_structured": {
+    "address_line_1": "5 Beech Court",
+    "address_line_2": "Hurst",
+    "country": "England",
+    "locality": "Reading",
+    "postal_code": "RG10 0RQ"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-07",
+    "last_made_up_to": "2025-06-23",
+    "next_made_up_to": "2026-06-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BURGESS, Simon William",
+        "officer_role": "director",
+        "appointed_on": "2020-02-24",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Burnham",
+          "postal_code": "SL1 7HZ",
+          "premises": "2 Church Street",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "LUKETA, Alexander Simon",
+        "officer_role": "director",
+        "appointed_on": "2018-12-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Beech Court",
+          "address_line_2": "Hurst",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG10 0RQ",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "WILLIAMS, Jonathan Scott",
+        "officer_role": "director",
+        "appointed_on": "2018-12-31",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Beech Court",
+          "address_line_2": "Hurst",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG10 0RQ",
+          "premises": "5"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Simon William Burgess",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-02-21",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Burnham",
+          "postal_code": "SL1 7HZ",
+          "premises": "2 Church Street",
+          "region": "Buckinghamshire"
+        }
+      },
+      {
+        "name": "Mr Jonathan Scott Williams",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-12-31",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Beech Court",
+          "address_line_2": "Hurst",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG10 0RQ",
+          "premises": "5"
+        }
+      },
+      {
+        "name": "Mr Alexander Simon Luketa",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-12-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Beech Court",
+          "address_line_2": "Hurst",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG10 0RQ",
+          "premises": "5"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-10-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEDBAATT",
+        "transaction_id": "MzQ4NTIzNzYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEC6KSUP",
+        "transaction_id": "MzQ4MzI2NjUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE6B6HJS",
+        "transaction_id": "MzQ3Mjc3MDU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCGN61L",
+        "transaction_id": "MzQzNzM4MzIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XD5Y3GQ9",
+        "transaction_id": "MzQyNjM1MzQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-11-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUNGNDU0R1FhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-11-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUNGNDU0R0lhZGlxemtjeA"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCEID2P7",
+        "transaction_id": "MzM5NzMwOTc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCC3VEKR",
+        "transaction_id": "MzM5MzMxMDQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC6AKUMG",
+        "transaction_id": "MzM4NDAxNDg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-10",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 7,
+        "barcode": "YC2C8GY3",
+        "transaction_id": "MzM3NzY5ODU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBUN2WVU",
+        "transaction_id": "MzM2NDg1ODU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBDND1M3",
+        "transaction_id": "MzM1MzY4MzY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAV6B720",
+        "transaction_id": "MzMyNjAyNDQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA47X9N7",
+        "transaction_id": "MzMwMDQ4MzM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9VPOXN5",
+        "transaction_id": "MzI4ODA1MjkwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9JO2C2H",
+        "transaction_id": "MzI4NTc5NTA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-03-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X90HT02O",
+        "transaction_id": "MzI1OTMxODA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-02-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8ZRC1Y0",
+        "transaction_id": "MzI1ODUxODM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-02-24",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A8Z9RFGQ",
+        "transaction_id": "MzI1ODAzODA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-02-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A8YUG0OW",
+        "transaction_id": "MzI1NzM4ODY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-02-18",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 19,
+        "transaction_id": "QThZVUcwUDRhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8W2I66H",
+        "transaction_id": "MzI1MzgyMTY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-12-31",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 13,
+        "barcode": "X7LWS9PL",
+        "transaction_id": "MzIyMzI2NzI1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 24,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Xerini.co.uk",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "AI consultancy",
+      "data consultancy",
+      "AI solutions",
+      "data integration",
+      "automation",
+      "digital transformation",
+      "AI strategy",
+      "data connectivity",
+      "legacy system enhancement",
+      "real-time platforms",
+      "AI-powered document extraction",
+      "data migration",
+      "client portal development",
+      "data visualization",
+      "compliance tracking"
+    ],
+    "services": [
+      "AI consultancy that delivers working solutions in weeks",
+      "Data integration without long-term programmes",
+      "AI-powered automation to save time",
+      "Data connectivity across existing systems",
+      "Measurement of project results (hours saved, errors eliminated, decisions accelerated)",
+      "Enhancement of legacy systems",
+      "Lunch & Learn sessions (free AI demystification)",
+      "Data audit to identify quick wins",
+      "Micro App development (fixed-price spreadsheet-to-application conversion)"
+    ],
+    "customer_segments": [
+      "Organisations needing AI and data solutions that work",
+      "Europe's largest infrastructure projects",
+      "Specialist financial services",
+      "Wealth management firms",
+      "Construction product authorities",
+      "Businesses with scattered data systems",
+      "Teams wasting time on manual spreadsheet work"
+    ],
+    "business_description": "Xerini is an AI and data consultancy that delivers pragmatic, working solutions in weeks rather than months. They focus on connecting existing data systems, automating manual processes, and implementing AI to solve real business problems, with measurable results and no long-term transformation programmes. The company enhances rather than replaces legacy systems.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T20:29:09.568Z"
+  },
+  "scraped_at": "2026-01-10T20:29:02.647Z",
+  "updated_at": "2026-01-10T20:29:09.568Z",
+  "version": 1
+}

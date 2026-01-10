@@ -1,0 +1,429 @@
+{
+  "company_name": "VRAI INTERNATIONAL LTD",
+  "company_number": "12172488",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-08-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 3 Threshelfords Business Park Inworth Road, Feering, Colchester, CO5 9SE, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 3 Threshelfords Business Park Inworth Road",
+    "address_line_2": "Feering",
+    "country": "England",
+    "locality": "Colchester",
+    "postal_code": "CO5 9SE"
+  },
+  "sic_codes": [
+    "58290",
+    "62090",
+    "74909",
+    "96090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-05-31",
+    "next_accounts_period_end_on": "2026-08-31",
+    "next_accounts_period_start_on": "2025-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-08-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-31",
+    "last_made_up_to": "2025-08-17",
+    "next_made_up_to": "2026-08-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAMPION, Niall",
+        "officer_role": "director",
+        "appointed_on": "2019-08-23",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "Inworth Road",
+          "address_line_2": "Feering",
+          "country": "England",
+          "locality": "Colchester",
+          "postal_code": "CO5 9SE",
+          "premises": "Unit 3 Threshelfords Business Park"
+        }
+      },
+      {
+        "name": "O'CONNOR, Patrick",
+        "officer_role": "director",
+        "appointed_on": "2019-08-23",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1979,
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "Inworth Road",
+          "address_line_2": "Feering",
+          "country": "England",
+          "locality": "Colchester",
+          "postal_code": "CO5 9SE",
+          "premises": "Unit 3 Threshelfords Business Park"
+        }
+      },
+      {
+        "name": "TRUE COMMUNICATION TECHNOLOGIES LTD",
+        "officer_role": "corporate-director",
+        "appointed_on": "2019-08-23",
+        "address": {
+          "address_line_1": "1-2 Exchange St Upper",
+          "address_line_2": "Temple Bar",
+          "country": "Ireland",
+          "locality": "Dublin 8",
+          "premises": "3rd Floor, Skylab"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "True Communication Technologies Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2019-08-23",
+        "address": {
+          "address_line_1": "1-2 Exchange St Upper",
+          "address_line_2": "Temple Bar",
+          "country": "Ireland",
+          "locality": "Dublin 8",
+          "premises": "3rd Floor, Skylab"
+        },
+        "identification": {
+          "legal_form": "Ltd",
+          "legal_authority": "Ireland",
+          "country_registered": "Ireland",
+          "place_registered": "Ireland",
+          "registration_number": "3513426bh"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "121724880001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-06-30",
+        "delivered_on": "2023-07-15",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Innovateuk Loans Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEFQSYV6",
+        "transaction_id": "MzQ5MDAzMzc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE98E9GW",
+        "transaction_id": "MzQ3NzYwNjA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE32XHIP",
+        "transaction_id": "MzQ2NzUzMDQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-29",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XDAFOLT5",
+        "transaction_id": "MzQzMzYzODgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-29",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XDAFOLLS",
+        "transaction_id": "MzQzMzYzODg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-29",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XDAFNHUG",
+        "transaction_id": "MzQzMzYyODg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDAFPAOJ",
+        "transaction_id": "MzQzMzY0NTMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-28",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XDACYN4X",
+        "transaction_id": "MzQzMzQ3MzYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD488TRM",
+        "transaction_id": "MzQyMzY1ODczNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCDJ9040",
+        "transaction_id": "MzM5NTQ1MjkwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAOWJE2",
+        "transaction_id": "MzM5MDg0Njk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCAOWG8A",
+        "transaction_id": "MzM5MDg0NjA3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCAOWG5L",
+        "transaction_id": "MzM5MDg0NjA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-07-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 17,
+        "barcode": "XC7SI9JE",
+        "transaction_id": "MzM4NjUxOTI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC4PZDR7",
+        "transaction_id": "MzM4MTQxMjI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBKBAGB",
+        "transaction_id": "MzM1MDM0NDk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB55Z9R5",
+        "transaction_id": "MzM0MTEwNzM2NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-10-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAE4HMRU",
+        "transaction_id": "MzMxNTY3MTM0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAB2NUM3",
+        "transaction_id": "MzMxMDg4MTI0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-08",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X9ZVACXM",
+        "transaction_id": "MzI5MzU5Mjc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-03-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9ZNL4UF",
+        "transaction_id": "MzI5MzQzNzg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-05",
+        "description": "change-corporate-director-company-with-change-date",
+        "type": "CH02",
+        "pages": 1,
+        "barcode": "X9ZNL4E1",
+        "transaction_id": "MzI5MzQzNzc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "X9D7RZYJ",
+        "transaction_id": "MzI3NzI0Mzc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-09",
+        "description": "change-corporate-director-company-with-change-date",
+        "type": "CH02",
+        "pages": 1,
+        "barcode": "X9D7RYWY",
+        "transaction_id": "MzI3NzI0MzUyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9D7RQ5M",
+        "transaction_id": "MzI3NzI0MTM1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Vraisimulation.com",
+    "headcount": 11,
+    "tech_stack": [
+      "HEAT platform"
+    ],
+    "business_keywords": [
+      "data-driven simulation training",
+      "human performance",
+      "simulation data",
+      "actionable insights",
+      "HEAT platform",
+      "AI",
+      "mission briefing",
+      "mission rehearsal",
+      "synthetic training",
+      "defence supply chain",
+      "training simulation",
+      "performance enhancement",
+      "cost reduction",
+      "time-saving training",
+      "human performance data"
+    ],
+    "services": [
+      "Data-driven simulation training",
+      "Transforming simulation data into actionable insights",
+      "Improving human performance in less time and for lower costs",
+      "HEAT platform provision",
+      "Mission briefing and rehearsal transformation"
+    ],
+    "customer_segments": [
+      "Defence sector",
+      "UK defence supply chain",
+      "US expansion market"
+    ],
+    "business_description": "VRAI INTERNATIONAL LTD specializes in data-driven simulation training through its innovative HEAT platform, transforming simulation data into actionable insights to enhance human performance. The company aims to unlock individual potential, reduce training time and costs, and support sectors such as defence with advanced training solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T21:31:48.027Z"
+  },
+  "scraped_at": "2026-01-10T21:31:42.304Z",
+  "updated_at": "2026-01-10T21:31:48.027Z",
+  "version": 1
+}

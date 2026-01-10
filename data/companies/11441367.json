@@ -1,0 +1,386 @@
+{
+  "company_name": "FUEL50 UK LTD",
+  "company_number": "11441367",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-06-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "10 John Street, London, WC1N 2EB",
+  "registered_address_structured": {
+    "address_line_1": "10 John Street",
+    "locality": "London",
+    "postal_code": "WC1N 2EB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-12",
+    "last_made_up_to": "2025-06-28",
+    "next_made_up_to": "2026-06-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FULTON, Anne",
+        "officer_role": "director",
+        "appointed_on": "2019-07-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1961,
+        "nationality": "New Zealander",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ossington Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W2 4LZ",
+          "premises": "21"
+        }
+      },
+      {
+        "name": "MANNING, Janine Margaret",
+        "officer_role": "director",
+        "appointed_on": "2018-06-29",
+        "resigned_on": "2019-07-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "North Audley Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1K 6WX",
+          "premises": "Flat 2, 28"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "114413670001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-06-17",
+        "delivered_on": "2022-06-23",
+        "particulars": {
+          "type": "brief-description",
+          "description": "See clause 3.1.1 (a) - creates a first fixed charge over any right, title or interest which it has now or may subsequently acquire to or in any other freehold or leasehold property.. See clause 3.1.1 (f) – creates a first fixed charge over claims and intellectual property rights including all patents, patent applications, trade marks and service marks (whether registered or not), trade mark applications, service mark applications, trade names, registered designs, design rights, copyrights, computer programmes, know-how and trade secrets and all other industrial or intangible property or rights and all licences, agreements and ancillary and connected rights relating to intellectual and intangible property now or from time to time after the date of this deed owned by the chargor.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Webster Bank, National Association"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-17",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEB9KVCR",
+        "transaction_id": "MzQ4MTU5NzY5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6OOL00",
+        "transaction_id": "MzQ3MzM2ODk5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD72T22H",
+        "transaction_id": "MzQyODI0NjIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCY5B3LN",
+        "transaction_id": "MzQxMzI4MDUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6NPWK2",
+        "transaction_id": "MzM4NDM4MDI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC62AFSJ",
+        "transaction_id": "MzM4MzQ5NTkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-07-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "AB7864KX",
+        "transaction_id": "MzM0NDU5MzM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-07-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 5,
+        "transaction_id": "QUI3ODY0TDVhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB73LJPF",
+        "transaction_id": "MzM0Mzg3NDkwMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-06-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 49,
+        "barcode": "XB6T155M",
+        "transaction_id": "MzM0MzUzNDQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-25",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB4SBFYI",
+        "transaction_id": "MzM0MDQ1NDEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA8JZ1DE",
+        "transaction_id": "MzMwNzM4NzkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA2VCNLK",
+        "transaction_id": "MzI5ODQ1Njk2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9J2MS28",
+        "transaction_id": "MzI4NTAxMTQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CS2FIG",
+        "transaction_id": "MzI3Njg3NzQzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-28",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X91R03LD",
+        "transaction_id": "MzI2MTEzMzg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-27",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X91OG9AA",
+        "transaction_id": "MzI2MTA0NzY2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-27",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X91OG8GB",
+        "transaction_id": "MzI2MTA0NzMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-02-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "A8Z4LH4V",
+        "transaction_id": "MzI1NzYyMjAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8BF2DVL",
+        "transaction_id": "MzI0MTMzNTYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8AWPHSQ",
+        "transaction_id": "MzI0MDgxMDEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-08-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X8AWP6JS",
+        "transaction_id": "MzI0MDgwNzg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-08-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8AWP67E",
+        "transaction_id": "MzI0MDgwNzc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-06-29",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 8,
+        "barcode": "X79129U0",
+        "transaction_id": "MzIwODU3NDgzOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 24,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://10eighty.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "Coaching App"
+    ],
+    "business_keywords": [
+      "career management",
+      "leadership development",
+      "executive coaching",
+      "career transition",
+      "outplacement",
+      "career coaching",
+      "mentoring",
+      "employee engagement",
+      "organisational growth",
+      "workforce empowerment",
+      "wellbeing services",
+      "coaching app",
+      "career workshops",
+      "leadership consulting",
+      "talent development"
+    ],
+    "services": [
+      "Leadership & Management Development",
+      "Executive Coaching",
+      "Career Transition and Outplacement",
+      "Platinum Career Coaching",
+      "Career Management",
+      "Coaching App",
+      "Mentoring",
+      "Wellbeing Services",
+      "United Nations Career Workshops"
+    ],
+    "customer_segments": [
+      "individuals",
+      "teams",
+      "leaders",
+      "senior executives",
+      "organisations",
+      "employees at all levels"
+    ],
+    "business_description": "10Eighty, operating as FUEL50 UK LTD, provides career management, leadership development, and executive coaching services to individuals and organisations. They offer tailored programmes to support career transitions, employee engagement, leadership growth, and wellbeing, delivering services globally to enhance workforce performance and satisfaction. Their expertise includes coaching, mentoring, and personalised career support.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:41:04.518Z"
+  },
+  "scraped_at": "2026-01-10T19:40:58.432Z",
+  "updated_at": "2026-01-10T19:41:04.518Z",
+  "version": 1
+}

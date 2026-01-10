@@ -1,0 +1,414 @@
+{
+  "company_name": "MSP LAB LTD",
+  "company_number": "12619538",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-05-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "27 Old Gloucester Street, London, WC1N 3AX, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "27 Old Gloucester Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC1N 3AX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-04",
+    "last_made_up_to": "2025-05-21",
+    "next_made_up_to": "2026-05-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRIGHAM, Adam",
+        "officer_role": "director",
+        "appointed_on": "2020-05-22",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "TURNER, Dean",
+        "officer_role": "director",
+        "appointed_on": "2020-05-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1995,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BRIGHAM, Amy",
+        "officer_role": "secretary",
+        "appointed_on": "2023-12-08",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "TURNER, Dean",
+        "officer_role": "secretary",
+        "appointed_on": "2020-05-22",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Dean Turner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-05-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1995,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "Mr Adam Brigham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-05-22",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3AX",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3IRTJ5",
+        "transaction_id": "MzQ2ODA5ODQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE20QJ6W",
+        "transaction_id": "MzQ2NTE0OTk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE20QJ6G",
+        "transaction_id": "MzQ2NTE0OTkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDIKGUBL",
+        "transaction_id": "MzQ0ODcxMDgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XD3K3OEH",
+        "transaction_id": "MzQyMjYyNjA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-05-18",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUQzNk9QVzBhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-05-18",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 11,
+        "barcode": "YD36NLWA",
+        "transaction_id": "MzQyMjAxNTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-06",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCW9UK2G",
+        "transaction_id": "MzQxMDA1ODIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-01-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "YCJ8IO4J",
+        "transaction_id": "MzQwNTY1NTg3NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-20",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YCI6AQMY",
+        "transaction_id": "MzQwMzQxODUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-12-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUNJNkFQWkRhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-13",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YCI6AQQQ",
+        "transaction_id": "MzQwMzQxODUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCHF7BTK",
+        "transaction_id": "MzQwMjA2NjI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC41SBCH",
+        "transaction_id": "MzM4MDMyMTU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBWY5N64",
+        "transaction_id": "MzM2ODU5MTcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB4MRODF",
+        "transaction_id": "MzM0MDA5NzU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB49LPV6",
+        "transaction_id": "MzMzOTY1MzgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB49LQ0Q",
+        "transaction_id": "MzMzOTY1MzgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAILE5BS",
+        "transaction_id": "MzMyMjQyOTIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-06",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAAC5VZM",
+        "transaction_id": "MzMwOTk4NDE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA77HNB4",
+        "transaction_id": "MzMwNTE2ODQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-05-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 32,
+        "barcode": "X95HPXSH",
+        "transaction_id": "MzI2NTM5NDg1NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Msplab.cloud",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "IT authority",
+      "Independent Schools",
+      "Education IT",
+      "IT counsel",
+      "Strategic projects",
+      "IT infrastructure",
+      "Cyber security",
+      "IT governance",
+      "Digital strategies",
+      "Managed security",
+      "IT roadmaps",
+      "Virtual IT Director",
+      "Cyber incident response",
+      "Digital safeguarding",
+      "IT budgeting"
+    ],
+    "services": [
+      "Technology Leadership",
+      "Service Excellence",
+      "Detailed Budgets and Forecasting",
+      "Discrete and Expert Counsel",
+      "Technology Roadmaps",
+      "Steering Group Best Practices",
+      "Accomplished Infrastructure Solutions",
+      "Implementing Solid IT Foundations",
+      "Managed Firewalls designed for Education",
+      "Cyber Gap Analysis",
+      "Managed Security with 24/7 cover",
+      "Cyber Incident Response",
+      "Digital Safeguarding",
+      "Engaging with Stakeholders",
+      "Promoting Best Practices",
+      "Expert Technical Discovery",
+      "Virtual IT Director Service",
+      "Digital Strategies and Strategic Projects",
+      "IT Governance and Assessments"
+    ],
+    "customer_segments": [
+      "Independent Schools",
+      "Bursars",
+      "IT Managers",
+      "Head Teachers"
+    ],
+    "business_description": "MSP LAB provides distinct and attentive IT counsel and strategic projects to prestigious Independent Schools, helping them deliver outstanding IT by leveraging proven expertise and a passion for education. The company offers technology leadership, cyber security, IT governance, and managed services tailored to the needs of schools, ensuring reliable, efficient, and secure IT systems that support teaching and learning goals.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 15,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T22:44:13.056Z"
+  },
+  "scraped_at": "2026-01-10T22:44:06.036Z",
+  "updated_at": "2026-01-10T22:44:13.055Z",
+  "version": 1
+}

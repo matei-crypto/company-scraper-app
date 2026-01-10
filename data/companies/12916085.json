@@ -1,0 +1,395 @@
+{
+  "company_name": "SIKOIA LTD",
+  "company_number": "12916085",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-09-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "71-75 Shelton Street, London, Greater London, WC2H 9JQ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "71-75 Shelton Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ",
+    "region": "Greater London"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-13",
+    "last_made_up_to": "2025-09-29",
+    "next_made_up_to": "2026-09-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ROG, Alexis",
+        "officer_role": "director",
+        "appointed_on": "2020-09-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "German",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75 Shelton Street"
+        }
+      },
+      {
+        "name": "SIMMONS, Stephen Edward",
+        "officer_role": "director",
+        "appointed_on": "2024-09-17",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75",
+          "region": "Greater London"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Alexis Rog",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-09-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "German",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75 Shelton Street"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XECVDD5T",
+        "transaction_id": "MzQ4NDQ4NTI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE5MXWVL",
+        "transaction_id": "MzQ3MTg3MzAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-19",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 5,
+        "barcode": "XE4YGFPK",
+        "transaction_id": "MzQ3MDU2OTY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-19",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 6,
+        "barcode": "XE4YGK7L",
+        "transaction_id": "MzQ3MDU3MDczM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE4YGRSJ",
+        "transaction_id": "MzQ3MDU3MjYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE4YGPJ6",
+        "transaction_id": "MzQ3MDU3MjA3MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE4YGM97",
+        "transaction_id": "MzQ3MDU3MTIyN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE4YGHAO",
+        "transaction_id": "MzQ3MDU3MDA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE4YGCGW",
+        "transaction_id": "MzQ3MDU2ODgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XE4YGAVC",
+        "transaction_id": "MzQ3MDU2ODQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-06-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YE3ZEUUH",
+        "transaction_id": "WUUzWkVVVUhhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDECEE2W",
+        "transaction_id": "MzQ0MDY5MDU4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-17",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDBUU8YA",
+        "transaction_id": "MzQzNjIyMDY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD9ZLC4W",
+        "transaction_id": "MzQzMjkyMDE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XCFXKYQ8",
+        "transaction_id": "MzM5OTQxNTYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBY7UU02",
+        "transaction_id": "MzM3MDgyMTMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-01-16",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 56,
+        "barcode": "YBV0CRCH",
+        "transaction_id": "MzM2NTQzNzkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-01-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUJWMENQSDdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2023-01-11",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XBV0CU1F",
+        "transaction_id": "MzM2NTQzODQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEJRZOZ",
+        "transaction_id": "MzM1NTE0OTgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB76NMUZ",
+        "transaction_id": "MzM0NDIyMTUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XAGCS92P",
+        "transaction_id": "MzMxODgwMDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-09-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUFDM1pDRzBhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-09-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 54,
+        "barcode": "YAC3ZCGO",
+        "transaction_id": "MzMxMjQ4MDE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-09-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUFDM1pDTERhZGlxemtjeA"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 11
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Sikoia.com",
+    "headcount": 14,
+    "tech_stack": [
+      "Google Tag Manager"
+    ],
+    "business_keywords": [
+      "automated customer verification",
+      "document processing",
+      "affordability insights",
+      "income verification",
+      "employment verification",
+      "document integrity checks",
+      "verification marketplace",
+      "AI-powered document processing",
+      "open banking",
+      "bank statement checks",
+      "payslip verification",
+      "tax verification",
+      "KYB",
+      "KYC",
+      "regulatory compliance"
+    ],
+    "services": [
+      "AI-powered document processing",
+      "instant verification of customer-supplied information",
+      "automated affordability insights using open banking and bank statements",
+      "income and employment verification using payslips, tax, and bank statements",
+      "document integrity checks at submission",
+      "all-in-one verification marketplace (access to multiple data providers through a single platform)",
+      "ready-to-go verification dashboard",
+      "auto-population of application forms",
+      "pre-qualification process automation",
+      "AML data verification",
+      "customer and business authentication",
+      "auditable suitability decisions"
+    ],
+    "customer_segments": [
+      "mortgage lenders",
+      "consumer finance providers",
+      "business payments services",
+      "SME lenders",
+      "tenant referencing agencies",
+      "other regulated businesses",
+      "brokers",
+      "financial services"
+    ],
+    "business_description": "Sikoia automates manual, document-heavy verification processes for financial services, enabling faster, smarter, and more accurate customer onboarding. The company provides AI-powered solutions for document processing, income and employment verification, affordability checks, and regulatory compliance through a single platform. Their services help reduce manual tasks, improve efficiency, and mitigate operational and regulatory risks.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:09:47.326Z"
+  },
+  "scraped_at": "2026-01-10T23:09:40.157Z",
+  "updated_at": "2026-01-10T23:09:47.326Z",
+  "version": 1
+}

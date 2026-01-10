@@ -1,0 +1,295 @@
+{
+  "company_name": "TELLER INC (UK) LTD",
+  "company_number": "11764089",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-01-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "6th Floor 120 Charing Cross Road, London, WC2H 0JR, England",
+  "registered_address_structured": {
+    "address_line_1": "6th Floor 120 Charing Cross Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 0JR"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-27",
+    "last_made_up_to": "2025-01-13",
+    "next_made_up_to": "2026-01-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GRAHAM, Steven James Thomas",
+        "officer_role": "director",
+        "appointed_on": "2019-01-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "120 Charing Cross Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2H 0JR",
+          "premises": "6th Floor"
+        }
+      },
+      {
+        "name": "PALMER, Daneel Mark",
+        "officer_role": "director",
+        "appointed_on": "2019-01-14",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "120 Charing Cross Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2H 0JR",
+          "premises": "6th Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Teller Inc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-01-14",
+        "address": {
+          "address_line_1": "Stapleton House",
+          "address_line_2": "110 Clifton Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4HT",
+          "premises": "2nd Floor, Block A"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Delaware Corporate Law",
+          "country_registered": "United States",
+          "place_registered": "Delaware",
+          "registration_number": "7115353"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEBSFCG9",
+        "transaction_id": "MzQ4MjUxNTY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDXN401F",
+        "transaction_id": "MzQ1NzIyNDUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXN406Z",
+        "transaction_id": "MzQ1NzIyNDQ5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XD2TE53U",
+        "transaction_id": "MzQyMTI0ODkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVAPD6Y",
+        "transaction_id": "MzQwODU1NDg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCCUSM2W",
+        "transaction_id": "MzM5NDQ3Nzc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC0PO454",
+        "transaction_id": "MzM3NTE4MzA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWY5AU2",
+        "transaction_id": "MzM2ODU4OTA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBJ97YWW",
+        "transaction_id": "MzM2MzA4MTA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWI9DFQ",
+        "transaction_id": "MzMyNzkxNzA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XADL5D2J",
+        "transaction_id": "MzMxNDU1MTQ2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAA9HF40",
+        "transaction_id": "MzMwOTg4NjI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9YZC1OW",
+        "transaction_id": "MzI5MjQzNjIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9YZC1DM",
+        "transaction_id": "MzI5MjQzNjA5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-02-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9YZC1AI",
+        "transaction_id": "MzI5MjQzNjA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9AY3PKY",
+        "transaction_id": "MzI3NDg2NzgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-24",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X93NEM9S",
+        "transaction_id": "MzI2MzE4ODA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8XJDH89",
+        "transaction_id": "MzI1NTYwMjUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-01-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "X7WX3AUI",
+        "transaction_id": "MzIyNDI4NTg3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T20:32:08.456Z",
+  "scraped_at": "2026-01-10T20:32:08.456Z"
+}

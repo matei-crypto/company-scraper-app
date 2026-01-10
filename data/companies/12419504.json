@@ -1,0 +1,310 @@
+{
+  "company_name": "GENERAL CONTROL LTD",
+  "company_number": "12419504",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-01-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 200i Cumberland House, 80 Scrubs Lane, London, NW10 6RF, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Suite 200i Cumberland House",
+    "address_line_2": "80 Scrubs Lane",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "NW10 6RF"
+  },
+  "sic_codes": [
+    "46190",
+    "52241",
+    "62020",
+    "73110"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-01",
+    "last_made_up_to": "2025-01-18",
+    "next_made_up_to": "2026-01-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GRJAZNOVA, Julija",
+        "officer_role": "director",
+        "appointed_on": "2020-01-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "Latvian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Krustpils Street",
+          "country": "Latvia",
+          "locality": "Riga",
+          "premises": "Dz.9, 77/2"
+        }
+      },
+      {
+        "name": "KURLOVS, Ivans",
+        "officer_role": "director",
+        "appointed_on": "2020-01-22",
+        "resigned_on": "2020-08-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "Latvian",
+        "country_of_residence": "Latvia",
+        "address": {
+          "address_line_1": "77/2",
+          "country": "Latvia",
+          "locality": "Krustpils Street",
+          "postal_code": "RIGA",
+          "premises": "Dz.9"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ivans Kurlovs",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-01-22",
+        "ceased_on": "2021-01-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "Latvian",
+        "country_of_residence": "Latvia",
+        "address": {
+          "address_line_1": "77/2",
+          "country": "Latvia",
+          "locality": "Krustpils Street",
+          "postal_code": "RIGA",
+          "premises": "Dz.9"
+        }
+      },
+      {
+        "name": "Ms Julija Grjaznova",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-01-22",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "Latvian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "77/2",
+          "country": "Latvia",
+          "locality": "Krustpils Street",
+          "postal_code": "RIGA",
+          "premises": "Dz.9"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2026-01-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XET7P1O9",
+        "transaction_id": "MzQ5Nzc5NDA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XECF00VE",
+        "transaction_id": "MzQ4MzczNDM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDV5E9N7",
+        "transaction_id": "MzQ1MjY4NzIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDV5E80R",
+        "transaction_id": "MzQ1MjY4NjgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XDEHWHDF",
+        "transaction_id": "MzQ0MDk4OTQ1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVADBKA",
+        "transaction_id": "MzQwODM2MjQ2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCHVOXZ7",
+        "transaction_id": "MzQwMjk2MTQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-12-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCHVOVW4",
+        "transaction_id": "MzQwMjk2MTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCEIDSFK",
+        "transaction_id": "MzM5NzMxNjU3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBW9Y0YI",
+        "transaction_id": "MzM2NzU1MjA1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-01-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBV37AZ6",
+        "transaction_id": "MzM2NTY0NTAwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBEX06XD",
+        "transaction_id": "MzM1NTY1NjE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWYDVOA",
+        "transaction_id": "MzMyODQ4NzU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "AAFGXGOQ",
+        "transaction_id": "MzMxODQ1NjM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9WG2N3S",
+        "transaction_id": "MzI4ODg2NjU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-18",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9WG2N8R",
+        "transaction_id": "MzI4ODg2NjQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-20",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9BTO8YB",
+        "transaction_id": "MzI3NTc3OTM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-01-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "X8X6B140",
+        "transaction_id": "MzI1NTIxNzMyNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:15:16.075Z",
+  "scraped_at": "2026-01-10T22:15:16.075Z"
+}

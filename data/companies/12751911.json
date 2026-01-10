@@ -1,0 +1,242 @@
+{
+  "company_name": "17ORANGES LIMITED",
+  "company_number": "12751911",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-07-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 4 Compass House, 45 Gildredge Road, Eastbourne, BN21 4RY, England",
+  "registered_address_structured": {
+    "address_line_1": "Suite 4 Compass House",
+    "address_line_2": "45 Gildredge Road",
+    "country": "England",
+    "locality": "Eastbourne",
+    "postal_code": "BN21 4RY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-30",
+    "last_made_up_to": "2025-07-16",
+    "next_made_up_to": "2026-07-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GIBSON, Adam Matthew",
+        "officer_role": "director",
+        "appointed_on": "2020-07-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Compass House",
+          "address_line_2": "45 Gildredge Road",
+          "country": "England",
+          "locality": "Eastbourne",
+          "postal_code": "BN21 4RY",
+          "premises": "Suite 4"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Adam Matthew Gibson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2020-07-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Compass House",
+          "address_line_2": "45 Gildredge Road",
+          "country": "England",
+          "locality": "Eastbourne",
+          "postal_code": "BN21 4RY",
+          "premises": "Suite 4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE8SFLEX",
+        "transaction_id": "MzQ3NjkyMzYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE7FSJOJ",
+        "transaction_id": "MzQ3NTAwNzM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE7FSIUJ",
+        "transaction_id": "MzQ3NTAwNzE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7CSJWB",
+        "transaction_id": "MzQ3NDYyNTYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-07-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE6DV1G3",
+        "transaction_id": "MzQ3Mjg4OTA5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD7Z6EP4",
+        "transaction_id": "MzQyOTc4NDUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD25CYOP",
+        "transaction_id": "MzQyMDI5NDAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-30",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCF8X17D",
+        "transaction_id": "MzM5ODIyOTY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC8B525U",
+        "transaction_id": "MzM4NzI2OTcwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBZY984X",
+        "transaction_id": "MzM3MzkxNTQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-10-20",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBEZTBMJ",
+        "transaction_id": "MzM1NTkzMzQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9PN9B6",
+        "transaction_id": "MzM0Nzc5NDAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB1D9ZW3",
+        "transaction_id": "MzMzNTQwNzE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAA6VUS1",
+        "transaction_id": "MzMwOTczMjA2NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-07-17",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "X99H8BJK",
+        "transaction_id": "MzI3MzMwOTM2OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 15,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T22:55:23.414Z",
+  "scraped_at": "2026-01-10T22:55:23.414Z"
+}

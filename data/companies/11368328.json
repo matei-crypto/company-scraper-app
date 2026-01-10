@@ -1,0 +1,393 @@
+{
+  "company_name": "CAUSALY LTD",
+  "company_number": "11368328",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-05-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "10-16 Elm Street, London, WC1X 0BJ, England",
+  "registered_address_structured": {
+    "address_line_1": "10-16 Elm Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1X 0BJ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-30",
+    "last_made_up_to": "2025-05-16",
+    "next_made_up_to": "2026-05-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KIAHOPOULOS, Joannis",
+        "officer_role": "director",
+        "appointed_on": "2018-05-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "German",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Elm Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1X 0BJ",
+          "premises": "10-16"
+        }
+      },
+      {
+        "name": "SAUDABAYEV, Artur",
+        "officer_role": "director",
+        "appointed_on": "2018-05-17",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1989,
+        "nationality": "Kazakh",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Elm Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1X 0BJ",
+          "premises": "10-16"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Causaly Inc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2018-05-17",
+        "ceased_on": "2018-05-17",
+        "address": {
+          "address_line_1": "Orange Street",
+          "country": "United States",
+          "locality": "Wilmington",
+          "postal_code": "19801",
+          "premises": "1209"
+        },
+        "identification": {
+          "legal_form": "Inc",
+          "legal_authority": "Delaware"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-18",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "AE6WR7AH",
+        "transaction_id": "MzQ3NDIyMjY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE2PCMPV",
+        "transaction_id": "MzQ2Njc2OTI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-18",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "ADBGH2E8",
+        "transaction_id": "MzQzNjE4MTQyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD5I5F9C",
+        "transaction_id": "MzQyNTcxOTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XC9FJIZN",
+        "transaction_id": "MzM4ODgzNTY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC50XQ5E",
+        "transaction_id": "MzM4MTkyMDcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC50XPR4",
+        "transaction_id": "MzM4MTkyMDY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-06-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC50XPEI",
+        "transaction_id": "MzM4MTkyMDUwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC4T4ON7",
+        "transaction_id": "MzM4MTc1NDAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-06-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC4T0T8Y",
+        "transaction_id": "MzM4MTcxODM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC330CYZ",
+        "transaction_id": "MzM3ODc4ODE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC330CYB",
+        "transaction_id": "MzM3ODc4ODE2MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC0PC1GO",
+        "transaction_id": "MzM3NTAzNzA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBAYYXIJ",
+        "transaction_id": "MzM0OTQ4MTE5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-08",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XB5ODQ9V",
+        "transaction_id": "MzM0MTY3OTE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB5ODQOH",
+        "transaction_id": "MzM0MTY3OTIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-07",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB5ODQ0H",
+        "transaction_id": "MzM0MTY3OTA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAJSE6FL",
+        "transaction_id": "MzMyNDI0MDEwNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA6E12LM",
+        "transaction_id": "MzMwNDAyOTEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA6E12NU",
+        "transaction_id": "MzMwNDAyOTEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA6E12A0",
+        "transaction_id": "MzMwNDAyOTAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA6BBJAW",
+        "transaction_id": "MzMwMzg5NzY4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XA0JU0B4",
+        "transaction_id": "MzI5NDc5MTU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9ZYC3FT",
+        "transaction_id": "MzI5Mzk2ODExMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9ZYC33V",
+        "transaction_id": "MzI5Mzk2ODAxNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 31,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 72
+  },
+  "enrichment": {
+    "website": "https://Causaly.com",
+    "headcount": 72,
+    "tech_stack": [],
+    "business_keywords": [
+      "AI platform",
+      "life sciences",
+      "knowledge graph",
+      "R&D productivity",
+      "biomedical information",
+      "scientific insights",
+      "causal biology",
+      "GenAI Copilot",
+      "Scientific RAG",
+      "enterprise data fabric",
+      "biomarkers",
+      "disease pathophysiology",
+      "target assessment",
+      "AI governance",
+      "digital transformation"
+    ],
+    "services": [
+      "AI-powered biomedical question answering with inline citations",
+      "Causal knowledge graph for life sciences",
+      "Bio Graph API for querying 500 million relationships",
+      "Enterprise data fabric for internal and external data integration",
+      "AI strategy and business alignment",
+      "Deployment and program management for AI solutions",
+      "Day-to-day research support for R&D teams",
+      "Target identification and prioritization for R&D scientists",
+      "Biomarker discovery and analysis",
+      "Disease pathophysiology exploration",
+      "Digital transformation and change management for AI adoption"
+    ],
+    "customer_segments": [
+      "life sciences organizations",
+      "R&D teams",
+      "AI and technology teams",
+      "research scientists",
+      "data teams",
+      "bioinformaticians",
+      "data scientists",
+      "enterprise-level PhD research scientists"
+    ],
+    "business_description": "Causaly is an AI platform for life sciences that combines advanced AI, a high-precision knowledge graph, and frictionless adoption to reduce risk and increase R&D productivity at scale. The platform enables organizations to find, interpret, and share biomedical information, unlocking scientific insights from external and internal data with precision and efficiency. It also provides services for digital transformation, AI strategy, and research support.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T19:30:56.359Z"
+  },
+  "scraped_at": "2026-01-10T19:30:48.445Z",
+  "updated_at": "2026-01-10T19:30:56.359Z",
+  "version": 1
+}

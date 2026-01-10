@@ -1,0 +1,304 @@
+{
+  "company_name": "UNQ SOLUTIONS LIMITED",
+  "company_number": "12903779",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-09-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "G R G House, Cobden Street, Salford, M6 6NA, England",
+  "registered_address_structured": {
+    "address_line_1": "G R G House",
+    "address_line_2": "Cobden Street",
+    "country": "England",
+    "locality": "Salford",
+    "postal_code": "M6 6NA"
+  },
+  "sic_codes": [
+    "62020",
+    "68209"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-19",
+    "last_made_up_to": "2025-12-05",
+    "next_made_up_to": "2026-12-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ALI, Muhammad Usman",
+        "officer_role": "director",
+        "appointed_on": "2020-09-24",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cobden Street",
+          "country": "England",
+          "locality": "Salford",
+          "postal_code": "M6 6NA",
+          "premises": "G R G House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Muhammad Usman Ali",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-09-24",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cobden Street",
+          "country": "England",
+          "locality": "Salford",
+          "postal_code": "M6 6NA",
+          "premises": "G R G House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "129037790002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-08-25",
+        "delivered_on": "2022-08-30",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All the freehold property known as 7 aycliffe grove, longsight, manchester M13 0ZG registered at land registry under title LA65017.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hope Capital 2 Limited"
+          }
+        ],
+        "satisfied_on": "2023-10-16",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "129037790001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-08-25",
+        "delivered_on": "2022-08-30",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All the freehold property known as 7 aycliffe grove, longsight, manchester M13 0ZG registered at land registry under title LA65017.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hope Capital 2 Limited"
+          }
+        ],
+        "satisfied_on": "2023-10-16",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEH1G84G",
+        "transaction_id": "MzQ5MzE3ODg5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE53WHY8",
+        "transaction_id": "MzQ3MDk0ODk3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDU1517N",
+        "transaction_id": "MzQ1MDY3MzM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD66TWEI",
+        "transaction_id": "MzQyNzA5NzE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVAGQ0W",
+        "transaction_id": "MzQwODM5MjQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-16",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCE9WBKI",
+        "transaction_id": "MzM5NjYwMjU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-16",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCE9WBZK",
+        "transaction_id": "MzM5NjYwMjY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC1QQSXU",
+        "transaction_id": "MzM3NjcxNjk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBI7DQ08",
+        "transaction_id": "MzM2MTAxNzA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-09-02",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WUJCSElSRUlhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-08-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 42,
+        "barcode": "XBBHF4T7",
+        "transaction_id": "MzM1MDE0MjYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-08-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 36,
+        "barcode": "XBBHF62X",
+        "transaction_id": "MzM1MDE0MzA0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB7C74BL",
+        "transaction_id": "MzM0NDQ4MTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB6SXI6Q",
+        "transaction_id": "MzM0MzUwMzE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAF0M1KI",
+        "transaction_id": "MzMxNjkxMzM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-09-24",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X9E6DRZE",
+        "transaction_id": "MzI3ODYxMDg2NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 16,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "headcount": 15,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:08:47.925Z",
+  "scraped_at": "2026-01-10T23:08:47.925Z"
+}

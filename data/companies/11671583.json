@@ -1,0 +1,466 @@
+{
+  "company_name": "TEAMED LTD",
+  "company_number": "11671583",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-11-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "International House, 36-38 Cornhill, London, EC3V 3NG, England",
+  "registered_address_structured": {
+    "address_line_1": "International House",
+    "address_line_2": "36-38 Cornhill",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC3V 3NG"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MONERGIE LTD",
+      "ceased_on": "2020-05-20",
+      "effective_from": "2019-04-03"
+    },
+    {
+      "name": "PAYFORE LTD",
+      "ceased_on": "2019-04-03",
+      "effective_from": "2018-11-12"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-27",
+    "last_made_up_to": "2025-06-13",
+    "next_made_up_to": "2026-06-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HOLDSWORTH, Christopher John",
+        "officer_role": "director",
+        "appointed_on": "2023-08-10",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1965,
+        "nationality": "British,Swedish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Frognal Gardens",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW3 6XA",
+          "premises": "18a"
+        }
+      },
+      {
+        "name": "KALLIATH, Jacob Anand Thomas",
+        "officer_role": "director",
+        "appointed_on": "2023-08-10",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Berners Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1T 3LP",
+          "premises": "21"
+        }
+      },
+      {
+        "name": "MOHAMMED, Adil Aziz",
+        "officer_role": "director",
+        "appointed_on": "2024-04-08",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ebury Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1W 9QQ",
+          "premises": "Flat B, 118"
+        }
+      },
+      {
+        "name": "VALLEE, Antony Jerome",
+        "officer_role": "director",
+        "appointed_on": "2018-11-12",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "36-38 Cornhill",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3V 3NG",
+          "premises": "International House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Antony Jerome Vallee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-11-12",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "36-38 Cornhill",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3V 3NG",
+          "premises": "International House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "116715830003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-04-29",
+        "delivered_on": "2025-04-30",
+        "particulars": {
+          "type": "brief-description",
+          "description": "The company charges by way of a first legal mortgage all estates or interests in any freehold or leasehold property now owned by it, and a first fixed charge over all intellectual property.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Adg Prefcap Ii LP"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "116715830002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-04-29",
+        "delivered_on": "2025-04-30",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All present or future freehold and/or leasehold properties in which the company has an interest.. All of the company's rights, title and interest in the intellectual property of the company.. Further detailed in charge instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Capchase Inc"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "116715830001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-04-29",
+        "delivered_on": "2025-04-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Adg Prefcap Ii LP as Security Trustee"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEI1O4A3",
+        "transaction_id": "MzQ5NTk4MDIzMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEF1UOM9",
+        "transaction_id": "MzQ4Nzk2MDg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-08-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE9WLCO5",
+        "transaction_id": "MzQ3ODk0NzYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-28",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE9WL3WX",
+        "transaction_id": "MzQ3ODk0NTM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5V5DOR",
+        "transaction_id": "MzQ3MjE2MTAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-04-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 36,
+        "barcode": "XE1KTTZV",
+        "transaction_id": "MzQ2NDYzNDAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-04-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 27,
+        "barcode": "XE1KUB49",
+        "transaction_id": "MzQ2NDYzODMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-04-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 27,
+        "barcode": "XE1I09S2",
+        "transaction_id": "MzQ2NDQwNzEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-08",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDFH4AJ5",
+        "transaction_id": "MzQ0MjQ3ODE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-22",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 9,
+        "barcode": "XDE9O21L",
+        "transaction_id": "MzQ0MDUwMDg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDDYYIJD",
+        "transaction_id": "MzQ0MDA0OTYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDDYYFM0",
+        "transaction_id": "MzQ0MDA0ODg0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDDTASG0",
+        "transaction_id": "MzQzOTU1Mjc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 8,
+        "barcode": "XD5QC1FM",
+        "transaction_id": "MzQyNjIyMjA0OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD2NYVHV",
+        "transaction_id": "MzQyMTAxOTY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-04-19",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 43,
+        "barcode": "YD133DX5",
+        "transaction_id": "MzQxODI3NzQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-04-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "transaction_id": "WUQxMzNFNEdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-04-02",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD06OMGZ",
+        "transaction_id": "MzQxNjg3NzMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-12-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 8,
+        "transaction_id": "WUNIRlE1MlFhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-31",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCFBU5D4",
+        "transaction_id": "MzM5ODQ0NTI3MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-31",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCFBP6MA",
+        "transaction_id": "MzM5ODQwMzI0NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-09",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 43,
+        "barcode": "YCDJAW3U",
+        "transaction_id": "MzM5NTQ3MDE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-09-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCBYGDO9",
+        "transaction_id": "MzM5MjgwNjAwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCAWVSWB",
+        "transaction_id": "MzM5MTEyNzU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-31",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 6,
+        "barcode": "XC88M1O3",
+        "transaction_id": "MzM4NzIwNTEzMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 56,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Monergie.com",
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T20:17:45.318Z",
+  "scraped_at": "2026-01-10T20:17:45.318Z"
+}
