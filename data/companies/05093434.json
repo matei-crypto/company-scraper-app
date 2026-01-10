@@ -1,0 +1,780 @@
+{
+  "company_name": "COLIANCE LTD",
+  "company_number": "05093434",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2004-04-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "2nd Floor, 55 Ludgate Hill, London, EC4M 7JW, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "2nd Floor, 55 Ludgate Hill",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4M 7JW"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "LIGHTWELL (UK) LIMITED",
+      "ceased_on": "2020-01-03",
+      "effective_from": "2014-05-08"
+    },
+    {
+      "name": "CHASE CONSULTANCY LIMITED",
+      "ceased_on": "2014-05-08",
+      "effective_from": "2004-04-05"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-10",
+    "last_made_up_to": "2025-06-26",
+    "next_made_up_to": "2026-06-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAWKINS, John Christopher",
+        "officer_role": "director",
+        "appointed_on": "2021-07-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "POWER, Stuart Jeremy",
+        "officer_role": "director",
+        "appointed_on": "2024-11-29",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "55 Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor"
+        }
+      },
+      {
+        "name": "STIRLING, Stuart George",
+        "officer_role": "director",
+        "appointed_on": "2020-01-23",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "THORPE, Christopher Alan",
+        "officer_role": "director",
+        "appointed_on": "2020-01-23",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "WELLS, Ian",
+        "officer_role": "director",
+        "appointed_on": "2019-12-03",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "BALL, Christopher David",
+        "officer_role": "director",
+        "appointed_on": "2004-04-05",
+        "resigned_on": "2016-05-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Fareham Heights",
+          "address_line_2": "Standard Way",
+          "country": "England",
+          "locality": "Fareham",
+          "postal_code": "PO16 8XT",
+          "premises": "Mosaic House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "HEETER, Adam Bruce",
+        "officer_role": "director",
+        "appointed_on": "2013-05-31",
+        "resigned_on": "2020-01-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Fareham Heights",
+          "locality": "Fareham",
+          "postal_code": "PO16 8XT",
+          "premises": "Mosaic House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "KERR, Michelle",
+        "officer_role": "director",
+        "appointed_on": "2013-05-31",
+        "resigned_on": "2020-01-07",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Fareham Heights",
+          "locality": "Fareham",
+          "postal_code": "PO16 8XT",
+          "premises": "Mosaic House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "LANGFORD-THOMAS, Marcus Jason",
+        "officer_role": "director",
+        "appointed_on": "2020-01-23",
+        "resigned_on": "2024-11-29",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "RITCHIE, Craig Findlay",
+        "officer_role": "director",
+        "appointed_on": "2013-01-01",
+        "resigned_on": "2013-05-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "Uk",
+        "address": {
+          "address_line_1": "Fareham Heights",
+          "country": "Uk",
+          "locality": "Fareham",
+          "postal_code": "PO16 8XT",
+          "premises": "Mosaic House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "WELLS, Ian Richard",
+        "officer_role": "director",
+        "appointed_on": "2004-04-05",
+        "resigned_on": "2018-03-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Fareham Heights",
+          "address_line_2": "Standard Way",
+          "country": "England",
+          "locality": "Fareham",
+          "postal_code": "PO16 8XT",
+          "premises": "Mosaic House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "L & A REGISTRARS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2004-04-05",
+        "resigned_on": "2004-04-05",
+        "address": {
+          "address_line_1": "31 Corsham Street",
+          "locality": "London",
+          "postal_code": "N1 6DR"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BALL, Christopher David",
+        "officer_role": "secretary",
+        "appointed_on": "2004-04-05",
+        "resigned_on": "2013-05-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Fareham Heights",
+          "address_line_2": "Standard Way",
+          "country": "England",
+          "locality": "Fareham",
+          "postal_code": "PO16 8XT",
+          "premises": "Mosaic House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "L & A SECRETARIAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2004-04-05",
+        "resigned_on": "2004-04-05",
+        "address": {
+          "address_line_1": "31 Corsham Street",
+          "locality": "London",
+          "postal_code": "N1 6DR"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Christopher Alan Thorpe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-08-27",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "Mr Ian Wells",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2020-01-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ludgate Hill",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7JW",
+          "premises": "2nd Floor, 55"
+        }
+      },
+      {
+        "name": "Lightwell Inc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-01-07",
+        "address": {
+          "address_line_1": "Metro Place South",
+          "address_line_2": "Suite 220",
+          "country": "United States",
+          "locality": "Dublin",
+          "premises": "565",
+          "region": "Oh 43017"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Statutory Framework Of The Ohio Business Corporation Law"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "050934340006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-09-07",
+        "delivered_on": "2020-09-10",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "050934340005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-04-09",
+        "delivered_on": "2020-04-15",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank Commercial Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage deed of life policy"
+          }
+        ],
+        "created_on": "2011-08-04",
+        "delivered_on": "2011-08-11",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Life assured christopher ball with scottish widows PLC policy no 56270531 dated 22/06/2011 all money including bonuses all options and rights see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "satisfied_on": "2013-05-31",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage deed of a life policy to secure own liabilities"
+          }
+        ],
+        "created_on": "2011-08-04",
+        "delivered_on": "2011-08-11",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Full title guarantee all money including bonuses accured or might become payable under the policy the benefit of all options right title and interest in the policy. Life assured ian wells date of policy 22/06/2011 policy number 56270532. insurer scottish widows sum assured £30,000.00 term date 21.6.2021 see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "satisfied_on": "2013-05-31",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-06-29",
+        "delivered_on": "2011-07-01",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, fixtures, plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Aldermore Invoice Finance, a Division of Aldermore Bank PLC"
+          }
+        ],
+        "satisfied_on": "2013-05-31",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2010-09-30",
+        "delivered_on": "2010-10-06",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Unit E1 fareham heights standard way fareham hampshire see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "satisfied_on": "2020-03-27",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 6,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEC6GX7L",
+        "transaction_id": "MzQ4MzIzNTQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE6WUQKG",
+        "transaction_id": "MzQ3MzkzNDExMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE5K1RSG",
+        "transaction_id": "MzQ3MTY2ODgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE5K3274",
+        "transaction_id": "MzQ3MTY3OTA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE5K1RDE",
+        "transaction_id": "MzQ3MTY2ODc1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE05AFWA",
+        "transaction_id": "MzQ2MTk0ODQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDBK7ZS9",
+        "transaction_id": "MzQzNTYxNzA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0PDJO8",
+        "transaction_id": "MzQxNzU3MTg0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCCBIFD5",
+        "transaction_id": "MzM5MzQyNzczM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0SEDEI",
+        "transaction_id": "MzM3NTM3NzkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBDY367L",
+        "transaction_id": "MzM1NDAyNjMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB6AATVE",
+        "transaction_id": "MzM0Mjc3MTMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB1G7FCR",
+        "transaction_id": "MzMzNTYxMDY1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-04-07",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB1G7EL7",
+        "transaction_id": "MzMzNTYxMDUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-04-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB1G7CY3",
+        "transaction_id": "MzMzNTYxMDExMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "JAJZS5NN",
+        "transaction_id": "MzMyNTM5NzAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-10",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "JACMYXTK",
+        "transaction_id": "MzMxMzUxMjE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA9O6MSZ",
+        "transaction_id": "MzMwOTA2Njc3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA9O6I36",
+        "transaction_id": "MzMwOTA2NTYzMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA9O68QH",
+        "transaction_id": "MzMwOTA2MzI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3UNBQJ",
+        "transaction_id": "MzMwMDAyMzg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "J9KGWO5M",
+        "transaction_id": "MzI4Njc0Mjg5NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X9DADT01",
+        "transaction_id": "MzI3NzMxNzE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-04-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 22,
+        "barcode": "X92ZQ7BS",
+        "transaction_id": "MzI2MjQ1NTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X91OFUH5",
+        "transaction_id": "MzI2MTA0MzYxOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 102,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Coliance.co",
+    "headcount": 20,
+    "tech_stack": [
+      "IBM"
+    ],
+    "business_keywords": [
+      "supply chain",
+      "supply chain data",
+      "data integration",
+      "managed file transfer",
+      "API services",
+      "data transformation",
+      "data visualization",
+      "business insights",
+      "supply chain visibility",
+      "supply chain software",
+      "supply chain services",
+      "data revolution",
+      "IBM solution provider"
+    ],
+    "services": [
+      "data integration",
+      "managed file transfer",
+      "API services",
+      "data transformation",
+      "data visualization",
+      "supply chain software & services"
+    ],
+    "customer_segments": [],
+    "business_description": "Coliance helps clients unlock the potential of their supply chain data with expert integration, managed file transfer, and API services. The company focuses on moving, transforming, and visualizing data to enable smarter and faster business decisions through enhanced insights.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T01:56:01.032Z"
+  },
+  "scraped_at": "2026-01-10T01:55:56.540Z",
+  "updated_at": "2026-01-10T01:56:01.032Z",
+  "version": 1
+}

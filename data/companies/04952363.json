@@ -1,0 +1,509 @@
+{
+  "company_name": "VIVANTIO LIMITED",
+  "company_number": "04952363",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-11-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "Redwood House Brotherswood Court, Almondsbury, Bristol, BS32 4QW, England",
+  "registered_address_structured": {
+    "address_line_1": "Redwood House Brotherswood Court",
+    "address_line_2": "Almondsbury",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS32 4QW"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-18",
+    "last_made_up_to": "2025-11-04",
+    "next_made_up_to": "2026-11-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RICH, Gregory John",
+        "officer_role": "director",
+        "appointed_on": "2003-11-04",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Woodcock Path",
+          "country": "Usa",
+          "locality": "South Natick",
+          "postal_code": "MA 01760",
+          "premises": "2"
+        }
+      },
+      {
+        "name": "BENSON, Stephen James",
+        "officer_role": "director",
+        "appointed_on": "2013-03-31",
+        "resigned_on": "2016-10-15",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "Usa",
+        "address": {
+          "address_line_1": "Kestrek Court",
+          "address_line_2": "Celebration",
+          "country": "Usa",
+          "locality": "Kissimmee",
+          "premises": "1000",
+          "region": "Florida 34747"
+        }
+      },
+      {
+        "name": "WILTSHIRE, Russell Henry",
+        "officer_role": "director",
+        "appointed_on": "2003-11-04",
+        "resigned_on": "2014-04-07",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Sandford Road",
+          "locality": "Weston Super Mare",
+          "postal_code": "BS23 3EX",
+          "region": "Somerset"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "RICH, Gregory John",
+        "officer_role": "secretary",
+        "appointed_on": "2014-04-07",
+        "address": {
+          "address_line_1": "Brotherswood Court",
+          "address_line_2": "Almondsbury",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS32 4QW",
+          "premises": "Redwood House"
+        }
+      },
+      {
+        "name": "WILTSHIRE, Russell Henry",
+        "officer_role": "secretary",
+        "appointed_on": "2003-11-04",
+        "resigned_on": "2014-04-07",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1 Sandford Road",
+          "locality": "Weston Super Mare",
+          "postal_code": "BS23 3EX",
+          "region": "Somerset"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Vivantio Holdings Inc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Common Street",
+          "address_line_2": "Ste 642",
+          "country": "United States",
+          "locality": "Natick",
+          "postal_code": "01760",
+          "premises": "15",
+          "region": "Ma"
+        },
+        "identification": {
+          "legal_form": "Foreign Corporation",
+          "legal_authority": "Delaware",
+          "country_registered": "United States",
+          "place_registered": "N/A",
+          "registration_number": "001185105"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-03-29",
+        "delivered_on": "2010-03-31",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "satisfied_on": "2025-11-21",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-11-21",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEFTHVY0",
+        "transaction_id": "MzQ5MDM0NjYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEFLK3XL",
+        "transaction_id": "MzQ4OTM4MjkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE5H9HEG",
+        "transaction_id": "MzQ3MTUxNjI5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFUP98I",
+        "transaction_id": "MzQ0MzQ0NzgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XD72ZY01",
+        "transaction_id": "MzQyODMwNzg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFUWMAI",
+        "transaction_id": "MzM5OTMxMzQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCAZF2OA",
+        "transaction_id": "MzM5MTI2MTIxMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC240BEB",
+        "transaction_id": "MzM3NzI4MDY4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGXPX80",
+        "transaction_id": "MzM1ODkxODYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XBGXPW2A",
+        "transaction_id": "MzM1ODkxODM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB6NFA3K",
+        "transaction_id": "MzM0MzEzODYxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAGKU4CJ",
+        "transaction_id": "MzMxOTE5MTIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA5CC4EG",
+        "transaction_id": "MzMwMjMyMDk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9K17MY0",
+        "transaction_id": "MzI4NjE0OTEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9134I42",
+        "transaction_id": "MzI2MDE2OTE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8IP70IB",
+        "transaction_id": "MzI0OTk0NTkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8CDC0DM",
+        "transaction_id": "MzI0MjM3OTg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7J9A9F4",
+        "transaction_id": "MzIyMDA2Nzk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A7B351CW",
+        "transaction_id": "MzIxMTI0Mjg5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6JKMSAJ",
+        "transaction_id": "MzE5MDU3MjA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-11-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "X6JBP1AI",
+        "transaction_id": "MzE5MDM3OTU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A6EG0AWZ",
+        "transaction_id": "MzE4NTI2ODkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-11-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5KGQJL4",
+        "transaction_id": "MzE2MjY4MzYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-11-24",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X5KGQEIW",
+        "transaction_id": "MzE2MjY4MjEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-09-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A5E9SCTD",
+        "transaction_id": "MzE1NjUxMzk3MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 67,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 23
+  },
+  "enrichment": {
+    "website": "https://Vivantio.com",
+    "headcount": 23,
+    "tech_stack": [
+      "ITILv4",
+      "Microsoft Intune",
+      "Microsoft O365",
+      "WhatsApp",
+      "SMS",
+      "Power BI",
+      "BambooHR",
+      "Active Monitor",
+      "REST API",
+      "FLEXBridge",
+      "webMethods"
+    ],
+    "business_keywords": [
+      "service management software",
+      "IT support services",
+      "ITSM",
+      "ITIL",
+      "ticketing",
+      "automation",
+      "AI",
+      "workflow management",
+      "customer support",
+      "enterprise service management",
+      "cross-functional collaboration",
+      "knowledge management",
+      "self-service portals",
+      "asset discovery",
+      "change management",
+      "service catalog",
+      "CRM",
+      "reporting",
+      "integrations"
+    ],
+    "services": [
+      "IT Service Management (ITSM)",
+      "managed IT support services",
+      "B2B customer support",
+      "HR service management",
+      "facilities service management",
+      "legal service management",
+      "finance service management",
+      "GRC service management",
+      "incident management",
+      "problem management",
+      "service request management",
+      "change management",
+      "asset discovery and IT asset management (ITAM)",
+      "AI-powered service management",
+      "automation and workflow management",
+      "task management",
+      "knowledge base management",
+      "omni-channel support",
+      "digital self-service portals",
+      "service catalog management",
+      "customer satisfaction (CSAT) surveys",
+      "cross-functional service delivery",
+      "CRM for external support",
+      "personalized workspaces configuration",
+      "roles and permissions management",
+      "custom ticket types and layouts",
+      "reporting and analytics"
+    ],
+    "customer_segments": [
+      "B2B organizations",
+      "customer-first organizations",
+      "service and support teams",
+      "IT departments",
+      "HR departments",
+      "facilities teams",
+      "finance teams",
+      "legal teams",
+      "GRC teams",
+      "customer service and support teams",
+      "independent software vendors (ISVs)",
+      "technology service providers (TSPs)",
+      "managed service providers (MSPs)",
+      "engineering teams",
+      "enterprise organizations"
+    ],
+    "business_description": "Vivantio Limited provides service management software designed to centralize and scale support operations for B2B customer support, IT, HR, facilities, legal, finance, and GRC teams. The platform offers enterprise functionality, including ITIL-aligned service management, automation, AI, and cross-functional collaboration tools, enabling organizations to streamline service delivery and improve customer satisfaction without complex implementation.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T01:26:51.198Z"
+  },
+  "scraped_at": "2026-01-10T01:26:36.160Z",
+  "updated_at": "2026-01-10T01:26:51.197Z",
+  "version": 1
+}

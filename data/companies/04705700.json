@@ -1,0 +1,377 @@
+{
+  "company_name": "INTERDATA LTD",
+  "company_number": "04705700",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-03-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Copper Room Deva City Office Park, Trinity Way, Manchester, M3 7BG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "The Copper Room Deva City Office Park",
+    "address_line_2": "Trinity Way",
+    "country": "United Kingdom",
+    "locality": "Manchester",
+    "postal_code": "M3 7BG"
+  },
+  "sic_codes": [
+    "61900",
+    "62020",
+    "63110",
+    "63120"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-03",
+    "last_made_up_to": "2025-03-20",
+    "next_made_up_to": "2026-03-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ROSS, Jeremy",
+        "officer_role": "director",
+        "appointed_on": "2003-03-31",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bury New Road",
+          "address_line_2": "Whitefield",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M45 6AA",
+          "premises": "141a"
+        }
+      },
+      {
+        "name": "FORM 10 DIRECTORS FD LTD",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2003-03-20",
+        "resigned_on": "2003-03-27",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ROSS, Adele Deborah",
+        "officer_role": "secretary",
+        "appointed_on": "2003-03-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Bury New Road",
+          "address_line_2": "Whitefield",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M45 6AA",
+          "premises": "141a"
+        }
+      },
+      {
+        "name": "FORM 10 SECRETARIES FD LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2003-03-20",
+        "resigned_on": "2003-03-27",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Jeremy Ross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-07-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Deva City Office Park",
+          "address_line_2": "Trinity Way",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M3 7BG",
+          "premises": "The Copper Room"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE8C3X0Y",
+        "transaction_id": "MzQ3NjE4Njg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDZZR1LK",
+        "transaction_id": "MzQ2MTU5ODIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDFMHQND",
+        "transaction_id": "MzQ0MjY4Njg4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD1M00Q9",
+        "transaction_id": "MzQxOTMzMDA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCZNBXUB",
+        "transaction_id": "MzQxNTkyOTcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCHCEO0J",
+        "transaction_id": "MzQwMTkyNDA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCHCENQP",
+        "transaction_id": "MzQwMTkyMzk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCGO7FE9",
+        "transaction_id": "MzQwMDc5MDY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC0PES89",
+        "transaction_id": "MzM3NTA2MDY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBII6UBU",
+        "transaction_id": "MzM2MTYyMzIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2P4P6B",
+        "transaction_id": "MzMzNzIyMzQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "AAF1OO7E",
+        "transaction_id": "MzMxNzEyMzczMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1GIANT",
+        "transaction_id": "MzI5NjQ2MDk3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A9BOJT1T",
+        "transaction_id": "MzI3NTg4NDIxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X91G5XWA",
+        "transaction_id": "MzI2MDQ2Njg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-23",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "X91G5410",
+        "transaction_id": "MzI2MDQ1Njg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X918K0YG",
+        "transaction_id": "MzI2MDM4MjkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-20",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X918K0ND",
+        "transaction_id": "MzI2MDM4Mjg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A89ACWLC",
+        "transaction_id": "MzIzOTE5OTcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X822FMT6",
+        "transaction_id": "MzIzMDM0ODIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A7ANUX3C",
+        "transaction_id": "MzIxMDQyODA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X72QN1G9",
+        "transaction_id": "MzIwMTM1NDAwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A6966ZD6",
+        "transaction_id": "MzE3OTAxNTI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-03-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X637F0AZ",
+        "transaction_id": "MzE3MjI5ODU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "A59CJE6I",
+        "transaction_id": "MzE1MTc0MTE1N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 61,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Gear4music.com",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T00:42:57.830Z",
+  "scraped_at": "2026-01-10T00:42:57.830Z"
+}

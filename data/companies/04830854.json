@@ -1,0 +1,476 @@
+{
+  "company_name": "VECTOR 7 LTD",
+  "company_number": "04830854",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-07-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "107 High Street, Honiton, Devon, EX14 1PE",
+  "registered_address_structured": {
+    "address_line_1": "107 High Street",
+    "locality": "Honiton",
+    "postal_code": "EX14 1PE",
+    "region": "Devon"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-25",
+    "last_made_up_to": "2025-07-11",
+    "next_made_up_to": "2026-07-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GARDNER, Julia Margaret",
+        "officer_role": "director",
+        "appointed_on": "2003-07-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "United Kingdom",
+          "locality": "Honiton",
+          "postal_code": "EX14 1PE",
+          "premises": "107",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "VINCENT, John",
+        "officer_role": "director",
+        "appointed_on": "2003-07-11",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "United Kingdom",
+          "locality": "Honiton",
+          "postal_code": "EX14 1PE",
+          "premises": "107",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "COMPANY DIRECTORS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2003-07-11",
+        "resigned_on": "2003-07-11",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GARDNER, Julia Margaret",
+        "officer_role": "secretary",
+        "appointed_on": "2003-07-11",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "United Kingdom",
+          "locality": "Honiton",
+          "postal_code": "EX14 1PE",
+          "premises": "107",
+          "region": "Devon"
+        }
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2003-07-11",
+        "resigned_on": "2003-07-11",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr John Vincent",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Honiton",
+          "postal_code": "EX14 1PE",
+          "premises": "107"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "048308540002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-06-01",
+        "delivered_on": "2015-06-16",
+        "particulars": {
+          "type": "brief-description",
+          "description": "55 high street honiton devon.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "048308540001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-03-25",
+        "delivered_on": "2015-04-04",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHL1WZT",
+        "transaction_id": "MzQ5NTAwNzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7FXXCZ",
+        "transaction_id": "MzQ3NTA1NDM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDI9Y45U",
+        "transaction_id": "MzQ0ODM4OTMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD81XMHM",
+        "transaction_id": "MzQyOTk3NTk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCISFK5L",
+        "transaction_id": "MzQwNTA1ODU4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8385JD",
+        "transaction_id": "MzM4NjkzNjQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBJ98A4R",
+        "transaction_id": "MzM2MzA4NDAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB85JBYP",
+        "transaction_id": "MzM0NTYyNDMwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAKGHF2X",
+        "transaction_id": "MzMyNTI2OTM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA9DHNOH",
+        "transaction_id": "MzMwODY4MzU0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9JVTQD7",
+        "transaction_id": "MzI4NTkyMzcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9A2AE8R",
+        "transaction_id": "MzI3Mzg4NDEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8L7UF5S",
+        "transaction_id": "MzI1MzIyNTI1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8BS492O",
+        "transaction_id": "MzI0MTYzMDUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7LOY9BM",
+        "transaction_id": "MzIyMzA4NTUzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7AG0YEY",
+        "transaction_id": "MzIxMDAxODU1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X6M98JUN",
+        "transaction_id": "MzE5Mzk0MDkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-07-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6AFX0NV",
+        "transaction_id": "MzE4MDI0MTMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X5MY5BO9",
+        "transaction_id": "MzE2NTU1OTY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-08-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5E4UW5J",
+        "transaction_id": "MzE1NTkxMTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X4NFB5G3",
+        "transaction_id": "MzEzODY5NzQxMmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-10-07",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X4HJGCJ5",
+        "transaction_id": "MzEzMjU1NDQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2015-06-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "A49NZ7O9",
+        "transaction_id": "MzEyNTc5NjE1NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2015-04-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 45,
+        "barcode": "A44N73GO",
+        "transaction_id": "MzEyMTM4Njg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2014-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X3N375WA",
+        "transaction_id": "MzExMzg5NzQ2NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Vector7.co.uk",
+    "headcount": 16,
+    "tech_stack": [
+      "Google Search"
+    ],
+    "business_keywords": [
+      "web marketing",
+      "growth partner",
+      "website builds",
+      "brand identity",
+      "Google visibility",
+      "daily marketing tasks",
+      "design",
+      "strategy",
+      "creative",
+      "search engine optimisation",
+      "SEO",
+      "website audit",
+      "conversion-focused websites",
+      "marketing strategy",
+      "photography",
+      "video",
+      "print"
+    ],
+    "services": [
+      "website builds",
+      "brand identity",
+      "Google visibility",
+      "daily marketing tasks",
+      "search engine optimisation (SEO)",
+      "website audit",
+      "conversion-focused website design",
+      "marketing strategy",
+      "photography",
+      "video",
+      "print"
+    ],
+    "customer_segments": [],
+    "business_description": "Vector7 is a creative growth partner specializing in web marketing services, including website builds, brand identity, SEO, and daily marketing tasks. They focus on designing websites to convert traffic into customers and provide strategic guidance based on 25 years of marketing experience. Their services also include photography, video, and print as part of marketing plans.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T01:05:57.538Z"
+  },
+  "scraped_at": "2026-01-10T01:05:49.167Z",
+  "updated_at": "2026-01-10T01:05:57.537Z",
+  "version": 1
+}

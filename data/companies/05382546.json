@@ -1,0 +1,441 @@
+{
+  "company_name": "ITIL WORKS LIMITED",
+  "company_number": "05382546",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-03-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "10 Cornmarket, Worcester, WR1 2DR, England",
+  "registered_address_structured": {
+    "address_line_1": "10 Cornmarket",
+    "country": "England",
+    "locality": "Worcester",
+    "postal_code": "WR1 2DR"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-18",
+    "last_made_up_to": "2025-03-04",
+    "next_made_up_to": "2026-03-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SMITH, Laura",
+        "officer_role": "director",
+        "appointed_on": "2023-11-27",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cornmarket",
+          "country": "England",
+          "locality": "Worcester",
+          "postal_code": "WR1 2DR",
+          "premises": "10"
+        }
+      },
+      {
+        "name": "SMITH, Martin Raymond",
+        "officer_role": "director",
+        "appointed_on": "2005-03-04",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Birches",
+          "address_line_2": "18 Hallow Lane",
+          "locality": "Lower Broadheath",
+          "postal_code": "WR2 6QL",
+          "region": "Worcestershire"
+        }
+      },
+      {
+        "name": "WILSON, Craig",
+        "officer_role": "director",
+        "appointed_on": "2005-03-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Evendine Lane",
+          "address_line_2": "Colwall",
+          "country": "England",
+          "locality": "Malvern",
+          "postal_code": "WR13 6DT",
+          "premises": "The Lodge"
+        }
+      },
+      {
+        "name": "WILSON, Louise Anne",
+        "officer_role": "director",
+        "appointed_on": "2023-11-27",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Cornmarket",
+          "country": "England",
+          "locality": "Worcester",
+          "postal_code": "WR1 2DR",
+          "premises": "10"
+        }
+      },
+      {
+        "name": "VANTIS NOMINEES LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2005-03-04",
+        "resigned_on": "2005-03-04",
+        "address": {
+          "address_line_1": "82 St John Street",
+          "locality": "London",
+          "postal_code": "EC1M 4JN"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DANDRIDGE, David Paul",
+        "officer_role": "secretary",
+        "appointed_on": "2005-03-04",
+        "resigned_on": "2018-12-14",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "156 Cavendish Avenue",
+          "locality": "London",
+          "postal_code": "W13 0JW"
+        }
+      },
+      {
+        "name": "VANTIS SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2005-03-04",
+        "resigned_on": "2005-03-04",
+        "address": {
+          "address_line_1": "82 St John Street",
+          "locality": "London",
+          "postal_code": "EC1M 4JN"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Martin Raymond Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-03-04",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cornmarket",
+          "country": "England",
+          "locality": "Worcester",
+          "postal_code": "WR1 2DR",
+          "premises": "10"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-07-15",
+        "delivered_on": "2010-07-20",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE4KSG01",
+        "transaction_id": "MzQ2OTgwNzU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXVH69V",
+        "transaction_id": "MzQ1Nzc2OTYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD89XY8P",
+        "transaction_id": "MzQzMDMzOTIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYIWOHU",
+        "transaction_id": "MzQxMzkzMzc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-30",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCHCSFG1",
+        "transaction_id": "MzQwMjEwMzgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-30",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCHCS72I",
+        "transaction_id": "MzQwMjA5NjA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-20",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCGO7NIQ",
+        "transaction_id": "MzQwMDc5MjM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYWA4C8",
+        "transaction_id": "MzM3MTkxNDUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB6VRGM1",
+        "transaction_id": "MzM0MzczMzMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZ4G7WO",
+        "transaction_id": "MzMzMTk5ODk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA7WH2P6",
+        "transaction_id": "MzMwNjY3NzM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA1DKV0P",
+        "transaction_id": "MzI5NjI0MzgyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ZNHKVM",
+        "transaction_id": "MzI5MzQwNjQ0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9AFMGQY",
+        "transaction_id": "MzI3NDMwMDgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X909YJGY",
+        "transaction_id": "MzI1OTE0MDIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8JT67IB",
+        "transaction_id": "MzI1MTU1MjMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80INZ8L",
+        "transaction_id": "MzIyODQ1MTc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7LHMD3E",
+        "transaction_id": "MzIyMzE4MDMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-12-14",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X7KT4RLD",
+        "transaction_id": "MzIyMjE2MzgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X714ND9M",
+        "transaction_id": "MzE5OTMzNTM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6M57DBC",
+        "transaction_id": "MzE5Mzg0MjU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-09-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6ETIXJF",
+        "transaction_id": "MzE4NTE0NjM0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X6676YIQ",
+        "transaction_id": "MzE3NTU3MzgxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-01-04",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "A5M9O1SZ",
+        "transaction_id": "MzE2NTIyODkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-03-21",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X537U8QG",
+        "transaction_id": "MzE0NDQ4NDMyNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 58,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Trainingworks.info",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T02:50:03.053Z",
+  "scraped_at": "2026-01-10T02:50:03.053Z"
+}

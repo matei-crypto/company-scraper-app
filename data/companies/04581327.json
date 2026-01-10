@@ -1,0 +1,489 @@
+{
+  "company_name": "JLCIT LIMITED",
+  "company_number": "04581327",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2002-11-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Bloomsbury Square, London, WC1A 2RP, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Bloomsbury Square",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1A 2RP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-19",
+    "last_made_up_to": "2025-11-05",
+    "next_made_up_to": "2026-11-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DENNING, Neil John",
+        "officer_role": "director",
+        "appointed_on": "2009-12-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bloomsbury Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1A 2RP",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "CARSON, James Leslie",
+        "officer_role": "director",
+        "appointed_on": "2002-11-05",
+        "resigned_on": "2022-12-15",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Russell Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1B 4JP",
+          "premises": "44"
+        }
+      },
+      {
+        "name": "BRIGHTON DIRECTOR LTD",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2002-11-05",
+        "resigned_on": "2002-11-06",
+        "address": {
+          "address_line_1": "3 Marlborough Road",
+          "address_line_2": "Lancing Business Park",
+          "locality": "Lancing",
+          "postal_code": "BN15 8UF",
+          "region": "West Sussex"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CARSON, Albert",
+        "officer_role": "secretary",
+        "appointed_on": "2002-11-05",
+        "resigned_on": "2017-10-29",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NZ",
+          "premises": "320"
+        }
+      },
+      {
+        "name": "BRIGHTON SECRETARY LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2002-11-05",
+        "resigned_on": "2002-11-06",
+        "address": {
+          "address_line_1": "3 Marlborough Road",
+          "address_line_2": "Lancing Business Park",
+          "locality": "Lancing",
+          "postal_code": "BN15 8UF",
+          "region": "West Sussex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Support Tree Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2022-12-15",
+        "address": {
+          "address_line_1": "Russell Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1B 4JP",
+          "premises": "44"
+        },
+        "identification": {
+          "legal_form": "Limited Liability Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Uk Companies House",
+          "registration_number": "14459564"
+        }
+      },
+      {
+        "name": "Mr Neil John Denning",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2018-11-10",
+        "ceased_on": "2022-12-15",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Russell Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1B 4JP",
+          "premises": "44"
+        }
+      },
+      {
+        "name": "Mr James Leslie Carson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2022-12-15",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Russell Square",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1B 4JP",
+          "premises": "44"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEF4W0GO",
+        "transaction_id": "MzQ4ODIwNzg0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEC6BWOZ",
+        "transaction_id": "MzQ4MzE5NTM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDHKOBLM",
+        "transaction_id": "MzQ0NjUxNDA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFUMAOW",
+        "transaction_id": "MzQ0MzQxODkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCFS5QWQ",
+        "transaction_id": "MzM5OTE1NTI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCD390L6",
+        "transaction_id": "MzM5NDk2OTc1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC8WKIHT",
+        "transaction_id": "MzM4ODA4MjQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-16",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBIYGBVC",
+        "transaction_id": "MzM2MjcxMjU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-16",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBIYGBOZ",
+        "transaction_id": "MzM2MjcxMjQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-16",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBIYGBA9",
+        "transaction_id": "MzM2MjcxMjQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-16",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XBIYGASA",
+        "transaction_id": "MzM2MjcxMjI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGESPY0",
+        "transaction_id": "MzM1Nzk4MTg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBC5VT7O",
+        "transaction_id": "MzM1MTQ0MTA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJ1J2NM",
+        "transaction_id": "MzMyMzI1NzYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAG7IXYG",
+        "transaction_id": "MzMxODcwMzc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA92NMFE",
+        "transaction_id": "MzMwODA0MjgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XHNJJD",
+        "transaction_id": "MzI5MDI5NzEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X9L2FG1M",
+        "transaction_id": "MzI4NzMwNjc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-29",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8JAD60Y",
+        "transaction_id": "MzI1MDcxNjEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8I43MHU",
+        "transaction_id": "MzI0OTI4MTUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-11-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X8I43MD5",
+        "transaction_id": "MzI0OTI4MTQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8F33VIA",
+        "transaction_id": "MzI0NTU0NDY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7WP0OW2",
+        "transaction_id": "MzIyMzk2MDI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X7DHM54O",
+        "transaction_id": "MzIxMzM2NzgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-08-29",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X7DCGDX7",
+        "transaction_id": "MzIxMzE4MDAzM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 74,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Supporttree.co.uk",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "Managed IT Support",
+      "Cyber Security",
+      "IT Support",
+      "Technology Solutions",
+      "Cyber-Resilient IT Support",
+      "24/7 User and Endpoint Protection",
+      "Cloud Infrastructure Management",
+      "Network Monitoring",
+      "Threat Management",
+      "Data Backup & Recovery",
+      "Compliance Maintenance",
+      "Hybrid Work Support",
+      "Proactive IT Support",
+      "Cybersecurity Partner",
+      "IT Compliance"
+    ],
+    "services": [
+      "24/7 user and endpoint protection",
+      "Management of cloud infrastructure, users, and voice solutions",
+      "Network monitoring & threat management",
+      "Regular software updates & compliance maintenance",
+      "Data backup & recovery solutions",
+      "Cyber-resilient IT support",
+      "Discovery and assessment of business IT and security posture",
+      "Onboarding with bespoke IT management plan",
+      "Proactive IT service with regular audits and reporting",
+      "Strategy reviews for technology and risk",
+      "IT support for hybrid work environments"
+    ],
+    "customer_segments": [
+      "SMEs",
+      "Financial Services and IFAs",
+      "Insurance",
+      "Property and Asset Management",
+      "Professional Services (legal, accounting, consultancy)",
+      "Recruitment",
+      "Hospitality and Retail",
+      "Healthcare and Dental Practices",
+      "Construction and Building Services",
+      "Not-for-Profits",
+      "Education and Training Providers",
+      "Media and Creative Agencies",
+      "Scaling SMEs",
+      "High-growth businesses"
+    ],
+    "business_description": "Support Tree provides managed IT support and cybersecurity services tailored for London businesses, particularly SMEs. With over 21 years of experience, they deliver proactive, cyber-resilient IT solutions to enhance security, compliance, and business efficiency. Their services include 24/7 protection, cloud management, data backup, and recovery to ensure systems remain secure, accessible, and compliant.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 25,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T00:17:44.637Z"
+  },
+  "scraped_at": "2026-01-10T00:17:31.727Z",
+  "updated_at": "2026-01-10T00:17:44.637Z",
+  "version": 1
+}

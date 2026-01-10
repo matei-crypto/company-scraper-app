@@ -1,0 +1,466 @@
+{
+  "company_name": "NET PRIMATES LIMITED",
+  "company_number": "05376201",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-02-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 38 New Forest Enterprise Centre Chapel Lane, Totton, Southampton, Hampshire, SO40 9LA, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 38 New Forest Enterprise Centre Chapel Lane",
+    "address_line_2": "Totton",
+    "country": "England",
+    "locality": "Southampton",
+    "postal_code": "SO40 9LA",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-15",
+    "last_made_up_to": "2025-03-01",
+    "next_made_up_to": "2026-03-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COLE, Stephen William",
+        "officer_role": "director",
+        "appointed_on": "2005-02-25",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wetherby Gardens",
+          "address_line_2": "Totton",
+          "country": "United Kingdom",
+          "locality": "Southampton",
+          "postal_code": "SO40 8SB",
+          "premises": "18",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "WITHERS, Matthew Laurence",
+        "officer_role": "director",
+        "appointed_on": "2005-02-25",
+        "resigned_on": "2017-09-18",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "20 Bishops Close",
+          "address_line_2": "Totton",
+          "locality": "Southampton",
+          "postal_code": "SO40 3GY",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WITHERS, Jane",
+        "officer_role": "secretary",
+        "appointed_on": "2005-02-25",
+        "resigned_on": "2005-04-18",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "20 Bishops Close",
+          "address_line_2": "Totton",
+          "locality": "Southampton",
+          "postal_code": "SO40 3GY",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "WITHERS, Matthew Laurence",
+        "officer_role": "secretary",
+        "appointed_on": "2005-04-18",
+        "resigned_on": "2017-09-18",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "20 Bishops Close",
+          "address_line_2": "Totton",
+          "locality": "Southampton",
+          "postal_code": "SO40 3GY",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Information Technology Un Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-09-18",
+        "address": {
+          "address_line_1": "3 Durrant Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH2 6NE",
+          "premises": "C/O Carter & Coley",
+          "region": "Dorset"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 1985",
+          "country_registered": "England",
+          "place_registered": "Register Of Companies For England And Wales",
+          "registration_number": "04307565"
+        }
+      },
+      {
+        "name": "Mr Matthew Laurence Withers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-09-18",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Rushington Business Park",
+          "address_line_2": "Chapel Lane, Totton",
+          "locality": "Southampton",
+          "postal_code": "SO40 9LA",
+          "premises": "Unit 20",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "Mr Stephen William Cole",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Chapel Lane",
+          "address_line_2": "Totton",
+          "country": "England",
+          "locality": "Southampton",
+          "postal_code": "SO40 9LA",
+          "premises": "Unit 38 New Forest Enterprise Centre",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEBEY708",
+        "transaction_id": "MzQ4MTkxNTI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE11GYRT",
+        "transaction_id": "MzQ2MzQ4NjMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDCJBEW0",
+        "transaction_id": "MzQzNzQ4OTgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXXKHJR",
+        "transaction_id": "MzQxMzE1OTgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCCMM21E",
+        "transaction_id": "MzM5NDA4MTg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYDI60B",
+        "transaction_id": "MzM3MTE4NDkxOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-01-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBUHKCV7",
+        "transaction_id": "MzM2NDYwMzU0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBDKMKRF",
+        "transaction_id": "MzM1MzU2ODExMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZUZGLM",
+        "transaction_id": "MzMzMjg0MTUwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XADIG4OB",
+        "transaction_id": "MzMxNDM4Mjk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ZF8ZG0",
+        "transaction_id": "MzI5Mjk2NjAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X99UAERV",
+        "transaction_id": "MzI3MzYyNTkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9021B4S",
+        "transaction_id": "MzI1ODg0MjM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8DTY3IQ",
+        "transaction_id": "MzI0NDA5NTM0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-06",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8DGQHKI",
+        "transaction_id": "MzI0MzY3MjQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X81PFQCZ",
+        "transaction_id": "MzIyOTk3Mjc3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X7J17XRM",
+        "transaction_id": "MzIxOTcyNTEwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X71KYNTM",
+        "transaction_id": "MzE5OTgwNzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "X6K8HCP6",
+        "transaction_id": "MzE5MTUwNDkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-10-10",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X6GP39AG",
+        "transaction_id": "MzE4NzM4NDc5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-10-09",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X6GP4RQJ",
+        "transaction_id": "MzE4NzM4Mzg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-10-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 1,
+        "barcode": "X6GP2EQI",
+        "transaction_id": "MzE4NzM3NDcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-10-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X6GHBEFS",
+        "transaction_id": "MzE4NzIyMDIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-10-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X6GHB37F",
+        "transaction_id": "MzE4NzIxOTg5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-10-06",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X6GHB020",
+        "transaction_id": "MzE4NzIxOTc3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 59,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Netprimates.com",
+    "headcount": 7,
+    "tech_stack": [
+      "Microsoft 365"
+    ],
+    "business_keywords": [
+      "IT support",
+      "cyber security",
+      "telecom solutions",
+      "business IT",
+      "telecommunications",
+      "Microsoft 365",
+      "connectivity",
+      "proactive IT support",
+      "IT infrastructure",
+      "tech support",
+      "network solutions",
+      "wi-fi solutions",
+      "fixed-price support",
+      "business technology",
+      "cybercrime protection"
+    ],
+    "services": [
+      "IT support",
+      "cyber security",
+      "telecom solutions",
+      "Microsoft 365 support",
+      "connectivity solutions (internet, network, wi-fi, telecoms)",
+      "proactive IT support",
+      "fixed-price IT support",
+      "advanced technology support",
+      "reactive cyber security support",
+      "proactive cyber security support"
+    ],
+    "customer_segments": [
+      "businesses"
+    ],
+    "business_description": "Net Primates provides efficient, on-time, and cost-effective IT support, cyber security, and telecom solutions for businesses. They deliver proactive IT support, advanced technology guidance, and tailored connectivity solutions to minimize downtime and enhance productivity. The company specializes in Microsoft 365, cyber security, and industry-grade connectivity services.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 41,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T02:47:28.260Z"
+  },
+  "scraped_at": "2026-01-10T02:47:21.881Z",
+  "updated_at": "2026-01-10T02:47:28.260Z",
+  "version": 1
+}

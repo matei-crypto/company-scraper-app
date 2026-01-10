@@ -1,0 +1,491 @@
+{
+  "company_name": "BLUETEL SOLUTIONS LIMITED",
+  "company_number": "05364409",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-02-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 1a 4 Temple Row, Birmingham, B2 5HG, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 1a 4 Temple Row",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B2 5HG"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-01",
+    "last_made_up_to": "2025-02-15",
+    "next_made_up_to": "2026-02-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CLEWS, Robert James",
+        "officer_role": "director",
+        "appointed_on": "2005-02-15",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "4 Temple Row",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B2 5HG",
+          "premises": "Unit 1a"
+        }
+      },
+      {
+        "name": "KOLASINSKI, Jan Taddeo Riccardo Maria",
+        "officer_role": "director",
+        "appointed_on": "2005-02-15",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "4 Temple Row",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B2 5HG",
+          "premises": "Unit 1a"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "KOLASINSKI, Jan Taddeo Riccardo Maria",
+        "officer_role": "secretary",
+        "appointed_on": "2005-02-15",
+        "nationality": "French",
+        "address": {
+          "address_line_1": "4 Temple Row",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B2 5HG",
+          "premises": "Unit 1a"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Lazuli Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-11-09",
+        "address": {
+          "address_line_1": "4 Temple Row",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B2 5HG",
+          "premises": "Unit 1a"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "11580267"
+        }
+      },
+      {
+        "name": "Mr Jan Tiddeo Riccardo Maria Kolasinski",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-11-09",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1970,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Suite 2.05",
+          "address_line_2": "141 Newhall Street",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B3 1BF",
+          "premises": "Assay Studios",
+          "region": "West Midlands"
+        }
+      },
+      {
+        "name": "Mr Robert James Clews",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-11-09",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Suite 2.05",
+          "address_line_2": "141 Newhall Street",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B3 1BF",
+          "premises": "Assay Studios",
+          "region": "West Midlands"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "053644090001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-05-29",
+        "delivered_on": "2020-06-04",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Jan Taddeo Riccardo Maria Kolasinski"
+          },
+          {
+            "name": "Robert James Clews"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEE7WEFM",
+        "transaction_id": "MzQ4NjcyNTUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDX1A9U8",
+        "transaction_id": "MzQ1NjE2NzI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDI3U25D",
+        "transaction_id": "MzQ0NzYxNzczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCX8L0KR",
+        "transaction_id": "MzQxMTYwMzg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC7MYUSZ",
+        "transaction_id": "MzM4NjEyODkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXUA3TK",
+        "transaction_id": "MzM3MDA1OTQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-20",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XBXRHV5H",
+        "transaction_id": "MzM2OTg2OTAxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBIQ0JVE",
+        "transaction_id": "MzM2MTgwMjcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XBGUSP6Z",
+        "transaction_id": "MzM1ODU1Nzg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-11-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBGUSMSJ",
+        "transaction_id": "MzM1ODU1NzMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXX6RLS",
+        "transaction_id": "MzMyOTkwMTMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-10-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAEF14QH",
+        "transaction_id": "MzMxNTk1NDQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-03",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAA46G9V",
+        "transaction_id": "MzMwOTU3ODI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9YWG9S8",
+        "transaction_id": "MzI5MjI0OTg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-03",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9H2BIC1",
+        "transaction_id": "MzI4MjM2NDM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-07-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X99ZN4G2",
+        "transaction_id": "MzI3MzgwNDM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-07-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X99ZN2N7",
+        "transaction_id": "MzI3MzgwMzc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-07-24",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X99ZN12Z",
+        "transaction_id": "MzI3MzgwMzI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-06-12",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 8,
+        "barcode": "A96QSFEB",
+        "transaction_id": "MzI2Njk5MTY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-06-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTk2UVNGRUphZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 15,
+        "barcode": "X96ISRIA",
+        "transaction_id": "MzI2NjU3NzY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Z5X07K",
+        "transaction_id": "MzI1NzYyOTk5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8JAHMYO",
+        "transaction_id": "MzI1MDc1ODQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7ZK4I74",
+        "transaction_id": "MzIyNzE5OTU5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-15",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7ISTT6Y",
+        "transaction_id": "MzIxOTUzMTY1N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 73,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 39
+  },
+  "enrichment": {
+    "website": "https://Bluetel.co.uk",
+    "headcount": 39,
+    "tech_stack": [
+      "Salesforce",
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud",
+      "Terraform",
+      "React JS",
+      "Fastly",
+      "Zuora",
+      "Node.js",
+      "Go",
+      "TypeScript",
+      "Python",
+      "Contentful",
+      "Snowflake"
+    ],
+    "business_keywords": [
+      "AWS partner",
+      "Salesforce partner",
+      "tech consultancy",
+      "cloud technologies",
+      "platform engineering",
+      "digital infrastructure",
+      "technical consultancy",
+      "software engineering",
+      "cloud implementation",
+      "customer experience transformation",
+      "enterprise solutions",
+      "digital builds",
+      "audience engagement",
+      "growth",
+      "innovation"
+    ],
+    "services": [
+      "Salesforce engineering",
+      "Software engineering",
+      "Cloud implementation",
+      "Technical consultancy",
+      "Platform engineering",
+      "Digital infrastructure design and support",
+      "Customised digital builds",
+      "Enterprise cloud solutions"
+    ],
+    "customer_segments": [
+      "modern enterprises",
+      "businesses seeking growth",
+      "businesses needing high-performance infrastructure"
+    ],
+    "business_description": "Bluetel Solutions Limited is an engineering-led tech consultancy and AWS and Salesforce partner based in Birmingham. They deliver expert-led solutions, including platform engineering, cloud implementation, and technical consultancy, to transform customer experience, boost business performance, and support enterprise growth through high-performance digital infrastructure.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T02:45:18.796Z"
+  },
+  "scraped_at": "2026-01-10T02:45:12.035Z",
+  "updated_at": "2026-01-10T02:45:18.796Z",
+  "version": 1
+}

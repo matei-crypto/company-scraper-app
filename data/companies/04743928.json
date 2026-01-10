@@ -1,0 +1,531 @@
+{
+  "company_name": "DISTINCT IT LIMITED",
+  "company_number": "04743928",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-04-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 32 Phoenix Business Park, Telford Street, Newport, South Wales, NP19 0LW",
+  "registered_address_structured": {
+    "address_line_1": "Unit 32 Phoenix Business Park",
+    "address_line_2": "Telford Street",
+    "locality": "Newport",
+    "postal_code": "NP19 0LW",
+    "region": "South Wales"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TECHTRONIK COMPUTER CENTRE LIMITED",
+      "ceased_on": "2003-08-18",
+      "effective_from": "2003-04-24"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-08",
+    "last_made_up_to": "2025-04-24",
+    "next_made_up_to": "2026-04-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HARDING, Peter",
+        "officer_role": "director",
+        "appointed_on": "2021-07-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Phoenix Business Park",
+          "address_line_2": "Telford Street",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 32",
+          "region": "South Wales"
+        }
+      },
+      {
+        "name": "TILLEY, Billy John",
+        "officer_role": "director",
+        "appointed_on": "2003-09-20",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Phoenix Business Park",
+          "address_line_2": "Telford Street",
+          "country": "United Kingdom",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 32",
+          "region": "South Wales"
+        }
+      },
+      {
+        "name": "EDDOLLS, Rhian",
+        "officer_role": "director",
+        "appointed_on": "2003-04-24",
+        "resigned_on": "2003-09-20",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "42 Orchard Street",
+          "locality": "Newport",
+          "postal_code": "NP19 7DL",
+          "region": "Gwent"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "TILLEY, Rhian",
+        "officer_role": "secretary",
+        "appointed_on": "2003-09-20",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Phoenix Business Park",
+          "address_line_2": "Telford Street",
+          "country": "United Kingdom",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 32",
+          "region": "South Wales"
+        }
+      },
+      {
+        "name": "TILLY, Roger William",
+        "officer_role": "secretary",
+        "appointed_on": "2003-04-24",
+        "resigned_on": "2003-09-20",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "24 Worcester Crescent",
+          "locality": "Newport",
+          "postal_code": "NP19 7NF",
+          "region": "Gwent"
+        }
+      },
+      {
+        "name": "SWIFT INCORPORATIONS LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2003-04-24",
+        "resigned_on": "2003-04-24",
+        "address": {
+          "address_line_1": "Church Street",
+          "locality": "London",
+          "postal_code": "NW8 8EP",
+          "premises": "26"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Hardings Holding Company Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2023-05-31",
+        "address": {
+          "address_line_1": "Phoenix Business Park",
+          "address_line_2": "Telford Street",
+          "country": "United Kingdom",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 31"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "14404852"
+        }
+      },
+      {
+        "name": "Tilley's Holding Company Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2022-05-30",
+        "address": {
+          "address_line_1": "Telford Street",
+          "country": "Wales",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 31 Phoenix Business Park"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "14136770"
+        }
+      },
+      {
+        "name": "Mr Billy John Tilley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2017-04-23",
+        "ceased_on": "2022-05-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Phoenix Business Park",
+          "address_line_2": "Telford Street",
+          "country": "United Kingdom",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 32",
+          "region": "South Wales"
+        }
+      },
+      {
+        "name": "Mrs Rhian Elizabeth Tilley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-04-23",
+        "ceased_on": "2022-05-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Phoenix Business Park",
+          "address_line_2": "Telford Street",
+          "country": "United Kingdom",
+          "locality": "Newport",
+          "postal_code": "NP19 0LW",
+          "premises": "Unit 32",
+          "region": "South Wales"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEG4CROQ",
+        "transaction_id": "MzQ5MTA4NjMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1NNDTU",
+        "transaction_id": "MzQ2NDgwMjQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDFXC8MW",
+        "transaction_id": "MzQ0MzU1NTM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD1RM8D7",
+        "transaction_id": "MzQxOTcxODYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-25",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD1RM72H",
+        "transaction_id": "MzQxOTcxODI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD1RM242",
+        "transaction_id": "MzQxOTcxNzA3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCBKZ2IG",
+        "transaction_id": "MzM5MjIxMTk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC26VQKY",
+        "transaction_id": "MzM3NzQ5MDk2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-25",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XC26VOL4",
+        "transaction_id": "MzM3NzQ5MDQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-25",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC26VOB6",
+        "transaction_id": "MzM3NzQ5MDQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-25",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC26VO5U",
+        "transaction_id": "MzM3NzQ5MDM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBDHVLGR",
+        "transaction_id": "MzM1MzM4ODQ0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB2UV6YG",
+        "transaction_id": "MzMzNzcwOTUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA842JFD",
+        "transaction_id": "MzMwNjcxMTk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-02",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA7W7KRM",
+        "transaction_id": "MzMwNjUzMjQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-07-01",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XA7THXAY",
+        "transaction_id": "MzMwNjQyNDczMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3BDP96",
+        "transaction_id": "MzI5OTA1NjU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-08",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X98TJPXT",
+        "transaction_id": "MzI3MjY3Mzc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94B8PWX",
+        "transaction_id": "MzI2Mzg0OTY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X892I46P",
+        "transaction_id": "MzIzODY5OTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X844TWYI",
+        "transaction_id": "MzIzMjgzNDA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X7I5LBJC",
+        "transaction_id": "MzIxODc5MTM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X74NVB5K",
+        "transaction_id": "MzIwMzU1NzU5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X6DBT6SO",
+        "transaction_id": "MzE4MzQ0MzYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X650VQU0",
+        "transaction_id": "MzE3NDE2ODc5N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Distinctit.co.uk",
+    "headcount": 11,
+    "tech_stack": [
+      "Teamviewer",
+      "Microsoft 365"
+    ],
+    "business_keywords": [
+      "IT support",
+      "IT company",
+      "professional IT service",
+      "remote support",
+      "business IT support",
+      "email hosting",
+      "server support",
+      "desktop support",
+      "networking",
+      "backup solutions",
+      "antivirus",
+      "security",
+      "remote access",
+      "GDPR",
+      "Cyber Essentials",
+      "cloud backup",
+      "antispam"
+    ],
+    "services": [
+      "Business IT Support",
+      "Email, Hosting & 365",
+      "Server Support",
+      "Desktop Support",
+      "Networking",
+      "Backup Solutions",
+      "Antivirus & Security",
+      "Remote Support",
+      "GDPR & Cyber Essentials",
+      "AntiSpam service",
+      "Quick Support"
+    ],
+    "customer_segments": [
+      "SMEs",
+      "Blue Chip companies",
+      "remote teams",
+      "businesses in South Wales"
+    ],
+    "business_description": "Distinct IT Limited is a South Wales-based professional IT company providing business IT support, remote assistance, and specialized services such as email hosting, server and desktop support, networking, backup solutions, antivirus, security, and GDPR compliance. They offer quick support and antispam services to businesses, including SMEs and remote teams.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 29,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T00:48:54.343Z"
+  },
+  "scraped_at": "2026-01-10T00:48:47.073Z",
+  "updated_at": "2026-01-10T00:48:54.343Z",
+  "version": 1
+}

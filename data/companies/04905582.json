@@ -1,0 +1,423 @@
+{
+  "company_name": "KEEPTHINKING LIMITED",
+  "company_number": "04905582",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-09-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Kenley Road, London, SW19 3JQ, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Kenley Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW19 3JQ"
+  },
+  "sic_codes": [
+    "62020",
+    "63110",
+    "63120"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-14",
+    "last_made_up_to": "2025-08-31",
+    "next_made_up_to": "2026-08-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BIANCHI, Cristiano",
+        "officer_role": "director",
+        "appointed_on": "2003-09-19",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kenley Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW19 3JQ",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BIANCHI, Marina",
+        "officer_role": "secretary",
+        "appointed_on": "2003-09-19",
+        "resigned_on": "2016-01-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Arodene Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW2 2BH",
+          "premises": "74"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Cristiano Bianchi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kenley Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW19 3JQ",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2009-12-21",
+        "delivered_on": "2010-01-05",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All the rent deposit in respect of the property k/a third floor, 43 clerkenwell road, london being £4,623.63."
+        },
+        "persons_entitled": [
+          {
+            "name": "Gms Estates Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£4,623.63 due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEI1QX7E",
+        "transaction_id": "MzQ5NjAwMjc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAVW4WX",
+        "transaction_id": "MzQ4MDU0MzI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDINCRKB",
+        "transaction_id": "MzQ0ODg4MDgxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDANVAPC",
+        "transaction_id": "MzQzNDA2Njg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCIV9RG1",
+        "transaction_id": "MzQwNTIzNTEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBCWRWQ",
+        "transaction_id": "MzM5MTc2MjYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC0ENMKK",
+        "transaction_id": "MzM3NDcyMTExOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBK6J60",
+        "transaction_id": "MzM1MDMwMzY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB0XA4FC",
+        "transaction_id": "MzMzNDg0Mzg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAC3XX7M",
+        "transaction_id": "MzMxMjQ2NTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA8MRW94",
+        "transaction_id": "MzMwNzUxODA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA8MQS41",
+        "transaction_id": "MzMwNzUxMTUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA1GH4I1",
+        "transaction_id": "MzI5NjU1NjU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CRS8PC",
+        "transaction_id": "MzI3NjczMTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KXHHPU",
+        "transaction_id": "MzI1Mjk0MDg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8EPHS2X",
+        "transaction_id": "MzI0NTAwMzkyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-09-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8EMWCA2",
+        "transaction_id": "MzI0NDkxMjA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8429GNV",
+        "transaction_id": "MzIzMjczOTIzNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2019-03-27",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzIzMDM1MjI0M2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2019-03-05",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzIyNzc5NTMxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7J3TRWA",
+        "transaction_id": "MzIxOTc5OTQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-25",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7F7EOTM",
+        "transaction_id": "MzIxNTM4Mzc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X70T1LX7",
+        "transaction_id": "MzE5OTA5MTUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-01-05",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X6X0H0VD",
+        "transaction_id": "MzE5NDU3NDgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6JCZ3T4",
+        "transaction_id": "MzE5MDQ0ODM3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 57,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Keepthinking.it",
+    "headcount": 12,
+    "tech_stack": [
+      "Qi Collections Management"
+    ],
+    "business_keywords": [
+      "content management software",
+      "collection management software",
+      "digital design",
+      "web applications",
+      "mobile applications",
+      "interfaces",
+      "usability",
+      "accessibility",
+      "arts",
+      "culture",
+      "heritage",
+      "Qi Collections Management",
+      "Art UK Tagger",
+      "CMS",
+      "information architecture",
+      "UX/UI",
+      "art direction",
+      "development",
+      "data migration"
+    ],
+    "services": [
+      "content and collection management software solutions",
+      "design and development of web and mobile applications",
+      "interface design",
+      "technology development",
+      "usability and accessibility services",
+      "collections management system customisation",
+      "tagging platform development",
+      "digital archive modelling",
+      "information architecture",
+      "wireframes (UX/UI) design",
+      "art direction",
+      "development",
+      "data migration",
+      "website design and development"
+    ],
+    "customer_segments": [
+      "arts organizations",
+      "culture organizations",
+      "heritage organizations",
+      "museums",
+      "archives",
+      "brands with historical collections"
+    ],
+    "business_description": "Keepthinking is a software and design agency specializing in innovative content and collection management software solutions, as well as the design and development of web and mobile applications. They focus on creating beautiful interfaces combined with solid technology, strong usability, and accessibility for arts, culture, and heritage organizations.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T01:16:14.736Z"
+  },
+  "scraped_at": "2026-01-10T01:16:07.705Z",
+  "updated_at": "2026-01-10T01:16:14.736Z",
+  "version": 1
+}

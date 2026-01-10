@@ -1,0 +1,494 @@
+{
+  "company_name": "NCCT LIMITED",
+  "company_number": "05495459",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-06-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "First Floor Windmill House, 127-128 Windmill Street, Gravesend, Kent, DA12 1BL, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "First Floor Windmill House",
+    "address_line_2": "127-128 Windmill Street",
+    "country": "United Kingdom",
+    "locality": "Gravesend",
+    "postal_code": "DA12 1BL",
+    "region": "Kent"
+  },
+  "sic_codes": [
+    "43210",
+    "62090",
+    "82990"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-29",
+    "next_accounts_period_end_on": "2025-06-29",
+    "next_accounts_period_start_on": "2024-06-30",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-29",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-02",
+    "last_made_up_to": "2025-09-18",
+    "next_made_up_to": "2026-09-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MORRIS, Gareth",
+        "officer_role": "director",
+        "appointed_on": "2024-06-14",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Windmill House",
+          "address_line_2": "127-128 Windmill Street",
+          "country": "United Kingdom",
+          "locality": "Gravesend",
+          "postal_code": "DA12 1BL",
+          "premises": "First Floor",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "TIMLIN, Kevin",
+        "officer_role": "director",
+        "appointed_on": "2020-07-15",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Eleanor Walk",
+          "country": "England",
+          "locality": "Greenhithe",
+          "postal_code": "DA9 9FZ",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "MORRIS, Gareth",
+        "officer_role": "director",
+        "appointed_on": "2023-02-06",
+        "resigned_on": "2023-06-23",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Windmill Street",
+          "country": "United Kingdom",
+          "locality": "Gravesend",
+          "postal_code": "DA12 1BB",
+          "premises": "57",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "TIMLIN, Kevin",
+        "officer_role": "director",
+        "appointed_on": "2005-06-30",
+        "resigned_on": "2020-07-15",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Eleanor Walk",
+          "locality": "Greenhithe",
+          "postal_code": "DA9 9FZ",
+          "premises": "3",
+          "region": "Kent"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "TIMLIN, Nora",
+        "officer_role": "secretary",
+        "appointed_on": "2005-06-30",
+        "nationality": "Irish",
+        "address": {
+          "address_line_1": "52 Junper House",
+          "address_line_2": "Pomeroy Street",
+          "locality": "London",
+          "postal_code": "SE14 5BY"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Kevin Timlin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-10-19",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Windmill House",
+          "address_line_2": "127-128 Windmill Street",
+          "country": "United Kingdom",
+          "locality": "Gravesend",
+          "postal_code": "DA12 1BL",
+          "premises": "First Floor",
+          "region": "Kent"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "054954590002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-21",
+        "delivered_on": "2025-07-25",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "054954590001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-11-12",
+        "delivered_on": "2015-11-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2023-08-24",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEBCE4L5",
+        "transaction_id": "MzQ4MTc1MTE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-25",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XE7IOVZD",
+        "transaction_id": "MzQ3NTIwMTc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE7CWEKZ",
+        "transaction_id": "MzQ3NDY2MjkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-07-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE7CWD8P",
+        "transaction_id": "MzQ3NDY2MjYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE7CWCWJ",
+        "transaction_id": "MzQ3NDY2MjU2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE1NOTW1",
+        "transaction_id": "MzQ2NDgxNDYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDESPKSB",
+        "transaction_id": "MzQ0MTQ0MDY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD5A3LYR",
+        "transaction_id": "MzQyNTQyNDM2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD2QSTBK",
+        "transaction_id": "MzQyMTE2OTQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCEVOFAJ",
+        "transaction_id": "MzM5NzgxNDI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCAM66V4",
+        "transaction_id": "MzM5MDY2NTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC6AJ2J6",
+        "transaction_id": "MzM4Mzk5OTMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC5MAQNL",
+        "transaction_id": "MzM4Mjc0NzA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-31",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC0HCPRF",
+        "transaction_id": "MzM3NDgyODgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBWSRV6A",
+        "transaction_id": "MzM2ODMzNDQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBHZE9II",
+        "transaction_id": "MzM2MDczMTQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XB0XARL7",
+        "transaction_id": "MzMzNDg1MzE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAH3RFX5",
+        "transaction_id": "MzMyMDA3MTk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA7QT8A1",
+        "transaction_id": "MzMwNjI5NTIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9G0X85F",
+        "transaction_id": "MzI4MDk3NTg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X99OXO8O",
+        "transaction_id": "MzI3MzQxNDk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-07-15",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X99BXNAZ",
+        "transaction_id": "MzI3MzE1NDE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X91W7821",
+        "transaction_id": "MzI2MTIwOTg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-10-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8GPEVP4",
+        "transaction_id": "MzI0NzQ0OTI1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8GPEVW1",
+        "transaction_id": "MzI0NzQ0OTIzOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 58,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Ncct.co.uk",
+    "headcount": 13,
+    "tech_stack": [],
+    "business_keywords": [
+      "multi-disciplined specialist contractor",
+      "infrastructure specialist",
+      "collaborative delivery solutions",
+      "electrical",
+      "HV",
+      "LV",
+      "mechanical",
+      "telecommunications",
+      "civils",
+      "building services",
+      "engineering",
+      "construction",
+      "project delivery",
+      "sustainability",
+      "facilities management"
+    ],
+    "services": [
+      "Electrical (HV & LV)",
+      "Mechanical",
+      "Telecommunications",
+      "Civils works",
+      "M&E Fit Out",
+      "Facilities Management",
+      "Refurbishment",
+      "Training facility formation"
+    ],
+    "customer_segments": [
+      "public sector",
+      "private sector",
+      "Crossrail",
+      "Network Rail",
+      "E20 LLP"
+    ],
+    "business_description": "NCCT is a multi-disciplined specialist contractor providing fully integrated delivery solutions for electrical (HV & LV), mechanical, telecommunications, and civils projects across the building and infrastructure sectors. The company serves both public and private sectors, focusing on collaborative project-based delivery and sustainability.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T03:07:57.374Z"
+  },
+  "scraped_at": "2026-01-10T03:07:51.752Z",
+  "updated_at": "2026-01-10T03:07:57.373Z",
+  "version": 1
+}

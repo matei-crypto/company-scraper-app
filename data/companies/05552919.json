@@ -1,0 +1,396 @@
+{
+  "company_name": "ENLIGHTENING TECHNOLOGIES LIMITED",
+  "company_number": "05552919",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-09-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Windsor Marina, Maidenhead Road, Windsor, Berkshire, SL4 5TZ",
+  "registered_address_structured": {
+    "address_line_1": "Windsor Marina",
+    "address_line_2": "Maidenhead Road",
+    "locality": "Windsor",
+    "postal_code": "SL4 5TZ",
+    "region": "Berkshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-16",
+    "last_made_up_to": "2025-09-02",
+    "next_made_up_to": "2026-09-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SCOTT, Simon Andrew",
+        "officer_role": "director",
+        "appointed_on": "2005-09-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Maidenhead Road",
+          "locality": "Windsor",
+          "postal_code": "SL4 5TZ",
+          "premises": "Windsor Marina",
+          "region": "Berkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "FIGGINS, Paul",
+        "officer_role": "secretary",
+        "appointed_on": "2005-09-02",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Flat D2",
+          "address_line_2": "Calthorpe Mansions, Calthorpe Road",
+          "locality": "Birmingham",
+          "postal_code": "B15 1QS"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Director Simon Andrew Scott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Maidenhead Road",
+          "locality": "Windsor",
+          "postal_code": "SL4 5TZ",
+          "premises": "Windsor Marina",
+          "region": "Berkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2013-03-25",
+        "delivered_on": "2013-03-27",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Interest in the account and the deposit balance from time to time and all money from time to time withdrawn from the account as security for the performance of the obligations under a lease. The account means a separate designated interest earning account see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Marina Developments Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2011-07-25",
+        "delivered_on": "2011-08-09",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Account means a separate designated interest earning account, deposit balance means the amount from time to time standing to the credit of the account see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Marina Developments Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAFZ9N5",
+        "transaction_id": "MzQ3OTk3MTYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-06",
+        "description": "accounts-amended-with-made-up-date",
+        "type": "AAMD",
+        "pages": 18,
+        "barcode": "AE81BAG9",
+        "transaction_id": "MzQ3NjIxMzUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE5S3JIB",
+        "transaction_id": "MzQ3MTkzMjY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDBUUHIY",
+        "transaction_id": "MzQzNjIyMjYyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDB1LQEG",
+        "transaction_id": "MzQzNDc5ODIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDOLO3S",
+        "transaction_id": "MzM5NTY1MDgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC6QX3S2",
+        "transaction_id": "MzM4NDg0OTA0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBXKH54",
+        "transaction_id": "MzM1MDgxMzM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB79DEEB",
+        "transaction_id": "MzM0NDMyMzQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAC6PZ4Q",
+        "transaction_id": "MzMxMjY0NDE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA7QKPOJ",
+        "transaction_id": "MzMwNjIzMTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DNO17N",
+        "transaction_id": "MzI3NzcxMzI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X98AMWQ9",
+        "transaction_id": "MzI3MTk4NzM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8D8T8R4",
+        "transaction_id": "MzI0MzM0Mzg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X88JRUEX",
+        "transaction_id": "MzIzODA2MzQyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7FQSDKP",
+        "transaction_id": "MzIxNTk5NDAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7DQIBGP",
+        "transaction_id": "MzIxMzU1NTI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X78ZPO4R",
+        "transaction_id": "MzIwODQwNTE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6EQMTEH",
+        "transaction_id": "MzE4NTEwNjU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X69M8C2G",
+        "transaction_id": "MzE3OTMzNDcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-09-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5FFPYLD",
+        "transaction_id": "MzE1NzI3MTIxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-16",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X599FDKR",
+        "transaction_id": "MzE1MDg4NzMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-09-28",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X4GVRK14",
+        "transaction_id": "MzEzMTg4MzEwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X4ALAT35",
+        "transaction_id": "MzEyNjA1NDY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-09-04",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X3FPMKOI",
+        "transaction_id": "MzEwNjkxMTM5M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 51,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "headcount": 14,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T03:18:21.842Z",
+  "scraped_at": "2026-01-10T03:18:21.842Z"
+}

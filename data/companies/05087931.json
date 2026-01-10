@@ -1,0 +1,628 @@
+{
+  "company_name": "GROQ UK LIMITED",
+  "company_number": "05087931",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2004-03-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "3 Hammersmith Grove, London, W6 0ND, England",
+  "registered_address_structured": {
+    "address_line_1": "3 Hammersmith Grove",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W6 0ND"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MAXELER TECHNOLOGIES LIMITED",
+      "ceased_on": "2025-06-12",
+      "effective_from": "2004-03-30"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-04",
+    "last_made_up_to": "2025-03-21",
+    "next_made_up_to": "2026-03-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MADRA, Sundeep Singh",
+        "officer_role": "director",
+        "appointed_on": "2024-12-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1977,
+        "nationality": "Canadian",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Hammersmith Grove",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0ND",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "LUSSATO, Pierre",
+        "officer_role": "director",
+        "appointed_on": "2015-04-24",
+        "resigned_on": "2019-07-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1975,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Albion Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0QT",
+          "premises": "3 & 4"
+        }
+      },
+      {
+        "name": "MENCER, Oskar, Dr",
+        "officer_role": "director",
+        "appointed_on": "2004-03-30",
+        "resigned_on": "2022-03-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1971,
+        "nationality": "Austrian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hammersmith Grove",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0ND",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "ROSENBERG, Glenn",
+        "officer_role": "director",
+        "appointed_on": "2010-03-17",
+        "resigned_on": "2015-04-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Down Place",
+          "address_line_2": "Hammersmith",
+          "locality": "London",
+          "postal_code": "W6 9JH",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "TACHNER, Adam Henry",
+        "officer_role": "director",
+        "appointed_on": "2022-04-01",
+        "resigned_on": "2024-12-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1966,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Hammersmith Grove",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0ND",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "COMPANY DIRECTORS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2004-03-30",
+        "resigned_on": "2004-03-30",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MENCER, Katalin",
+        "officer_role": "secretary",
+        "appointed_on": "2004-03-30",
+        "resigned_on": "2010-03-17",
+        "nationality": "Austrian",
+        "address": {
+          "address_line_1": ", Sheldrake Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W8 7QS",
+          "premises": "11"
+        }
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2004-03-30",
+        "resigned_on": "2004-03-30",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Sundeep Singh Madra",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2024-12-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1977,
+        "nationality": "Canadian",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Hammersmith Grove",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0ND",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "Mr Adam Henry Tachner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm"
+        ],
+        "notified_on": "2022-04-01",
+        "ceased_on": "2024-12-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1966,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Hammersmith Grove",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0ND",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "Dr Oskar Mencer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2022-03-31",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1971,
+        "nationality": "Austrian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hammersmith Grove",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W6 0ND",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "050879310004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-09-17",
+        "delivered_on": "2013-09-19",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_fixed_charge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-02-08",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "050879310003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-05-10",
+        "delivered_on": "2013-05-16",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_fixed_charge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-02-08",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-09-07",
+        "delivered_on": "2011-09-09",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-07-30",
+        "delivered_on": "2010-08-03",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2011-06-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEC3LS4P",
+        "transaction_id": "MzQ4MzA1NzQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-06-12",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE4KY97U",
+        "transaction_id": "MzQ2OTg1NzMwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZGWZ0H",
+        "transaction_id": "MzQ2MDg0ODE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDU680L4",
+        "transaction_id": "MzQ1MDcxMDI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDU67XFC",
+        "transaction_id": "MzQ1MDcwOTQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-08",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDTT22CX",
+        "transaction_id": "MzQ1MDMzNzcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-08",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDTT1SQX",
+        "transaction_id": "MzQ1MDMzNTE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDCR82JU",
+        "transaction_id": "MzQzNzY3MzE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD0C732Q",
+        "transaction_id": "MzQxNzE3NDI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XCCXCKH5",
+        "transaction_id": "MzM5NDU5NTcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0PJRXN",
+        "transaction_id": "MzM3NTE0NTQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBEBG9LK",
+        "transaction_id": "MzM1NDU1OTE4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB70ZLT5",
+        "transaction_id": "MzM0MzgyNDEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-13",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB61SB57",
+        "transaction_id": "MzM0MjI3ODIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB17YJ0H",
+        "transaction_id": "MzMzNTE3NjI1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-04-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB106G54",
+        "transaction_id": "MzMzNTAyNzEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB106FJ7",
+        "transaction_id": "MzMzNTAyNjk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-31",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB0X3XZE",
+        "transaction_id": "MzMzNDc4NTAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-08",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAXEKXXL",
+        "transaction_id": "MzMyOTIwNTE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-08",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAXEKYT4",
+        "transaction_id": "MzMyOTIwNTQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XACZZ5ZT",
+        "transaction_id": "MzMxMzc5Mjg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1J7H7N",
+        "transaction_id": "MzI5NjU5NjQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "X9BWCB74",
+        "transaction_id": "MzI3NTg4MjM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X91LMDQ9",
+        "transaction_id": "MzI2MDc3NTQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X90FBUFK",
+        "transaction_id": "MzI1OTMyNDg5MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 89,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Maxeler.com",
+    "headcount": 16,
+    "tech_stack": [
+      "Groq LPU",
+      "GroqCloud",
+      "OpenAI models"
+    ],
+    "business_keywords": [
+      "inference",
+      "LPU",
+      "AI",
+      "custom silicon",
+      "low cost inference",
+      "fast inference",
+      "GroqCloud",
+      "Groq LPU",
+      "real-time insights",
+      "low-latency responses",
+      "intelligent models",
+      "data centers",
+      "token consumption",
+      "OpenAI compatible",
+      "developer tools"
+    ],
+    "services": [
+      "fast and low cost inference",
+      "LPU-based inference solutions",
+      "GroqCloud for inference",
+      "low-latency AI model deployment",
+      "custom silicon for inference",
+      "AI infrastructure optimization",
+      "OpenAI-compatible API integration"
+    ],
+    "customer_segments": [
+      "developers",
+      "teams",
+      "enterprises requiring real-time insights",
+      "Formula 1 teams",
+      "AI-driven businesses",
+      "students (via cost-sensitive offerings)"
+    ],
+    "business_description": "Groq UK Limited provides fast, low-cost inference solutions using its custom LPU (Language Processing Unit) technology, designed specifically for AI workloads. The company offers GroqCloud, a platform for deploying intelligent models with exceptional speed and affordability at scale, and serves developers, enterprises, and teams requiring real-time AI insights.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T01:55:14.772Z"
+  },
+  "scraped_at": "2026-01-10T01:55:08.312Z",
+  "updated_at": "2026-01-10T01:55:14.772Z",
+  "version": 1
+}

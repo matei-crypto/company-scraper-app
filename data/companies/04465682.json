@@ -1,0 +1,581 @@
+{
+  "company_name": "TREKEN INFORMATION MANAGEMENT LIMITED",
+  "company_number": "04465682",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2002-06-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 3 Vista Place, Ingworth Road, Poole, BH12 1JY, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 3 Vista Place",
+    "address_line_2": "Ingworth Road",
+    "country": "England",
+    "locality": "Poole",
+    "postal_code": "BH12 1JY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-06",
+    "last_made_up_to": "2025-06-22",
+    "next_made_up_to": "2026-06-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CLULEY, Trevor Lawrence",
+        "officer_role": "director",
+        "appointed_on": "2002-06-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "551-553 Wallisdown Road",
+          "country": "United Kingdom",
+          "locality": "Poole",
+          "postal_code": "BH12 5AG",
+          "premises": "Discovery Court Business Centre",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "HODGSON, Ken Robert",
+        "officer_role": "director",
+        "appointed_on": "2002-06-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "551-553 Wallisdown Road",
+          "country": "England",
+          "locality": "Poole",
+          "postal_code": "BH12 5AG",
+          "premises": "Discovery Court",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "HANOVER DIRECTORS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2002-06-20",
+        "resigned_on": "2002-06-24",
+        "address": {
+          "address_line_1": "44 Upper Belgrave Road",
+          "locality": "Bristol",
+          "postal_code": "BS8 2XN"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CLULEY, Trevor Lawrence",
+        "officer_role": "secretary",
+        "appointed_on": "2002-06-20",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "551-553 Wallisdown Road",
+          "country": "United Kingdom",
+          "locality": "Poole",
+          "postal_code": "BH12 5AG",
+          "premises": "Discovery Court Business Centre",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "HCS SECRETARIAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2002-06-20",
+        "resigned_on": "2002-06-24",
+        "address": {
+          "address_line_1": "Upper Belgrave Road",
+          "address_line_2": "Clifton",
+          "country": "Uk",
+          "locality": "Bristol",
+          "postal_code": "BS8 2XN",
+          "premises": "44"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Treken Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2018-01-05",
+        "address": {
+          "address_line_1": "Ingworth Road",
+          "country": "England",
+          "locality": "Poole",
+          "postal_code": "BH12 1JY",
+          "premises": "Unit 3 Vista Place"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "England",
+          "place_registered": "Register Of Companies",
+          "registration_number": "11135315"
+        }
+      },
+      {
+        "name": "Mr Trevor Lawrence Cluley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-01-05",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ingworth Road",
+          "country": "England",
+          "locality": "Poole",
+          "postal_code": "BH12 1JY",
+          "premises": "Unit 3 Vista Place"
+        }
+      },
+      {
+        "name": "Mr Ken Robert Hodgson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-01-05",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ingworth Road",
+          "country": "England",
+          "locality": "Poole",
+          "postal_code": "BH12 1JY",
+          "premises": "Unit 3 Vista Place"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2011-01-18",
+        "delivered_on": "2011-01-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Key Property Investments (Number Four) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£6,593 and all other monies due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2010-04-27",
+        "delivered_on": "2010-04-28",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit. See image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Key Property Investments (Number Four) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£4,884.16 due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2005-11-04",
+        "delivered_on": "2005-11-16",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The rent deposit. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Key Property Investments (Number Four) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£3,045.60 and all other monies due or to become due"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2004-11-08",
+        "delivered_on": "2004-11-10",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£2,387.31."
+        },
+        "persons_entitled": [
+          {
+            "name": "Key Property Investments (Number Four) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 4,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEF4RCRK",
+        "transaction_id": "MzQ4ODE3MDQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE5XWQX6",
+        "transaction_id": "MzQ3MjM2NzQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDHNOJSY",
+        "transaction_id": "MzQ0Njc5Mjg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD60WB9T",
+        "transaction_id": "MzQyNjUzMjg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCZQ91F7",
+        "transaction_id": "MzQxNjEyMDkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC7HJND7",
+        "transaction_id": "MzM4NTgzMDQ4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBYANDEX",
+        "transaction_id": "MzM3MDk3MzM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB82OECQ",
+        "transaction_id": "MzM0NTM1NDgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB82O5GX",
+        "transaction_id": "MzM0NTM0OTgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAW1ZK2A",
+        "transaction_id": "MzMyNzA4Mzk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA86TZZ4",
+        "transaction_id": "MzMwNjg0MzIxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9KHJZNN",
+        "transaction_id": "MzI4Njc4MzcwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X97UH3ZS",
+        "transaction_id": "MzI2ODAwOTgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8G1QXN5",
+        "transaction_id": "MzI0Njc1NjcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X88ROD28",
+        "transaction_id": "MzIzODIzOTUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7YE2KX7",
+        "transaction_id": "MzIyNjAyMzUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X79LZPAY",
+        "transaction_id": "MzIwOTE3MzE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-06-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X791M1UY",
+        "transaction_id": "MzIwODUxMDY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-06-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X791LV6Z",
+        "transaction_id": "MzIwODUxMDQzMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-06-28",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X791LV4O",
+        "transaction_id": "MzIwODUxMDQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X721Z3K8",
+        "transaction_id": "MzIwMDMyOTkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X69P41E2",
+        "transaction_id": "MzE3OTM3MDM4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-06-30",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X69P2Y2J",
+        "transaction_id": "MzE3OTM2NzM5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-06-30",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X69P2S7E",
+        "transaction_id": "MzE3OTM2NzMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-04-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X63SL51L",
+        "transaction_id": "MzE3Mjk3MTM0OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 72,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Treken.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "Microsoft 365",
+      "Microsoft (Small & Midmarket Cloud Solutions competency)",
+      "3CX IP-PBX telephony platform",
+      "3CX"
+    ],
+    "business_keywords": [
+      "IT support",
+      "Microsoft 365",
+      "Broadband",
+      "VOIP Systems",
+      "WiFi",
+      "Networking Solutions",
+      "Managed Service Provider",
+      "IT services",
+      "Cloud solutions",
+      "Hybrid solutions",
+      "Cyber security",
+      "Data protection",
+      "Server solutions",
+      "Server migration",
+      "Network installations",
+      "3CX"
+    ],
+    "services": [
+      "IT support",
+      "Microsoft 365 services (supply, implementation, and support)",
+      "VoIP solutions",
+      "Broadband solutions",
+      "Server solutions",
+      "Server migration",
+      "WiFi and Networking services (including network points installation and complete network installations)",
+      "Cloud solutions",
+      "Hybrid solutions",
+      "Cyber security services",
+      "Data protection services"
+    ],
+    "customer_segments": [
+      "Businesses in Dorset",
+      "Businesses in Hampshire",
+      "Small businesses",
+      "Midmarket businesses"
+    ],
+    "business_description": "Treken is a leading IT support and managed service provider specializing in Microsoft 365, broadband, VoIP systems, WiFi, and networking solutions for businesses in Dorset and Hampshire. With over 20 years of experience, the company delivers tailored IT solutions, including cloud and hybrid services, cyber security, and data protection, ensuring seamless integration and optimal performance.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 24,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-09T23:50:59.648Z"
+  },
+  "scraped_at": "2026-01-09T23:50:51.456Z",
+  "updated_at": "2026-01-09T23:50:59.648Z",
+  "version": 1
+}

@@ -1,0 +1,593 @@
+{
+  "company_name": "HUUMUN LTD",
+  "company_number": "04548862",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2002-09-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "1 Parkshot, Richmond, Surrey, TW9 2RD, England",
+  "registered_address_structured": {
+    "address_line_1": "1 Parkshot",
+    "country": "England",
+    "locality": "Richmond",
+    "postal_code": "TW9 2RD",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "PHARMIWEB 2002 LIMITED",
+      "ceased_on": "2021-06-25",
+      "effective_from": "2002-09-30"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-14",
+    "last_made_up_to": "2025-09-30",
+    "next_made_up_to": "2026-09-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AHMED, Alison Crombie",
+        "officer_role": "director",
+        "appointed_on": "2015-10-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Richmond",
+          "postal_code": "TW9 2RD",
+          "premises": "1 Parkshot",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "HARTIGAN, Paul Anthony",
+        "officer_role": "director",
+        "appointed_on": "2003-05-31",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Richmond",
+          "postal_code": "TW9 2RD",
+          "premises": "1 Parkshot",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "WOOD, Tim James",
+        "officer_role": "director",
+        "appointed_on": "2021-09-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "England",
+          "locality": "Richmond",
+          "postal_code": "TW9 2RD",
+          "premises": "1 Parkshot",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "AHMED, Shakeel",
+        "officer_role": "director",
+        "appointed_on": "2002-09-30",
+        "resigned_on": "2015-09-30",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "10 Burnmoor Meadows",
+          "address_line_2": "Finchampstead",
+          "locality": "Wokingham",
+          "postal_code": "RG40 3TX",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "WAYNE, Yvonne",
+        "officer_role": "nominee-director",
+        "appointed_on": "2002-09-30",
+        "resigned_on": "2002-09-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Burlington House",
+          "address_line_2": "40 Burlington Rise",
+          "locality": "East Barnet",
+          "postal_code": "EN4 8NN",
+          "region": "Hertfordshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HARTIGAN, Paul Anthony",
+        "officer_role": "secretary",
+        "appointed_on": "2003-05-31",
+        "nationality": "British",
+        "address": {
+          "country": "England",
+          "locality": "Richmond",
+          "postal_code": "TW9 2RD",
+          "premises": "1 Parkshot",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "FARRELL, Geoffrey Richard",
+        "officer_role": "secretary",
+        "appointed_on": "2002-09-30",
+        "resigned_on": "2003-05-31",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "85 Farm Road",
+          "locality": "Maidenhead",
+          "postal_code": "SL6 5JQ",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "WAYNE, Harold",
+        "officer_role": "nominee-secretary",
+        "appointed_on": "2002-09-30",
+        "resigned_on": "2002-09-30",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Burlington House",
+          "address_line_2": "40 Burlington Rise",
+          "locality": "East Barnet",
+          "postal_code": "EN4 8NN",
+          "region": "Hertfordshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Huumun Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Eastern Road",
+          "country": "England",
+          "locality": "Bracknell",
+          "postal_code": "RG12 2UP",
+          "premises": "1st Floor, Radius Court"
+        },
+        "identification": {
+          "legal_form": "Uk",
+          "legal_authority": "Uk",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "09523301"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "045488620004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-09-30",
+        "delivered_on": "2024-10-01",
+        "particulars": {
+          "type": "brief-description",
+          "description": "See the deed for further details.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Arbuthnot Commercial Asset Based Lending Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "045488620003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-08-07",
+        "delivered_on": "2019-08-13",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "IL2(2018)"
+          }
+        ],
+        "satisfied_on": "2024-07-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "045488620002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-06-26",
+        "delivered_on": "2017-07-04",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-09-24",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2003-09-05",
+        "delivered_on": "2003-09-17",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2016-08-16",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEERF58R",
+        "transaction_id": "MzQ4NzcyMTYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEE50FM0",
+        "transaction_id": "MzQ4NjUyNTYzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE2MPL3T",
+        "transaction_id": "MzQ2NjYwNzA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-01-21",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 31,
+        "barcode": "YDUPBQ9C",
+        "transaction_id": "MzQ1MjA2MzA5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDEPOQMZ",
+        "transaction_id": "MzQ0MTEyNDI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-10-01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 48,
+        "barcode": "XDCUE9DT",
+        "transaction_id": "MzQzNzk3Mjg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDCRJGMQ",
+        "transaction_id": "MzQzNzc2NzcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD7393U9",
+        "transaction_id": "MzQyODQzODMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCEYE180",
+        "transaction_id": "MzM5Nzk2NDU2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCC15Y8H",
+        "transaction_id": "MzM5MzA0NDAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBFYTYRS",
+        "transaction_id": "MzM1NzQxOTQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBB1QNJN",
+        "transaction_id": "MzM0OTY3MzcyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XAKGD8K8",
+        "transaction_id": "MzMyNTIyODAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFZGTKX",
+        "transaction_id": "MzMxODMzNTY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-10-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAFJAYNC",
+        "transaction_id": "MzMxNzU5MjcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-10-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAEHT0LE",
+        "transaction_id": "MzMxNjA5MDk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-06-25",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "XA7A970W",
+        "transaction_id": "MzMwNTYyODY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9X9P8PS",
+        "transaction_id": "MzI5MDEwMjY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9K6TX74",
+        "transaction_id": "MzI4NjQxNTUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-13",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "L8YL4GK0",
+        "transaction_id": "MzI1NzA1NzkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8W2GQ83",
+        "transaction_id": "MzI1MzgwODMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-09-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X8EPKE1F",
+        "transaction_id": "MzI0NTAyODgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-08-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 25,
+        "barcode": "A8BRS4DD",
+        "transaction_id": "MzI0MjA5MTM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7IAUEVF",
+        "transaction_id": "MzIxODk2ODY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "A7FF7X3D",
+        "transaction_id": "MzIxNjAxMjY5OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 78,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 39
+  },
+  "enrichment": {
+    "website": "https://Pharmiweb.com",
+    "headcount": 39,
+    "tech_stack": [],
+    "business_keywords": [
+      "pharma news",
+      "biotech",
+      "clinical research",
+      "life sciences",
+      "healthcare",
+      "pharma events listings",
+      "pharma company directory",
+      "pharma jobs",
+      "antiviral",
+      "infectious disease",
+      "drug development",
+      "respiratory diseases",
+      "flu prevention",
+      "Breakthrough Therapy",
+      "FDA"
+    ],
+    "services": [
+      "global pharma news",
+      "biotech news",
+      "clinical research news",
+      "life sciences news",
+      "healthcare news",
+      "pharma events listings",
+      "pharma company directory",
+      "job search in pharma and life sciences"
+    ],
+    "customer_segments": [
+      "life sciences professionals",
+      "pharma companies",
+      "biotech companies",
+      "clinical research professionals",
+      "healthcare professionals",
+      "senior professionals in life sciences"
+    ],
+    "business_description": "PharmiWeb.com provides global pharma news, biotech updates, clinical research insights, and healthcare information. It offers pharma events listings, a company directory, and job search services for professionals in the life sciences sector.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T00:10:53.358Z"
+  },
+  "scraped_at": "2026-01-10T00:10:47.842Z",
+  "updated_at": "2026-01-10T00:10:53.358Z",
+  "version": 1
+}

@@ -1,0 +1,458 @@
+{
+  "company_name": "VERTO UK LTD",
+  "company_number": "05481802",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-06-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "3 Swallow Court, Kettering Venture Park, Kettering, Northamptonshire, NN15 6XX, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "3 Swallow Court",
+    "address_line_2": "Kettering Venture Park",
+    "country": "United Kingdom",
+    "locality": "Kettering",
+    "postal_code": "NN15 6XX",
+    "region": "Northamptonshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-05",
+    "last_made_up_to": "2025-11-21",
+    "next_made_up_to": "2026-11-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HUMMEL-NEWELL, Catherine",
+        "officer_role": "director",
+        "appointed_on": "2017-04-12",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Cheyne Walk",
+          "country": "England",
+          "locality": "Northampton",
+          "postal_code": "NN1 5PT",
+          "premises": "10"
+        }
+      },
+      {
+        "name": "HUMMEL-NEWELL, David Alex",
+        "officer_role": "director",
+        "appointed_on": "2005-06-15",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cheyne Walk",
+          "country": "England",
+          "locality": "Northampton",
+          "postal_code": "NN1 5PT",
+          "premises": "10"
+        }
+      },
+      {
+        "name": "COMPANY DIRECTORS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2005-06-15",
+        "resigned_on": "2005-06-15",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HUMMEL-NEWELL, Ian",
+        "officer_role": "secretary",
+        "appointed_on": "2005-06-15",
+        "resigned_on": "2015-01-05",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "115 London Road",
+          "locality": "Kettering",
+          "postal_code": "NN15 6NG",
+          "region": "Northamptonshire"
+        }
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2005-06-15",
+        "resigned_on": "2005-06-15",
+        "address": {
+          "address_line_1": "788-790 Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Verto Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-11-21",
+        "address": {
+          "country": "England",
+          "locality": "Northampton",
+          "postal_code": "NN1 5PT",
+          "premises": "10 Cheyne Walk",
+          "region": "Northamptonshire"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "10389050"
+        }
+      },
+      {
+        "name": "Mr David Alex Hummel-Newell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-11-21",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "10 Cheyne Walk",
+          "address_line_2": "Northampton",
+          "locality": "Northamptonshire",
+          "postal_code": "NN1 5PT"
+        }
+      },
+      {
+        "name": "Mrs Catherine Hummel-Newell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-11-21",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "10 Cheyne Walk",
+          "address_line_2": "Northampton",
+          "locality": "Northamptonshire",
+          "postal_code": "NN1 5PT"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEG18DXS",
+        "transaction_id": "MzQ5MDU3MjI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE9DZKAY",
+        "transaction_id": "MzQ3ODIwMzY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDGG2XEW",
+        "transaction_id": "MzQ0NDU3MjMyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDC8DNXK",
+        "transaction_id": "MzQzNjg2OTA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCGR15E8",
+        "transaction_id": "MzQwMDk4NTQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCCUAQIJ",
+        "transaction_id": "MzM5NDIxMTY2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCBYD5YX",
+        "transaction_id": "MzM5Mjc3NzUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCBYD5OS",
+        "transaction_id": "MzM5Mjc3NzM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC3B2KQ2",
+        "transaction_id": "MzM3OTIzOTExMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHAYLR7",
+        "transaction_id": "MzM1OTM3Mjc0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBF2I6IY",
+        "transaction_id": "MzM1NjA3MDcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-16",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAJHHCFS",
+        "transaction_id": "MzMyMzgyNzAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAHU26A3",
+        "transaction_id": "MzMyMDgyMTY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9JLEGJ4",
+        "transaction_id": "MzI4NTY4NTgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-10",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9JLDO3F",
+        "transaction_id": "MzI4NTY3OTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8JL8F7U",
+        "transaction_id": "MzI1MTIwNDU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8JAFGZV",
+        "transaction_id": "MzI1MDczNzI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7X4PWFM",
+        "transaction_id": "MzIyNDM1NDc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7KT2OZN",
+        "transaction_id": "MzIyMjE0NDA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-01-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6Y9LA14",
+        "transaction_id": "MzE5NTk0MTQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X6WQZX7D",
+        "transaction_id": "MzE5NDI0MDAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6LONYAJ",
+        "transaction_id": "MzE5MzMzNzE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-12-01",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X6KC6HAI",
+        "transaction_id": "MzE5MTcwMTE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-12-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X6KC6B4A",
+        "transaction_id": "MzE5MTcwMDg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2017-12-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X6KC5Z0Q",
+        "transaction_id": "MzE5MTcwMDg0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 60,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 36
+  },
+  "enrichment": {
+    "website": "https://Vertouk.com",
+    "headcount": 36,
+    "tech_stack": [],
+    "business_keywords": [
+      "web design",
+      "website development",
+      "SEO",
+      "social media management",
+      "digital marketing",
+      "print marketing",
+      "branding solutions",
+      "website SEO",
+      "Kettering-based agency",
+      "website design agency",
+      "marketing agency",
+      "competition differentiation",
+      "modern world solutions"
+    ],
+    "services": [
+      "website design",
+      "website development",
+      "SEO",
+      "social media management",
+      "digital marketing",
+      "print marketing",
+      "branding solutions"
+    ],
+    "customer_segments": [],
+    "business_description": "Verto UK is a Kettering-based agency specializing in website design, development, SEO, and social media management. With over twenty years of experience in digital and print marketing, they provide solutions to help businesses stand apart from the competition.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T03:05:33.778Z"
+  },
+  "scraped_at": "2026-01-10T03:05:29.359Z",
+  "updated_at": "2026-01-10T03:05:33.778Z",
+  "version": 1
+}

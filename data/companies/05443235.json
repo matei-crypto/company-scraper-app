@@ -1,0 +1,494 @@
+{
+  "company_name": "ISL (COMPUTERS) LIMITED",
+  "company_number": "05443235",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-05-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 Thomas Street, Heckmondwike, West Yorkshire, WF16 0LS",
+  "registered_address_structured": {
+    "address_line_1": "5 Thomas Street",
+    "locality": "Heckmondwike",
+    "postal_code": "WF16 0LS",
+    "region": "West Yorkshire"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "95110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ISL (COMPUTERS) SY LIMITED",
+      "ceased_on": "2009-02-04",
+      "effective_from": "2005-05-04"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-18",
+    "last_made_up_to": "2025-05-04",
+    "next_made_up_to": "2026-05-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BAMFORTH, Jeremy James",
+        "officer_role": "director",
+        "appointed_on": "2005-05-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "HAIGH, Caroline Jane",
+        "officer_role": "director",
+        "appointed_on": "2005-05-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "MCGRATH, Barnaby James",
+        "officer_role": "director",
+        "appointed_on": "2005-05-04",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "LONDON LAW SERVICES LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2005-05-04",
+        "resigned_on": "2005-05-04",
+        "address": {
+          "address_line_1": "69 Southampton Row",
+          "locality": "London",
+          "postal_code": "WC1B 4ET",
+          "premises": "Marquess Court"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HAIGH, Caroline Jane",
+        "officer_role": "secretary",
+        "appointed_on": "2005-05-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "LONDON LAW SECRETARIAL LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2005-05-04",
+        "resigned_on": "2005-05-04",
+        "address": {
+          "address_line_1": "69 Southampton Row",
+          "locality": "London",
+          "postal_code": "WC1B 4ET",
+          "premises": "Marquess Court"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Jeremy James Bamforth",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "I.S.L. (Systems) Limited",
+        "kind": "legal-person-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "country": "England",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5 Thomas St",
+          "region": "West Yorkshire"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Uk"
+        }
+      },
+      {
+        "name": "Mr Barnaby James Mcgrath",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "Mrs Caroline Jane Haigh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Thomas Street",
+          "locality": "Heckmondwike",
+          "postal_code": "WF16 0LS",
+          "premises": "5",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture deed"
+          }
+        ],
+        "created_on": "2009-10-09",
+        "delivered_on": "2009-10-10",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEF7RH0W",
+        "transaction_id": "MzQ4ODUyOTMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE2X3UR6",
+        "transaction_id": "MzQ2Njg0ODIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDA2AHXN",
+        "transaction_id": "MzQzMzA3NzUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD39FREO",
+        "transaction_id": "MzQyMjE2NjU0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCEVO6MZ",
+        "transaction_id": "MzM5NzgxMjM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC41VOEW",
+        "transaction_id": "MzM4MDM1MTAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBIYDGFU",
+        "transaction_id": "MzM2MjY4NjYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3NX85D",
+        "transaction_id": "MzMzODY3NjM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAWL2BWG",
+        "transaction_id": "MzMyODA3ODEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4QSO6B",
+        "transaction_id": "MzMwMTMxMzM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA0JPEXN",
+        "transaction_id": "MzI5NDc1NDkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94J7LSR",
+        "transaction_id": "MzI2NDE3Mzk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A8XF91J7",
+        "transaction_id": "MzI1NTYyNjY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85OJ6YY",
+        "transaction_id": "MzIzNDYzNDcyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7YBEGCX",
+        "transaction_id": "MzIyNTkwNzQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7588CBD",
+        "transaction_id": "MzIwNDI1OTUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X6YQBZRW",
+        "transaction_id": "MzE5NjQ4MzI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 9,
+        "barcode": "X664K97V",
+        "transaction_id": "MzE3NTQ4MTI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-01-24",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A5YJHQUB",
+        "transaction_id": "MzE2NzIwMDczOWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-05-18",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X5786GVL",
+        "transaction_id": "MzE0ODc5MzM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-01-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X4ZNLTBE",
+        "transaction_id": "MzE0MDgyMjUwNmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-05-22",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X47X64XU",
+        "transaction_id": "MzEyMzc0ODQ3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-05-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X47X5FBC",
+        "transaction_id": "MzEyMzc0MjA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-05-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X47X5FNU",
+        "transaction_id": "MzEyMzc0MjE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-05-22",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X47X5F15",
+        "transaction_id": "MzEyMzc0MjA0OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 62,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Isl-technology.co.uk",
+    "headcount": 16,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T03:01:19.556Z",
+  "scraped_at": "2026-01-10T03:01:19.556Z"
+}

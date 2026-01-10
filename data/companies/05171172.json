@@ -1,0 +1,542 @@
+{
+  "company_name": "ISOTOMA LIMITED",
+  "company_number": "05171172",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2004-07-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 1d Swinegate Court East, Swinegate, York, YO1 8AJ",
+  "registered_address_structured": {
+    "address_line_1": "Suite 1d Swinegate Court East",
+    "address_line_2": "Swinegate",
+    "locality": "York",
+    "postal_code": "YO1 8AJ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-20",
+    "last_made_up_to": "2025-07-06",
+    "next_made_up_to": "2026-07-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "THEYERS, Andrew David",
+        "officer_role": "director",
+        "appointed_on": "2006-01-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      },
+      {
+        "name": "WINTER, Douglas Charles",
+        "officer_role": "director",
+        "appointed_on": "2004-07-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      },
+      {
+        "name": "WATSON, David Christopher",
+        "officer_role": "director",
+        "appointed_on": "2007-01-01",
+        "resigned_on": "2013-06-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1972,
+        "nationality": "United Kingdom",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "3 The Orchard",
+          "address_line_2": "Walnut Close",
+          "locality": "York",
+          "postal_code": "YO10 5DA",
+          "region": "North Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "THEYERS, Andrew David",
+        "officer_role": "secretary",
+        "appointed_on": "2011-01-01",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      },
+      {
+        "name": "THEYERS, Claire",
+        "officer_role": "secretary",
+        "appointed_on": "2025-07-01",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "country": "United Kingdom",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      },
+      {
+        "name": "WINTER, Rowan",
+        "officer_role": "secretary",
+        "appointed_on": "2025-07-01",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "country": "United Kingdom",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      },
+      {
+        "name": "THEYERS, Andrew David",
+        "officer_role": "secretary",
+        "appointed_on": "2007-09-24",
+        "resigned_on": "2008-03-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "24 Hempland Drive",
+          "locality": "York",
+          "postal_code": "YO31 1AY",
+          "region": "North Yorkshire"
+        }
+      },
+      {
+        "name": "WINTER, Rowan Elizabeth",
+        "officer_role": "secretary",
+        "appointed_on": "2004-07-06",
+        "resigned_on": "2007-09-24",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "5 Norman Drive",
+          "locality": "York",
+          "postal_code": "YO26 5QU"
+        }
+      },
+      {
+        "name": "NUMERICAL THERAPY LTD",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-03-01",
+        "resigned_on": "2010-12-31",
+        "address": {
+          "address_line_1": "Riccall Road",
+          "address_line_2": "Escrick",
+          "locality": "York",
+          "postal_code": "YO19 6ED",
+          "premises": "3 & 4 Park Court",
+          "region": "North Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andrew David Theyers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      },
+      {
+        "name": "Mr Douglas Charles Winter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Swinegate Court East",
+          "address_line_2": "Swinegate",
+          "locality": "York",
+          "postal_code": "YO1 8AJ",
+          "premises": "Suite 1d"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "051711720002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-12-13",
+        "delivered_on": "2013-12-27",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Svenska Handelsbanken Ab (Publ)"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-09-06",
+        "delivered_on": "2011-09-13",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Co-Operative Bank PLC"
+          }
+        ],
+        "satisfied_on": "2013-12-27",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-10",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEH44GE3",
+        "transaction_id": "MzQ5MzQwNjQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-10",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEH44CBF",
+        "transaction_id": "MzQ5MzQwNTM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE8F7BZ7",
+        "transaction_id": "MzQ3NjU1MTkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XE6GHGOZ",
+        "transaction_id": "MzQ3MzAxOTY5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-08",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XE6DQXJM",
+        "transaction_id": "MzQ3Mjg1MDYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-08",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XE6DQWDC",
+        "transaction_id": "MzQ3Mjg1MDI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDCGOA6I",
+        "transaction_id": "MzQzNzM5Mjc2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XD6XADSO",
+        "transaction_id": "MzQyNzkxMjYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC7HDBCI",
+        "transaction_id": "MzM4NTc1Mjc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC1QXGV5",
+        "transaction_id": "MzM3Njg4NDI5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB8O193L",
+        "transaction_id": "MzM0NjIwMzA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB7PFE8Y",
+        "transaction_id": "MzM0NDg5MDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XACPEBGH",
+        "transaction_id": "MzMxMzQ5NTAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XA89MVH5",
+        "transaction_id": "MzMwNzEzNTA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9E8XPLL",
+        "transaction_id": "MzI3ODY1NjUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X98W4BLF",
+        "transaction_id": "MzI3MjczNTU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X89FHJEX",
+        "transaction_id": "MzIzOTAxMTU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X89A8D00",
+        "transaction_id": "MzIzODgzOTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-04-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "X82YNTFC",
+        "transaction_id": "MzIzMTUxOTE4OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2018-12-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 34,
+        "transaction_id": "QTdLT0tSRFVhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X7EVMEL4",
+        "transaction_id": "MzIxNDk3OTU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7AAL2IG",
+        "transaction_id": "MzIwOTgyODAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-04-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X740F5I2",
+        "transaction_id": "MzIwMjYwOTU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-04-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X740ENJD",
+        "transaction_id": "MzIwMjYwOTEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-04-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X73RYW9M",
+        "transaction_id": "MzIwMjU0NTMwNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 92,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 23
+  },
+  "enrichment": {
+    "website": "https://Isotoma.com",
+    "headcount": 23,
+    "tech_stack": [],
+    "business_keywords": [
+      "bespoke software development",
+      "software development agency",
+      "UK software development",
+      "healthcare software",
+      "education software",
+      "legal software",
+      "innovative solutions",
+      "custom software",
+      "software development company",
+      "privacy",
+      "cookies",
+      "analytics",
+      "error tracking",
+      "personalised ads",
+      "ad storage"
+    ],
+    "services": [],
+    "customer_segments": [
+      "healthcare",
+      "education",
+      "legal"
+    ],
+    "business_description": "Isotoma is a bespoke software development agency based in the UK, specializing in creating custom software solutions. They serve sectors such as healthcare, education, and legal, focusing on innovative and thoughtful software development.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T02:09:51.143Z"
+  },
+  "scraped_at": "2026-01-10T02:09:46.741Z",
+  "updated_at": "2026-01-10T02:09:51.143Z",
+  "version": 1
+}

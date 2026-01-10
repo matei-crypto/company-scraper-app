@@ -1,0 +1,490 @@
+{
+  "company_name": "STORM-I.T. LIMITED",
+  "company_number": "04698244",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-03-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 5 Swaker Yard, 2b Theobald Street, Herts, WD6 4SE, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 5 Swaker Yard",
+    "address_line_2": "2b Theobald Street",
+    "country": "England",
+    "locality": "Herts",
+    "postal_code": "WD6 4SE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-28",
+    "last_made_up_to": "2025-03-14",
+    "next_made_up_to": "2026-03-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LIPMAN, Warren Simon",
+        "officer_role": "director",
+        "appointed_on": "2003-03-21",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Aldenham Avenue",
+          "country": "England",
+          "locality": "Radlett",
+          "postal_code": "WD7 8HX",
+          "premises": "16",
+          "region": "Herts"
+        }
+      },
+      {
+        "name": "FORM 10 DIRECTORS FD LTD",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2003-03-14",
+        "resigned_on": "2003-03-19",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BISHOP, Anetta",
+        "officer_role": "secretary",
+        "appointed_on": "2006-03-24",
+        "resigned_on": "2011-03-13",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Elwood House, 42 Lytton Road",
+          "address_line_2": "Barnet",
+          "locality": "Hertfordshire",
+          "postal_code": "EN5 5BY"
+        }
+      },
+      {
+        "name": "BUCKLAND, Sandra",
+        "officer_role": "secretary",
+        "appointed_on": "2003-03-21",
+        "resigned_on": "2006-03-24",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Lower Fosters",
+          "address_line_2": "New Brent Street",
+          "locality": "London",
+          "postal_code": "NW4 2DJ"
+        }
+      },
+      {
+        "name": "FORM 10 SECRETARIES FD LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2003-03-14",
+        "resigned_on": "2003-03-19",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Michelle Lipman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-03-14",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "120 Bunns Lane",
+          "address_line_2": "Suite 112",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "NW7 2AS",
+          "premises": "Churchill House",
+          "region": "Mill Hill"
+        }
+      },
+      {
+        "name": "Mr Warren Simon Lipman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-03-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "120 Bunns Lane",
+          "address_line_2": "Suite 112",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW7 2AS",
+          "premises": "Churchill House",
+          "region": "Mill Hill"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "046982440001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2013-08-27",
+        "delivered_on": "2013-08-29",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Notification of addition to or amendment of charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2025-12-30",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AEHYUXTF",
+        "transaction_id": "MzQ5NjUyODAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-12-24",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "YEHL0MQY",
+        "transaction_id": "MzQ5NDk5ODAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEHI53WX",
+        "transaction_id": "MzQ5NDU0NjU5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEF54MCA",
+        "transaction_id": "MzQ4ODM3NTY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-06-10",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 7,
+        "barcode": "YE4CPK0X",
+        "transaction_id": "MzQ2OTM4MzI2MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-06-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 44,
+        "barcode": "YE3WOCLS",
+        "transaction_id": "WUUzV09DTFNhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-06-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 41,
+        "barcode": "YE3WODJF",
+        "transaction_id": "MzQ2ODc4MzA5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZ2UJDK",
+        "transaction_id": "MzQ2MDAwNTc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDIKHZ3S",
+        "transaction_id": "MzQ0ODcyMTI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZCR8GP",
+        "transaction_id": "MzQxNTYyNjc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCXRMDAG",
+        "transaction_id": "MzQxMjU2NjY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCDJHT09",
+        "transaction_id": "MzM5NTU1NjA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZ9ROZC",
+        "transaction_id": "MzM3MjUzNzAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBICSNA1",
+        "transaction_id": "MzM2MTM4MDE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB0GNEEP",
+        "transaction_id": "MzMzMzkzODE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAID3DIB",
+        "transaction_id": "MzMyMTg3OTg4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA105HQ8",
+        "transaction_id": "MzI5NTY2NDg5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9CP5QY1",
+        "transaction_id": "MzI3NjYyNDY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X910IF8X",
+        "transaction_id": "MzI2MDA0NTM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8FLN99V",
+        "transaction_id": "MzI0NjE0Mjg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X853F64Y",
+        "transaction_id": "MzIzNDAyMjkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-05-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X853F38W",
+        "transaction_id": "MzIzNDAyMjE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-03-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X81JWFOW",
+        "transaction_id": "MzIyOTY2MDY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-03-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X81JW856",
+        "transaction_id": "MzIyOTY1ODgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-03-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X81JW2I8",
+        "transaction_id": "MzIyOTY1NzUzN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 76,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Storm-it.com",
+    "headcount": 14,
+    "tech_stack": [
+      "Microsoft Office Suite",
+      "Google Cloud",
+      "WatchGuard",
+      "Fortinet",
+      "Datto",
+      "Kaseya",
+      "Lenovo",
+      "HP",
+      "Sophos",
+      "Proofpoint",
+      "Ruckus",
+      "Meraki",
+      "Ubiquiti",
+      "Ironscales",
+      "Aruba",
+      "Netgear"
+    ],
+    "business_keywords": [
+      "IT support",
+      "managed service provider",
+      "managed IT services",
+      "IT solutions",
+      "cybersecurity",
+      "IT infrastructure",
+      "IT system",
+      "proactive IT management",
+      "IT lease",
+      "software licensing",
+      "antivirus protection",
+      "EDR",
+      "XDR",
+      "IT warranty",
+      "IT consultation"
+    ],
+    "services": [
+      "full-service IT support",
+      "managed IT services",
+      "proactive IT infrastructure management",
+      "IT security",
+      "cyber threat protection",
+      "Storm In a Box (SIAB) all-in-one IT solution",
+      "IT system upgrades",
+      "IT system security improvements",
+      "IT operations streamlining"
+    ],
+    "customer_segments": [
+      "small and mid-sized businesses",
+      "non-profits",
+      "educational institutions",
+      "SMEs",
+      "charities"
+    ],
+    "business_description": "Storm IT Ltd is a well-established Managed Services Provider based in Barnet, North London, delivering reliable, customized IT support and managed IT services to small and mid-sized businesses, non-profits, and educational institutions across North London and the UK. The company focuses on proactive IT management and security to reduce downtime, increase productivity, and protect against cyber threats, offering tailored solutions including an all-in-one IT lease program called Storm In a Box (SIAB).",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 32,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T00:42:10.932Z"
+  },
+  "scraped_at": "2026-01-10T00:42:00.974Z",
+  "updated_at": "2026-01-10T00:42:10.932Z",
+  "version": 1
+}

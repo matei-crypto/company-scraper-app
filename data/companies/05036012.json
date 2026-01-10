@@ -1,0 +1,476 @@
+{
+  "company_name": "INSTANTONIT LIMITED",
+  "company_number": "05036012",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2004-02-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "63-66 Hatton Garden, London, EC1N 8LE, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "63-66 Hatton Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1N 8LE"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-18",
+    "last_made_up_to": "2025-08-04",
+    "next_made_up_to": "2026-08-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COOTE, Paul",
+        "officer_role": "director",
+        "appointed_on": "2004-02-05",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ranmore Road",
+          "country": "England",
+          "locality": "Dorking",
+          "postal_code": "RH4 1HD",
+          "premises": "50",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "COOTE, Barbara",
+        "officer_role": "secretary",
+        "appointed_on": "2004-02-05",
+        "resigned_on": "2005-02-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "29 West Hill Avenue",
+          "locality": "Epsom",
+          "postal_code": "KT19 8LE",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "HAILEY, Carole Ann",
+        "officer_role": "secretary",
+        "appointed_on": "2005-02-01",
+        "resigned_on": "2014-05-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "14 Weller Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 1QU",
+          "premises": "Waterfront Solicitors"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul Coote",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "63-66 Hatton Garden",
+          "locality": "London",
+          "postal_code": "EC1N 8LE",
+          "premises": "7th Floor"
+        }
+      },
+      {
+        "name": "Paul Coote",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hatton Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 8LE",
+          "premises": "63-66"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "050360120002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-12-13",
+        "delivered_on": "2017-12-13",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "satisfied_on": "2022-03-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-12-16",
+        "delivered_on": "2011-12-23",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE89JSG2",
+        "transaction_id": "MzQ3NjEyNDk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XE4NNVWP",
+        "transaction_id": "MzQ3MDA2MjI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-05-28",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AE36EFD5",
+        "transaction_id": "MzQ2ODA4NDI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-05-01",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "YE1F7U2Q",
+        "transaction_id": "MzQ2NDIxMjgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-02-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDW20O3L",
+        "transaction_id": "MzQ1NDE5OTM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDW20O75",
+        "transaction_id": "MzQ1NDE5OTM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVWUE76",
+        "transaction_id": "MzQ1NDExMjExN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDHD1BWQ",
+        "transaction_id": "MzQ0NjM5ODk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-02",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XCZQ6X9K",
+        "transaction_id": "MzQxNjEwMTYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCZQ71GI",
+        "transaction_id": "MzQxNjEwMjc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-06",
+        "description": "confirmation-statement",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XCYASIW1",
+        "transaction_id": "MzQxMzU3NzU2N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCX0RQRU",
+        "transaction_id": "MzQxMTQ2MjkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XCISDW9L",
+        "transaction_id": "MzQwNTA0MzE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBX0WAHM",
+        "transaction_id": "MzM2ODczMjc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XB55WKN7",
+        "transaction_id": "MzM0MTA4MjczN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAZKJB96",
+        "transaction_id": "MzMzMjU5NzU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXUFMX4",
+        "transaction_id": "MzMyOTc4MTE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XA7THGH6",
+        "transaction_id": "MzMwNjQyMDcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9YJ8BQ3",
+        "transaction_id": "MzI5MTgxMjU3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9BLLJNK",
+        "transaction_id": "MzI3NTQyMDczNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Z3COQH",
+        "transaction_id": "MzI1NzUxMzg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X8KXIIGY",
+        "transaction_id": "MzI1Mjk0ODIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7YR49O3",
+        "transaction_id": "MzIyNjM0ODMyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X7L6NZTV",
+        "transaction_id": "MzIyMjYxNTk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X70826RS",
+        "transaction_id": "MzE5ODI5NDk4OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 79,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 66
+  },
+  "enrichment": {
+    "website": "https://Instantonit.com",
+    "headcount": 66,
+    "tech_stack": [
+      "ISO 27001",
+      "ITIL",
+      "PRINCE2"
+    ],
+    "business_keywords": [
+      "IT Management",
+      "Cyber Security",
+      "IT Strategy",
+      "IT Support",
+      "Cloud Systems",
+      "Licensing",
+      "AI Solutions",
+      "Process Automation",
+      "Workflow Automation",
+      "ITIL",
+      "PRINCE2",
+      "ISO 27001",
+      "Service Desk",
+      "IT Configuration",
+      "Proactive Protection"
+    ],
+    "services": [
+      "IT Management",
+      "IT Strategy",
+      "Cloud Systems",
+      "Licensing",
+      "IT Support",
+      "Cyber Security",
+      "Proactive Protection",
+      "Custom AI Applications",
+      "Process Streamlining",
+      "Task Simplification",
+      "Workflow Automation"
+    ],
+    "customer_segments": [
+      "Legal",
+      "Finance",
+      "Media"
+    ],
+    "business_description": "Instant On IT Limited provides IT management and cyber security services, including strategy, support, cloud systems, licensing, and proactive protection. They also offer custom AI solutions to streamline processes and automate workflows, helping businesses focus on their core operations. Their services are tailored to specific business needs with a focus on simplicity and efficiency.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 15,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T01:44:58.941Z"
+  },
+  "scraped_at": "2026-01-10T01:44:53.326Z",
+  "updated_at": "2026-01-10T01:44:58.940Z",
+  "version": 1
+}
