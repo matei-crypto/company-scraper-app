@@ -1,0 +1,397 @@
+{
+  "company_name": "APPT-HEALTH LTD",
+  "company_number": "10877648",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-07-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "8 New Colliers Row, Colliers Row Road, Bolton, BL1 7PJ, England",
+  "registered_address_structured": {
+    "address_line_1": "8 New Colliers Row",
+    "address_line_2": "Colliers Row Road",
+    "country": "England",
+    "locality": "Bolton",
+    "postal_code": "BL1 7PJ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-25",
+    "last_made_up_to": "2025-07-11",
+    "next_made_up_to": "2026-07-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SMETHURST, Hector George",
+        "officer_role": "director",
+        "appointed_on": "2017-07-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Colliers Row Road",
+          "country": "England",
+          "locality": "Bolton",
+          "postal_code": "BL1 7PJ",
+          "premises": "8 New Colliers Row"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Hector George Smethurst",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-07-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Colliers Row Road",
+          "country": "England",
+          "locality": "Bolton",
+          "postal_code": "BL1 7PJ",
+          "premises": "8 New Colliers Row"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "108776480001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-06-26",
+        "delivered_on": "2024-06-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Icnh Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE7CRGHD",
+        "transaction_id": "MzQ3NDYxNjMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE6JJK17",
+        "transaction_id": "MzQ3MzI5NjkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDYOZ8MB",
+        "transaction_id": "MzQ1OTMwNDkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD75NE1U",
+        "transaction_id": "MzQyODQwNTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD75NE4X",
+        "transaction_id": "MzQyODQwNTQxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD75NDJ4",
+        "transaction_id": "MzQyODQwNTI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-06-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 38,
+        "barcode": "AD69GSZM",
+        "transaction_id": "MzQyNzkwOTI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCJBAF6I",
+        "transaction_id": "MzQwNTgzMzUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC85W8UX",
+        "transaction_id": "MzM4NzA0MDY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBI77QY0",
+        "transaction_id": "MzM2MDkzODk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB948QQY",
+        "transaction_id": "MzM0Njk1NDU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB8QT24W",
+        "transaction_id": "MzM0NjM3NzA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-02-01",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUFXSUlHMlhhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA8UWC8O",
+        "transaction_id": "MzMwNzkwODAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA3HEZKJ",
+        "transaction_id": "MzI5OTY2OTQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9Z1YR8I",
+        "transaction_id": "MzI5MjU2MTg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-11-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WTlIUjVENlFhZGlxemtjeA"
+      },
+      {
+        "category": "change-of-constitution",
+        "date": "2020-11-13",
+        "description": "statement-of-companys-objects",
+        "type": "CC04",
+        "pages": 2,
+        "barcode": "Y9HLFM95",
+        "transaction_id": "MzI4MzMwMTg5OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-11-13",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 26,
+        "barcode": "Y9HLFM40",
+        "transaction_id": "MzI4MzMwMTkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-10-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9FQFJSW",
+        "transaction_id": "MzI4MDY5MzY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X99OYYZC",
+        "transaction_id": "MzI3MzQyOTcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8LIE9FL",
+        "transaction_id": "MzI1MzQ3MTIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ATV26W",
+        "transaction_id": "MzI0MDY2NDE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7LRPBC3",
+        "transaction_id": "MzIyMzIxMDUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7BL0V65",
+        "transaction_id": "MzIxMTM0NzQyMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Appt-health.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "EMIS",
+      "TPP"
+    ],
+    "business_keywords": [
+      "NHS-approved platform",
+      "GP practice software",
+      "patient recall automation",
+      "admin reduction",
+      "care optimization",
+      "QOF targets",
+      "chronic condition management",
+      "preventative healthcare",
+      "patient engagement",
+      "appointment scheduling",
+      "healthcare automation",
+      "clinical coding",
+      "screening targets",
+      "real-time tracking",
+      "primary care efficiency"
+    ],
+    "services": [
+      "Automated patient identification and recall for reviews, health checks, and screenings",
+      "Smart scheduling and care coordination for consolidating multiple condition reviews into single appointments",
+      "Real-time tracking of patient uptake and performance via live dashboards",
+      "Automated outreach for NHS screening and QOF targets (e.g., cancer screenings, vaccinations)",
+      "Chronic condition management with continuous record scanning and appointment consolidation",
+      "Targeted recall management for long-term conditions (e.g., Asthma, COPD)",
+      "Matching patients to the right clinician (HCA, nurse, GP) based on clinical suitability",
+      "Reduction of manual admin work for patient recalls and clinical coding updates",
+      "Proactive management of patient engagement and screening targets"
+    ],
+    "customer_segments": [
+      "GP practices",
+      "NHS primary care teams",
+      "Healthcare clinicians (HCAs, nurses, pharmacists, GPs)",
+      "NHS practices using EMIS or TPP systems"
+    ],
+    "business_description": "Appt Health provides an NHS-approved platform designed to streamline administrative tasks for GP practices. It automates patient recalls, consolidates care appointments, and optimizes clinician workflows to help practices meet QOF and screening targets with reduced manual effort. The platform focuses on improving efficiency, patient engagement, and preventative healthcare outcomes.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:00:20.123Z"
+  },
+  "scraped_at": "2026-01-10T18:00:11.408Z",
+  "updated_at": "2026-01-10T18:00:20.122Z",
+  "version": 1
+}

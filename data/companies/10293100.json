@@ -1,0 +1,357 @@
+{
+  "company_name": "TAPNTOP LIMITED",
+  "company_number": "10293100",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-07-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "198 Landmark Place Churchill Way, Cardiff, CF10 2HU, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "198 Landmark Place Churchill Way",
+    "country": "United Kingdom",
+    "locality": "Cardiff",
+    "postal_code": "CF10 2HU"
+  },
+  "sic_codes": [
+    "47110",
+    "47190"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-14",
+    "last_made_up_to": "2025-12-31",
+    "next_made_up_to": "2026-12-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GANDHI, Vishal",
+        "officer_role": "director",
+        "appointed_on": "2016-07-25",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Churchill Way",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 2HU",
+          "premises": "198 Landmark Place"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Vishal Gandhi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-07-25",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Churchill Way",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 2HU",
+          "premises": "198 Landmark Place"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "102931000001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-11-23",
+        "delivered_on": "2022-11-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEIKHRW0",
+        "transaction_id": "MzQ5NjkzOTgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEC3P755",
+        "transaction_id": "MzQ4MzA5ODgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDJ5M7QL",
+        "transaction_id": "MzQ0OTQ4MDc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDF0ZEVK",
+        "transaction_id": "MzQ0MTgyNDUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCU3RMKA",
+        "transaction_id": "MzQwNjY2NTg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCD3BIK3",
+        "transaction_id": "MzM5NDk4ODc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYZAXSR",
+        "transaction_id": "MzM3MjI1OTc2MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-11-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XBHTNSEO",
+        "transaction_id": "MzM2MDE1NDA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-28",
+        "description": "accounts-amended-with-made-up-date",
+        "type": "AAMD",
+        "pages": 6,
+        "barcode": "AB94QYPS",
+        "transaction_id": "MzM0NzA5ODM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB7MR8B4",
+        "transaction_id": "MzM0NDc2MTk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB6QBP5K",
+        "transaction_id": "MzM0MzM5NTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-19",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XAHJMA00",
+        "transaction_id": "MzMyMDU3NDg3NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-18",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XAHJN3EZ",
+        "transaction_id": "MzMyMDU4MjczN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA38PFY8",
+        "transaction_id": "MzI5ODk1NDE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA361HZF",
+        "transaction_id": "MzI5ODg5NDQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-19",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X9YOEHAW",
+        "transaction_id": "MzI5MTkyNzE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9JIQRPK",
+        "transaction_id": "MzI4NTYwNjY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-27",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9GJPUAG",
+        "transaction_id": "MzI4MTcyODY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9GJPSR4",
+        "transaction_id": "MzI4MTcyODM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-06",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X92ETI7N",
+        "transaction_id": "MzI2MTg2NjcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8F8MB20",
+        "transaction_id": "MzI0NTgxODA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-25",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X844V2EQ",
+        "transaction_id": "MzIzMjg0NTI0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7GATR60",
+        "transaction_id": "MzIxNjcxNzgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-17",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X766B2TQ",
+        "transaction_id": "MzIwNTIxOTE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6FEVF8Q",
+        "transaction_id": "MzE4NTkxNDE1NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "headcount": 15,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T16:24:19.121Z",
+  "scraped_at": "2026-01-10T16:24:19.121Z"
+}

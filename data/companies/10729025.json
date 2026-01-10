@@ -1,0 +1,631 @@
+{
+  "company_name": "TECHWISELY LTD",
+  "company_number": "10729025",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-04-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "C/O Alizoy Uk Ltd Wework, 30 Churchill Place, London, E14 5RE, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "C/O Alizoy Uk Ltd Wework",
+    "address_line_2": "30 Churchill Place",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E14 5RE"
+  },
+  "sic_codes": [
+    "62020",
+    "70229",
+    "71200"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-30",
+    "last_made_up_to": "2025-01-16",
+    "next_made_up_to": "2026-01-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "IMRAN, Muhammad",
+        "officer_role": "director",
+        "appointed_on": "2018-11-05",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1977,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "SIDDIQUI, Uzair Ahmed",
+        "officer_role": "director",
+        "appointed_on": "2017-04-19",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1992,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "ABBASI, Khurshid Mushtaq",
+        "officer_role": "director",
+        "appointed_on": "2018-11-05",
+        "resigned_on": "2020-01-25",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "Pakistani",
+        "country_of_residence": "Bahrain",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "ADEDIRAN, Adedayo Adewunmi",
+        "officer_role": "director",
+        "appointed_on": "2020-01-23",
+        "resigned_on": "2022-10-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "ADEDIRAN, Adedayo Adewunmi",
+        "officer_role": "director",
+        "appointed_on": "2019-03-09",
+        "resigned_on": "2020-01-23",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "ALI, Mohammad",
+        "officer_role": "director",
+        "appointed_on": "2022-12-12",
+        "resigned_on": "2023-01-10",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1989,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "BABATUNDE, Ademola",
+        "officer_role": "director",
+        "appointed_on": "2017-06-15",
+        "resigned_on": "2019-04-02",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1983,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "BHUIYAN, Mohammad Saifuddin",
+        "officer_role": "director",
+        "appointed_on": "2018-08-10",
+        "resigned_on": "2019-06-16",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "HAMIDI, Sabahat",
+        "officer_role": "director",
+        "appointed_on": "2018-03-05",
+        "resigned_on": "2018-05-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1982,
+        "nationality": "Indian",
+        "country_of_residence": "Oman",
+        "address": {
+          "address_line_1": "25 Finsbury Circus",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7EE",
+          "premises": "Uzair Siddiqui"
+        }
+      },
+      {
+        "name": "IMRAN, Hina",
+        "officer_role": "director",
+        "appointed_on": "2018-04-05",
+        "resigned_on": "2021-02-20",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "IQBAL, Muhammad Rashid",
+        "officer_role": "director",
+        "appointed_on": "2018-09-10",
+        "resigned_on": "2023-04-05",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1975,
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "KOLAR RAHMAN, Nazhath Rahman",
+        "officer_role": "director",
+        "appointed_on": "2018-11-01",
+        "resigned_on": "2023-04-05",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1976,
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "MAHMOOD ALI, Hunar",
+        "officer_role": "director",
+        "appointed_on": "2021-12-02",
+        "resigned_on": "2022-06-26",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "Iraqi",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "MEHRA, Lalit",
+        "officer_role": "director",
+        "appointed_on": "2018-12-27",
+        "resigned_on": "2020-01-24",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1976,
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "MUFTI, Armughan",
+        "officer_role": "director",
+        "appointed_on": "2019-02-01",
+        "resigned_on": "2022-10-31",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1975,
+        "nationality": "Pakistani",
+        "country_of_residence": "United Arab Emirates",
+        "address": {
+          "address_line_1": "Wework",
+          "address_line_2": "30 Churchill Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E14 5RE",
+          "premises": "C/O Alizoy Uk Ltd"
+        }
+      },
+      {
+        "name": "NJEPU, Juliet Ndidiamaka",
+        "officer_role": "director",
+        "appointed_on": "2017-06-19",
+        "resigned_on": "2020-08-15",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1982,
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "SHASTRI, Krushnakumar",
+        "officer_role": "director",
+        "appointed_on": "2018-11-22",
+        "resigned_on": "2020-01-26",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      },
+      {
+        "name": "SMYRNOV, Vasyl",
+        "officer_role": "director",
+        "appointed_on": "2019-03-08",
+        "resigned_on": "2020-08-25",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1982,
+        "nationality": "Ukrainian",
+        "country_of_residence": "Ukraine",
+        "address": {
+          "address_line_1": "Fore Street Avenue",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Y 9DT",
+          "premises": "C/O Tech Adwiser Ltd, Moore Place"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Uzair Siddiqui",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-04-19",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1992,
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Gracechurch Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3V 0BT",
+          "premises": "40"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDVE6SK9",
+        "transaction_id": "MzQ1MzM4MDI5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVE6NNU",
+        "transaction_id": "MzQ1MzM3OTA5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCV7RS6W",
+        "transaction_id": "MzQwODMyNzczMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCUX1H6A",
+        "transaction_id": "MzQwNzg3NjU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-07",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCU8WLUP",
+        "transaction_id": "MzQwNjc3NDY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC12R8M2",
+        "transaction_id": "MzM3NTYxMzgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC12R8LU",
+        "transaction_id": "MzM3NTYxMzgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBW7AQI3",
+        "transaction_id": "MzM2NzQ5NDMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVAXNGY",
+        "transaction_id": "MzM2NTc3NjEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBV5M4B6",
+        "transaction_id": "MzM2NTYxMzcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBV5M323",
+        "transaction_id": "MzM2NTYxMzE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-22",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBJEXGG1",
+        "transaction_id": "MzM2MzQ5OTg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBGXQAJD",
+        "transaction_id": "MzM1ODkyMTk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBFVZ0ZF",
+        "transaction_id": "MzM1NzE5MjQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBEZN4JD",
+        "transaction_id": "MzM1NTc4NjQ3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB7UUGTU",
+        "transaction_id": "MzM0NTE2NzkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB5TQ7KW",
+        "transaction_id": "MzM0MTk0MDEwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWI5TPC",
+        "transaction_id": "MzMyNzg4MTIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAVZAHKB",
+        "transaction_id": "MzMyNjkxMDUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-15",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAJEPF7C",
+        "transaction_id": "MzMyMzY0NDEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA2I1PSR",
+        "transaction_id": "MzI5NzkzMjA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-04-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA2I1POR",
+        "transaction_id": "MzI5NzkzMjA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2I1HU7",
+        "transaction_id": "MzI5NzkxOTQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA03PIHD",
+        "transaction_id": "MzI5NDE3OTQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-30",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9CJW7R7",
+        "transaction_id": "MzI3NjQ4MjY1NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 60,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Chilman.co.uk",
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T17:30:34.013Z",
+  "scraped_at": "2026-01-10T17:30:34.013Z"
+}

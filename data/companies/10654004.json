@@ -1,0 +1,349 @@
+{
+  "company_name": "IDCHECK LIMITED",
+  "company_number": "10654004",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-03-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "27 Old Gloucester Street, London, WC1N 3AF, England",
+  "registered_address_structured": {
+    "address_line_1": "27 Old Gloucester Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1N 3AF"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MIFID LIMITED",
+      "ceased_on": "2020-05-19",
+      "effective_from": "2017-03-06"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-19",
+    "last_made_up_to": "2025-03-05",
+    "next_made_up_to": "2026-03-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "STATMAN, Sara",
+        "officer_role": "director",
+        "appointed_on": "2017-03-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AF",
+          "premises": "27"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "STATMAN, Sara",
+        "officer_role": "secretary",
+        "appointed_on": "2017-03-06",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AF",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ms Sara Statman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-03-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Old Gloucester Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC1N 3AF",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE3ODG2J",
+        "transaction_id": "MzQ2ODQzMTE3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXPZN6R",
+        "transaction_id": "MzQ1NzQ1NTkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD42PKWW",
+        "transaction_id": "MzQyMzMxMTI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCY80EPV",
+        "transaction_id": "MzQxMzQwNTkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCY80BKB",
+        "transaction_id": "MzQxMzQwNTI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC9NQA5L",
+        "transaction_id": "MzM4OTMxODQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC6R1GBT",
+        "transaction_id": "MzM4NDg4Mzk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1DBN49",
+        "transaction_id": "MzM3NjA2Mjc5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB53BQ37",
+        "transaction_id": "MzM0MTAwNjUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZXPDYY",
+        "transaction_id": "MzMzMzAxMDc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA5N9E68",
+        "transaction_id": "MzMwMjgyNzI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2VI069",
+        "transaction_id": "MzI5ODUyNDgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-02-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9YGEDXT",
+        "transaction_id": "MzI5MTU0Mzc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X9CMHAS0",
+        "transaction_id": "MzI3NjUzMDkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-06-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X97HHJEP",
+        "transaction_id": "MzI2NzY5NjYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-06-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X97HHJ2B",
+        "transaction_id": "MzI2NzY5NjU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-06-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X97HHIZ7",
+        "transaction_id": "MzI2NzY5NjUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-06-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X97HHIEG",
+        "transaction_id": "MzI2NzY5NjQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-06-18",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X97HHHOO",
+        "transaction_id": "MzI2NzY5NjI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-05-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X95C52LT",
+        "transaction_id": "MzI2NTExNTMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9134V8J",
+        "transaction_id": "MzI2MDE3Mjg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-10-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8F5Z8ER",
+        "transaction_id": "MzI0NTcwNTkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-06-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X88EJ1UJ",
+        "transaction_id": "MzIzNzkwODc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-06-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X88EJ12Z",
+        "transaction_id": "MzIzNzkwODU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X81JX3KP",
+        "transaction_id": "MzIyOTY2Njk5M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Hirefaster.tech",
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T17:17:29.572Z",
+  "scraped_at": "2026-01-10T17:17:29.573Z"
+}

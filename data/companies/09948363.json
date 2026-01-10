@@ -1,0 +1,389 @@
+{
+  "company_name": "LONGSHOT SYSTEMS LTD",
+  "company_number": "09948363",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-01-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "3rd Floor 45 Leather Lane, London, EC1N 7TH, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "3rd Floor 45 Leather Lane",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1N 7TH"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-20",
+    "last_made_up_to": "2026-01-06",
+    "next_made_up_to": "2027-01-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GOODHEAD, Mark David",
+        "officer_role": "director",
+        "appointed_on": "2016-01-13",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "45 Leather Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 7TH",
+          "premises": "3rd Floor"
+        }
+      },
+      {
+        "name": "PRIME, David Cooper",
+        "officer_role": "director",
+        "appointed_on": "2016-01-13",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "45 Leather Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 7TH",
+          "premises": "3rd Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mark David Goodhead",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "45 Leather Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 7TH",
+          "premises": "3rd Floor"
+        }
+      },
+      {
+        "name": "Mr David Cooper Prime",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "45 Leather Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 7TH",
+          "premises": "3rd Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XETB14D0",
+        "transaction_id": "MzQ5ODMwODI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEDM7MQW",
+        "transaction_id": "MzQ4NTc2Mjg4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDU91AW8",
+        "transaction_id": "MzQ1MDk2NzMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDU91DG1",
+        "transaction_id": "MzQ1MDk2Nzk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDU91BFV",
+        "transaction_id": "MzQ1MDk2NzQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-01-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDU915TU",
+        "transaction_id": "MzQ1MDk2NjA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCREH3U",
+        "transaction_id": "MzQzNzcyNTY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD7OJMW1",
+        "transaction_id": "MzQyOTQ0NjIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCUBT8UB",
+        "transaction_id": "MzQwNjk5NTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCEYA2VV",
+        "transaction_id": "MzM5NzkyNzA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVGJYPV",
+        "transaction_id": "MzM2NjMyNDczNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB539D2J",
+        "transaction_id": "MzM0MDk3NTUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAVOV120",
+        "transaction_id": "MzMyNjY5MzQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAVM4SFN",
+        "transaction_id": "MzMyNjU4MjEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9VPPZ1T",
+        "transaction_id": "MzI4ODA2MTcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-06",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "A9GHE6L5",
+        "transaction_id": "MzI4MjcyODgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-14",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A94UAVFK",
+        "transaction_id": "MzI2NDc1MjAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-14",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A94UAVFC",
+        "transaction_id": "MzI2NDc1MTc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X91Z0COA",
+        "transaction_id": "MzI2MTM3NTI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X90I1OXD",
+        "transaction_id": "MzI1OTQ1ODc5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8W2GBI2",
+        "transaction_id": "MzI1MzgwNDM0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X8GMR3BF",
+        "transaction_id": "MzI0NzMyNzA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X7XQ1Q3D",
+        "transaction_id": "MzIyNTIwOTA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X79VBY3C",
+        "transaction_id": "MzIwOTQwNzA1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6XGR722",
+        "transaction_id": "MzE5NTE0ODMzNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 29,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Longshotsystems.co.uk",
+    "headcount": 12,
+    "tech_stack": [],
+    "business_keywords": [
+      "sports analytics",
+      "sports betting",
+      "betting insights",
+      "analytics software",
+      "software development",
+      "sports data",
+      "betting industry",
+      "sports technology",
+      "data analytics",
+      "betting software"
+    ],
+    "services": [
+      "develops sports analytics software",
+      "provides betting insights"
+    ],
+    "customer_segments": [
+      "clients in the sports betting industry"
+    ],
+    "business_description": "Longshot Systems develops sports analytics software for the sports betting industry and provides betting insights for its clients.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T15:36:12.027Z"
+  },
+  "scraped_at": "2026-01-10T15:36:08.856Z",
+  "updated_at": "2026-01-10T15:36:12.027Z",
+  "version": 1
+}

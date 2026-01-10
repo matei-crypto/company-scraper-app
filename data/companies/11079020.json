@@ -1,0 +1,374 @@
+{
+  "company_name": "LEGALYTICS LTD",
+  "company_number": "11079020",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-11-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "20-22 Wenlock Road, London, N1 7GU, England",
+  "registered_address_structured": {
+    "address_line_1": "20-22 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-11",
+    "last_made_up_to": "2025-06-27",
+    "next_made_up_to": "2026-06-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AMIRALI, Murtaza",
+        "officer_role": "director",
+        "appointed_on": "2017-11-23",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "SRINIVASAN PANCHABAKESAN, Ashok",
+        "officer_role": "director",
+        "appointed_on": "2017-11-23",
+        "resigned_on": "2025-06-27",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ashok Srinivasan Panchabakesan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-11-23",
+        "ceased_on": "2025-06-27",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      },
+      {
+        "name": "Mr Murtaza Amirali",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2017-11-23",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-09",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEH19IA3",
+        "transaction_id": "MzQ5MzEyNTEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-06-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE5MRQRU",
+        "transaction_id": "MzQ3MTc4NDM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE5MROUG",
+        "transaction_id": "MzQ3MTc4MzkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE5MRKW0",
+        "transaction_id": "MzQ3MTc4Mjk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-06-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE5MRKL6",
+        "transaction_id": "MzQ3MTc4Mjk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDI9TB8R",
+        "transaction_id": "MzQ0ODMzMjI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHCWUY8",
+        "transaction_id": "MzQ0NjQ3MjM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCJB65RS",
+        "transaction_id": "MzQwNTc5NTY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCI6ASE1",
+        "transaction_id": "MzQwMzQxODczNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBJX1V4X",
+        "transaction_id": "MzM2NDAzOTU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBI9ZH2B",
+        "transaction_id": "MzM2MTE0NTcxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAJKB8YX",
+        "transaction_id": "MzMyMzk3MjY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAIAEUR6",
+        "transaction_id": "MzMyMTcxNzcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9WW7AC2",
+        "transaction_id": "MzI4OTU3MjQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9IZX9QP",
+        "transaction_id": "MzI4NDg4MjAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8JYDQEQ",
+        "transaction_id": "MzI1MTYyNTI3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X88X570Y",
+        "transaction_id": "MzIzODUwMDY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-25",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X844URO8",
+        "transaction_id": "MzIzMjg0MjA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7K2KTNE",
+        "transaction_id": "MzIyMTE2NTI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2017-11-23",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 13,
+        "barcode": "X6JR4IEW",
+        "transaction_id": "MzE5MDgzNzI3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 31
+  },
+  "enrichment": {
+    "website": "https://Legalytics.io",
+    "headcount": 31,
+    "tech_stack": [
+      "Intapp OnePlace",
+      "Intapp products",
+      "Elite 3E",
+      "Aderant Expert",
+      "BigHand",
+      "PowerBI",
+      "Microsoft Teams"
+    ],
+    "business_keywords": [
+      "lawyer dashboard",
+      "PowerBI analytics",
+      "visualisation",
+      "Intapp",
+      "PMS",
+      "data consultants",
+      "business intelligence",
+      "artificial intelligence",
+      "legal tech solutions",
+      "data management",
+      "enterprise data warehouse",
+      "document automation",
+      "DevOps",
+      "project management",
+      "risk management"
+    ],
+    "services": [
+      "Risk Management with NBI",
+      "Intapp & 3E Elite Consultation",
+      "Architecture Design & Support",
+      "DevOps Management",
+      "Project Management",
+      "Document Automation",
+      "Analytics & Visualisation",
+      "Product Management",
+      "Bespoke consulting services",
+      "Data driven legal solutions",
+      "Master data management",
+      "Enterprise data warehouse solutions",
+      "Business intelligence solutions",
+      "Artificial intelligence solutions",
+      "Integration with Intapp OnePlace and PMS",
+      "Support from product experts"
+    ],
+    "customer_segments": [
+      "law firms"
+    ],
+    "business_description": "Legalytics is an innovative provider of lawyer-friendly web applications, bespoke consulting services, and business intelligence analytics solutions tailored for law firms. The company integrates with key legal technology platforms to simplify data management, enhance business performance, and enable data-driven decision-making. Legalytics specializes in legal industry products and offers solutions like document automation, DevOps, and AI-driven insights.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:38:04.384Z"
+  },
+  "scraped_at": "2026-01-10T18:37:54.111Z",
+  "updated_at": "2026-01-10T18:38:04.384Z",
+  "version": 1
+}

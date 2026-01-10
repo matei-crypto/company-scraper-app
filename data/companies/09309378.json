@@ -1,0 +1,472 @@
+{
+  "company_name": "COVE GROUP LTD",
+  "company_number": "09309378",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-11-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "Bishopbrook House, Cathedral Avenue, Wells, Somerset, BA5 1FD, England",
+  "registered_address_structured": {
+    "address_line_1": "Bishopbrook House",
+    "address_line_2": "Cathedral Avenue",
+    "country": "England",
+    "locality": "Wells",
+    "postal_code": "BA5 1FD",
+    "region": "Somerset"
+  },
+  "sic_codes": [
+    "62090",
+    "82990"
+  ],
+  "previous_company_names": [
+    {
+      "name": "THE CAMPBELL GROUP OF COMPANIES LTD",
+      "ceased_on": "2023-09-28",
+      "effective_from": "2016-11-23"
+    },
+    {
+      "name": "HEALTHY TECHNOLOGIES LTD",
+      "ceased_on": "2016-11-23",
+      "effective_from": "2014-11-13"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-10",
+    "last_made_up_to": "2025-06-26",
+    "next_made_up_to": "2026-06-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAMPBELL, Emma Louise",
+        "officer_role": "director",
+        "appointed_on": "2014-11-13",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Dana",
+          "country": "United Kingdom",
+          "locality": "Shrewsbury",
+          "postal_code": "SY1 2HP",
+          "premises": "The Dana Prison",
+          "region": "Shropshire"
+        }
+      },
+      {
+        "name": "CAMPBELL, Joel Sebastian",
+        "officer_role": "director",
+        "appointed_on": "2016-01-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Dana",
+          "country": "England",
+          "locality": "Shrewsbury",
+          "postal_code": "SY1 2HP",
+          "premises": "The Dana Prison",
+          "region": "Shropshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Joel Sebastian Campbell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Dana",
+          "country": "England",
+          "locality": "Shrewsbury",
+          "postal_code": "SY1 2HP",
+          "premises": "The Dana Prison"
+        }
+      },
+      {
+        "name": "Mrs Emma Louise Campbell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Dana",
+          "country": "England",
+          "locality": "Shrewsbury",
+          "postal_code": "SY1 2HP",
+          "premises": "The Dana Prison"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "093093780002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-01-20",
+        "delivered_on": "2025-01-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "093093780001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-12-16",
+        "delivered_on": "2021-12-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE60K1G9",
+        "transaction_id": "MzQ3MjQ3NTU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDZ5N2HV",
+        "transaction_id": "MzQ2MDIyMDk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-01-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 60,
+        "barcode": "XDUUPUVU",
+        "transaction_id": "MzQ1MjM3ODM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD6K1IFM",
+        "transaction_id": "MzQyNzUxODc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCYDJBUW",
+        "transaction_id": "MzQxMzcyOTA2NWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-09-28",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XCCXL35C",
+        "transaction_id": "MzM5NDczMDQ1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC6NT1O8",
+        "transaction_id": "MzM4NDQ2NDkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBYW9374",
+        "transaction_id": "MzM3MTkwNTU2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBUHN8YW",
+        "transaction_id": "MzM2NDYzMDE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBUHN8R7",
+        "transaction_id": "MzM2NDYzMDA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBUHN8ZK",
+        "transaction_id": "MzM2NDYzMDA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBUHN8OQ",
+        "transaction_id": "MzM2NDYzMDA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB82N1ZS",
+        "transaction_id": "MzM0NTMzNjQyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB0UFEOO",
+        "transaction_id": "MzMzNDY3MTE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-20",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 83,
+        "barcode": "XAJPN5U5",
+        "transaction_id": "MzMyNDEyOTYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA86TTA2",
+        "transaction_id": "MzMwNjg0MTc2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9YJ4XIJ",
+        "transaction_id": "MzI5MTY5NDA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X996N81V",
+        "transaction_id": "MzI3Mjk4NDU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X91W87SB",
+        "transaction_id": "MzI2MTIxOTQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-07-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X89FK0HF",
+        "transaction_id": "MzIzOTAzODgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X7L17SRT",
+        "transaction_id": "MzIyMjQyMzU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7AS3OXK",
+        "transaction_id": "MzIxMDI5NDQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-06-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7954OFV",
+        "transaction_id": "MzIwODY2NzE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-06-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X7954E4R",
+        "transaction_id": "MzIwODY2Njg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2018-05-15",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A751WJ3F",
+        "transaction_id": "MzIwNDE5NjMyMWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Campbellgroupofcompanies.com",
+    "headcount": 10,
+    "tech_stack": [],
+    "business_keywords": [
+      "moving",
+      "relocation",
+      "mobility solutions",
+      "corporate relocation",
+      "long distance moving",
+      "employee relocation",
+      "property asset management",
+      "logistic solutions",
+      "cross border moving",
+      "international moving",
+      "local moving",
+      "legal support services",
+      "quality management",
+      "moving industry",
+      "relocation programs"
+    ],
+    "services": [
+      "moving services",
+      "long distance moving",
+      "employee relocation solutions",
+      "relocation management services",
+      "property asset management",
+      "legal support services",
+      "local moving",
+      "cross border moving",
+      "international moving"
+    ],
+    "customer_segments": [
+      "corporations",
+      "people",
+      "businesses",
+      "employees"
+    ],
+    "business_description": "Campbell Group of Companies provides advanced mobility solutions, including moving and relocation services for corporations and individuals. They offer long distance, cross border, and international moving, as well as employee relocation and property asset management services across Canada, the United States, and internationally.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:58:22.776Z"
+  },
+  "scraped_at": "2026-01-10T13:58:16.417Z",
+  "updated_at": "2026-01-10T13:58:22.776Z",
+  "version": 1
+}

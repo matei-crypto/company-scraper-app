@@ -1,0 +1,461 @@
+{
+  "company_name": "UNITY WORLD LTD",
+  "company_number": "10503317",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-11-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "Brunel House, Brunel Road, Middlesbrough, TS6 6JA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Brunel House",
+    "address_line_2": "Brunel Road",
+    "country": "United Kingdom",
+    "locality": "Middlesbrough",
+    "postal_code": "TS6 6JA"
+  },
+  "sic_codes": [
+    "47410",
+    "61900",
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "UNITY.WORLD, INC LTD.",
+      "ceased_on": "2021-08-16",
+      "effective_from": "2021-05-14"
+    },
+    {
+      "name": "UNITY GROUP INC. LTD.",
+      "ceased_on": "2021-05-14",
+      "effective_from": "2019-10-04"
+    },
+    {
+      "name": "UNITY TC LTD",
+      "ceased_on": "2019-10-04",
+      "effective_from": "2019-03-22"
+    },
+    {
+      "name": "END ASSESSMENT LTD",
+      "ceased_on": "2019-03-22",
+      "effective_from": "2016-11-30"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-16",
+    "last_made_up_to": "2025-01-02",
+    "next_made_up_to": "2026-01-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SCOTCHBROOK, Simon Colin",
+        "officer_role": "director",
+        "appointed_on": "2016-11-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brunel Road",
+          "country": "United Kingdom",
+          "locality": "Middlesbrough",
+          "postal_code": "TS6 6JA",
+          "premises": "Brunel House"
+        }
+      },
+      {
+        "name": "THOMPSON, David Ronald Tiplady",
+        "officer_role": "director",
+        "appointed_on": "2021-04-21",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1945,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Brunel Road",
+          "country": "United Kingdom",
+          "locality": "Middlesbrough",
+          "postal_code": "TS6 6JA",
+          "premises": "Brunel House"
+        }
+      },
+      {
+        "name": "SCOTCHBROOK, Carolyn Anne",
+        "officer_role": "director",
+        "appointed_on": "2017-08-01",
+        "resigned_on": "2019-03-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brunel Road",
+          "country": "United Kingdom",
+          "locality": "Middlesbrough",
+          "postal_code": "TS6 6JA",
+          "premises": "Brunel House"
+        }
+      },
+      {
+        "name": "SCOTCHBROOK, Gavin James",
+        "officer_role": "director",
+        "appointed_on": "2024-12-05",
+        "resigned_on": "2025-11-24",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brunel Road",
+          "country": "United Kingdom",
+          "locality": "Middlesbrough",
+          "postal_code": "TS6 6JA",
+          "premises": "Brunel House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Simon Colin Scotchbrook",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-11-30",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brunel Road",
+          "country": "United Kingdom",
+          "locality": "Middlesbrough",
+          "postal_code": "TS6 6JA",
+          "premises": "Brunel House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "105033170001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-29",
+        "delivered_on": "2020-07-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Si Ventures LLP"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-11-25",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEG1MKI9",
+        "transaction_id": "MzQ5MDgzMjQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE1F7TRC",
+        "transaction_id": "MzQ2NDIxMjQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "ADYTIFSR",
+        "transaction_id": "MzQ2MDE3MTQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDTFTD0S",
+        "transaction_id": "MzQ0OTg4MDM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-05",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDHCONKJ",
+        "transaction_id": "MzQ0NjIyOTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "AD67A96I",
+        "transaction_id": "MzQyNzM5MjcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4GJQ34",
+        "transaction_id": "MzQyNDA3MTIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "ACD2VY77",
+        "transaction_id": "MzM5NTY0NTg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC4QFZ40",
+        "transaction_id": "MzM4MTYxNDg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-11",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 13,
+        "barcode": "ABUJP1GW",
+        "transaction_id": "MzM2NTA1NzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBJESAM8",
+        "transaction_id": "MzM2MzQ1NjU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4F3DJN",
+        "transaction_id": "MzMzOTk2NTUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "AACZDXOY",
+        "transaction_id": "MzMxMzkxMjM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-08-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "XAAS5X41",
+        "transaction_id": "MzMxMDcwNTM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4Z38MZ",
+        "transaction_id": "MzMwMTg1MDIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-05-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "XA4DAMU2",
+        "transaction_id": "MzMwMTAyNDU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-22",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA2Y11XF",
+        "transaction_id": "MzI5ODYwMjgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 19,
+        "barcode": "A9DNMKI3",
+        "transaction_id": "MzI3ODE3Njk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-07-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "X98THP81",
+        "transaction_id": "MzI3MjY1NjcwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97BZPXE",
+        "transaction_id": "MzI2NzQzOTI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-10-04",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X8FDYWAQ",
+        "transaction_id": "MzI0NjAzNTk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-12",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X89KVR60",
+        "transaction_id": "MzIzOTIyNDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X822JSDE",
+        "transaction_id": "MzIzMDM4NTgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-03-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X822JQQY",
+        "transaction_id": "MzIzMDM4NTE5OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-03-22",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X81PFRYR",
+        "transaction_id": "MzIzMDA4NTA3OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 32,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Unity.world",
+    "headcount": 25,
+    "tech_stack": [],
+    "business_keywords": [
+      "B2B IT Support",
+      "Cloud Services",
+      "Telecommunications",
+      "Internet",
+      "VoIP",
+      "Hardware",
+      "Bespoke Software",
+      "Tech Shop",
+      "IT Solutions"
+    ],
+    "services": [
+      "B2B IT Support",
+      "Cloud Services",
+      "Telecommunications",
+      "Internet",
+      "VoIP",
+      "Hardware",
+      "Bespoke Software"
+    ],
+    "customer_segments": [
+      "B2B",
+      "UK businesses",
+      "North East businesses"
+    ],
+    "business_description": "Unity World delivers B2B IT support, cloud services, telecommunications, internet, VoIP, hardware, and bespoke software solutions. Based in Middlesbrough, the company serves businesses in the North East and across the UK, and also operates a tech shop offering top tech and trusted brands.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 19,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T16:54:47.901Z"
+  },
+  "scraped_at": "2026-01-10T16:54:40.452Z",
+  "updated_at": "2026-01-10T16:54:47.901Z",
+  "version": 1
+}

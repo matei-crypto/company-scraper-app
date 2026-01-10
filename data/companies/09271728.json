@@ -1,0 +1,411 @@
+{
+  "company_name": "CENTELLI LTD",
+  "company_number": "09271728",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-10-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "51 Moorgate, London, EC2R 6LL, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "51 Moorgate",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2R 6LL"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "INTELLIGERE360 LTD",
+      "ceased_on": "2017-02-02",
+      "effective_from": "2014-10-20"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-03",
+    "last_made_up_to": "2025-10-20",
+    "next_made_up_to": "2026-10-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GUPTA, Aneesh",
+        "officer_role": "director",
+        "appointed_on": "2014-10-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Moorgate",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2R 6LL",
+          "premises": "51"
+        }
+      },
+      {
+        "name": "GUPTA, Gauri",
+        "officer_role": "director",
+        "appointed_on": "2014-10-20",
+        "resigned_on": "2019-10-31",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Long Acre",
+          "address_line_2": "Covent Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2E 9RZ",
+          "premises": "90"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Aneesh Gupta",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-10-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Moorgate",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2R 6LL",
+          "premises": "51"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "insolvency": {
+    "cases": [],
+    "has_insolvency_history": false
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2026-01-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XET80YL4",
+        "transaction_id": "MzQ5ODA3NjQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2026-01-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XET80YUR",
+        "transaction_id": "MzQ5ODA3NjU1M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2026-01-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XET80XVS",
+        "transaction_id": "MzQ5ODA3NjE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDM5M03",
+        "transaction_id": "MzQ4NTc0NTc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE4I17RV",
+        "transaction_id": "MzQ2OTY2ODEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDEPKKTM",
+        "transaction_id": "MzQ0MTA4OTY5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDEPKKW2",
+        "transaction_id": "MzQ0MTA4OTgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-10-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDEPKEWW",
+        "transaction_id": "MzQ0MTA4ODMxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDEHTM5N",
+        "transaction_id": "MzQ0MDk2ODEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCXBG3XK",
+        "transaction_id": "MzQxMTg4NTEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCEVMEIQ",
+        "transaction_id": "MzM5Nzc5NjAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC8WVGYW",
+        "transaction_id": "MzM4ODE3MTg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBV36OX6",
+        "transaction_id": "MzM2NTYzOTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBV36P8O",
+        "transaction_id": "MzM2NTYzOTEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-01-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBV36O9V",
+        "transaction_id": "MzM2NTYzODkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBFL9597",
+        "transaction_id": "MzM1NjgzNjA0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB8QPBVU",
+        "transaction_id": "MzM0NjM0NDM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAFZAVSQ",
+        "transaction_id": "MzMxODI4MTkwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA86T061",
+        "transaction_id": "MzMwNjgzNTE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA6M3TDK",
+        "transaction_id": "MzMwNDMxOTYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-06-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA6M3TMJ",
+        "transaction_id": "MzMwNDMxOTU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA6M3T81",
+        "transaction_id": "MzMwNDMxOTQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9G3P5M2",
+        "transaction_id": "MzI4MTE4Njg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X99X1QX6",
+        "transaction_id": "MzI3Mzc1MDk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-01-02",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X8VS4CQI",
+        "transaction_id": "MzI1MzU5MzUwNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Centelli.com",
+    "headcount": 13,
+    "tech_stack": [
+      "UiPath (implied as 'World's leading RPA platform')",
+      "Soroco Scout AI",
+      "SAP S/4HANA",
+      "Centelli OS"
+    ],
+    "business_keywords": [
+      "AI",
+      "Automation",
+      "Business Intelligence",
+      "Intelligent Automation",
+      "RPA",
+      "Digital Workers",
+      "SAP S/4HANA Migration",
+      "AI-Powered Inbox Assistant",
+      "Process Automation",
+      "Data-Driven Decisions",
+      "Workflow Automation",
+      "HR Automation",
+      "Supply Chain Automation",
+      "Invoice Reconciliation",
+      "Mortgage Data Transfer Automation"
+    ],
+    "services": [
+      "Intelligent Automation",
+      "AI-enabled automation or Digital Workers deployment",
+      "Sector-specific AI-led tools deployment",
+      "Business Intelligence solutions",
+      "SAP S/4HANA migration",
+      "AI and Automation in HR",
+      "Automated invoice reconciliation",
+      "Mortgage data transfer process automation",
+      "Purchase order system automation",
+      "Guest booking and gym membership management automation",
+      "AI-powered inbox assistant (CommsIQ)"
+    ],
+    "customer_segments": [
+      "Insurance",
+      "Finance",
+      "Healthcare",
+      "Manufacturing",
+      "Logistics",
+      "Hospitality",
+      "Construction",
+      "Automotive",
+      "Leading businesses across industries",
+      "HR teams",
+      "Specialist banks"
+    ],
+    "business_description": "Centelli is a provider of AI, automation, and business intelligence solutions, helping businesses eliminate manual processes, improve efficiency, and make data-driven decisions. They offer services such as intelligent automation, AI deployment, SAP S/4HANA migration, and business intelligence solutions to leading brands across various industries.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:49:34.077Z"
+  },
+  "scraped_at": "2026-01-10T13:49:26.264Z",
+  "updated_at": "2026-01-10T13:49:34.077Z",
+  "version": 1
+}

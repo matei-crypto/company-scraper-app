@@ -1,0 +1,418 @@
+{
+  "company_name": "TALENTDESK LIMITED",
+  "company_number": "10769129",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-05-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 Fleet Pl, London Ec4m 7rd, Fleet Place, London, EC4M 7RD, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "5 Fleet Pl, London Ec4m 7rd",
+    "address_line_2": "Fleet Place",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4M 7RD"
+  },
+  "sic_codes": [
+    "62090",
+    "63120"
+  ],
+  "previous_company_names": [
+    {
+      "name": "PPH ENTERPRISE SOLUTIONS LIMITED",
+      "ceased_on": "2022-03-23",
+      "effective_from": "2017-05-13"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-09",
+    "last_made_up_to": "2025-05-26",
+    "next_made_up_to": "2026-05-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "THRASYVOULOU, Xenios",
+        "officer_role": "director",
+        "appointed_on": "2017-05-13",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Fleet Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7RD",
+          "premises": "5 Fleet Pl, London Ec4m 7rd"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Talentdesk Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-02-26",
+        "address": {
+          "address_line_1": "Fleet Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7RD",
+          "premises": "5 Fleet Pl, London Ec4m 7rd"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Register Of Companies",
+          "registration_number": "12570043"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "107691290001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-10-24",
+        "delivered_on": "2019-10-28",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2024-03-15",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE7D8GYO",
+        "transaction_id": "MzQ3NDkxMzM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-06-04",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE3Z8X7M",
+        "transaction_id": "MzQ2ODgzNTQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE3TZETS",
+        "transaction_id": "MzQ2ODY1NzgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-06-02",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XE3TZCBS",
+        "transaction_id": "MzQ2ODY1NzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-02-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "ADWCWYNS",
+        "transaction_id": "QURXQ1dZTlNhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "ADWCWYO0",
+        "transaction_id": "MzQ1NTA0NTg1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD4Z7OKP",
+        "transaction_id": "MzQyNDc0Mzg5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-28",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XCZA2RYP",
+        "transaction_id": "MzQxNTQ4MjIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-26",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "ACZB278Y",
+        "transaction_id": "MzQxNTc5MjM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCZFMGDS",
+        "transaction_id": "MzQxNTgxNTI1MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-15",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCYWOQ7E",
+        "transaction_id": "MzQxNDY5MTA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC6YQFI4",
+        "transaction_id": "MzM4NDk4NzU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBZSK1FV",
+        "transaction_id": "MzM3MzQyMDAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 2,
+        "barcode": "ABCG41SP",
+        "transaction_id": "MzM1MTg1OTA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XB1DAEWB",
+        "transaction_id": "MzMzNTQxMDUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-03-23",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XB0BD780",
+        "transaction_id": "MzMzMzgwMTY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-02-01",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUFXTDJaTVBhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-31",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "AAWL2ZN5",
+        "transaction_id": "MzMyODE0OTQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-31",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "AAWL2ZMX",
+        "transaction_id": "MzMyODE0OTQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA74TP8A",
+        "transaction_id": "MzMwNTA0NjY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA74TLMG",
+        "transaction_id": "MzMwNTA0NTgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA30V0I1",
+        "transaction_id": "MzI5ODc3MjU4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X98G5Z54",
+        "transaction_id": "MzI3MjI0MjYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X96W6OKP",
+        "transaction_id": "MzI2NzAzMTM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-10-28",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "X8H2HIJK",
+        "transaction_id": "MzI0NzgwODI3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 31,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Talentdesk.io",
+    "headcount": 9,
+    "tech_stack": [
+      "Open API"
+    ],
+    "business_keywords": [
+      "freelancer management",
+      "vendor management",
+      "external workforce management",
+      "contractor management",
+      "payments automation",
+      "onboarding workflows",
+      "global compliance",
+      "Agent of Record (AOR)",
+      "IC classification",
+      "AML checks",
+      "KYC verification",
+      "project tracking",
+      "workforce flexibility",
+      "customizable operating system",
+      "freelancer directory"
+    ],
+    "services": [
+      "End-to-end freelancer management system",
+      "Centralized vendor and freelancer management",
+      "Customizable onboarding workflows",
+      "Payments automation in 190+ countries and 55+ currencies",
+      "Global compliance and risk mitigation (IC classification, AML checks, KYC verification)",
+      "Agent of Record (AOR) service for contract creation and signing",
+      "Contract management for external workforce",
+      "Project tracking and milestone monitoring",
+      "Expenditure tracking without spreadsheets",
+      "Consolidated contractor invoicing",
+      "Open API for integration with existing processes",
+      "Workflow management for time, tasks, and budgets",
+      "Accounting tool integrations",
+      "Freelancer sourcing and vetting (TalentMarket)"
+    ],
+    "customer_segments": [
+      "Companies with external workforces (freelancers, contractors, vendors)",
+      "Operations teams",
+      "HR teams",
+      "Procurement teams",
+      "Finance teams",
+      "Startups",
+      "Small and medium businesses experiencing growth",
+      "Companies with fragmented contractor data or vendor silos"
+    ],
+    "business_description": "TalentDesk Limited provides an end-to-end freelancer and vendor management system that centralizes and automates external workforce processes, including onboarding, project tracking, payments, and compliance. The platform unifies freelancers, contractors, and vendors into a single system to improve visibility, reduce administrative burden, and optimize spending. It also offers global payments automation, risk mitigation, and customizable workflows for businesses managing non-permanent staff.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:36:52.821Z"
+  },
+  "scraped_at": "2026-01-10T17:36:43.472Z",
+  "updated_at": "2026-01-10T17:36:52.820Z",
+  "version": 1
+}

@@ -1,0 +1,460 @@
+{
+  "company_name": "ORPHEUS CYBER LIMITED",
+  "company_number": "10499131",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-11-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 Appold Street, London, London, EC2A 2AP, England",
+  "registered_address_structured": {
+    "address_line_1": "9 Appold Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 2AP",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SHELFCO LIMITED",
+      "ceased_on": "2017-04-03",
+      "effective_from": "2016-11-28"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-18",
+    "last_made_up_to": "2025-08-04",
+    "next_made_up_to": "2026-08-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CHURCH, Rupert Oliver",
+        "officer_role": "director",
+        "appointed_on": "2017-04-03",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Appold Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2Z 4BH",
+          "premises": "9"
+        }
+      },
+      {
+        "name": "LOPES, Harry Marcus George",
+        "officer_role": "director",
+        "appointed_on": "2017-04-03",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "9 Appold Street",
+          "region": "London"
+        }
+      },
+      {
+        "name": "BLACKMORE, Steven John",
+        "officer_role": "director",
+        "appointed_on": "2016-11-28",
+        "resigned_on": "2017-04-03",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Churchill Way",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 2DX",
+          "premises": "16"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Rupert Oliver Church",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-11-28",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "9 Appold Street",
+          "region": "London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "104991310002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-08-04",
+        "delivered_on": "2025-08-08",
+        "particulars": {
+          "type": "brief-description",
+          "description": "For more information please refer to clause 2 of the charging document.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Funding Circle Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "104991310001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-01-26",
+        "delivered_on": "2021-02-17",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Innovate UK Loans Limited"
+          }
+        ],
+        "satisfied_on": "2024-03-06",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEATAGUR",
+        "transaction_id": "MzQ4MDQ1NjI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-08-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XE8HWBND",
+        "transaction_id": "MzQ3NjY1MDM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 9,
+        "barcode": "XE89G3GX",
+        "transaction_id": "MzQ3NjA5NDczN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDXPRJOX",
+        "transaction_id": "MzQ1NzM4NDc5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDAL452I",
+        "transaction_id": "MzQzMzkzNzQyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD75L2XK",
+        "transaction_id": "MzQyODM4NjkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD75L2TT",
+        "transaction_id": "MzQyODM4NjkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD6PJKM2",
+        "transaction_id": "MzQyNzc3NzUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCZFID0H",
+        "transaction_id": "MzQxNTc3OTA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-06",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCYAUT8Z",
+        "transaction_id": "MzQxMzYwMDY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUX3WQZ",
+        "transaction_id": "MzQwNzkyMDEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCGZ7V1M",
+        "transaction_id": "MzQwMTQ3MDg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC0BQ902",
+        "transaction_id": "MzM3NDUxNzU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBGRWXLC",
+        "transaction_id": "MzM1ODM1ODQzN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-09-22",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 29,
+        "barcode": "YBCOH1NV",
+        "transaction_id": "MzM1MjEyNTkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-09-22",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUJDT0daWjdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-09-16",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "XBCOGXTI",
+        "transaction_id": "MzM1MjEyNDc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1QWRPC",
+        "transaction_id": "MzMzNjAxMjc5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAIT9K02",
+        "transaction_id": "MzMyMjY5OTk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-10-07",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 7,
+        "barcode": "AAE9GF3D",
+        "transaction_id": "MzMxNjMzOTAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XA12OF29",
+        "transaction_id": "MzI5NTY4ODcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-02-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "X9YJ4ZPU",
+        "transaction_id": "MzI5MTY5NDU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-07",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "A9H1OIUW",
+        "transaction_id": "MzI4MjYxMDI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-06-15",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A96TBQY9",
+        "transaction_id": "MzI2NzE5MTEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X96AS5RV",
+        "transaction_id": "MzI2NjI4Mzk2MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 46,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Orpheus-cyber.com",
+    "headcount": 24,
+    "tech_stack": [],
+    "business_keywords": [
+      "cyber risk scores",
+      "cyber risk management",
+      "threat intelligence",
+      "external attack surface management",
+      "third party risk management",
+      "cyber insurance solutions",
+      "risk based vulnerability management",
+      "cyber threat intelligence",
+      "regulatory compliance",
+      "predictive intelligence",
+      "machine learning",
+      "continuous monitoring",
+      "shadow IT",
+      "DORA",
+      "NIS2",
+      "ISO 27001",
+      "Orpheus Vulnerability Severity Score (OVSS)"
+    ],
+    "services": [
+      "External Attack Surface Management",
+      "Third Party Risk Management",
+      "Cyber Insurance Solutions",
+      "Risk Based Vulnerability Management",
+      "Cyber Threat Intelligence",
+      "Regulatory Compliance"
+    ],
+    "customer_segments": [
+      "major organisations worldwide",
+      "organisations relying on critical assets",
+      "organisations with supply chains"
+    ],
+    "business_description": "Orpheus Cyber delivers independently verified cyber risk scores proven to predict real-world cyber incidents. The company helps organisations protect critical assets, anticipate threats, build resilience, and reduce risk using threat intelligence, machine learning, and continuous monitoring. Their solutions include external attack surface management, third-party risk management, and regulatory compliance mapping.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T16:54:20.363Z"
+  },
+  "scraped_at": "2026-01-10T16:54:07.449Z",
+  "updated_at": "2026-01-10T16:54:20.363Z",
+  "version": 1
+}

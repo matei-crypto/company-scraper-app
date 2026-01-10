@@ -1,0 +1,405 @@
+{
+  "company_name": "TECH HUB (NORTH WEST) LTD",
+  "company_number": "10026123",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-02-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "7 Beeston Court, Stuart Road, Manor Park, Runcorn, WA7 1SS, England",
+  "registered_address_structured": {
+    "address_line_1": "7 Beeston Court, Stuart Road",
+    "address_line_2": "Manor Park",
+    "country": "England",
+    "locality": "Runcorn",
+    "postal_code": "WA7 1SS"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-15",
+    "last_made_up_to": "2025-02-01",
+    "next_made_up_to": "2026-02-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HUDSON, Ian James",
+        "officer_role": "director",
+        "appointed_on": "2024-08-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beeston Court, Stuart Road",
+          "address_line_2": "Manor Park",
+          "country": "England",
+          "locality": "Runcorn",
+          "postal_code": "WA7 1SS",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "PRESCOTT, Richard",
+        "officer_role": "director",
+        "appointed_on": "2016-02-25",
+        "resigned_on": "2024-08-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Knowlys Drive",
+          "address_line_2": "Heysham",
+          "country": "England",
+          "locality": "Morecambe",
+          "postal_code": "LA3 2PD",
+          "premises": "9"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Hudson Hill Consulting Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-08-02",
+        "address": {
+          "address_line_1": "Beeston Court Stuart Road",
+          "address_line_2": "Manor Road",
+          "country": "England",
+          "locality": "Runcorn",
+          "postal_code": "WA7 1SS",
+          "premises": "7"
+        },
+        "identification": {
+          "legal_form": "Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales",
+          "registration_number": "05204952"
+        }
+      },
+      {
+        "name": "Mr Richard Prescott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-08-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Beeston Court, Stuart Road",
+          "address_line_2": "Manor Park",
+          "country": "England",
+          "locality": "Runcorn",
+          "postal_code": "WA7 1SS",
+          "premises": "7"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "100261230001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-08-02",
+        "delivered_on": "2024-08-12",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tc Loans Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEIKJKX4",
+        "transaction_id": "MzQ5NzA3MzAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDYZZWQO",
+        "transaction_id": "MzQ1OTgxNTUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDIKI1T6",
+        "transaction_id": "MzQ0ODcyMTk2N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-08-12",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 49,
+        "barcode": "XD9BN8IP",
+        "transaction_id": "MzQzMTg3NTYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-07",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD90TS1U",
+        "transaction_id": "MzQzMTQ3NzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-08-07",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD90TQMH",
+        "transaction_id": "MzQzMTQ3NzIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD90TP1T",
+        "transaction_id": "MzQzMTQ3Njk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-07",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XD90TO0B",
+        "transaction_id": "MzQzMTQ3NjczNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD90TJPS",
+        "transaction_id": "MzQzMTQ3NTczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW9JDE9",
+        "transaction_id": "MzQwOTkwMDE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCIV68AJ",
+        "transaction_id": "MzQwNTIwNDMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWIBB1F",
+        "transaction_id": "MzM2ODA5MTQ1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBISN70R",
+        "transaction_id": "MzM2MTkwNDgzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWYMNCA",
+        "transaction_id": "MzMyODY0NTEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAJY3BIH",
+        "transaction_id": "MzMyNDYxOTcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA1GECCW",
+        "transaction_id": "MzI5NjUzNzk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9YWHCN7",
+        "transaction_id": "MzI5MjI1OTU2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZGJUJT",
+        "transaction_id": "MzI1ODA1MDcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8KJW2K0",
+        "transaction_id": "MzI1MjQ3MTQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X802JENL",
+        "transaction_id": "MzIyNzgzMDkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7L9L3PU",
+        "transaction_id": "MzIyMjc5NDk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7139F6G",
+        "transaction_id": "MzE5OTI1MjM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "A6K7YEJ6",
+        "transaction_id": "MzE5MTgwMjEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-11-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6K97PY3",
+        "transaction_id": "MzE5MTQzMTgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-03-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X623QGN7",
+        "transaction_id": "MzE3MDk2MjMyMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Rp-itservices.co.uk",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T15:47:23.762Z",
+  "scraped_at": "2026-01-10T15:47:23.762Z"
+}

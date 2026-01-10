@@ -1,0 +1,412 @@
+{
+  "company_name": "ROCKANDREW LIMITED",
+  "company_number": "09940785",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-01-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "1 Dudley Road, Ashford, TW15 2LE, England",
+  "registered_address_structured": {
+    "address_line_1": "1 Dudley Road",
+    "country": "England",
+    "locality": "Ashford",
+    "postal_code": "TW15 2LE"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": true,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-30",
+    "next_accounts_period_end_on": "2026-03-30",
+    "next_accounts_period_start_on": "2025-03-31",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-02",
+    "last_made_up_to": "2025-04-18",
+    "next_made_up_to": "2026-04-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COCHRANE, Andrew James",
+        "officer_role": "director",
+        "appointed_on": "2017-01-12",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dudley Road",
+          "country": "England",
+          "locality": "Ashford",
+          "postal_code": "TW15 2LE",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "COCHRANE, Carolyn Mary",
+        "officer_role": "director",
+        "appointed_on": "2025-02-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dudley Road",
+          "country": "England",
+          "locality": "Ashford",
+          "postal_code": "TW15 2LE",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "NILSKI, Simon John",
+        "officer_role": "director",
+        "appointed_on": "2016-01-07",
+        "resigned_on": "2017-01-20",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dudley Road",
+          "country": "England",
+          "locality": "Ashford",
+          "postal_code": "TW15 2LE",
+          "premises": "1"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Rad Group Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-02-23",
+        "address": {
+          "address_line_1": "Mulberry Green",
+          "country": "England",
+          "locality": "Harlow",
+          "postal_code": "CM17 0ET",
+          "premises": "10-12"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "10964400"
+        }
+      },
+      {
+        "name": "Mr Andrew James Cochrane",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-75-to-100-percent",
+          "voting-rights-75-to-100-percent-as-firm",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-01-12",
+        "ceased_on": "2019-02-23",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dudley Road",
+          "country": "England",
+          "locality": "Ashford",
+          "postal_code": "TW15 2LE",
+          "premises": "1"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "099407850001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-05-22",
+        "delivered_on": "2025-05-28",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Vantage Capital (Holdings) Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-05-28",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 35,
+        "barcode": "XE3ISGQR",
+        "transaction_id": "MzQ2ODEwNDAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XE17D8F7",
+        "transaction_id": "MzQ2NDAyNTcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE11ELBM",
+        "transaction_id": "MzQ2MzQ2NjM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDWQFPUG",
+        "transaction_id": "MzQ1NTY4MDI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD75WDY8",
+        "transaction_id": "MzQyODUzNzAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1UAB3D",
+        "transaction_id": "MzQxOTgyMDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC8WLFGR",
+        "transaction_id": "MzM4ODA4OTkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3DT9C0",
+        "transaction_id": "MzM3OTM1NzM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBJ65X89",
+        "transaction_id": "MzM2MjgzNzM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4F2CAX",
+        "transaction_id": "MzMzOTk1NjY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAJSJWWO",
+        "transaction_id": "MzMyNDI5MzY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4YZUDU",
+        "transaction_id": "MzMwMTgyMDc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X97HBOHL",
+        "transaction_id": "MzI2NzY0MTYyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9462BVT",
+        "transaction_id": "MzI2Mzc2Mzc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8XBROCO",
+        "transaction_id": "MzI1NTUwODYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-31",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8LIEO0J",
+        "transaction_id": "MzI1MzQ5MjQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-12-12",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X8K6EWH6",
+        "transaction_id": "MzI1MTk4NjgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X83MSMZ6",
+        "transaction_id": "MzIzMjQwNjY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X83K30HK",
+        "transaction_id": "MzIzMjI5Njg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-17",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X83K2Z9M",
+        "transaction_id": "MzIzMjI5NjU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80TISG8",
+        "transaction_id": "MzIyODkxMTg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7Z9RJC0",
+        "transaction_id": "MzIyNzAwMzYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X70DRKGP",
+        "transaction_id": "MzE5ODUzMjQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2017-12-19",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzE5MzEzMzk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X6LKJJ54",
+        "transaction_id": "MzE5MzEzMzQzOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 32,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 22
+  },
+  "enrichment": {
+    "website": "https://It-rad.co.uk",
+    "headcount": 22,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T15:35:07.724Z",
+  "scraped_at": "2026-01-10T15:35:07.724Z"
+}

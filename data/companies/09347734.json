@@ -1,0 +1,412 @@
+{
+  "company_name": "BIBIMONEY LTD",
+  "company_number": "09347734",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-12-09",
+  "jurisdiction": "england-wales",
+  "registered_address": "250 Lower High Street, Watford, WD17 2DB, England",
+  "registered_address_structured": {
+    "address_line_1": "250 Lower High Street",
+    "country": "England",
+    "locality": "Watford",
+    "postal_code": "WD17 2DB"
+  },
+  "sic_codes": [
+    "58290",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BIBITEL LIMITED",
+      "ceased_on": "2016-11-08",
+      "effective_from": "2014-12-09"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-17",
+    "last_made_up_to": "2025-11-03",
+    "next_made_up_to": "2026-11-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JESSA, Shiraz",
+        "officer_role": "director",
+        "appointed_on": "2014-12-09",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Jessa House",
+          "country": "England",
+          "locality": "Luton",
+          "postal_code": "LU1 1TR",
+          "premises": "Digitech Solution"
+        }
+      },
+      {
+        "name": "FAFOWORA, Stephen Olufemi",
+        "officer_role": "director",
+        "appointed_on": "2016-05-13",
+        "resigned_on": "2016-08-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Finway",
+          "locality": "Luton",
+          "postal_code": "LU1 1TR",
+          "premises": "Unit1"
+        }
+      },
+      {
+        "name": "THOMAS, Deborah Ann",
+        "officer_role": "director",
+        "appointed_on": "2016-11-24",
+        "resigned_on": "2022-04-12",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Finway",
+          "locality": "Luton",
+          "postal_code": "LU1 1TR",
+          "premises": "Unit1"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "FAFOWORA, Stephen",
+        "officer_role": "secretary",
+        "appointed_on": "2021-09-08",
+        "address": {
+          "address_line_1": "Lower High Street",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD17 2DB",
+          "premises": "250"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Bibimoney Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-10-13",
+        "address": {
+          "address_line_1": "Lower High Street",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD17 2DB",
+          "premises": "250 Lower High Street, Watford"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales",
+          "registration_number": "06473080"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "093477340001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-30",
+        "delivered_on": "2023-10-30",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Abbas M. Jessa"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEJ3FCH",
+        "transaction_id": "MzQ4NzI2OTU3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1Y4OIR",
+        "transaction_id": "MzQ2NTAzNTQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDZGJ1YY",
+        "transaction_id": "MzQ2MDcyNzU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDZ8GP0P",
+        "transaction_id": "MzQ2MDQ0MzczNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD81WPA0",
+        "transaction_id": "MzQyOTk2ODkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1BA59U",
+        "transaction_id": "MzQxODgzNTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-30",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 8,
+        "barcode": "ACZIOQTD",
+        "transaction_id": "MzQxNjI0MTMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-06",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCYAY1DK",
+        "transaction_id": "MzQxMzYzMTc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XCF92VTU",
+        "transaction_id": "MzM5ODI3ODkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-25",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCCRY3TF",
+        "transaction_id": "MzM5NDI2MDE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0P7IWZ",
+        "transaction_id": "MzM3NDk5ODU2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBG1PBBD",
+        "transaction_id": "MzM1NzU3MzA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBDHXJ1E",
+        "transaction_id": "MzM1MzQwNDk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB1TBHSG",
+        "transaction_id": "MzMzNTk4NTYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAVGQIAP",
+        "transaction_id": "MzMyNjI3MzM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-02",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 14,
+        "barcode": "AAG1AJPV",
+        "transaction_id": "MzMxODQ4NDEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XADYQ1ZE",
+        "transaction_id": "MzMxNTI0NTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-20",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XADFWVSB",
+        "transaction_id": "MzMxNDMyODEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XEVXIO",
+        "transaction_id": "MzI5MDE2NzAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9B5RV6W",
+        "transaction_id": "MzI3NDk1ODA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8J2E6EB",
+        "transaction_id": "MzI1MDMyODUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X8EVDJYZ",
+        "transaction_id": "MzI0NTQ1Nzk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-08-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8C7WSDU",
+        "transaction_id": "MzI0MjA5MTUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7JJNC1T",
+        "transaction_id": "MzIyMDI5NTA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-10-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7GQL13S",
+        "transaction_id": "MzIxNzE4NTEzNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 45,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Bibitel.com",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T14:04:34.354Z",
+  "scraped_at": "2026-01-10T14:04:34.354Z"
+}

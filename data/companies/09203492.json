@@ -1,0 +1,562 @@
+{
+  "company_name": "DYNAMIC SEARCH SOLUTIONS LTD",
+  "company_number": "09203492",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-09-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "Ground Floor, 14 Castle Street, Liverpool, Merseyside, L2 0NE, England",
+  "registered_address_structured": {
+    "address_line_1": "Ground Floor",
+    "address_line_2": "14 Castle Street",
+    "country": "England",
+    "locality": "Liverpool",
+    "postal_code": "L2 0NE",
+    "region": "Merseyside"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "IT ELITE LIMITED",
+      "ceased_on": "2014-12-18",
+      "effective_from": "2014-09-04"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-22",
+    "next_accounts_period_end_on": "2024-12-29",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-18",
+    "last_made_up_to": "2025-09-04",
+    "next_made_up_to": "2026-09-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LAW, Adam Alexander",
+        "officer_role": "director",
+        "appointed_on": "2014-09-04",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "14 Castle Street",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L2 0NE",
+          "premises": "Ground Floor",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "MARKS, John Alexander",
+        "officer_role": "director",
+        "appointed_on": "2014-09-28",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "14 Castle Street",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L2 0NE",
+          "premises": "Ground Floor",
+          "region": "Merseyside"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "LAW, Albert",
+        "officer_role": "secretary",
+        "appointed_on": "2014-09-04",
+        "resigned_on": "2018-04-01",
+        "address": {
+          "address_line_1": "Pacific Chambers Building",
+          "address_line_2": "11-13 Victoria Street",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L2 5QQ",
+          "premises": "Suite 1, Floor 2"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Adam Alexander Law",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "14 Castle Street",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L2 0NE",
+          "premises": "Ground Floor",
+          "region": "Merseyside"
+        }
+      },
+      {
+        "name": "Mr John Alexander Marks",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "14 Castle Street",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L2 0NE",
+          "premises": "Ground Floor",
+          "region": "Merseyside"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "092034920005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-10-19",
+        "delivered_on": "2021-10-21",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Debenture.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hitachi Capital (UK) PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "092034920004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-09-13",
+        "delivered_on": "2019-09-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "satisfied_on": "2024-11-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "092034920003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-01-30",
+        "delivered_on": "2019-02-07",
+        "particulars": {
+          "type": "brief-description",
+          "description": "N/A.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Handelsbanken PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "092034920002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-01-22",
+        "delivered_on": "2016-02-09",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All freehold and leasehold land and buildings of the chargor both at the date of the charge and future and all trade fixtures and fittings and all plant and machinery from time to time in or on such land or buildings. All intellectual property at the date of the charge owned or at any time hereafter to be owned by the chargor.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Sme Invoice Finance Limited"
+          }
+        ],
+        "satisfied_on": "2017-07-05",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "092034920001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-04-15",
+        "delivered_on": "2015-04-17",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All monetary and all obligations and liabilities whether actual or contingent now or hereafter due owing or incurred by the company to or in favour of ultimate invoice finance limited, present or future, actual or contingent, liquidated or unliquidated, whether arising in or by contract, tort, restitution, assignment or breach of statutory duty and whether arising under the factoring agreement between ultimate invoice finance limited and the company or otherwise including (without prejudice to that generality) any such liability of the company by virtue of any assignment to ultimate invoice finance limited of any indebtedness incurred or to be incurred by the company for any supply of any goods or services to or any hiring by the company.. 1. by way of first fixed charge:. A) the freehold and leasehold property of the company both present and future and all trade fixtures and fittings and all plant and machinery from time to time in or on any such land or buildings;. B) all goodwill and unpaid/and/or uncalled capital of the company;. C) all stocks shares and securities and documents evidencing title to or the right to possession of any property at any time deposited with ultimate invoice finance limited and the property mentioned in such documents;. D) all intellectual property now owned or at any time hereafter to be owned by the company;. E) any debt (purchased or purported to be purchased by ultimate invoice finance limited pursuant to the factoring agreement between ultimate invoice finance limited and the company), of which the ownership fails to vest absolutely and effectively in ultimate invoice finance limited for any reason, together with the related rights pertaining to such debt and the proceeds of it;. F) all amounts of indebtedness now or at any time hereafter owing or becoming due to the company on any account whatsoever (together with their proceeds and the related rights pertaining thereto);. G) all amounts now or hereafter owing or becoming due to the company by ultimate invoice finance limited including (but not limited to) any amount retained by ultimate invoice finance limited under any provision of the factoring agreement between ultimate invoice finance limited and the company.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ultimate Invoice Finance LTD"
+          }
+        ],
+        "satisfied_on": "2015-07-28",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEHYXU74",
+        "transaction_id": "MzQ5NTc4MjY4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-29",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEC3E6N6",
+        "transaction_id": "MzQ4Mjk5MDYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAFXY9M",
+        "transaction_id": "MzQ3OTk2MTAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDFMDRE9",
+        "transaction_id": "MzQ0MjYzMjIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDCJH3FL",
+        "transaction_id": "MzQzNzU0MDMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDB994BC",
+        "transaction_id": "MzQzNDkyODIxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCCXGJ8Q",
+        "transaction_id": "MzM5NDYyODY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBT0L17",
+        "transaction_id": "MzM5MjU0NzAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1G2J42",
+        "transaction_id": "MzM3NjIxODg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC1G2I57",
+        "transaction_id": "MzM3NjIxODYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-12-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBIQ1JPF",
+        "transaction_id": "MzM2MTgxMTI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBCIY2H4",
+        "transaction_id": "MzM1MTg1MTA5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBC0GTEI",
+        "transaction_id": "MzM1MTEyMDkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAWYO2BT",
+        "transaction_id": "MzMyODY1ODIxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-02-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAWYO1UZ",
+        "transaction_id": "MzMyODY1ODExNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-02-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAWYO1D4",
+        "transaction_id": "MzMyODY1Nzk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-10-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 12,
+        "barcode": "XAFM0H4Q",
+        "transaction_id": "MzMxNzc2NDAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAFDRZAA",
+        "transaction_id": "MzMxNzI3MDExNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-24",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XADQO7K9",
+        "transaction_id": "MzMxNDg3NjI3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XACX58CO",
+        "transaction_id": "MzMxMzYzNTE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9EP1PGI",
+        "transaction_id": "MzI3OTI3MzE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DD476R",
+        "transaction_id": "MzI3NzQxODIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X96IUEQX",
+        "transaction_id": "MzI2NjU5NDEzMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X96IUD3U",
+        "transaction_id": "MzI2NjU5MzY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-09-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 60,
+        "barcode": "X8EMUYPK",
+        "transaction_id": "MzI0NDg5ODkyOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 49,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 30
+  },
+  "enrichment": {
+    "website": "https://Dynamicsearch.co.uk",
+    "headcount": 30,
+    "tech_stack": [
+      "SaaS Sales Software"
+    ],
+    "business_keywords": [
+      "IT recruitment",
+      "recruitment agency",
+      "executive search",
+      "IT talent",
+      "recruitment solutions",
+      "IT professionals",
+      "employers",
+      "personalised recruitment",
+      "bespoke search solution",
+      "dynamic recruitment services",
+      "specialist IT recruiters",
+      "UK recruitment",
+      "Europe recruitment",
+      "career advice",
+      "hiring solutions"
+    ],
+    "services": [
+      "tailored recruitment solutions",
+      "executive search solution",
+      "bespoke search solution",
+      "IT recruitment consulting",
+      "personalised recruitment services"
+    ],
+    "customer_segments": [
+      "IT professionals",
+      "employers",
+      "leading companies across the UK and Europe",
+      "jobseekers"
+    ],
+    "business_description": "Dynamic Search Solutions Ltd is an IT recruitment agency connecting top IT talent with leading companies across the UK and Europe. They provide personalised and bespoke recruitment services, including executive search solutions, tailored to the unique needs of both employers and jobseekers. The company focuses on building long-lasting business relationships through a professional and customer-centric approach.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:39:18.888Z"
+  },
+  "scraped_at": "2026-01-10T13:39:13.663Z",
+  "updated_at": "2026-01-10T13:39:18.888Z",
+  "version": 1
+}

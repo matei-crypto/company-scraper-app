@@ -1,0 +1,548 @@
+{
+  "company_name": "SOFTELLIGENCE UK LTD",
+  "company_number": "10614103",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-02-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "New Broad Street House, 35 New Broad Street, London, EC2M 1NH, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "New Broad Street House",
+    "address_line_2": "35 New Broad Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2M 1NH"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-11",
+    "last_made_up_to": "2025-01-28",
+    "next_made_up_to": "2026-01-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLIDARUS, Adrian",
+        "officer_role": "director",
+        "appointed_on": "2019-09-24",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "Romanian",
+        "country_of_residence": "Romania",
+        "address": {
+          "address_line_1": "35 New Broad Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 1NH",
+          "premises": "New Broad Street House"
+        }
+      },
+      {
+        "name": "KHEMKA, Rishabh",
+        "officer_role": "director",
+        "appointed_on": "2025-05-20",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1983,
+        "nationality": "Indian",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "35 New Broad Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 1NH",
+          "premises": "New Broad Street House"
+        }
+      },
+      {
+        "name": "GOODWIN, Gerald Alexander",
+        "officer_role": "director",
+        "appointed_on": "2017-02-10",
+        "resigned_on": "2019-11-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Royal Exchange Avenue",
+          "locality": "London",
+          "postal_code": "EC3V 3LT",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "SOFTELLIGENCE SRL",
+        "officer_role": "corporate-director",
+        "appointed_on": "2017-02-10",
+        "resigned_on": "2025-06-11",
+        "address": {
+          "address_line_1": "Building C, Floor 2",
+          "country": "Romania",
+          "locality": "Bucharest",
+          "postal_code": "000 000",
+          "premises": "Gara Herastrau 4d"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ai Altius Bidco Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-08-31",
+        "ceased_on": "2024-03-21",
+        "address": {
+          "address_line_1": "Central House, 20 Central Avenue",
+          "address_line_2": "St. Andrews Business Park",
+          "country": "England",
+          "locality": "Norwich",
+          "postal_code": "NR7 0HR",
+          "premises": "C/O Trustmoore (Uk) Limited"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "13763533"
+        }
+      },
+      {
+        "name": "Ai Altius Bidco Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-08-31",
+        "address": {
+          "address_line_1": "St. Andrews Business Park",
+          "country": "England",
+          "locality": "Norwich",
+          "postal_code": "NR7 0HR",
+          "premises": "C/O Trustmoore (Uk) Limited, Central House, 20"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "13763533"
+        }
+      },
+      {
+        "name": "Mr Adrian Blidarus",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-03-09",
+        "ceased_on": "2023-08-31",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "Romanian",
+        "country_of_residence": "Romania",
+        "address": {
+          "address_line_1": "35 New Broad Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 1NH",
+          "premises": "New Broad Street House"
+        }
+      },
+      {
+        "name": "Softelligence Srl",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-02-10",
+        "ceased_on": "2017-02-17",
+        "address": {
+          "address_line_1": "Building C, Floor 2",
+          "country": "Romania",
+          "locality": "Bucharest",
+          "postal_code": "000 000",
+          "premises": "Dara Herastrau 4d"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Oficiul Registrului Comertului",
+          "country_registered": "None",
+          "place_registered": "Romania",
+          "registration_number": "19333723"
+        }
+      },
+      {
+        "name": "Softelligence Srl",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-02-10",
+        "ceased_on": "2017-02-10",
+        "address": {
+          "address_line_1": "Building C, Floor 2",
+          "country": "Romania",
+          "locality": "Bucharest",
+          "postal_code": "020 334",
+          "premises": "Gara Herastrau 4d"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Romanian",
+          "country_registered": "Romania",
+          "place_registered": "Oficiul Registrului Comertului",
+          "registration_number": "19333723"
+        }
+      },
+      {
+        "name": "Mr Gerald Alexander Goodwin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-02-10",
+        "ceased_on": "2017-02-10",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Long Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1A 9ET",
+          "premises": "80-83"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-12-15",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEHHR9ZM",
+        "transaction_id": "MzQ5NDA2NTgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-07-08",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 44,
+        "barcode": "YE60L57D",
+        "transaction_id": "MzQ3MjQ4NDc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-07-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "YE60L57L",
+        "transaction_id": "WUU2MEw1N0xhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-03",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE60L6ZU",
+        "transaction_id": "MzQ3MjQ4NTE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-27",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XE3G5TNV",
+        "transaction_id": "MzQ2Nzk1ODkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDVLU5W8",
+        "transaction_id": "MzQ1MzQ2OTU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-13",
+        "description": "accounts-amended-with-accounts-type-small",
+        "type": "AAMD",
+        "pages": 12,
+        "barcode": "ADB6DXG0",
+        "transaction_id": "MzQzNTQ2OTM0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-27",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XD7LWIYY",
+        "transaction_id": "MzQyOTM0ODU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 17,
+        "barcode": "XD84SP00",
+        "transaction_id": "MzQzMDIzOTE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-18",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD7LWMLC",
+        "transaction_id": "MzQyOTM0OTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-18",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XD7LWKNM",
+        "transaction_id": "MzQyOTM0OTA1N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCZFLDPD",
+        "transaction_id": "MzQxNTgwNDM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-22",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCZFLDMX",
+        "transaction_id": "MzQxNTgwNDM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XCWI0V7N",
+        "transaction_id": "MzQxMDU4OTk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-25",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCEVOM3L",
+        "transaction_id": "MzM5NzgxNTg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-25",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCEVOLLV",
+        "transaction_id": "MzM5NzgxNTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XC6L2AVE",
+        "transaction_id": "MzM4NDMxMDgzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWVJ2E0",
+        "transaction_id": "MzM2ODQ3NjA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB58P6SO",
+        "transaction_id": "MzM0MTI1OTgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXHB5GB",
+        "transaction_id": "MzMyOTM4MzI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XA4WB7XN",
+        "transaction_id": "MzMwMTY2NDg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9X6Y6QQ",
+        "transaction_id": "MzI4OTk4MzY4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X98ANRW2",
+        "transaction_id": "MzI3MTk5NDkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X96DHOF5",
+        "transaction_id": "MzI2NjM4NTM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-03-27",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X91LRVA9",
+        "transaction_id": "MzI2MDkxMTE1MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Softelligence.net",
+    "headcount": 9,
+    "tech_stack": [
+      "Magento 2"
+    ],
+    "business_keywords": [
+      "digital product engineering",
+      "software engineering",
+      "AI",
+      "Agentic AI",
+      "AI-driven engineering",
+      "cloud",
+      "data",
+      "composable enterprises",
+      "platform modernization",
+      "AI-powered personalization",
+      "AI integration",
+      "cloud-native engineering",
+      "data transformation",
+      "intelligent operations",
+      "modular systems",
+      "human-AI collaboration",
+      "technology architecture"
+    ],
+    "services": [
+      "Core Agentic Services",
+      "Strategy & Design",
+      "Agent-Native Product Engineering",
+      "Core Modernization",
+      "Intelligent Operations",
+      "AI-Integrated Value Chains",
+      "technology- & experience-centric design & consulting services",
+      "cloud native engineering expertise",
+      "Data Transformation services",
+      "digital data-centric applications support",
+      "hybrid-cloud and cloud-native infrastructures support"
+    ],
+    "customer_segments": [
+      "innovative startups",
+      "rapidly scaling unicorns",
+      "large global enterprises",
+      "leading companies",
+      "technology leaders",
+      "business leaders",
+      "CIOs",
+      "CTOs"
+    ],
+    "business_description": "Encora provides tailored innovation software engineering solutions across leading-edge technologies, helping clients scale with AI, data, and cloud. The company acts as an orchestration and engineering partner for startups, unicorns, and global enterprises, enabling composable enterprises through AI-driven modernization, platform engineering, and agentic AI adoption. Encora focuses on accelerating product cycles and delivering AI-integrated value chains.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:09:18.628Z"
+  },
+  "scraped_at": "2026-01-10T17:09:10.331Z",
+  "updated_at": "2026-01-10T17:09:18.628Z",
+  "version": 1
+}

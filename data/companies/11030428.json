@@ -1,0 +1,492 @@
+{
+  "company_name": "RFH TRADING LIMITED",
+  "company_number": "11030428",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-10-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "Crompton House, 33-39 Bury Old Road, Bolton, BL2 2AY, England",
+  "registered_address_structured": {
+    "address_line_1": "Crompton House",
+    "address_line_2": "33-39 Bury Old Road",
+    "country": "England",
+    "locality": "Bolton",
+    "postal_code": "BL2 2AY"
+  },
+  "sic_codes": [
+    "46900",
+    "61900",
+    "62020",
+    "63110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ALMAS REFURBS LIMITED",
+      "ceased_on": "2023-06-13",
+      "effective_from": "2017-10-25"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-07-31",
+    "next_accounts_period_end_on": "2024-10-31",
+    "next_accounts_period_start_on": "2023-11-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2025-05-08",
+    "last_made_up_to": "2024-04-24",
+    "next_made_up_to": "2025-04-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARNES, Jordon Scott",
+        "officer_role": "director",
+        "appointed_on": "2025-01-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1996,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "33-39 Bury Old Road",
+          "country": "England",
+          "locality": "Bolton",
+          "postal_code": "BL2 2AY",
+          "premises": "Crompton House"
+        }
+      },
+      {
+        "name": "RIAZ, Waqas",
+        "officer_role": "director",
+        "appointed_on": "2023-09-18",
+        "resigned_on": "2025-01-02",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "33-39 Bury Old Road",
+          "country": "England",
+          "locality": "Bolton",
+          "postal_code": "BL2 2AY",
+          "premises": "Crompton House"
+        }
+      },
+      {
+        "name": "SULEMAN, Rauf",
+        "officer_role": "director",
+        "appointed_on": "2017-10-25",
+        "resigned_on": "2023-09-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Blackburn Road",
+          "country": "England",
+          "locality": "Accrington",
+          "postal_code": "BB5 1LL",
+          "premises": "82"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SULEMAN, Rauf",
+        "officer_role": "secretary",
+        "appointed_on": "2017-10-25",
+        "resigned_on": "2019-10-31",
+        "address": {
+          "country": "England",
+          "locality": "Accrington",
+          "postal_code": "BB5 0BA",
+          "premises": "77 Lower Antley Street"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Waqas Riaz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2023-09-19",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "33-39 Bury Old Road",
+          "country": "England",
+          "locality": "Bolton",
+          "postal_code": "BL2 2AY",
+          "premises": "Crompton House"
+        }
+      },
+      {
+        "name": "Mr Rauf Suleman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-10-25",
+        "ceased_on": "2023-09-19",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Blackburn Road",
+          "country": "England",
+          "locality": "Accrington",
+          "postal_code": "BB5 1LL",
+          "premises": "82"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "110304280002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-06-21",
+        "delivered_on": "2024-07-03",
+        "particulars": {
+          "type": "brief-description",
+          "description": "General fixed and floating charge over all assets of the company.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Finbiz Funding Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "110304280001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-09-18",
+        "delivered_on": "2019-09-27",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tallaght Financial LTD"
+          }
+        ],
+        "satisfied_on": "2020-07-02",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2025-07-22",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQ3NDQ2NzY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-07-22",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "transaction_id": "MzQ3MzE0MjcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDZ8ANGJ",
+        "transaction_id": "MzQ2MDM1NTAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDZ5KPS1",
+        "transaction_id": "MzQ2MDIwMTAwNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDZ5K6UW",
+        "transaction_id": "MzQ2MDE5NTgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-03",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 40,
+        "barcode": "XD6K0XC8",
+        "transaction_id": "MzQyNzUxMjQ3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1OWAF6",
+        "transaction_id": "MzQxOTU5MjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCYWIQX4",
+        "transaction_id": "MzQxNDY0MTU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCYWERW9",
+        "transaction_id": "MzQxNDU2NDUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-11",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCYO451L",
+        "transaction_id": "MzQxNDAyNDcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCYO4343",
+        "transaction_id": "MzQxNDAyNDI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCGGI2XC",
+        "transaction_id": "MzQwMDY3NzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCG7YYEZ",
+        "transaction_id": "MzM5OTcxMDg4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCFBOIV5",
+        "transaction_id": "MzM5ODM5Nzk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-31",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XCFBOI0H",
+        "transaction_id": "MzM5ODM5Nzg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-31",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCFBOG76",
+        "transaction_id": "MzM5ODM5NzQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-31",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCFBOG07",
+        "transaction_id": "MzM5ODM5NzIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCEFFKER",
+        "transaction_id": "MzM5NzAzOTM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCCH5014",
+        "transaction_id": "MzM5MzgzNDY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2023-06-13",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XC5MA8YZ",
+        "transaction_id": "MzM4Mjc0NTExNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-05-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC3R5TSX",
+        "transaction_id": "MzM3OTk1NjE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBUN0WP4",
+        "transaction_id": "MzM2NDgzOTkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBFIL3P4",
+        "transaction_id": "MzM1Njc0MDExOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB2EJEC8",
+        "transaction_id": "MzMzNjg5MTgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAKDPEAW",
+        "transaction_id": "MzMyNTEwNzAwOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 39,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "revenue": 3401225,
+    "ebitda": 391456,
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Almasrefurbs.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "WHEELUV Rim Protectors"
+    ],
+    "business_keywords": [
+      "alloy wheel refurbishment",
+      "diamond cut finish",
+      "wheel straightening",
+      "welding",
+      "powder coating",
+      "rim protectors",
+      "alloy wheels",
+      "curb damage repair",
+      "corrosion repair",
+      "vehicle customisation",
+      "window tinting",
+      "number plates",
+      "hydraulic machine",
+      "professional service",
+      "quick turnaround"
+    ],
+    "services": [
+      "Diamond Cutting",
+      "Powder Coating",
+      "Wheel Straightening",
+      "Welding",
+      "Rim Protectors installation"
+    ],
+    "customer_segments": [
+      "vehicle owners in Lancashire and beyond",
+      "customers seeking alloy wheel refurbishment",
+      "customers looking for vehicle customisation"
+    ],
+    "business_description": "ALMAS REFURBS specializes in professional alloy wheel refurbishment, offering services such as diamond cutting, powder coating, wheel straightening, and welding. The company provides a personal approach and quick turnaround to restore alloy wheels to a brand-new appearance, along with additional vehicle customisation options like rim protectors.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:28:44.242Z"
+  },
+  "scraped_at": "2026-01-10T18:28:37.487Z",
+  "updated_at": "2026-01-10T18:28:44.242Z",
+  "version": 1
+}

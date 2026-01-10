@@ -1,0 +1,354 @@
+{
+  "company_name": "FLUENT RETAIL (UK) LIMITED",
+  "company_number": "10710116",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-04-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "First Floor, West Wing Davidson House, Forbury Square, Reading, Berkshire, RG1 3EU, England",
+  "registered_address_structured": {
+    "address_line_1": "First Floor, West Wing Davidson House",
+    "address_line_2": "Forbury Square",
+    "country": "England",
+    "locality": "Reading",
+    "postal_code": "RG1 3EU",
+    "region": "Berkshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-18",
+    "last_made_up_to": "2025-04-04",
+    "next_made_up_to": "2026-04-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COVENEY, Darius Paul",
+        "officer_role": "director",
+        "appointed_on": "2021-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1975,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Harrington Street",
+          "country": "Australia",
+          "locality": "The Rocks",
+          "postal_code": "2000",
+          "premises": "5/68",
+          "region": "New South Wales"
+        }
+      },
+      {
+        "name": "JACKSON, Graham Edward",
+        "officer_role": "director",
+        "appointed_on": "2017-04-05",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1971,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Harrington Street",
+          "country": "Australia",
+          "locality": "The Rocks",
+          "postal_code": "2000",
+          "premises": "5/68",
+          "region": "New South Wales"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "107101160001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-02-08",
+        "delivered_on": "2024-02-12",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Not applicable.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Partners for Growth Vii, L.P. as Security Trustee for the Noteholders"
+          }
+        ],
+        "satisfied_on": "2025-12-24",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-12-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEI21N9U",
+        "transaction_id": "MzQ5NjIxNzMwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZRWD6I",
+        "transaction_id": "MzQ2MTQzMjQ1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ADUO8CVT",
+        "transaction_id": "MzQ1MjI0MzQyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0C2XP7",
+        "transaction_id": "MzQxNzEzOTI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-01",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "ACXOQAUG",
+        "transaction_id": "MzQxMjgwMDIxOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-02-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUNXRDhQQkthZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-14",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 14,
+        "barcode": "ACWD8PBS",
+        "transaction_id": "MzQxMDYzNjA5N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-02-12",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XCWPRXH2",
+        "transaction_id": "MzQxMDc1MDM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-17",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AC59GV8I",
+        "transaction_id": "MzM4MjQyMjkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC17VJCO",
+        "transaction_id": "MzM3NTczMjcyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-09",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "ABYSI9GW",
+        "transaction_id": "MzM3MTg3MTEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-09-13",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM1MTUxNTkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-08-30",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM0OTEzMjI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB46WM7S",
+        "transaction_id": "MzMzOTUwNDUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1AM54Z",
+        "transaction_id": "MzMzNTI3NTkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1AM5E0",
+        "transaction_id": "MzMzNTI3NTk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AA7P0Z0O",
+        "transaction_id": "MzMwNjYyMDAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XA5704VD",
+        "transaction_id": "MzMwMjA1OTAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1TPKD7",
+        "transaction_id": "MzI5Njg4MDg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "A970ZF75",
+        "transaction_id": "MzI2NzQ1NDk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X96DIF22",
+        "transaction_id": "MzI2NjQwNDE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A8ELVZ9T",
+        "transaction_id": "MzI0NTI0ODgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85DXHWQ",
+        "transaction_id": "MzIzNDI3NDYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X754C989",
+        "transaction_id": "MzIwNDAzNTQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-04-13",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X64B0IJ5",
+        "transaction_id": "MzE3MzU4MDc3M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 26,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 36
+  },
+  "enrichment": {
+    "headcount": 36,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T17:26:17.088Z",
+  "scraped_at": "2026-01-10T17:26:17.088Z"
+}

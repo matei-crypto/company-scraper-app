@@ -1,0 +1,525 @@
+{
+  "company_name": "ABSTRACT TECH LIMITED",
+  "company_number": "10741640",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-04-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "21 The Calls The Coachworks, 1st Floor, Harcourt House, Leeds, LS2 7EH, England",
+  "registered_address_structured": {
+    "address_line_1": "21 The Calls The Coachworks",
+    "address_line_2": "1st Floor, Harcourt House",
+    "country": "England",
+    "locality": "Leeds",
+    "postal_code": "LS2 7EH"
+  },
+  "sic_codes": [
+    "62020",
+    "78109"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-14",
+    "last_made_up_to": "2025-04-30",
+    "next_made_up_to": "2026-04-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MAJID, Abdul Minan",
+        "officer_role": "director",
+        "appointed_on": "2017-04-26",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ivy Grove",
+          "country": "England",
+          "locality": "Nabwood",
+          "postal_code": "BD18 4JZ",
+          "premises": "7",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "BELLAMY, Michael Paul",
+        "officer_role": "director",
+        "appointed_on": "2017-04-26",
+        "resigned_on": "2017-06-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cottingley Cliffe Road",
+          "country": "England",
+          "locality": "Cottingley",
+          "postal_code": "BD16 1UP",
+          "premises": "83",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "CLARKSON, James Malcolm",
+        "officer_role": "director",
+        "appointed_on": "2017-04-26",
+        "resigned_on": "2024-12-20",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Rushworth Close",
+          "address_line_2": "Stanley",
+          "country": "England",
+          "locality": "Wakefield",
+          "postal_code": "WF3 4JG",
+          "premises": "6",
+          "region": "West Yorkshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Abstract Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2022-06-29",
+        "address": {
+          "address_line_1": "The Calls",
+          "country": "England",
+          "locality": "Leeds",
+          "postal_code": "LS2 7EH",
+          "premises": "Harcourt House"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "14193160"
+        }
+      },
+      {
+        "name": "Mr Abdul Minan Majid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-04-26",
+        "ceased_on": "2022-06-29",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Ivy Grove",
+          "country": "England",
+          "locality": "Shipley",
+          "postal_code": "BD18 4JZ",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "Mr James Malcolm Clarkson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-04-26",
+        "ceased_on": "2022-06-29",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Rushworth Close",
+          "address_line_2": "Stanley",
+          "country": "England",
+          "locality": "Wakefield",
+          "postal_code": "WF3 4JG",
+          "premises": "6",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "Mr Michael Paul Bellamy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-04-26",
+        "ceased_on": "2017-06-08",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Saltaire",
+          "postal_code": "BD18 4PP",
+          "premises": "3 William Henry Street"
+        }
+      },
+      {
+        "name": "Mr Abdul Minan Majid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-04-26",
+        "ceased_on": "2017-04-26",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Saltaire",
+          "postal_code": "BD18 4PP",
+          "premises": "3 William Henry Street"
+        }
+      },
+      {
+        "name": "Mr James Malcolm Clarkson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-04-26",
+        "ceased_on": "2017-04-26",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Saltaire",
+          "postal_code": "BD18 4PP",
+          "premises": "3 William Henry Street"
+        }
+      },
+      {
+        "name": "Mr Michael Paul Bellamy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-04-26",
+        "ceased_on": "2017-04-26",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Cottingley Cliffe Road",
+          "country": "England",
+          "locality": "Cottingley",
+          "postal_code": "BD16 1UP",
+          "premises": "83",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "107416400001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-12-20",
+        "delivered_on": "2024-12-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Buzzy Group Limited"
+          }
+        ],
+        "satisfied_on": "2025-12-02",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-12-02",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEGKN41T",
+        "transaction_id": "MzQ5MTg4OTc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEBPP6Z7",
+        "transaction_id": "MzQ4MjMyMjAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE6GW1NF",
+        "transaction_id": "MzQ3MzIwMTEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1KSI8G",
+        "transaction_id": "MzQ2NDYyMTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1F562J",
+        "transaction_id": "MzQ2NDE4ODc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDVDYUEG",
+        "transaction_id": "MzQ1MzMwMTYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-12-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 42,
+        "barcode": "XDIKP0XM",
+        "transaction_id": "MzQ0ODc3OTc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-20",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDICQWYX",
+        "transaction_id": "MzQ0ODU4OTU3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD6EMKGI",
+        "transaction_id": "MzQyNzIxMTQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCVWAM3D",
+        "transaction_id": "MzQwOTUyMjIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6R0497",
+        "transaction_id": "MzM4NDg3MzQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBWCS6A2",
+        "transaction_id": "MzM2Nzc1Mjc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-10-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBDY1GHF",
+        "transaction_id": "MzM1NDAxMDI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB76FUA0",
+        "transaction_id": "MzM0NDEzMzk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-29",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB76FNH7",
+        "transaction_id": "MzM0NDEzMjU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-29",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB76FMZ5",
+        "transaction_id": "MzM0NDEzMjQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB76FLMO",
+        "transaction_id": "MzM0NDEzMjEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB46V0HT",
+        "transaction_id": "MzMzOTQ5MDQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAV3LXBE",
+        "transaction_id": "MzMyNTg4OTAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4QV1TV",
+        "transaction_id": "MzMwMTMzNjE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9WQRN55",
+        "transaction_id": "MzI4OTM5MDk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9VPIPGH",
+        "transaction_id": "MzI4NzkwNTgzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9VPIM0J",
+        "transaction_id": "MzI4NzkwNTAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9VPIC1P",
+        "transaction_id": "MzI4NzkwMjU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-07",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9VPFKDS",
+        "transaction_id": "MzI4Nzg3Nzc5MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Abstracttechgroup.com",
+    "headcount": 20,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T17:32:13.717Z",
+  "scraped_at": "2026-01-10T17:32:13.717Z"
+}

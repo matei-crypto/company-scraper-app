@@ -1,0 +1,486 @@
+{
+  "company_name": "STU3 LTD",
+  "company_number": "10714601",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-04-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "93 Elers Road, London, W13 9QE, England",
+  "registered_address_structured": {
+    "address_line_1": "93 Elers Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W13 9QE"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090",
+    "78200"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-12",
+    "last_made_up_to": "2025-03-29",
+    "next_made_up_to": "2026-03-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COLLEDGE, Ian Darrell",
+        "officer_role": "director",
+        "appointed_on": "2017-04-07",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Elers Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W13 9QE",
+          "premises": "93"
+        }
+      },
+      {
+        "name": "DOBSON, Daniel James",
+        "officer_role": "director",
+        "appointed_on": "2017-06-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hawthorn Grove",
+          "country": "England",
+          "locality": "Enfield",
+          "postal_code": "EN2 0DS",
+          "premises": "48",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "O'MEARA, James William",
+        "officer_role": "director",
+        "appointed_on": "2017-04-07",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Elers Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W13 9QE",
+          "premises": "93"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Stu3 Trustees Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-09-11",
+        "address": {
+          "address_line_1": "Elers Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W13 9QE",
+          "premises": "93"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House - United Kingdom",
+          "registration_number": "15931833"
+        }
+      },
+      {
+        "name": "Mr Daniel James Dobson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-06-01",
+        "ceased_on": "2024-09-11",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hawthorn Grove",
+          "country": "England",
+          "locality": "Enfield",
+          "postal_code": "EN2 0DS",
+          "premises": "48",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "Mr James William O'Meara",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-04-07",
+        "ceased_on": "2024-09-11",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Elers Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W13 9QE",
+          "premises": "93"
+        }
+      },
+      {
+        "name": "Mr Ian Darrell Colledge",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-04-07",
+        "ceased_on": "2024-09-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Elers Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W13 9QE",
+          "premises": "93"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEDRNPFC",
+        "transaction_id": "MzQ4NjA2MjQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XE02O962",
+        "transaction_id": "MzQ2MTgxMjAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-10-12",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 45,
+        "barcode": "YDCXFMCW",
+        "transaction_id": "MzQzODMzMTM2NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-10-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "barcode": "YDCXFMJ7",
+        "transaction_id": "WURDWEZNSjdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-12",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YDCXFMDV",
+        "transaction_id": "MzQzODMzMTM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDCXF73L",
+        "transaction_id": "MzQzODMyODA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDCXF6OR",
+        "transaction_id": "MzQzODMyODAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDCXF6Y6",
+        "transaction_id": "MzQzODMyODAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDCXF6Q3",
+        "transaction_id": "MzQzODMyODAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-03",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDAVWJK2",
+        "transaction_id": "MzQzNDMyMDgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD0EXP0E",
+        "transaction_id": "MzQxNzI5NzI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCZW6KFD",
+        "transaction_id": "MzQxNjYyMTgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCIVU9CY",
+        "transaction_id": "MzQwNTQ2OTYxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC248I3T",
+        "transaction_id": "MzM3NzM1NDI1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC248HAX",
+        "transaction_id": "MzM3NzM1NDExMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC248GMY",
+        "transaction_id": "MzM3NzM1Mzk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC1DF7SY",
+        "transaction_id": "MzM3NjE0MzAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC1DFDHN",
+        "transaction_id": "MzM3NjE0NDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC1DF4Q2",
+        "transaction_id": "MzM3NjE0MjE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1DF2OW",
+        "transaction_id": "MzM3NjE0MTQ4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC1DF2IR",
+        "transaction_id": "MzM3NjE0MTM4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1DF1BD",
+        "transaction_id": "MzM3NjE0MTAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC1DF09S",
+        "transaction_id": "MzM3NjE0MDcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC1DEZUQ",
+        "transaction_id": "MzM3NjE0MDcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC1DEMIB",
+        "transaction_id": "MzM3NjEzNzQ1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 52,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 24
+  },
+  "enrichment": {
+    "website": "https://Stu3.co.uk",
+    "headcount": 24,
+    "tech_stack": [
+      "Tribal SITS:Vision",
+      "SITS",
+      "Inspera"
+    ],
+    "business_keywords": [
+      "SITS consultancy",
+      "student record systems",
+      "HEI consultancy",
+      "student system support",
+      "data migration",
+      "data reporting",
+      "interfaces and integrations",
+      "curriculum and academic data",
+      "fees and funding",
+      "finance processes",
+      "student lifecycle",
+      "recruitment and admissions",
+      "project strategy",
+      "business analysis",
+      "technical architecture",
+      "testing and test management",
+      "training",
+      "documentation",
+      "early life support"
+    ],
+    "services": [
+      "Programme and project strategy",
+      "Planning and management",
+      "Business analysis",
+      "Technical architecture",
+      "Development",
+      "Testing and test management",
+      "Training",
+      "Documentation",
+      "Early life support",
+      "Ongoing support",
+      "Data migration",
+      "Data reporting",
+      "Interfaces and integrations",
+      "Curriculum and academic data management",
+      "Fees, funding and finance solutions",
+      "Student lifecycle system functionality development",
+      "Recruitment and admissions guidance and solutions",
+      "Full project delivery",
+      "Specialist resource provision for existing project teams"
+    ],
+    "customer_segments": [
+      "Higher Education Institutions (HEIs)"
+    ],
+    "business_description": "Stu3 provides independent expert consultancy services for Higher Education Institutions (HEIs) focused on student record keeping, particularly for the SITS:Vision system. The company delivers end-to-end project solutions or specialist resources, covering areas such as data migration, reporting, integrations, and student lifecycle management to ensure customer success and optimal return on investment.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:27:38.823Z"
+  },
+  "scraped_at": "2026-01-10T17:27:30.516Z",
+  "updated_at": "2026-01-10T17:27:38.823Z",
+  "version": 1
+}

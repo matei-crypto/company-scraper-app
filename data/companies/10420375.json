@@ -1,0 +1,492 @@
+{
+  "company_name": "WE ARE YOUR IT LIMITED",
+  "company_number": "10420375",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-10-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Mansion House Wrest Park, Silsoe, Bedford, Bedfordshire, MK45 4HR, England",
+  "registered_address_structured": {
+    "address_line_1": "The Mansion House Wrest Park",
+    "address_line_2": "Silsoe",
+    "country": "England",
+    "locality": "Bedford",
+    "postal_code": "MK45 4HR",
+    "region": "Bedfordshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-10",
+    "last_made_up_to": "2025-01-27",
+    "next_made_up_to": "2026-01-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GRANVILLE-FALL, Jonathan James",
+        "officer_role": "director",
+        "appointed_on": "2016-10-11",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Main Street",
+          "address_line_2": "Askham Bryan",
+          "country": "England",
+          "locality": "York",
+          "postal_code": "YO23 3QU",
+          "premises": "Field House"
+        }
+      },
+      {
+        "name": "FROST, Marc Jonathan",
+        "officer_role": "director",
+        "appointed_on": "2016-10-11",
+        "resigned_on": "2016-12-22",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Capability House",
+          "address_line_2": "Wrest Park",
+          "country": "England",
+          "locality": "Silsoe",
+          "postal_code": "MK45 4HS",
+          "premises": "Studio 6",
+          "region": "Beds"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "FROST, Marc",
+        "officer_role": "secretary",
+        "appointed_on": "2016-10-11",
+        "resigned_on": "2017-01-04",
+        "address": {
+          "address_line_1": "Capability House",
+          "address_line_2": "Wrest Park",
+          "country": "England",
+          "locality": "Silsoe",
+          "postal_code": "MK45 4HS",
+          "premises": "Studio 6",
+          "region": "Beds"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Jgf Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-06-14",
+        "address": {
+          "address_line_1": "Clifton Park Avenue",
+          "country": "United Kingdom",
+          "locality": "York",
+          "postal_code": "YO30 5PA",
+          "premises": "Equinox House",
+          "region": "North Yorkshire"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Uk Company Law",
+          "country_registered": "England And Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "13175315"
+        }
+      },
+      {
+        "name": "Mr Jonathan James Granville-Fall",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-12-31",
+        "ceased_on": "2021-06-14",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Main Street",
+          "address_line_2": "Askham Bryan",
+          "country": "England",
+          "locality": "York",
+          "postal_code": "YO23 3QU",
+          "premises": "2"
+        }
+      },
+      {
+        "name": "Mr Marc Jonathan Frost",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-10-11",
+        "ceased_on": "2016-12-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Capability House",
+          "country": "England",
+          "locality": "Silsoe",
+          "postal_code": "MK45 4HS",
+          "premises": "Studio 6"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "104203750001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-05-19",
+        "delivered_on": "2020-05-30",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEELNSIH",
+        "transaction_id": "MzQ4NzM1MzM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE1HVASO",
+        "transaction_id": "MzQ2NDM2MTQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDW2102H",
+        "transaction_id": "MzQ1NDIwMTcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDDIQUBT",
+        "transaction_id": "MzQzOTE3MDk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZI6YNN",
+        "transaction_id": "MzQxNTg3NTYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC2CCXRK",
+        "transaction_id": "MzM3Nzc3ODczM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZVEJPE",
+        "transaction_id": "MzM3MzY0ODA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-25",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 6,
+        "barcode": "ABF4UDUO",
+        "transaction_id": "MzM1NjQwNTI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB2XQOWY",
+        "transaction_id": "MzMzNzg4Mjc2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB0E3KK2",
+        "transaction_id": "MzMzMzgzNTY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-07-09",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 7,
+        "barcode": "AA74PGTU",
+        "transaction_id": "MzMwNzI2ODk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-02",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 4,
+        "barcode": "AA74PGVM",
+        "transaction_id": "MzMwNjQ1ODUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 3,
+        "barcode": "AA74PGRU",
+        "transaction_id": "MzMwNjQ1ODUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA3EBZ3L",
+        "transaction_id": "MzI5OTMzMzYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9X4DPPN",
+        "transaction_id": "MzI4OTkzNDQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-05-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X965HTV7",
+        "transaction_id": "MzI2NjE4NzQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-30",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X943FI54",
+        "transaction_id": "MzI2MzY5Nzg4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8XRNP22",
+        "transaction_id": "MzI1NjA2MTUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-10-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8GZYA55",
+        "transaction_id": "MzI0Nzc5MTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8AU0Y03",
+        "transaction_id": "MzI0MDcxMzMzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X802NQJM",
+        "transaction_id": "MzIyNzg4NTcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X79XVLH5",
+        "transaction_id": "MzIwOTU0OTUzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X70RWEND",
+        "transaction_id": "MzE5OTA2MzExNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-01-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5YYZW6O",
+        "transaction_id": "MzE2NzY1OTA2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-01-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X5YDSJMY",
+        "transaction_id": "MzE2Njg2MDYxM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Weareyourit.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "Microsoft products",
+      "Google Workspace"
+    ],
+    "business_keywords": [
+      "IT support",
+      "IT services",
+      "tech support",
+      "managed IT solutions",
+      "IT infrastructure",
+      "IT review",
+      "IT partner",
+      "cyber security",
+      "cloud services",
+      "network services",
+      "IT repairs",
+      "Wi-Fi",
+      "IT consultancy",
+      "business IT",
+      "strategic IT"
+    ],
+    "services": [
+      "Managed IT solutions",
+      "Ongoing tech support",
+      "Free IT review",
+      "Discovery call",
+      "IT infrastructure enhancement",
+      "IT onboarding",
+      "Migration from Google Workspace to Microsoft products",
+      "Remote IT support",
+      "Business IT consultancy",
+      "Cyber security",
+      "Cloud services",
+      "Network services",
+      "Wi-Fi services",
+      "IT repairs"
+    ],
+    "customer_segments": [
+      "Businesses in York",
+      "Businesses across the UK",
+      "Leisure & Hospitality",
+      "Holiday Parks",
+      "Hospitality",
+      "Businesses looking for strategic IT partners",
+      "Businesses seeking IT as a competitive advantage"
+    ],
+    "business_description": "We Are Your IT Limited provides managed, cost-effective IT solutions, services, and ongoing tech support to businesses. They focus on enhancing IT infrastructure, improving productivity, solving IT problems, and setting businesses up for growth through strategic IT partnerships and fully managed IT services.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 22,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T16:42:39.096Z"
+  },
+  "scraped_at": "2026-01-10T16:42:31.227Z",
+  "updated_at": "2026-01-10T16:42:39.096Z",
+  "version": 1
+}

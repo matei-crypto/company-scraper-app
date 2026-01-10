@@ -1,0 +1,523 @@
+{
+  "company_name": "MONEK LIMITED",
+  "company_number": "09767332",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-09-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Sterling House, F2/F3 Davidson Road, Lichfield, WS14 9DZ, England",
+  "registered_address_structured": {
+    "address_line_1": "Sterling House",
+    "address_line_2": "F2/F3 Davidson Road",
+    "country": "England",
+    "locality": "Lichfield",
+    "postal_code": "WS14 9DZ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-06-30",
+    "next_accounts_period_end_on": "2024-06-30",
+    "next_accounts_period_start_on": "2023-07-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-06-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-30",
+    "last_made_up_to": "2025-04-16",
+    "next_made_up_to": "2026-04-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CARROLL, Miles Scott",
+        "officer_role": "director",
+        "appointed_on": "2015-09-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "F2/F3 Davidson Road",
+          "care_of": "Monek Group Limited",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "Sterling House"
+        }
+      },
+      {
+        "name": "MICHAEL, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2017-04-11",
+        "resigned_on": "2020-12-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Davidson Road",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "Innovation House"
+        }
+      },
+      {
+        "name": "NICHOLLS, Stephen",
+        "officer_role": "director",
+        "appointed_on": "2023-08-01",
+        "resigned_on": "2025-11-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "F2/F3 Davidson Road",
+          "care_of": "Monek Group Limited",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "Sterling House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "NICHOLLS, Stephen",
+        "officer_role": "secretary",
+        "appointed_on": "2023-08-01",
+        "address": {
+          "address_line_1": "F2/F3 Davidson Road",
+          "care_of": "Monek Group Limited",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "Sterling House"
+        }
+      },
+      {
+        "name": "RANA, Sash",
+        "officer_role": "secretary",
+        "appointed_on": "2019-09-21",
+        "resigned_on": "2023-08-01",
+        "address": {
+          "address_line_1": "Davidson Road",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "F2 & F3 City Wharf"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Monek Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-02-27",
+        "address": {
+          "address_line_1": "Davidson Road",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "Innovation House"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "Registered Office",
+          "registration_number": "11091040"
+        }
+      },
+      {
+        "name": "Mr Miles Scott Carroll",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-09-07",
+        "ceased_on": "2018-02-27",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Davidson Road",
+          "country": "England",
+          "locality": "Lichfield",
+          "postal_code": "WS14 9DZ",
+          "premises": "Innovation House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "097673320002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-20",
+        "delivered_on": "2023-10-31",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Including all future and present freehold and leasehold property owned by the chargor together with all buildings, structures, fixtures and fittings thereon (including all trade and tenant's fixtures). All present and future patents, patent applications, trade marks and service marks (whether registered or not), copyrights and all other intellectual property rights and all other rights relating thereto legally or beneficially owned by the chargor.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Triple Point Advancr Leasing PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "097673320001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-03-17",
+        "delivered_on": "2021-03-30",
+        "particulars": {
+          "type": "brief-description",
+          "description": "N/A.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Handelsbanken PLC"
+          }
+        ],
+        "satisfied_on": "2023-10-20",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "gazette",
+        "date": "2026-01-10",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "transaction_id": "MzQ5ODI3ODQxMWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2026-01-06",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ5Njc0NDA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-30",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEGFASKR",
+        "transaction_id": "MzQ5MTY2Mzg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0LO7SX",
+        "transaction_id": "MzQ2MjkyNzY4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-15",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "XDU99MVD",
+        "transaction_id": "MzQ1MTI0NTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD18IMYX",
+        "transaction_id": "MzQxODcwMzAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-31",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 25,
+        "barcode": "XCFBNQHD",
+        "transaction_id": "MzM5ODM5MTYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-20",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCEKSOV5",
+        "transaction_id": "MzM5NzI4ODU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC9VJFXS",
+        "transaction_id": "MzM4OTQ2OTgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC9VJFLE",
+        "transaction_id": "MzM4OTQ2OTYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-08-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC9VJF23",
+        "transaction_id": "MzM4OTQ2OTQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-14",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XC9VIF9U",
+        "transaction_id": "MzM4OTQ2MDIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC9VIERK",
+        "transaction_id": "MzM4OTQ2MDA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-08-14",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XC9VIDH5",
+        "transaction_id": "MzM4OTQ1OTY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-05",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC2SOENC",
+        "transaction_id": "MzM3ODU3MDc0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1QO2TL",
+        "transaction_id": "MzM3NjY5MjQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "XBDNB0OR",
+        "transaction_id": "MzM1MzY2NDM1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2BXIGW",
+        "transaction_id": "MzMzNjc3MzI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-03-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB0GRW00",
+        "transaction_id": "MzMzMzk3ODE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-10-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAF3F620",
+        "transaction_id": "MzMxNzA2MzUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XADYVJ5S",
+        "transaction_id": "MzMxNTI5NjEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3EE0IJ",
+        "transaction_id": "MzI5OTM1MDg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-03-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 21,
+        "barcode": "XA1DDTS2",
+        "transaction_id": "MzI5NjE4ODY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-12-15",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9JYIE6J",
+        "transaction_id": "MzI4NjAxNTgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-05",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X94DXAS1",
+        "transaction_id": "MzI2MzkzMjg4OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 46,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Monek.com",
+    "headcount": 15,
+    "tech_stack": [
+      "Visa",
+      "MasterCard",
+      "PayPal",
+      "Pay-By-Link"
+    ],
+    "business_keywords": [
+      "payments",
+      "payment solutions",
+      "payment gateways",
+      "transaction processing",
+      "e-commerce integration",
+      "multi-currency processing",
+      "enterprise-grade security",
+      "reporting tools",
+      "mobile management",
+      "face-to-face payments",
+      "online payments",
+      "Pay-By-Link",
+      "EPOS solutions",
+      "acquiring",
+      "API integration",
+      "payment devices",
+      "BI & analytics"
+    ],
+    "services": [
+      "Face To Face Payments",
+      "Online Payments (website and Pay-By-Link)",
+      "EPOS Solutions",
+      "Acquiring (FCA regulated)",
+      "API integration for checkout experiences",
+      "Enterprise payment solutions",
+      "Support for multiple payment methods (Visa, MasterCard, PayPal)",
+      "Mobile platform management",
+      "Enterprise reporting and analytics",
+      "Customisable checkouts",
+      "Seamless e-commerce platform integration",
+      "Multi-currency processing",
+      "Advanced reporting tools"
+    ],
+    "customer_segments": [
+      "small to medium businesses",
+      "startups",
+      "multinational corporations",
+      "government agencies",
+      "local merchants",
+      "enterprise",
+      "resellers"
+    ],
+    "business_description": "Monek Group provides bespoke payment solutions for businesses of all sizes, from startups and small to medium enterprises to multinational corporations and government agencies. The company offers flexible, scalable, and secure payment processing services, including face-to-face payments, online payments, EPOS solutions, and API integration, along with enterprise-grade security and advanced reporting tools.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T15:08:42.845Z"
+  },
+  "scraped_at": "2026-01-10T15:08:25.928Z",
+  "updated_at": "2026-01-10T15:08:42.845Z",
+  "version": 1
+}

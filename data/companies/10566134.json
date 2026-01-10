@@ -1,0 +1,417 @@
+{
+  "company_name": "THE IIRTH COMPANY LTD",
+  "company_number": "10566134",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-01-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "2nd Floor, 255-259 Commercial Rd,, London, E1 2BT, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "2nd Floor, 255-259 Commercial Rd,",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E1 2BT"
+  },
+  "sic_codes": [
+    "18140",
+    "62090",
+    "73120"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-01-31",
+    "next_accounts_period_start_on": "2024-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-01-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-25",
+    "last_made_up_to": "2025-01-11",
+    "next_made_up_to": "2026-01-11"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ISLAM, Raihan-Ul",
+        "officer_role": "director",
+        "appointed_on": "2017-01-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1996,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "24 Holborn Viaduct",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1A 2BN",
+          "premises": "International House"
+        }
+      },
+      {
+        "name": "ISLAM, Bakhtiyar",
+        "officer_role": "director",
+        "appointed_on": "2017-01-16",
+        "resigned_on": "2024-01-15",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "33 Rookwood Way",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E3 2XT",
+          "premises": "Studio 82"
+        }
+      },
+      {
+        "name": "ISLAM, Shahed-Ul",
+        "officer_role": "director",
+        "appointed_on": "2017-01-16",
+        "resigned_on": "2017-12-05",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1993,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "24 Holborn Viaduct",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1A 2BN",
+          "premises": "International House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Raihan-Ul Islam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2025-02-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1996,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "255-259 Commercial Rd,",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 2BT",
+          "premises": "2nd Floor,"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-02-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDWYJH01",
+        "transaction_id": "MzQ1NjA3OTM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-02-22",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XDWYJE5V",
+        "transaction_id": "MzQ1NjA3ODc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDUPAU4X",
+        "transaction_id": "MzQ1MjA1NDc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDDTEO9E",
+        "transaction_id": "MzQzOTYxMzUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCWVCSTE",
+        "transaction_id": "MzQxMTIyODQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCVLHJE8",
+        "transaction_id": "MzQwOTExMTE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCVLHJ81",
+        "transaction_id": "MzQwOTExMTA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCVLHJ0A",
+        "transaction_id": "MzQwOTExMTA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVGF4V0",
+        "transaction_id": "MzM2NjI3ODQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-12-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBJXDHKY",
+        "transaction_id": "MzM2NDE5Mjk2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB6T0Z8W",
+        "transaction_id": "MzM0MzUzMzI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAVGTLBD",
+        "transaction_id": "MzMyNjMwMzk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XA3BIG9K",
+        "transaction_id": "MzI5OTEwMjg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XXTK15",
+        "transaction_id": "MzI5MDk3MTY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9BB67YQ",
+        "transaction_id": "MzI3NTE2MjQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X96AN6WQ",
+        "transaction_id": "MzI2NjIzNzk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-06-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X96AN1Q4",
+        "transaction_id": "MzI2NjIzNjgzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8X92BIP",
+        "transaction_id": "MzI1NTM3MzUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X8C5BD8H",
+        "transaction_id": "MzI0MjAzMjUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7ZMTG2A",
+        "transaction_id": "MzIyNzMwOTQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7GLLKFT",
+        "transaction_id": "MzIxNzAzMjA0MWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2018-04-11",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzIwMjIyOTkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X73JPD8A",
+        "transaction_id": "MzIwMjIyOTgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2018-04-10",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzIwMTMzNDIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-02-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6Z58QYG",
+        "transaction_id": "MzE5NzAwNjgyNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Theiirthcompany.com",
+    "headcount": 8,
+    "tech_stack": [
+      "WordPress"
+    ],
+    "business_keywords": [
+      "branding",
+      "web design",
+      "digital marketing",
+      "tech solutions",
+      "content creation",
+      "strategy",
+      "photography studio",
+      "logo design",
+      "stationery design",
+      "signage",
+      "social media promotion",
+      "outdoor signage",
+      "print material",
+      "digital products consulting",
+      "business modelling",
+      "customer acquisition",
+      "WordPress websites",
+      "fashion photography",
+      "portraiture",
+      "editorials",
+      "e-commerce photography"
+    ],
+    "services": [
+      "branding",
+      "web design and development",
+      "content creation (photoshoots, videos, animations)",
+      "digital marketing",
+      "strategy (digital products consulting, business modelling, customer acquisition)",
+      "studio space rental for photography (fashion, portraiture, editorials, e-commerce)",
+      "social media promotion",
+      "outdoor signage",
+      "print material production"
+    ],
+    "customer_segments": [
+      "start-ups",
+      "established businesses seeking brand refresh",
+      "brands of all sizes",
+      "businesses needing digital presence overhaul",
+      "fashion industry clients",
+      "e-commerce businesses",
+      "photography clients (fashion, portraiture, editorials)"
+    ],
+    "business_description": "The iirth Company is a branding and web design studio based in London with offices in Riyadh, specializing in creating industry-leading brands and building bespoke websites. They offer services including branding, web design, content creation, digital marketing, strategy consulting, and studio space for photography, helping businesses grow through impactful digital solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:04:28.779Z"
+  },
+  "scraped_at": "2026-01-10T17:04:18.548Z",
+  "updated_at": "2026-01-10T17:04:28.779Z",
+  "version": 1
+}

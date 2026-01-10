@@ -1,0 +1,413 @@
+{
+  "company_name": "NEWFORMA UK LTD",
+  "company_number": "09745976",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-08-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "30 Old Bailey, London, EC4M 7AU, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "30 Old Bailey",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4M 7AU"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-06",
+    "last_made_up_to": "2025-08-23",
+    "next_made_up_to": "2026-08-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MURRAY, Kevin",
+        "officer_role": "director",
+        "appointed_on": "2019-09-05",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1972,
+        "nationality": "Canadian",
+        "country_of_residence": "Canada",
+        "address": {
+          "address_line_1": "Elm Street 9th Floor",
+          "country": "United States",
+          "locality": "Manchester",
+          "postal_code": "03104",
+          "premises": "1750",
+          "region": "New Hampshire"
+        }
+      },
+      {
+        "name": "DEZENZO, JR., Raymond William",
+        "officer_role": "director",
+        "appointed_on": "2015-08-24",
+        "resigned_on": "2019-07-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1957,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "St Katharine's Way",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1W 1DD",
+          "premises": "Tower Bridge House"
+        }
+      },
+      {
+        "name": "HOWELL, Ian",
+        "officer_role": "director",
+        "appointed_on": "2015-08-24",
+        "resigned_on": "2017-07-25",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1953,
+        "nationality": "Australia",
+        "country_of_residence": "Usa",
+        "address": {
+          "address_line_1": "47-48 Berners Street",
+          "care_of": "C/O Jag Shaw Baker",
+          "locality": "London",
+          "postal_code": "W1T 3NF",
+          "premises": "Berners House"
+        }
+      },
+      {
+        "name": "PHILP, Brock Steven",
+        "officer_role": "director",
+        "appointed_on": "2017-07-26",
+        "resigned_on": "2024-10-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1965,
+        "nationality": "Canadian",
+        "country_of_residence": "Canada",
+        "address": {
+          "address_line_1": "Elm Street 9th Floor",
+          "country": "United States",
+          "locality": "Manchester",
+          "postal_code": "03104",
+          "premises": "1750",
+          "region": "New Hampshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Newforma Emea Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Old Bailey",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7AU",
+          "premises": "30"
+        },
+        "identification": {
+          "legal_form": "Ltd",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "The Registrar Of Companies For England And Wales",
+          "registration_number": "9745372"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAD3VC1",
+        "transaction_id": "MzQ3OTgwNTU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-10",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "XE4FGWOA",
+        "transaction_id": "MzQ2OTU0NTAzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDW4UXDL",
+        "transaction_id": "MzQ1NDQ4NjcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDB1CCOZ",
+        "transaction_id": "MzQzNDY0NTA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-09",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "XD93RUDC",
+        "transaction_id": "MzQzMTcxNzQ3MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD7J4A9K",
+        "transaction_id": "MzQyOTIwNzM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD7J4A7C",
+        "transaction_id": "MzQyOTIwNzM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "XCD0FD3N",
+        "transaction_id": "MzM5NDgzMjIwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCB2C9HU",
+        "transaction_id": "MzM5MTQ2MDU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCAGUMLU",
+        "transaction_id": "MzM5MDQwMzYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "ABJDJO4I",
+        "transaction_id": "MzM2MzkxMTQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBBMY1VU",
+        "transaction_id": "MzM1MDQ3NDQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB3DNDO0",
+        "transaction_id": "MzMzODQxMTgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "AAKHDUFU",
+        "transaction_id": "MzMyNTc2MTQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XABQULKZ",
+        "transaction_id": "MzMxMjAzMDQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XABQUISP",
+        "transaction_id": "MzMxMjAyOTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-29",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "X9X71LFK",
+        "transaction_id": "MzI5MDAyMDkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9I3UUHT",
+        "transaction_id": "MzI4Mzc3OTM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9I3PCJ4",
+        "transaction_id": "MzI4MzczMDI1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9I3PCND",
+        "transaction_id": "MzI4MzczMDIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-26",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "X8ESIEGQ",
+        "transaction_id": "MzI0NTI4NzMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-05",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8DE4TEO",
+        "transaction_id": "MzI0MzU3MjM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-05",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X8DE4SNJ",
+        "transaction_id": "MzI0MzU3MjE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DE45WI",
+        "transaction_id": "MzI0MzU2NzM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-24",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "A7EZKOAO",
+        "transaction_id": "MzIxNTIwMjk2NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "revenue": 1569592,
+    "ebitda": 81622,
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Newforma.com",
+    "headcount": 14,
+    "tech_stack": [],
+    "business_keywords": [
+      "information management",
+      "AEC project visibility",
+      "files management",
+      "emails management",
+      "conversations management",
+      "connected information management platform",
+      "project management",
+      "AEC information management"
+    ],
+    "services": [
+      "centralizing files, emails, and conversations into one connected information management platform"
+    ],
+    "customer_segments": [
+      "Architects",
+      "Engineers",
+      "General Contractors",
+      "AEC (Architecture, Engineering, and Construction)"
+    ],
+    "business_description": "Newforma provides a connected information management platform that centralizes files, emails, and conversations to offer full project visibility for the AEC (Architecture, Engineering, and Construction) industry.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T15:04:24.937Z"
+  },
+  "scraped_at": "2026-01-10T15:04:21.262Z",
+  "updated_at": "2026-01-10T15:04:24.937Z",
+  "version": 1
+}

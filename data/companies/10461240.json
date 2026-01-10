@@ -1,0 +1,464 @@
+{
+  "company_name": "SENSIZE LIMITED",
+  "company_number": "10461240",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-11-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "Future Business Centre, Kings Hedges Road, Cambridge, CB4 2HY, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Future Business Centre",
+    "address_line_2": "Kings Hedges Road",
+    "country": "United Kingdom",
+    "locality": "Cambridge",
+    "postal_code": "CB4 2HY"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-11",
+    "last_made_up_to": "2025-11-27",
+    "next_made_up_to": "2026-11-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "D'ARCY, Luke John",
+        "officer_role": "director",
+        "appointed_on": "2016-11-03",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Kings Hedges Road",
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB4 2HY",
+          "premises": "Future Business Centre"
+        }
+      },
+      {
+        "name": "MACMULLEN, Neil Patrick",
+        "officer_role": "director",
+        "appointed_on": "2018-08-20",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Hedges Road",
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB4 2HY",
+          "premises": "Future Business Centre"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Neil Patrick Macmullen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-03-15",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Kings Hedges Road",
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB4 2HY",
+          "premises": "Future Business Centre"
+        }
+      },
+      {
+        "name": "Mr Luke John D'Arcy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-11-03",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Kings Hedges Road",
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB4 2HY",
+          "premises": "Future Business Centre"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "104612400002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-03-31",
+        "delivered_on": "2021-04-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Innovate UK Loans Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "104612400001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-03-14",
+        "delivered_on": "2018-03-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "University of East Anglia, as Operator of the Low Carbon Innovation Fund"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEG79C0Q",
+        "transaction_id": "MzQ5MTM0NDUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEERCJXK",
+        "transaction_id": "MzQ4NzcwMDEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE8V2Y6R",
+        "transaction_id": "MzQ3NzA2NTU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDGLKJ5T",
+        "transaction_id": "MzQ0NDgwMTQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDALBOFF",
+        "transaction_id": "MzQzMzk5Nzg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCURMXHV",
+        "transaction_id": "MzQwNzQ4MTgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-04",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XCTY7KFL",
+        "transaction_id": "MzQwNjM4NjE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-03",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XCTVLDI3",
+        "transaction_id": "MzQwNjI1NTY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-19",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 5,
+        "barcode": "ACIA4ALF",
+        "transaction_id": "MzQwNDgxNDQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCB2GX22",
+        "transaction_id": "MzM5MTQ5Njk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-18",
+        "description": "confirmation-statement",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBH0FDLE",
+        "transaction_id": "MzM1OTAyNzE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBBK564X",
+        "transaction_id": "MzM1MDI5MzA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XAIQOPK3",
+        "transaction_id": "MzMyMjU5NzcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XAIQO223",
+        "transaction_id": "MzMyMjU5MjE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAC13M9F",
+        "transaction_id": "MzMxMjI1ODMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-04-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "XA1WF7QH",
+        "transaction_id": "MzI5NzA0MzkxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9HQI2OW",
+        "transaction_id": "MzI4MzM0ODQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X91LN7GZ",
+        "transaction_id": "MzI2MDc4MzUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8I6M22N",
+        "transaction_id": "MzI0OTMwNDg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "A89FI2TN",
+        "transaction_id": "MzIzOTM5NTc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-06-21",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 7,
+        "barcode": "A86Y2WNT",
+        "transaction_id": "MzIzNzQ4MDYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "miscellaneous",
+        "date": "2019-06-21",
+        "description": "legacy",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "A86Y2WNL",
+        "transaction_id": "MzIzNzQ3ODYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X7WMF4QY",
+        "transaction_id": "MzIyMzg2OTM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-01-07",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X7WMF3MR",
+        "transaction_id": "MzIyMzg2OTE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-01-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X7WMF2PC",
+        "transaction_id": "MzIyMzg2OTAwOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 33,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Sensize.net",
+    "headcount": 9,
+    "tech_stack": [
+      "Bluetooth technology",
+      "Cellular network"
+    ],
+    "business_keywords": [
+      "circular economy",
+      "plastic packaging",
+      "wireless tracking",
+      "reusable containers",
+      "supply chain visibility",
+      "asset tracking",
+      "Bluetooth technology",
+      "parent/child tracking system",
+      "GPS-like tracking",
+      "load carriers",
+      "container pooling",
+      "cold-chain containers",
+      "cellular network",
+      "Bluetooth-based technology",
+      "patent-pending technology"
+    ],
+    "services": [
+      "Wireless tracking for reusable containers",
+      "Supply chain visibility and control",
+      "Container tracking system deployment",
+      "Actionable data generation for asset movements and status",
+      "Dashboard for inventory, movement, and alert monitoring",
+      "Cold chain condition breach detection",
+      "Supply chain insights for cost saving and cycle optimization",
+      "Hardware, software, and process adaptation for customer needs"
+    ],
+    "customer_segments": [
+      "Container Pooling",
+      "Automotive",
+      "Retail",
+      "Agriculture",
+      "Post & Parcel",
+      "FMCG",
+      "Healthcare",
+      "Equipment & High-Value Goods",
+      "Industry leaders with reusable container fleets"
+    ],
+    "business_description": "Sensize Limited provides a wireless tracking system optimized for reusable containers, enabling full visibility and control over supply chains. Using patent-pending parent/child Bluetooth-based technology, the company delivers GPS-like tracking at a lower cost, designed to scale across millions of assets without requiring additional infrastructure. Sensize helps businesses reduce losses, improve utilization, and gain actionable insights into their operations.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T16:48:11.401Z"
+  },
+  "scraped_at": "2026-01-10T16:48:02.208Z",
+  "updated_at": "2026-01-10T16:48:11.401Z",
+  "version": 1
+}

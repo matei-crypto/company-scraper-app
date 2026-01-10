@@ -1,0 +1,374 @@
+{
+  "company_name": "MURPHY CONNOR LTD",
+  "company_number": "10876577",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-07-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Miners Arms, Whitecroft, Lydney, GL15 4PE, England",
+  "registered_address_structured": {
+    "address_line_1": "Miners Arms",
+    "address_line_2": "Whitecroft",
+    "country": "England",
+    "locality": "Lydney",
+    "postal_code": "GL15 4PE"
+  },
+  "sic_codes": [
+    "56302",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-16",
+    "last_made_up_to": "2025-04-02",
+    "next_made_up_to": "2026-04-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CONNOR, Ian William",
+        "officer_role": "director",
+        "appointed_on": "2018-10-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitecroft",
+          "country": "England",
+          "locality": "Lydney",
+          "postal_code": "GL15 4PE",
+          "premises": "Miners Arms"
+        }
+      },
+      {
+        "name": "MURPHY, Christine",
+        "officer_role": "director",
+        "appointed_on": "2017-07-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Whitecroft",
+          "country": "England",
+          "locality": "Lydney",
+          "postal_code": "GL15 4PE",
+          "premises": "Miners Arms"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ms Christine Murphy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-07-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hotwells",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS8 4NU",
+          "premises": "402 Hotwell Road"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-04-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE17A1ZK",
+        "transaction_id": "MzQ2Mzk5ODM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZMDKQ1",
+        "transaction_id": "MzQ2MTE1NzY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD06RKQJ",
+        "transaction_id": "MzQxNjkwMjY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD06RKFU",
+        "transaction_id": "MzQxNjkwMjM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCZ4EGBU",
+        "transaction_id": "MzQxNDkwOTYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC5OZJCP",
+        "transaction_id": "MzM4Mjg4NzA1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC29HSIH",
+        "transaction_id": "MzM3NzU4ODYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB30BZ4B",
+        "transaction_id": "MzMzNzk2MzY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1QKIQ8",
+        "transaction_id": "MzMzNTgzNTc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XA3BFPTS",
+        "transaction_id": "MzI5OTA3NzYxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2F6HKY",
+        "transaction_id": "MzI5NzczODk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X943BLJL",
+        "transaction_id": "MzI2MzY2NjI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X940K6IO",
+        "transaction_id": "MzI2MzU0MTAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X940K7QI",
+        "transaction_id": "MzI2MzU0MTM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A8C20KWX",
+        "transaction_id": "MzI0Mjg2MzEzMmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2019-08-10",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzI0MTQxODkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8BHP822",
+        "transaction_id": "MzI0MTQxODg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2019-06-18",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzIzNjU1NTE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7I1UNYJ",
+        "transaction_id": "MzIxODY1OTMyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-11-05",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X7I1U9RF",
+        "transaction_id": "MzIxODY1OTA1NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-11-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7I1U6M3",
+        "transaction_id": "MzIxODY1ODk5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7BBQMQ1",
+        "transaction_id": "MzIxMTA3MzQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-07-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7B23TFE",
+        "transaction_id": "MzIxMDc1NTU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2017-07-20",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 29,
+        "barcode": "X6B2RMGB",
+        "transaction_id": "MzE4MTAyMzc4N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 24,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Connormurphy.blog",
+    "headcount": 11,
+    "tech_stack": [],
+    "business_keywords": [
+      "networks",
+      "startups",
+      "accelerators",
+      "corporate innovation",
+      "product market fit",
+      "mentoring",
+      "founders",
+      "early-stage investors",
+      "workshops",
+      "entrepreneurship",
+      "OKRs",
+      "performance management",
+      "premature scaling",
+      "programming",
+      "presenting",
+      "investing",
+      "Techstars"
+    ],
+    "services": [
+      "workshops for early-stage founders",
+      "talks on corporate innovation",
+      "mentoring for startups",
+      "accelerator programs"
+    ],
+    "customer_segments": [
+      "early-stage founders",
+      "startups",
+      "early-stage investors",
+      "corporates",
+      "accelerator participants"
+    ],
+    "business_description": "The individual is the CEO at Bridge and has experience with accelerators like Techstars, where they help networks and entrepreneurs succeed. They provide workshops and mentoring for early-stage founders, focusing on topics like avoiding premature scaling, corporate innovation, and product market fit. Their work involves supporting startups and corporates through frameworks and mentorship.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:59:48.593Z"
+  },
+  "scraped_at": "2026-01-10T17:59:43.055Z",
+  "updated_at": "2026-01-10T17:59:48.593Z",
+  "version": 1
+}

@@ -1,0 +1,419 @@
+{
+  "company_name": "LEHRITY LTD",
+  "company_number": "09345075",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-12-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "7 Brookdene Avenue, Watford, WD19 4LG, England",
+  "registered_address_structured": {
+    "address_line_1": "7 Brookdene Avenue",
+    "country": "England",
+    "locality": "Watford",
+    "postal_code": "WD19 4LG"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-22",
+    "last_made_up_to": "2025-12-08",
+    "next_made_up_to": "2026-12-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PATEL, Priyanka Vishalkumar",
+        "officer_role": "director",
+        "appointed_on": "2017-10-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brookdene Avenue",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD19 4LG",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "PATEL, Vishal Sureshchandra",
+        "officer_role": "director",
+        "appointed_on": "2014-12-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brookdene Avenue",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD19 4LG",
+          "premises": "7"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "PATEL, Priyanka",
+        "officer_role": "secretary",
+        "appointed_on": "2014-12-08",
+        "address": {
+          "address_line_1": "Brookdene Avenue",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD19 4LG",
+          "premises": "7"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Vishal Sureshchandra Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brookdene Avenue",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD19 4LG",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "Mrs Priyanka Vishalkumar Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brookdene Avenue",
+          "country": "England",
+          "locality": "Watford",
+          "postal_code": "WD19 4LG",
+          "premises": "7"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "insolvency": {
+    "cases": [],
+    "has_insolvency_history": false
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHNN8OG",
+        "transaction_id": "MzQ5NTEyMDY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XEBSJVTT",
+        "transaction_id": "MzQ4MjU1NDQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDIFCX3U",
+        "transaction_id": "MzQ0ODY2Nzk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDGG4WUZ",
+        "transaction_id": "MzQ0NDU4OTU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XDCRCC35",
+        "transaction_id": "MzQzNzcwODQ1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIHGTEZ",
+        "transaction_id": "MzQwNDU3NjE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCCXEFII",
+        "transaction_id": "MzM5NDYxMDc1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBIVCPZF",
+        "transaction_id": "MzM2MjA2MjYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBD9L3I9",
+        "transaction_id": "MzM1MjkxMzExMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-04-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB2OYQYQ",
+        "transaction_id": "MzMzNzE3MjA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB2OYQI9",
+        "transaction_id": "MzMzNzE3MTg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB2OYQ9M",
+        "transaction_id": "MzMzNzE3MTc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-04-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB2OYQ2J",
+        "transaction_id": "MzMzNzE3MTcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJ1HW5E",
+        "transaction_id": "MzMyMzI0NjM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XADYVUZ5",
+        "transaction_id": "MzMxNTI5ODg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X9K3Z35V",
+        "transaction_id": "MzI4NjI4MTcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9K19U7S",
+        "transaction_id": "MzI4NjE2ODM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8K0ZLLC",
+        "transaction_id": "MzI1MTcxMDkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8EF7CQ9",
+        "transaction_id": "MzI0NDc3MzQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7WZNMBV",
+        "transaction_id": "MzIyNDMyNzg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7EDVEAX",
+        "transaction_id": "MzIxNDQ0NzgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-06-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X77DETT5",
+        "transaction_id": "MzIwNjU3NzM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6LVZNFV",
+        "transaction_id": "MzE5MzY5NDc0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X6F2HXZD",
+        "transaction_id": "MzE4NTUxMTY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5LMP4M9",
+        "transaction_id": "MzE2NDEzODA2MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 28,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Lehrity.com",
+    "headcount": 6,
+    "tech_stack": [
+      "MongoDB",
+      "MySQL"
+    ],
+    "business_keywords": [
+      "shared services",
+      "managed services",
+      "software testing",
+      "digital business",
+      "solutions",
+      "services",
+      "manual testing",
+      "automated testing",
+      "functional testing",
+      "non-functional testing",
+      "business ethics",
+      "experienced team",
+      "timely solutions",
+      "competitive market",
+      "round the clock services"
+    ],
+    "services": [
+      "Shared Services (assessment, development, and delivery of value-added shared services capabilities)",
+      "Managed Services",
+      "Software Testing (manual, automated, functional, and non-functional)"
+    ],
+    "customer_segments": [
+      "companies",
+      "organisations"
+    ],
+    "business_description": "Lehrity is a company that provides shared services, managed services, and software testing to help organizations assess, develop, and deliver value-added capabilities. The company aims to offer excellent solutions and services to support clients' digital business needs in a competitive market.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 21,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T14:03:57.785Z"
+  },
+  "scraped_at": "2026-01-10T14:03:53.034Z",
+  "updated_at": "2026-01-10T14:03:57.785Z",
+  "version": 1
+}

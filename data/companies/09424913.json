@@ -1,0 +1,393 @@
+{
+  "company_name": "SILVER SOFTWORKS LTD",
+  "company_number": "09424913",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-02-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "50 Liverpool Street, London, EC2M 7PY, England",
+  "registered_address_structured": {
+    "address_line_1": "50 Liverpool Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2M 7PY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "UBRCLOUD LIMITED",
+      "ceased_on": "2015-09-18",
+      "effective_from": "2015-02-05"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-19",
+    "last_made_up_to": "2025-02-05",
+    "next_made_up_to": "2026-02-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CRAMMOND, Zak William George",
+        "officer_role": "director",
+        "appointed_on": "2022-09-05",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7PY",
+          "premises": "50"
+        }
+      },
+      {
+        "name": "FISHER, Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2018-04-03",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7PY",
+          "premises": "50"
+        }
+      },
+      {
+        "name": "ALDRIDGE, Christopher",
+        "officer_role": "director",
+        "appointed_on": "2015-02-05",
+        "resigned_on": "2025-10-09",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7PY",
+          "premises": "50"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Nicholas Fisher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2019-06-28",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7PY",
+          "premises": "50"
+        }
+      },
+      {
+        "name": "Mr Christopher Aldridge",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 7PY",
+          "premises": "50"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEDM9D2X",
+        "transaction_id": "MzQ4NTc3NjU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-21",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEDM9BBE",
+        "transaction_id": "MzQ4NTc3NjIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-01",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE81MRO1",
+        "transaction_id": "MzQ3NTk2MTE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDW27QE3",
+        "transaction_id": "MzQ1NDI5MjQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCYTJ5B5",
+        "transaction_id": "MzQxNDMxNDMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCWI30RS",
+        "transaction_id": "MzQxMDYyMDAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC0V4XUB",
+        "transaction_id": "MzM3NTQ5MDEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBX18BXV",
+        "transaction_id": "MzM2ODkwODg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBCLM0RC",
+        "transaction_id": "MzM1MTk2NjA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBCLM0J7",
+        "transaction_id": "MzM1MTk2NTk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBCLLZRV",
+        "transaction_id": "MzM1MTk2NTg3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBCJ2RG1",
+        "transaction_id": "MzM1MTg5NTQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB0UIIKO",
+        "transaction_id": "MzMzNDY5NTY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAXMQE7F",
+        "transaction_id": "MzMyOTY1MDM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XADNZ5YJ",
+        "transaction_id": "MzMxNDc4MzQzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XADNZ48Z",
+        "transaction_id": "MzMxNDc4Mjk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XADNZ45M",
+        "transaction_id": "MzMxNDc4MjkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAB81GHC",
+        "transaction_id": "MzMxMTEzNzMwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-08-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAB81C3M",
+        "transaction_id": "MzMxMTEzNjI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA2SRFZA",
+        "transaction_id": "MzI5ODI4NjE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XPOLK8",
+        "transaction_id": "MzI5MDY0NzE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9IH54UW",
+        "transaction_id": "MzI4NDIyNzYzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9I6N1K9",
+        "transaction_id": "MzI4Mzk1ODc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-11-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9I6N0MG",
+        "transaction_id": "MzI4Mzk1ODYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X95HRECA",
+        "transaction_id": "MzI2NTQwNjg1MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 50,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 32
+  },
+  "enrichment": {
+    "website": "https://Silversoftworks.com",
+    "headcount": 32,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T14:16:32.686Z",
+  "scraped_at": "2026-01-10T14:16:32.686Z"
+}

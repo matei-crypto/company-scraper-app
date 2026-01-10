@@ -1,0 +1,493 @@
+{
+  "company_name": "GLADSTONE STREET LTD",
+  "company_number": "09446912",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-02-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 6.16 Fuel Studios, Kiln House, Pottergate, Norwich, NR2 1DX, England",
+  "registered_address_structured": {
+    "address_line_1": "Suite 6.16 Fuel Studios",
+    "address_line_2": "Kiln House, Pottergate",
+    "country": "England",
+    "locality": "Norwich",
+    "postal_code": "NR2 1DX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-04",
+    "last_made_up_to": "2025-02-18",
+    "next_made_up_to": "2026-02-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MACNAMARA, James",
+        "officer_role": "director",
+        "appointed_on": "2020-05-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Fuel Studios",
+          "address_line_2": "Kiln House, Pottergate",
+          "country": "England",
+          "locality": "Norwich",
+          "postal_code": "NR2 1DX",
+          "premises": "Suite 6.16"
+        }
+      },
+      {
+        "name": "WRIGHT, Samuel James",
+        "officer_role": "director",
+        "appointed_on": "2015-02-18",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shirley Road",
+          "address_line_2": "Hall Green",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B28 9LL",
+          "premises": "772"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Samuel James Wright",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shirley Road",
+          "address_line_2": "Hall Green",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B28 9LL",
+          "premises": "772"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "094469120004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-09-27",
+        "delivered_on": "2024-10-02",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bibby Financial Services LTD"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "094469120003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-04-07",
+        "delivered_on": "2020-04-28",
+        "particulars": {
+          "type": "brief-description",
+          "description": "1. by way of fixed charge:. (I) all freehold and leasehold land and buildings of the company both present and future and all trade fixtures and fittings and all plant and machinery from time to time in or on any such land or buildings ; and. (Ii) all intellectual property now owned or at any time hereafter to be owned by the company.. For more details please refer to the instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Optimum Sme Finance Limited"
+          }
+        ],
+        "satisfied_on": "2022-05-26",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "094469120002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-11-08",
+        "delivered_on": "2016-11-09",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Debenture.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hitachi Capital (UK) PLC"
+          }
+        ],
+        "satisfied_on": "2020-04-02",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "094469120001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-05-08",
+        "delivered_on": "2015-05-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "First Capital Factors Limited"
+          }
+        ],
+        "satisfied_on": "2020-04-02",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEI233ZD",
+        "transaction_id": "MzQ5NjIyOTE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXPTIGW",
+        "transaction_id": "MzQ1NzQwMzAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDDQGIEH",
+        "transaction_id": "MzQzOTI4NDI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-10-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "XDCUJAMR",
+        "transaction_id": "MzQzODExODExNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCXUFPY8",
+        "transaction_id": "MzQxMjc4OTc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCBCXHG0",
+        "transaction_id": "MzM5MTc2ODY2NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-02",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 4,
+        "barcode": "XC8OINE2",
+        "transaction_id": "MzM4NzgwNjA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XC53LWOO",
+        "transaction_id": "MzM4MjAzOTA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-05",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 7,
+        "barcode": "YC29LI0B",
+        "transaction_id": "MzM3NzYzMzkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXX111C",
+        "transaction_id": "MzM3MDI1NzU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBJXCATU",
+        "transaction_id": "MzM2NDE4MjE4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBJ8YS3U",
+        "transaction_id": "MzM2Mjk5ODc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-05-26",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XB4V1BLU",
+        "transaction_id": "MzM0MDYwNjQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYLGKKO",
+        "transaction_id": "MzMzMTA5MjQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA8PENXE",
+        "transaction_id": "MzMwNzY0MzQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9YLSZK9",
+        "transaction_id": "MzI5MTgzNzMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9EOUQVU",
+        "transaction_id": "MzI3OTIxNjIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X95XGFP7",
+        "transaction_id": "MzI2NTg1MzI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-04",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "A93N96X5",
+        "transaction_id": "MzI2MzgxNTI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-04-29",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A93N96XD",
+        "transaction_id": "MzI2MzQwNTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-04-28",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "X93XXCXT",
+        "transaction_id": "MzI2MzQ1MjIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-04-24",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QTkzNUdJSjZhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-04-02",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X924CEX5",
+        "transaction_id": "MzI2MTYyMTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-04-02",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X924CEQY",
+        "transaction_id": "MzI2MTYyMTEyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZBEXYI",
+        "transaction_id": "MzI1Nzk5NzYyN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Gladstonecare.co.uk",
+    "headcount": 15,
+    "tech_stack": [],
+    "business_keywords": [
+      "care at home",
+      "home care",
+      "professional carers",
+      "independent care company",
+      "personal care",
+      "daily tasks assistance",
+      "long term care",
+      "short term care",
+      "DBS checked carers",
+      "compassionate care",
+      "dignity and respect",
+      "affordable care",
+      "residential care alternative",
+      "mobile care team",
+      "North Yorkshire care"
+    ],
+    "services": [
+      "care at home",
+      "assistance with daily tasks",
+      "shopping assistance",
+      "personal care",
+      "long term care solutions",
+      "short term care solutions"
+    ],
+    "customer_segments": [
+      "people needing care at home in Scarborough",
+      "people needing care at home in Malton",
+      "people needing care at home in Filey",
+      "people needing care at home in Hunmanby",
+      "people needing care at home in Ryedale areas of North Yorkshire",
+      "individuals recovering from a stroke",
+      "elderly individuals",
+      "individuals requiring assistance to remain independent at home"
+    ],
+    "business_description": "Gladstone Care Ltd is an independent care company providing professional carers to assist individuals in Scarborough, Malton, Filey, and surrounding areas so they can continue living comfortably at home. The company offers both long and short term care solutions, focusing on dignity, respect, and affordability as an alternative to residential care.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T14:20:12.396Z"
+  },
+  "scraped_at": "2026-01-10T14:20:05.586Z",
+  "updated_at": "2026-01-10T14:20:12.396Z",
+  "version": 1
+}

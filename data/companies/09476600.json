@@ -1,0 +1,485 @@
+{
+  "company_name": "SRS WORKS LIMITED",
+  "company_number": "09476600",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-03-09",
+  "jurisdiction": "england-wales",
+  "registered_address": "11 Ivanhoe Road, Hogwood Industrial Estate, Finchampstead, Wokingham, RG40 4QQ, England",
+  "registered_address_structured": {
+    "address_line_1": "11 Ivanhoe Road, Hogwood Industrial Estate",
+    "address_line_2": "Finchampstead",
+    "country": "England",
+    "locality": "Wokingham",
+    "postal_code": "RG40 4QQ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SOLAR READY SOLUTIONS LIMITED",
+      "ceased_on": "2017-04-28",
+      "effective_from": "2015-03-09"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-23",
+    "last_made_up_to": "2025-03-09",
+    "next_made_up_to": "2026-03-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COWAN, Peter Edward",
+        "officer_role": "director",
+        "appointed_on": "2024-07-29",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ivanhoe Road, Hogwood Industrial Estate",
+          "address_line_2": "Finchampstead",
+          "country": "England",
+          "locality": "Wokingham",
+          "postal_code": "RG40 4QQ",
+          "premises": "11"
+        }
+      },
+      {
+        "name": "WINTERBOTHAM, Patrick Mark",
+        "officer_role": "director",
+        "appointed_on": "2015-03-09",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ivanhoe Road, Hogwood Industrial Estate",
+          "address_line_2": "Finchampstead",
+          "country": "England",
+          "locality": "Wokingham",
+          "postal_code": "RG40 4QQ",
+          "premises": "11"
+        }
+      },
+      {
+        "name": "BALUCH, Babar",
+        "officer_role": "director",
+        "appointed_on": "2015-07-22",
+        "resigned_on": "2022-08-20",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ivanhoe Road, Hogwood Industrial Estate",
+          "address_line_2": "Finchampstead",
+          "country": "England",
+          "locality": "Wokingham",
+          "postal_code": "RG40 4QQ",
+          "premises": "11"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "O'BRIEN, Matthew Spencer",
+        "officer_role": "secretary",
+        "appointed_on": "2017-05-16",
+        "address": {
+          "address_line_1": "Ivanhoe Road, Hogwood Industrial Estate",
+          "address_line_2": "Finchampstead",
+          "country": "England",
+          "locality": "Wokingham",
+          "postal_code": "RG40 4QQ",
+          "premises": "11"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Raymond Luke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2018-12-21",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ivanhoe Road, Hogwood Industrial Estate",
+          "address_line_2": "Finchampstead",
+          "country": "England",
+          "locality": "Wokingham",
+          "postal_code": "RG40 4QQ",
+          "premises": "11"
+        }
+      },
+      {
+        "name": "Mr Patrick Mark Winterbotham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Ivanhoe Road, Hogwood Industrial Estate",
+          "address_line_2": "Finchampstead",
+          "country": "England",
+          "locality": "Wokingham",
+          "postal_code": "RG40 4QQ",
+          "premises": "11"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "094766000001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-05-19",
+        "delivered_on": "2021-05-20",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEGNZDWG",
+        "transaction_id": "MzQ5MjQ0NjMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDY0LWUI",
+        "transaction_id": "MzQ1NzgxNzk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDI9VX88",
+        "transaction_id": "MzQ0ODM1MzA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-29",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD8CN3ER",
+        "transaction_id": "MzQzMDQwNjE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZ9X1Y0",
+        "transaction_id": "MzQxNTQzMTE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-19",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCZ75H6O",
+        "transaction_id": "MzQxNTEzNzc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-21",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YCX8Q4P7",
+        "transaction_id": "MzQxMTcwMzk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZVGJCI",
+        "transaction_id": "MzM3Mzc1Mjc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBZSF88J",
+        "transaction_id": "MzM3MzM3NjcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-22",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBAYPP2B",
+        "transaction_id": "MzM0OTMzNTMyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB0B8AKY",
+        "transaction_id": "MzMzMzYwMzUyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XAJSF3VT",
+        "transaction_id": "MzMyNDI0OTA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-05-20",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 40,
+        "barcode": "XA4WFG5L",
+        "transaction_id": "MzMwMTcwNjY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2HWOYA",
+        "transaction_id": "MzI5Nzg3NzE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA29UN96",
+        "transaction_id": "MzI5NzUwODcwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA29UNGB",
+        "transaction_id": "MzI5NzUwODcxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XA1GH1PM",
+        "transaction_id": "MzI5NjQ1Mjg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X91G7GHE",
+        "transaction_id": "MzI2MDQ4MDc5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "X8KPFBS2",
+        "transaction_id": "MzI1MjY5NzU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X81HBHVC",
+        "transaction_id": "MzIyOTU4Mzk4MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-03-18",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X81HBDE0",
+        "transaction_id": "MzIyOTU4Mjk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-03-14",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X816UX61",
+        "transaction_id": "MzIyOTM1MzEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X7L9ENGP",
+        "transaction_id": "MzIyMjc1MDE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X72AAHRF",
+        "transaction_id": "MzIwMDY4MzM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X6LNY2BF",
+        "transaction_id": "MzE5MzMxMDg1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Srsworks.co.uk",
+    "headcount": 14,
+    "tech_stack": [],
+    "business_keywords": [
+      "Project delivery",
+      "EPC",
+      "Renewable Solution Providers",
+      "Wholesalers",
+      "Renewable energy solutions",
+      "Design",
+      "Development",
+      "Integration",
+      "Supply",
+      "Solar PV",
+      "Battery",
+      "EV Charging",
+      "Heat Pumps",
+      "Facilities Management",
+      "Energy saving solutions",
+      "Airport cabling",
+      "Commercial lighting replacement",
+      "Energy reduction strategies"
+    ],
+    "services": [
+      "Design of renewable energy solutions",
+      "Development of renewable energy solutions",
+      "Integration of renewable energy solutions",
+      "Supply of renewable energy solutions",
+      "Project delivery",
+      "EPC (Engineering, Procurement, and Construction)",
+      "Solar PV installation",
+      "Battery solutions",
+      "EV Charging solutions",
+      "Heat Pumps solutions",
+      "Facilities Management Support",
+      "Airport cabling and refit works",
+      "Commercial lighting replacement",
+      "Energy reduction strategies formulation"
+    ],
+    "customer_segments": [
+      "Businesses",
+      "Airports",
+      "Offices",
+      "Warehouses",
+      "Schools",
+      "Fresh fruit and vegetable providers"
+    ],
+    "business_description": "SRS Works Ltd is a UK-based company specializing in the design, development, integration, and supply of renewable energy solutions. They provide project delivery, EPC services, and facilities management, focusing on energy-saving solutions such as Solar PV, battery storage, EV charging, and heat pumps. The company serves various sectors across the UK, offering tailored solutions to achieve energy reduction objectives.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T14:25:37.637Z"
+  },
+  "scraped_at": "2026-01-10T14:25:28.483Z",
+  "updated_at": "2026-01-10T14:25:37.637Z",
+  "version": 1
+}

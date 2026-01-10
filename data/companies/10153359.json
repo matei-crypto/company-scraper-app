@@ -1,0 +1,502 @@
+{
+  "company_name": "OCTAVIAN IT LIMITED",
+  "company_number": "10153359",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-04-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "18 Market Place, Bingham, Nottingham, NG13 8AP, England",
+  "registered_address_structured": {
+    "address_line_1": "18 Market Place",
+    "address_line_2": "Bingham",
+    "country": "England",
+    "locality": "Nottingham",
+    "postal_code": "NG13 8AP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-30",
+    "last_made_up_to": "2025-12-16",
+    "next_made_up_to": "2026-12-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GHUMAN, Kiranjit Kaur",
+        "officer_role": "director",
+        "appointed_on": "2025-02-25",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Market Place",
+          "address_line_2": "Bingham",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG13 8AP",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "SOLOMON, Benjamin George Michael",
+        "officer_role": "director",
+        "appointed_on": "2016-05-03",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Market Place",
+          "address_line_2": "Bingham",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG13 8AP",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "GHUMAN, Sukhjit Singh",
+        "officer_role": "director",
+        "appointed_on": "2016-04-28",
+        "resigned_on": "2018-01-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Huntingdon Street",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG1 3NL",
+          "premises": "175"
+        }
+      },
+      {
+        "name": "SHEIKH, Reshma",
+        "officer_role": "director",
+        "appointed_on": "2016-04-28",
+        "resigned_on": "2016-07-29",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Huntingdon Street",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG1 3NL",
+          "premises": "175"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Benjamin George Michael Solomon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-12-16",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Market Place",
+          "address_line_2": "Bingham",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG13 8AP",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "Mrs Kiranjit Kaur Ghuman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-trust",
+          "right-to-appoint-and-remove-directors-as-firm"
+        ],
+        "notified_on": "2025-02-25",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Market Place",
+          "address_line_2": "Bingham",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG13 8AP",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "Mr Benjamin George Michael Solomon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-28",
+        "ceased_on": "2025-02-25",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mercia Court",
+          "address_line_2": "Bingham",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG13 8QX",
+          "premises": "Suite 4,  Bingham Enterprise Centre",
+          "region": "Nottinghamshire"
+        }
+      },
+      {
+        "name": "Mr Sukhjit Singh Ghuman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-28",
+        "ceased_on": "2017-12-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Huntingdon Street",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG1 3NL",
+          "premises": "175"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEHHYTLF",
+        "transaction_id": "MzQ5NDQ5NTcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-16",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XEHHYZWJ",
+        "transaction_id": "MzQ5NDQ5NzA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEH48BKH",
+        "transaction_id": "MzQ5MzQzNjA4NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEC6IHHL",
+        "transaction_id": "MzQ4MzI0ODAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-03",
+        "description": "accounts-amended-with-accounts-type-micro-entity",
+        "type": "AAMD",
+        "pages": 9,
+        "barcode": "XE3WPRN4",
+        "transaction_id": "MzQ2ODc5NDM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE2H4XAJ",
+        "transaction_id": "MzQ2NTkyMzEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDXPZDXL",
+        "transaction_id": "MzQ1NzQ1Mzc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-04",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDXN6DZF",
+        "transaction_id": "MzQ1NzI0Mzc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-04",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDXN6B81",
+        "transaction_id": "MzQ1NzI0MzEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDXN699N",
+        "transaction_id": "MzQ1NzI0MjcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4GJOBN",
+        "transaction_id": "MzQyNDA3MDkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCVWAOI9",
+        "transaction_id": "MzQwOTUyNDY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3RFSUH",
+        "transaction_id": "MzM4MDA5Mjg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC3RFRMB",
+        "transaction_id": "MzM4MDA5MjU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC3RFJQZ",
+        "transaction_id": "MzM4MDA5MDc1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC2F7MH4",
+        "transaction_id": "MzM3Nzk3NzU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC248HT4",
+        "transaction_id": "MzM3NzM1NDIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB4VGEJN",
+        "transaction_id": "MzM0MDgwNzI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4SHJDF",
+        "transaction_id": "MzM0MDUwODY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA68M2RE",
+        "transaction_id": "MzMwMzc1OTkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XA3H08YO",
+        "transaction_id": "MzI5OTQzNjk4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X96QUN9W",
+        "transaction_id": "MzI2Njg0NDYzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8XJJOTT",
+        "transaction_id": "MzI1NTY2MDU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X84KYE8I",
+        "transaction_id": "MzIzMzQ0MTE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7YBE69M",
+        "transaction_id": "MzIyNTkwNTExNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 10
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Octaviangr.com",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "security",
+      "facilities management",
+      "security solutions",
+      "operational requirements",
+      "quality assurance",
+      "flexibility",
+      "innovative",
+      "progressive",
+      "IT",
+      "media",
+      "construction",
+      "K-9 protection services",
+      "recruitment",
+      "communications",
+      "reputation & defence",
+      "incident reporting",
+      "design & build",
+      "fleet"
+    ],
+    "services": [
+      "security solutions",
+      "facilities management",
+      "mobile solutions",
+      "web solutions",
+      "custom solutions",
+      "Octavian Security",
+      "Octavian FM",
+      "Octavian Media",
+      "Octavian Construction",
+      "Octavian IT",
+      "Octavian K-9",
+      "Octavian Recruitment",
+      "Octavian Communications",
+      "Octavian Fleet",
+      "Octavian Reputation & Defence",
+      "Octavian Incident Reporting",
+      "Octavian Design & Build",
+      "K-9 protection services"
+    ],
+    "customer_segments": [
+      "organisations"
+    ],
+    "business_description": "Octavian Group is a security-led business that provides a broad spectrum of services to help organisations manage their security solutions. The company has diversified into facilities management and other areas, offering innovative and flexible services to meet clients' operational requirements. Octavian operates multiple specialized divisions, including IT, media, construction, K-9 protection, recruitment, and communications.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T16:04:37.262Z"
+  },
+  "scraped_at": "2026-01-10T16:04:25.473Z",
+  "updated_at": "2026-01-10T16:04:37.262Z",
+  "version": 1
+}

@@ -1,0 +1,421 @@
+{
+  "company_name": "VS LABS LIMITED",
+  "company_number": "11000361",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-10-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "86-90 Paul Street, London, EC2A 4NE, England",
+  "registered_address_structured": {
+    "address_line_1": "86-90 Paul Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 4NE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-19",
+    "last_made_up_to": "2025-10-05",
+    "next_made_up_to": "2026-10-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KORFF, Alexander Cornelis",
+        "officer_role": "director",
+        "appointed_on": "2017-10-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "Dutch",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Paul Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 4NE",
+          "premises": "86-90"
+        }
+      },
+      {
+        "name": "RICH, Simon Sutherland",
+        "officer_role": "director",
+        "appointed_on": "2018-12-27",
+        "resigned_on": "2025-01-31",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Moorgate",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2R 6PJ",
+          "premises": "30"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Validsoft Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2017-10-06",
+        "address": {
+          "address_line_1": "Earlsfort Terrace",
+          "country": "Ireland",
+          "locality": "Dublin",
+          "postal_code": "DUBLIN 2",
+          "premises": "Arthur Cox Building"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act Ireland",
+          "country_registered": "Republic Of Ireland",
+          "place_registered": "Companies Registration Office",
+          "registration_number": "377068"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "110003610002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-09-13",
+        "delivered_on": "2024-09-24",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "satisfied_on": "2025-02-27",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "110003610001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-09-13",
+        "delivered_on": "2024-09-24",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-12-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEGQNA5E",
+        "transaction_id": "MzQ5MjYyMDMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECMMDSH",
+        "transaction_id": "MzQ4MzgxODc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE1QEIM8",
+        "transaction_id": "MzQ2NDkzMzg0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-28",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDXCM9PL",
+        "transaction_id": "MzQ1Njk0OTUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-02-27",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDX9H4RF",
+        "transaction_id": "MzQ1NjY4MTY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-28",
+        "description": "accounts-amended-with-accounts-type-small",
+        "type": "AAMD",
+        "pages": 10,
+        "barcode": "XDGTNJGG",
+        "transaction_id": "MzQ0NTI3MDY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDD7R4EQ",
+        "transaction_id": "MzQzODU1Nzk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-09-24",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDCB5PBM",
+        "transaction_id": "MzQzNzAzNDIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-09-24",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XDCB5R6J",
+        "transaction_id": "MzQzNzAzNDYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD2ATXMB",
+        "transaction_id": "MzQyMDU3NDEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDJ614R",
+        "transaction_id": "MzM5NTQyNjAwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC2PUDGG",
+        "transaction_id": "MzM3ODM4MTI3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBE0ROGA",
+        "transaction_id": "MzM1NDE2NTI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBE0RLT5",
+        "transaction_id": "MzM1NDE2NDU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-07-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB7JW5VD",
+        "transaction_id": "MzM0NDU5NjY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-07-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB7JVEXU",
+        "transaction_id": "MzM0NDU5MDEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-10",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB5WHCUX",
+        "transaction_id": "MzM0MjA1Njg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEHUCTT",
+        "transaction_id": "MzMxNjEwMjcxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAA6TJFT",
+        "transaction_id": "MzMwOTY5MTc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9EZQ1YY",
+        "transaction_id": "MzI3OTYwMjAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X95HROEQ",
+        "transaction_id": "MzI2NTQwOTIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8JL7MIW",
+        "transaction_id": "MzI1MTE5NjcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X89FKBUJ",
+        "transaction_id": "MzIzOTA0MjEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-12-27",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X7LP25BM",
+        "transaction_id": "MzIyMzEzNjUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7HBOTC9",
+        "transaction_id": "MzIxNzg4MjE4NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Mantle-labs.com",
+    "headcount": 11,
+    "tech_stack": [],
+    "business_keywords": [
+      "remote sensing",
+      "environmental science",
+      "machine learning",
+      "forestry projects",
+      "agriculture projects",
+      "climate change mitigation",
+      "climate resilience",
+      "carbon market",
+      "data analysis",
+      "academic expertise",
+      "industry practitioners"
+    ],
+    "services": [
+      "analysis of forestry and agriculture projects",
+      "support for forestry and agriculture projects"
+    ],
+    "customer_segments": [
+      "leading carbon market clients"
+    ],
+    "business_description": "Mantle Labs utilizes remote sensing, environmental science, and machine learning to analyze and support forestry and agriculture projects that contribute to climate change mitigation and resilience. The company serves leading carbon market clients and employs staff with academic and industry expertise.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:23:39.195Z"
+  },
+  "scraped_at": "2026-01-10T18:23:35.226Z",
+  "updated_at": "2026-01-10T18:23:39.194Z",
+  "version": 1
+}

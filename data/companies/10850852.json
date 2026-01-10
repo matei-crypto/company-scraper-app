@@ -1,0 +1,481 @@
+{
+  "company_name": "GOODHABITZ UK LTD",
+  "company_number": "10850852",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-07-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "6-7 St Cross Street, London, EC1N 8UB, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "6-7 St Cross Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1N 8UB"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "GOODHABITZ LTD",
+      "ceased_on": "2017-07-18",
+      "effective_from": "2017-07-05"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-20",
+    "last_made_up_to": "2025-08-06",
+    "next_made_up_to": "2026-08-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "VAN DER LOOIJ, Lambertus Martinus Alphonsus Gerardus",
+        "officer_role": "director",
+        "appointed_on": "2023-12-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "Dutch",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "Vincent Van Den",
+          "address_line_2": "Heuvellaan 5",
+          "country": "Netherlands",
+          "locality": "Eindhoven",
+          "po_box": "5612mz",
+          "premises": "Goodhabitz Bv"
+        }
+      },
+      {
+        "name": "VULTEE, Annabelle Karper",
+        "officer_role": "director",
+        "appointed_on": "2024-05-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1976,
+        "nationality": "American",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "St Cross Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 8UB",
+          "premises": "6-7"
+        }
+      },
+      {
+        "name": "FRANKEN, Maarten Laurens",
+        "officer_role": "director",
+        "appointed_on": "2017-07-05",
+        "resigned_on": "2024-05-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1968,
+        "nationality": "Dutch",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "St Cross Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 8UB",
+          "premises": "6-7"
+        }
+      },
+      {
+        "name": "KOPPENS, Roel Martin Louis",
+        "officer_role": "director",
+        "appointed_on": "2023-12-01",
+        "resigned_on": "2025-03-11",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "Dutch",
+        "country_of_residence": "Spain",
+        "address": {
+          "address_line_1": "Vincent Van Den",
+          "address_line_2": "Heuvellaan 5",
+          "country": "Netherlands",
+          "locality": "Eindhoven",
+          "po_box": "5612mz",
+          "premises": "Goodhabitz Bv"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Prosus N.V.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-06-25",
+        "address": {
+          "country": "Netherlands",
+          "locality": "Amsterdam",
+          "postal_code": "1082 MS",
+          "premises": "Gustav Mahlerplein 5"
+        },
+        "identification": {
+          "legal_form": "Public Limited Company",
+          "legal_authority": "Dutch",
+          "country_registered": "Netherlands",
+          "place_registered": "Netherlands",
+          "registration_number": "34099856"
+        }
+      },
+      {
+        "name": "Naspers Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-05-31",
+        "ceased_on": "2025-06-25",
+        "address": {
+          "address_line_1": "40 Heerengracht Street",
+          "address_line_2": "Media 24 Centre",
+          "country": "South Africa",
+          "locality": "Cape Town",
+          "postal_code": "8001",
+          "premises": "17th Floor"
+        },
+        "identification": {
+          "legal_form": "Public Limited Company",
+          "legal_authority": "South Africa",
+          "country_registered": "South Africa",
+          "place_registered": "South Africa",
+          "registration_number": "1925/001431/06"
+        }
+      },
+      {
+        "name": "Maarten Laurens Franken",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2017-07-05",
+        "ceased_on": "2021-05-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1968,
+        "nationality": "Dutch",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "Horseferry Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW1P 2AF",
+          "premises": "52"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-05",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AEI20P4P",
+        "transaction_id": "MzQ5NjgzMTczN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-27",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEG7366A",
+        "transaction_id": "MzQ5MTI5NTM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-30",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEEAUF9F",
+        "transaction_id": "MzQ4NjkxMDM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-29",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEE7Y9NN",
+        "transaction_id": "MzQ4Njc0MTIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-28",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEE51A6Q",
+        "transaction_id": "MzQ4NjUzNDExNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEC6B0F7",
+        "transaction_id": "MzQ4MzE4NzQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-30",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XEC6AZSY",
+        "transaction_id": "MzQ4MzE4NzQzM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE4YC3VS",
+        "transaction_id": "MzQ3MDUzMTg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDIKPVW0",
+        "transaction_id": "MzQ0ODc4NjY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDC0B17M",
+        "transaction_id": "MzQzNjU0NTQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-14",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCYWG0XM",
+        "transaction_id": "MzQxNDU3NDczMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-15",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCIEV9M8",
+        "transaction_id": "MzQwNDI4MjE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-12-15",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCIEV61E",
+        "transaction_id": "MzQwNDI3ODg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-10-25",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM5Njk5ODE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-10-24",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "transaction_id": "MzM5NjgyMTA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCEFARVD",
+        "transaction_id": "MzM5Njk5ODA5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "ABZKCFWH",
+        "transaction_id": "MzM3MzM5OTQ1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBPO5XT",
+        "transaction_id": "MzM1MDU5NzkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAXUGGO2",
+        "transaction_id": "MzMyOTc4ODU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAENFJPZ",
+        "transaction_id": "MzMxNjUxNjA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-07",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAEN9MV7",
+        "transaction_id": "MzMxNjM5NDMwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-04",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAEEZ6EA",
+        "transaction_id": "MzMxNTkzNzM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-04",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XAEEZ6HM",
+        "transaction_id": "MzMxNTkzNzM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA3RZTOQ",
+        "transaction_id": "MzI5OTkwMTE1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CS1NMQ",
+        "transaction_id": "MzI3Njg2NDg1NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 42,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Goodhabitz.com",
+    "headcount": 9,
+    "tech_stack": [
+      "LTI (Learning Tools Interoperability)",
+      "SCORM"
+    ],
+    "business_keywords": [
+      "workplace learning",
+      "soft skills training",
+      "online training",
+      "L&D (Learning and Development)",
+      "employee skills",
+      "leadership training",
+      "teamwork training",
+      "wellbeing training",
+      "digital literacy training",
+      "LMS integration",
+      "learning experience",
+      "localised learning",
+      "engagement tracking",
+      "ROI analysis",
+      "learning campaigns"
+    ],
+    "services": [
+      "Soft skills training for organisations",
+      "Online training platform",
+      "LMS integration",
+      "Localised training in 20+ languages",
+      "Leadership, teamwork, wellbeing, and digital literacy training",
+      "Engaging learning formats (videos, quizzes, activities, assessments)",
+      "Personal support from L&D coaches",
+      "Engagement tracking and ROI analysis",
+      "Learning campaign tools (Promo Studio)",
+      "L&D strategy guidance (Coach)",
+      "Regularly updated training content",
+      "Standalone online learning platform for desktop and mobile"
+    ],
+    "customer_segments": [
+      "L&D teams",
+      "Organisations (big and small)",
+      "International teams",
+      "Employees requiring soft skills development",
+      "Leaders seeking measurable learning outcomes"
+    ],
+    "business_description": "GoodHabitz provides an award-winning workplace learning solution that helps L&D teams deliver engaging, localised soft skills training in 20+ languages. The platform offers a diverse library of online training, including leadership, teamwork, wellbeing, and digital literacy, with tools for engagement tracking, LMS integration, and ROI analysis. It supports organisations in boosting employee skills, motivation, and growth through interactive and habit-forming learning experiences.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:53:20.976Z"
+  },
+  "scraped_at": "2026-01-10T17:53:12.987Z",
+  "updated_at": "2026-01-10T17:53:20.976Z",
+  "version": 1
+}

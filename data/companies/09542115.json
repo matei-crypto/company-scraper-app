@@ -1,0 +1,372 @@
+{
+  "company_name": "WOLF LEARNING CONSULTING LTD",
+  "company_number": "09542115",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-04-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 High Street, Wellington, Somerset, TA21 8QT, England",
+  "registered_address_structured": {
+    "address_line_1": "9 High Street",
+    "care_of": "C/O TAX SHOP ACCOUNTANTS",
+    "country": "England",
+    "locality": "Wellington",
+    "postal_code": "TA21 8QT",
+    "region": "Somerset"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-13",
+    "last_made_up_to": "2025-04-29",
+    "next_made_up_to": "2026-04-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CASSELEUX, Gregory Daniel Eric",
+        "officer_role": "director",
+        "appointed_on": "2015-04-14",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "French",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Green, Priddy",
+          "country": "England",
+          "locality": "Wells",
+          "postal_code": "BA5 3BB",
+          "premises": "Clearview",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "MAGAUD, Christophe",
+        "officer_role": "director",
+        "appointed_on": "2024-05-31",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1966,
+        "nationality": "French",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Wellington",
+          "postal_code": "TA21 8QT",
+          "premises": "9",
+          "region": "Somerset"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Wolf International Group",
+        "kind": "legal-person-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-04-29",
+        "address": {
+          "address_line_1": "Place Gailleton",
+          "country": "France",
+          "locality": "Lyon",
+          "postal_code": "69002",
+          "premises": "2"
+        },
+        "identification": {
+          "legal_form": "Unknown",
+          "legal_authority": "France"
+        }
+      },
+      {
+        "name": "Gregory Daniel Eric Casseleux",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-04-30",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "French",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Green",
+          "address_line_2": "Priddy",
+          "country": "United Kingdom",
+          "locality": "Wells",
+          "postal_code": "BA5 3BB",
+          "premises": "Clearview"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE20VOBU",
+        "transaction_id": "MzQ2NTE5NDYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-06",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC03",
+        "pages": 2,
+        "barcode": "XE20OQVN",
+        "transaction_id": "MzQ2NTEzNDUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE20OQU8",
+        "transaction_id": "MzQ2NTEzNDUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDYJLI3E",
+        "transaction_id": "MzQ1ODkwMTI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-24",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD81QHY2",
+        "transaction_id": "MzQyOTkxNDE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD228KUJ",
+        "transaction_id": "MzQyMDAwOTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCXE8O49",
+        "transaction_id": "MzQxMjA2MTcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCWFC18X",
+        "transaction_id": "MzQxMDQ5MTAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCBNOQ7D",
+        "transaction_id": "MzM5MjMwMjgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XC1NZ3EB",
+        "transaction_id": "MzM3NjU1MTgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBBXFOXC",
+        "transaction_id": "MzM1MDc2ODgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XAILDHKB",
+        "transaction_id": "MzMyMjQyMzQ1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XACPD5LS",
+        "transaction_id": "MzMxMzQ2MzU2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9W8AZUH",
+        "transaction_id": "MzI4ODczNzc1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9D5515S",
+        "transaction_id": "MzI3NzE1NTY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X93V5I96",
+        "transaction_id": "MzI2MzMzMjY0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8D8RGEX",
+        "transaction_id": "MzI0MzMwOTU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X82AMSYA",
+        "transaction_id": "MzIzMDcwOTUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2018-11-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A7HEXFFN",
+        "transaction_id": "MzIxODEzNzIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7DHELPK",
+        "transaction_id": "MzIxMzM2MTAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7BFKEW8",
+        "transaction_id": "MzIxMTE3NjI0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X74I32X7",
+        "transaction_id": "MzIwMzE4MDk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-10-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X6H9CSMW",
+        "transaction_id": "MzE4Nzk2ODc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X650VXUW",
+        "transaction_id": "MzE3NDE3MDUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2016-10-20",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A5GWWVK1",
+        "transaction_id": "MzE2MDA3NTUyMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 33,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T14:36:24.666Z",
+  "scraped_at": "2026-01-10T14:36:24.666Z"
+}

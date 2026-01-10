@@ -1,0 +1,530 @@
+{
+  "company_name": "VMISTUDIO LTD",
+  "company_number": "09416835",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-02-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "54 Thorpe Road, Norwich, Norfolk, NR1 1RY, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "54 Thorpe Road",
+    "country": "United Kingdom",
+    "locality": "Norwich",
+    "postal_code": "NR1 1RY",
+    "region": "Norfolk"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-16",
+    "last_made_up_to": "2025-02-02",
+    "next_made_up_to": "2026-02-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BYRNE, Fergus John",
+        "officer_role": "director",
+        "appointed_on": "2015-02-02",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR1 1RY",
+          "premises": "54 Thorpe Road",
+          "region": "Norfolk"
+        }
+      },
+      {
+        "name": "BYRNE, Nicholas Alexander",
+        "officer_role": "director",
+        "appointed_on": "2015-02-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR1 1RY",
+          "premises": "54 Thorpe Road",
+          "region": "Norfolk"
+        }
+      },
+      {
+        "name": "COKE, Thomas Charles Julius",
+        "officer_role": "director",
+        "appointed_on": "2024-10-29",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Vyner Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E2 9DG",
+          "premises": "1-5"
+        }
+      },
+      {
+        "name": "WEIDNER, Pete",
+        "officer_role": "director",
+        "appointed_on": "2024-10-29",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Vyner Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E2 9DG",
+          "premises": "1-5"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "OAKWOOD CORPORATE SECRETARY LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2025-05-05",
+        "address": {
+          "address_line_1": "1 Ashley Road",
+          "country": "United Kingdom",
+          "locality": "Altrincham",
+          "postal_code": "WA14 2DT",
+          "premises": "3rd Floor",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Journey Uk Bidco Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-10-29",
+        "address": {
+          "address_line_1": "Vyner Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E2 9DG",
+          "premises": "1-5"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "England And Wales"
+        }
+      },
+      {
+        "name": "Mr Fergus John Byrne",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-10-29",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR1 1RY",
+          "premises": "54 Thorpe Road",
+          "region": "Norfolk"
+        }
+      },
+      {
+        "name": "Mr Nicholas Alexander Byrne",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-10-29",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR1 1RY",
+          "premises": "54 Thorpe Road",
+          "region": "Norfolk"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "094168350002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-11-25",
+        "delivered_on": "2025-12-10",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Trade mark registered with registration number UK00004109791 as listed in schedule 3 of the instrument. For more details please refer to the instrument.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Eldridge Corporate Funding Llc as Agent"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "094168350001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-11-01",
+        "delivered_on": "2024-11-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No specific land, ship, aircraft or intellectual property has been charged. For full details of the charges, please refer to the charging document directly.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Loan Admin Co Llc (As Collateral Agent for the Secured Creditor)"
+          }
+        ],
+        "satisfied_on": "2025-11-26",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2026-01-08",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XET82TI1",
+        "transaction_id": "MzQ5ODA5MjA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2026-01-07",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XET7RSER",
+        "transaction_id": "MzQ5NzgxNTUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-12-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 57,
+        "barcode": "XEH464UH",
+        "transaction_id": "MzQ5MzQxOTMxOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-12-01",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 7,
+        "barcode": "AEG4SF8A",
+        "transaction_id": "QUVHNFNGOEFhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-12-01",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 38,
+        "barcode": "AEG4SFAI",
+        "transaction_id": "MzQ5MTI4MjgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-11-26",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEG4G9IA",
+        "transaction_id": "MzQ5MTExNDU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-28",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XE3IVR9D",
+        "transaction_id": "MzQ2ODEzMjQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-21",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE309EIG",
+        "transaction_id": "MzQ2NzM5NDUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDYPD9NK",
+        "transaction_id": "MzQ1OTQ4NTExNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDI725NE",
+        "transaction_id": "MzQ0ODIwMDA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XDGWINWB",
+        "transaction_id": "MzQ0NTQ3ODkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDGR520G",
+        "transaction_id": "MzQ0NTE2OTY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XDGR51W3",
+        "transaction_id": "MzQ0NTE2OTYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-11-26",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 42,
+        "barcode": "YDGAOZSQ",
+        "transaction_id": "MzQ0NDI4NjUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-11-26",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 42,
+        "barcode": "YDG59T3V",
+        "transaction_id": "MzQ0Mzc0Mjg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-11-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YDFBQB5M",
+        "transaction_id": "WURGQlFCNU1hZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDFED8PS",
+        "transaction_id": "MzQ0MjM3MDI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDFED7HE",
+        "transaction_id": "MzQ0MjM2OTk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 13,
+        "barcode": "XDF8U2OZ",
+        "transaction_id": "MzQ0MjAxNjMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD6HEVK1",
+        "transaction_id": "MzQyNzM4NDgxMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-07-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD6HEV5N",
+        "transaction_id": "MzQyNzM4NDcyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD6HEU68",
+        "transaction_id": "MzQyNzM4NDQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD6HETOZ",
+        "transaction_id": "MzQyNzM4NDM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XD1OUF8X",
+        "transaction_id": "MzQxOTU3NjUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCW9RNLL",
+        "transaction_id": "MzQxMDAzNTU1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 57,
+    "recent_filings_count": 9
+  },
+  "financials": {
+    "employees": 29
+  },
+  "enrichment": {
+    "website": "https://Vmistudio.com",
+    "headcount": 29,
+    "tech_stack": [
+      "Unreal Engine"
+    ],
+    "business_keywords": [
+      "design consultancy",
+      "innovation consultancy",
+      "creative technology",
+      "CGI visualisation",
+      "Unreal Engine",
+      "virtual twins",
+      "real estate",
+      "architecture",
+      "photorealistic visuals",
+      "cinematic films",
+      "immersive sales platforms",
+      "digital twins",
+      "projection-mapped environments",
+      "sensory environments",
+      "customer experiences"
+    ],
+    "services": [
+      "CGI visualisation",
+      "Unreal Engine-powered virtual twins",
+      "photorealistic visuals",
+      "cinematic films",
+      "immersive sales platforms",
+      "projection-mapped environments",
+      "sensory environments for sales and exhibitions",
+      "digital twins for review, coordination, and engagement",
+      "animation and film for project storytelling and promotion"
+    ],
+    "customer_segments": [
+      "real estate clients",
+      "architecture clients"
+    ],
+    "business_description": "VMI Studio, a Journey studio, is a global creative technology practice specializing in CGI visualisation and Unreal Engine-powered virtual twins for real estate and architecture clients. They blend artistry with innovation to create compelling stories, including photorealistic visuals, cinematic films, immersive sales platforms, and digital twins for project communication and engagement.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T14:15:13.961Z"
+  },
+  "scraped_at": "2026-01-10T14:15:08.662Z",
+  "updated_at": "2026-01-10T14:15:13.960Z",
+  "version": 1
+}

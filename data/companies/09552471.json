@@ -1,0 +1,411 @@
+{
+  "company_name": "GOVBOX LIMITED",
+  "company_number": "09552471",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-04-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "14/2g Docklands Business Centre 10-16 Tiller Road, London, E14 8PX, England",
+  "registered_address_structured": {
+    "address_line_1": "14/2g Docklands Business Centre 10-16 Tiller Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 8PX"
+  },
+  "sic_codes": [
+    "38110",
+    "41202",
+    "62020",
+    "70229"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-29",
+    "last_made_up_to": "2025-05-15",
+    "next_made_up_to": "2026-05-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AHMED, Hanifa Begum",
+        "officer_role": "director",
+        "appointed_on": "2015-12-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "10-16 Tiller Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 8PX",
+          "premises": "14/2g Docklands Business Centre"
+        }
+      },
+      {
+        "name": "AHMED, Mohammed Saif",
+        "officer_role": "director",
+        "appointed_on": "2015-04-21",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "10-16 Tiller Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 8PX",
+          "premises": "14/2g Docklands Business Centre"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "AHMED, Mohammed Saif",
+        "officer_role": "secretary",
+        "appointed_on": "2015-04-21",
+        "resigned_on": "2016-01-01",
+        "address": {
+          "address_line_1": "Tiller Road",
+          "address_line_2": "Docklands",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 8PX",
+          "premises": "10-16"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mohammed Saif Ahmed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "10-16 Tiller Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 8PX",
+          "premises": "14/2g Docklands Business Centre"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-06-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE4YGVUA",
+        "transaction_id": "MzQ3MDU3MzQ2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3LNAVK",
+        "transaction_id": "MzQ2ODI5Mzg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDIFD540",
+        "transaction_id": "MzQ0ODY3MDExN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD39GXZF",
+        "transaction_id": "MzQyMjE3NjMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCVWFKGX",
+        "transaction_id": "MzQwOTU2MzUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC8J1L6W",
+        "transaction_id": "MzM4NzQ5NzU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3LJVTE",
+        "transaction_id": "MzM3OTQ3MDMxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3B5ZP6",
+        "transaction_id": "MzM3OTI2NzE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBWCPPXM",
+        "transaction_id": "MzM2NzczMDk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3Z239S",
+        "transaction_id": "MzMzOTMzMDg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB297DX3",
+        "transaction_id": "MzMzNjU4MDU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAW7MFFS",
+        "transaction_id": "MzMyNzUzMTAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2PVB43",
+        "transaction_id": "MzI5ODEyMTk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-07",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X9D2FK0B",
+        "transaction_id": "MzI3NzA1NzA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9CX9ASA",
+        "transaction_id": "MzI3Njk5MzI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-05",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "X9CX9A61",
+        "transaction_id": "MzI3Njk5MzExNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93KSUSI",
+        "transaction_id": "MzI2MzEwMDYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8XM8REG",
+        "transaction_id": "MzI1NTc2ODM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X83ZIK5N",
+        "transaction_id": "MzIzMjU4MTgwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7YBH7LT",
+        "transaction_id": "MzIyNTkyNzc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X74M6PSP",
+        "transaction_id": "MzIwMzQ1MDk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X6YRPGND",
+        "transaction_id": "MzE5NjY1MzEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X64T69GY",
+        "transaction_id": "MzE3NDAzOTkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2017-03-29",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzE3MjE4MjM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-03-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X634RCM2",
+        "transaction_id": "MzE3MjE4MjI3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 33,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Govbox.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Windows 10",
+      "Windows 7"
+    ],
+    "business_keywords": [
+      "NHS approved supplier",
+      "project management",
+      "logistics",
+      "recycling services",
+      "removals",
+      "disposals",
+      "building services",
+      "construction services",
+      "24/7 support",
+      "family owned business",
+      "capital refresh projects",
+      "IT support",
+      "equipment supply",
+      "refurbishment",
+      "healthcare logistics"
+    ],
+    "services": [
+      "project management services",
+      "logistics services",
+      "recycling services",
+      "removals services",
+      "disposals services",
+      "building services",
+      "construction services",
+      "IT support (installation and troubleshooting)",
+      "equipment supply",
+      "refurbishment support"
+    ],
+    "customer_segments": [
+      "NHS (National Health Service)",
+      "GP practices",
+      "healthcare facilities",
+      "medical centres",
+      "surgeries",
+      "hospitals",
+      "NHS trusts",
+      "CAMHS (Child and Adolescent Mental Health Services)",
+      "speech and language therapy services"
+    ],
+    "business_description": "Govbox Limited is a family-owned business providing a range of services including project management, logistics, recycling, removals, disposals, building, and construction services. They specialize in supporting NHS and healthcare facilities with 24/7 availability, delivering large-scale projects, IT support, and equipment supply for refurbishments.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 15,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T14:37:43.028Z"
+  },
+  "scraped_at": "2026-01-10T14:37:35.727Z",
+  "updated_at": "2026-01-10T14:37:43.027Z",
+  "version": 1
+}

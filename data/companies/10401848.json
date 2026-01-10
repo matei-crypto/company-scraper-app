@@ -1,0 +1,433 @@
+{
+  "company_name": "THIS IS CHEMISTRY LTD",
+  "company_number": "10401848",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-09-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "Salts Mill Piazza Salts Mill, Victoria Road, Saltaire, West Yorkshire, BD18 3LA, England",
+  "registered_address_structured": {
+    "address_line_1": "Salts Mill Piazza Salts Mill",
+    "address_line_2": "Victoria Road",
+    "country": "England",
+    "locality": "Saltaire",
+    "postal_code": "BD18 3LA",
+    "region": "West Yorkshire"
+  },
+  "sic_codes": [
+    "62090",
+    "73120",
+    "74100",
+    "82990"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-06-30",
+    "next_accounts_period_end_on": "2026-09-30",
+    "next_accounts_period_start_on": "2025-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-27",
+    "last_made_up_to": "2025-12-13",
+    "next_made_up_to": "2026-12-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SOUTHCOTT, Jonathan",
+        "officer_role": "director",
+        "appointed_on": "2016-09-29",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Victoria Road",
+          "country": "England",
+          "locality": "Shipley",
+          "postal_code": "BD18 3LA",
+          "premises": "Salts Mill Piazza"
+        }
+      },
+      {
+        "name": "FISHER, Martin Glenard",
+        "officer_role": "director",
+        "appointed_on": "2016-09-29",
+        "resigned_on": "2023-05-23",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Salts Mill",
+          "address_line_2": "Victoria Road",
+          "country": "England",
+          "locality": "Saltaire",
+          "postal_code": "BD18 3LA",
+          "premises": "Salts Mill Piazza",
+          "region": "West Yorkshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Martin Glenard Fisher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-09-29",
+        "ceased_on": "2023-05-23",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Victoria Road",
+          "country": "England",
+          "locality": "Shipley",
+          "postal_code": "BD18 3LA",
+          "premises": "Salts Mill Piazza"
+        }
+      },
+      {
+        "name": "Mr Jonathan Southcott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-09-29",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Salts Mill",
+          "address_line_2": "Victoria Road",
+          "country": "England",
+          "locality": "Saltaire",
+          "postal_code": "BD18 3LA",
+          "premises": "Salts Mill Piazza",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEI1OV6N",
+        "transaction_id": "MzQ5NTk4NjA4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEFW5KPK",
+        "transaction_id": "MzQ5MDU0MjY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDI6FZ9S",
+        "transaction_id": "MzQ0NzkxMzI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDFOTFUB",
+        "transaction_id": "MzQ0MjYxMTg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCIBZBC9",
+        "transaction_id": "MzQwMzkxNDE4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-04",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCHNIBYY",
+        "transaction_id": "MzQwMjQ3MTgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-09",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "AC56XH9D",
+        "transaction_id": "MzM4MjI3MjcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-09",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AC56XH8X",
+        "transaction_id": "MzM4MjI3MjcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC53M46Y",
+        "transaction_id": "MzM4MjA0MTA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-06",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC53M3C2",
+        "transaction_id": "MzM4MjA0MDc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC44KA6P",
+        "transaction_id": "MzM4MDQ2ODEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-06",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC0V1V48",
+        "transaction_id": "MzM3NTQ2NDk0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBJBSW6Z",
+        "transaction_id": "MzM2MzI0MTQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAX10UG1",
+        "transaction_id": "MzMyODYxMDI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJ9CU1F",
+        "transaction_id": "MzMyMzQ0NDMxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAE1LZMX",
+        "transaction_id": "MzMxNTQ1NDgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-04-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA3HBGCH",
+        "transaction_id": "MzI5OTU5NjUyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA3HBFO0",
+        "transaction_id": "MzI5OTU5NjQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9X1M1YR",
+        "transaction_id": "MzI4OTgwNjEzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9EJIGEY",
+        "transaction_id": "MzI3ODkyMzUyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8ZZ6ZFU",
+        "transaction_id": "MzI1ODY4NTE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-10-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8FR4BFK",
+        "transaction_id": "MzI0NjQyODM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-10-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8FR4AUN",
+        "transaction_id": "MzI0NjQyODEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8F8KQXU",
+        "transaction_id": "MzI0NTgwMTY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-18",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7ZK66Q9",
+        "transaction_id": "MzIyNzIxNzI5NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 32,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Thisischemistry.co.uk",
+    "headcount": 6,
+    "tech_stack": [],
+    "business_keywords": [
+      "digital agency",
+      "design agency",
+      "branding",
+      "marketing",
+      "web design",
+      "print design",
+      "creative design",
+      "SEO",
+      "PPC",
+      "social media",
+      "copywriting",
+      "content creation",
+      "exhibition design",
+      "packaging design",
+      "advertising",
+      "lead generation",
+      "marketing strategy",
+      "website development"
+    ],
+    "services": [
+      "branding",
+      "marketing",
+      "web design",
+      "print design",
+      "creative design services",
+      "website development",
+      "SEO",
+      "PPC",
+      "social media management",
+      "content & copywriting",
+      "marketing strategy",
+      "brand development",
+      "exhibition design",
+      "packaging design",
+      "advertising",
+      "creative concept design",
+      "PR",
+      "free consultation",
+      "free clarity session",
+      "internal and external sales & marketing meeting attendance",
+      "liaison with customers and suppliers"
+    ],
+    "customer_segments": [
+      "international brands",
+      "small family-run businesses",
+      "businesses looking to elevate their brand aesthetic",
+      "businesses needing lead-generating websites",
+      "businesses with unpredictable leads",
+      "businesses with increasing marketing budgets",
+      "businesses unsure of their next marketing move"
+    ],
+    "business_description": "This Is Chemistry is a full-service design and digital agency based in Saltaire, Bradford, specializing in branding, marketing, web design, and print. They act as an out-of-house marketing team, partnering closely with clients to develop creative solutions, strategies, and lead-generating tools while building long-standing relationships. Their services include branding, website development, SEO, PPC, social media, and content creation to help businesses achieve measurable growth.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T16:39:51.555Z"
+  },
+  "scraped_at": "2026-01-10T16:39:44.125Z",
+  "updated_at": "2026-01-10T16:39:51.555Z",
+  "version": 1
+}

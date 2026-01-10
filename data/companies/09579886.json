@@ -1,0 +1,506 @@
+{
+  "company_name": "HUGGG LIMITED",
+  "company_number": "09579886",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-05-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "71 Queen Victoria Street, London, EC4V 4BE, England",
+  "registered_address_structured": {
+    "address_line_1": "71 Queen Victoria Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC4V 4BE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SIXTY FIVE LIMES LIMITED",
+      "ceased_on": "2015-10-13",
+      "effective_from": "2015-05-07"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-24",
+    "last_made_up_to": "2025-04-10",
+    "next_made_up_to": "2026-04-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BUCKLEY, Russell Christopher Franklin",
+        "officer_role": "director",
+        "appointed_on": "2018-01-30",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1N 8TE",
+          "premises": "31 - 35 Kirby Street"
+        }
+      },
+      {
+        "name": "WICKERS, Paul John",
+        "officer_role": "director",
+        "appointed_on": "2016-11-10",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Queen Victoria Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4V 4BE",
+          "premises": "71"
+        }
+      },
+      {
+        "name": "HARRISON, John Michael Fiske",
+        "officer_role": "director",
+        "appointed_on": "2015-05-07",
+        "resigned_on": "2018-01-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1945,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Temple Way",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS2 0BY",
+          "premises": "Desklodge"
+        }
+      },
+      {
+        "name": "WICKERS, Sadie",
+        "officer_role": "director",
+        "appointed_on": "2015-05-07",
+        "resigned_on": "2016-11-10",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Bath Road",
+          "address_line_2": "Blagdon",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS40 7SE",
+          "premises": "Watersmeet"
+        }
+      },
+      {
+        "name": "WILSON, David Christopher",
+        "officer_role": "director",
+        "appointed_on": "2015-05-07",
+        "resigned_on": "2018-01-30",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Temple Way",
+          "country": "England",
+          "locality": "Bristol",
+          "postal_code": "BS2 0BY",
+          "premises": "Desklodge"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul John Wickers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2023-01-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Queen Victoria Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4V 4BE",
+          "premises": "71"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "095798860002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-09-22",
+        "delivered_on": "2023-10-02",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "095798860001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-01-24",
+        "delivered_on": "2020-02-03",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Finstock Capital Research Finance LTD"
+          }
+        ],
+        "satisfied_on": "2020-04-15",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEBC74WA",
+        "transaction_id": "MzQ4MTY4NDk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-08-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "XE8CCARC",
+        "transaction_id": "MzQ3NjM2NzE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-08-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "XE8CBUAW",
+        "transaction_id": "MzQ3NjM2MzI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XE3G09YW",
+        "transaction_id": "MzQ2NzkxMDUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-26",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XDZ5Q4MA",
+        "transaction_id": "MzQ2MDI0NTkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDAL3NGZ",
+        "transaction_id": "MzQzMzkzMzA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XD4Z4AOA",
+        "transaction_id": "MzQyNDcxNDkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XD4Z4788",
+        "transaction_id": "MzQyNDcxNDAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD1M1ZAR",
+        "transaction_id": "MzQxOTM1MTU4MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCWCKM20",
+        "transaction_id": "MzQxMDI1MTAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XCIEQJSO",
+        "transaction_id": "MzQwNDEzMDA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "XCDB6ALT",
+        "transaction_id": "MzM5NTEzODg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-30",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XCAZN1MP",
+        "transaction_id": "MzM5MTMyNjM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC246QD5",
+        "transaction_id": "MzM3NzM0MDExMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-14",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBZ9TCXE",
+        "transaction_id": "MzM3MjU1MTk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-14",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XBZ9TA54",
+        "transaction_id": "MzM3MjU1MTM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XBDEW2NS",
+        "transaction_id": "MzM1MzExNjAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1W8XWO",
+        "transaction_id": "MzMzNjI5MTI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-17",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAVWPQQO",
+        "transaction_id": "MzMyNjg1MzU5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XAC19CQI",
+        "transaction_id": "MzMxMjMwNjgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 10,
+        "barcode": "XA77K6E0",
+        "transaction_id": "MzMwNTE5MDU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-06-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XA74TIMP",
+        "transaction_id": "MzMwNTA0NTEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-06-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XA74T9D6",
+        "transaction_id": "MzMwNTA0Mjk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-06-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XA74SSXN",
+        "transaction_id": "MzMwNTAzOTA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-06-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 7,
+        "barcode": "XA74SJ2Y",
+        "transaction_id": "MzMwNTAzNjc4MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 64,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Huggg.me",
+    "headcount": 15,
+    "tech_stack": [
+      "Okta (SSO)",
+      "Microsoft (SSO)",
+      "Google (SSO)"
+    ],
+    "business_keywords": [
+      "business gifting",
+      "employee recognition",
+      "client gifting",
+      "gift cards",
+      "physical gifts",
+      "corporate gifting",
+      "tax-optimised gifting",
+      "bulk gifting",
+      "personalised gifting",
+      "recognition platform",
+      "employee benefits",
+      "customer satisfaction",
+      "incentives",
+      "life events gifting",
+      "work milestones gifting"
+    ],
+    "services": [
+      "Business gifting platform",
+      "Employee recognition gifting",
+      "Client and customer gifting",
+      "Incentives for survey responses, campaign signups, and sales SPIFs",
+      "Gifting for life events (birthdays, weddings, new babies, etc.)",
+      "Gifting for work milestones (anniversaries, promotions, probation completion)",
+      "Seasonal event gifting (Christmas, Eid, Pride, International Women’s Day, etc.)",
+      "Gift with choice (recipients select their own gifts within a set budget)",
+      "Physical gift selection (artisan goods, household names)",
+      "Gift cards (takeaway treats, high street retailers)",
+      "Bulk email upload for gifting",
+      "Personalised gifting with custom messages",
+      "Tax-optimised gifting with P11D-ready reports",
+      "Branded gifting experience (custom digital ‘gift wrap’ with logo and colours)",
+      "Gift claim guarantee (pay only for claimed gifts)",
+      "Single sign-on (SSO) integration"
+    ],
+    "customer_segments": [
+      "UK companies",
+      "Businesses seeking employee recognition solutions",
+      "Companies focusing on client and customer relationships",
+      "Organisations looking to improve employee morale",
+      "Businesses needing incentive programs",
+      "Companies celebrating life events and work milestones",
+      "Enterprises requiring bulk gifting solutions"
+    ],
+    "business_description": "Huggg Limited provides a free platform for business gifting that simplifies sending personalised gifts to employees, clients, and customers without requiring addresses. The platform offers a range of physical gifts and gift cards, enabling instant recognition for various occasions like work milestones, life events, and incentives. It includes features like bulk email uploads, tax-optimised gifting, and branded experiences to enhance engagement and appreciation.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T14:43:20.291Z"
+  },
+  "scraped_at": "2026-01-10T14:43:08.047Z",
+  "updated_at": "2026-01-10T14:43:20.290Z",
+  "version": 1
+}

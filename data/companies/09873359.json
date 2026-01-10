@@ -1,0 +1,435 @@
+{
+  "company_name": "THE ICENTRIC AGENCY LIMITED",
+  "company_number": "09873359",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-11-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "Colworth House, Colworth Park, Sharnbrook, Bedfordshire, MK44 1LQ, England",
+  "registered_address_structured": {
+    "address_line_1": "Colworth House",
+    "address_line_2": "Colworth Park",
+    "country": "England",
+    "locality": "Sharnbrook",
+    "postal_code": "MK44 1LQ",
+    "region": "Bedfordshire"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "GUIDED CREATIVE LIMITED",
+      "ceased_on": "2015-11-18",
+      "effective_from": "2015-11-16"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-26",
+    "last_made_up_to": "2025-11-12",
+    "next_made_up_to": "2026-11-12"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAPONE, Alex",
+        "officer_role": "director",
+        "appointed_on": "2015-11-16",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "2-8 Cauldwell Street",
+          "country": "England",
+          "locality": "Bedford",
+          "postal_code": "MK42 9AD",
+          "premises": "Icentric Agency"
+        }
+      },
+      {
+        "name": "NEWSTEAD, Marc",
+        "officer_role": "director",
+        "appointed_on": "2016-02-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Cauldwell Street",
+          "country": "United Kingdom",
+          "locality": "Bedford",
+          "postal_code": "MK42 9AD",
+          "premises": "7-8",
+          "region": "Beds"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Prima Castle Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2020-06-30",
+        "address": {
+          "address_line_1": "36-38 Cornhill",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3V 3NG",
+          "premises": "International House"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales",
+          "registration_number": "12668755"
+        }
+      },
+      {
+        "name": "Mr Alex Capone",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "2-8 Cauldwell Street",
+          "country": "England",
+          "locality": "Bedford",
+          "postal_code": "MK42 9AD",
+          "premises": "Icentric Agency"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEF57HX4",
+        "transaction_id": "MzQ4ODM5OTg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE6JMUZV",
+        "transaction_id": "MzQ3MzMyNDA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE6JMREP",
+        "transaction_id": "MzQ3MzMyMzQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-07-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE6JMQ9F",
+        "transaction_id": "MzQ3MzMyMzE5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDZGSARM",
+        "transaction_id": "MzQ2MDgxMDkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD6POUWH",
+        "transaction_id": "MzQyNzgyMDc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCZA335L",
+        "transaction_id": "MzQxNTQ4NDc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC74D0F4",
+        "transaction_id": "MzM4NTM1MTE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC6O8F7C",
+        "transaction_id": "MzM4NDY5MjgyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB7C2B49",
+        "transaction_id": "MzM0NDQzOTE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB58RI0B",
+        "transaction_id": "MzM0MTI4NDM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB2P5TLK",
+        "transaction_id": "MzMzNzIzMjM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA8UUH01",
+        "transaction_id": "MzMwNzg5MTAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA8MURSA",
+        "transaction_id": "MzMwNzU0NDY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA6RIEQP",
+        "transaction_id": "MzMwNDU5NzQ2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-07",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9VK09MI",
+        "transaction_id": "MzI4NzU1NzIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9L2F2G2",
+        "transaction_id": "MzI4NzMwMzc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X97EPM4R",
+        "transaction_id": "MzI2NzU2NTUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KPK47V",
+        "transaction_id": "MzI1MjczNDUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8J7MXOB",
+        "transaction_id": "MzI1MDU3NDMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8IGZSUJ",
+        "transaction_id": "MzI0OTQ5OTE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-11-13",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A8HQR7HU",
+        "transaction_id": "MzI0ODg5ODg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-11-13",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QThIUVI3STJhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7L9K65V",
+        "transaction_id": "MzIyMjc4NzYyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7J6LM8J",
+        "transaction_id": "MzIxOTk0NjE5MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Icentric.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "Open source"
+    ],
+    "business_keywords": [
+      "Enterprise Content Management System",
+      "CMS",
+      "Digital Marketing Platform",
+      "Multi-site CMS",
+      "Multi-language CMS",
+      "Social Media Management",
+      "Customer Experience Management",
+      "Email Campaigning",
+      "SMS Campaigning",
+      "Web Experience Management",
+      "Digital Experience Platform (DXP)",
+      "Business Intelligence",
+      "Open Source",
+      "Content Management System",
+      "Customer Retention"
+    ],
+    "services": [
+      "Multi-site and multi-language CMS",
+      "Social media management",
+      "Asset management",
+      "Customer experience management",
+      "Email and SMS campaigning",
+      "Web experience management",
+      "Integrated multi-channel marketing",
+      "Real-time customer intelligence",
+      "Customer loyalty and retention solutions",
+      "Tailored digital solutions",
+      "Consultancy for needs analysis, specification, and strategy",
+      "Partnerships for technical and marketing services",
+      "Custom development of features",
+      "Full turn-key solution deployment",
+      "User behavior evaluation and personalization",
+      "Measurement and analysis of online activities",
+      "Access control for business intelligence segments"
+    ],
+    "customer_segments": [
+      "Enterprises",
+      "Brand Agencies",
+      "Advertising Agencies",
+      "Creative Agencies",
+      "Luxury automotive",
+      "Global Management and engineering consultants",
+      "Sporting automotive",
+      "Media and broadcasting",
+      "Global medical equipment manufacturers and distributors",
+      "Leisure and travel",
+      "Air management equipment manufacturers",
+      "Real-time traffic management"
+    ],
+    "business_description": "iCentric AGENCY LIMITED provides an enterprise-level digital marketing platform and content management system (CMS) featuring multi-site, multi-language capabilities, social media and asset management, and customer experience tools. The company offers solutions for creating, engaging, converting, and retaining customers across all digital channels, along with consultancy, custom development, and partnership opportunities for businesses.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T15:26:03.358Z"
+  },
+  "scraped_at": "2026-01-10T15:25:53.767Z",
+  "updated_at": "2026-01-10T15:26:03.358Z",
+  "version": 1
+}

@@ -1,0 +1,414 @@
+{
+  "company_name": "AIM TECHNOLOGIES LTD",
+  "company_number": "10637621",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-02-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 8 Riverside, Campbell Road, Stoke-On-Trent, Staffordshire, ST4 4RJ, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 8 Riverside",
+    "address_line_2": "Campbell Road",
+    "country": "England",
+    "locality": "Stoke-On-Trent",
+    "postal_code": "ST4 4RJ",
+    "region": "Staffordshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-09",
+    "last_made_up_to": "2025-02-23",
+    "next_made_up_to": "2026-02-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LAKE, Michelle Christina",
+        "officer_role": "director",
+        "appointed_on": "2017-03-03",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Campbell Road",
+          "country": "United Kingdom",
+          "locality": "Stoke-On-Trent",
+          "postal_code": "ST4 4RJ",
+          "premises": "Unit 8 Riverside",
+          "region": "Staffordshire"
+        }
+      },
+      {
+        "name": "LAKE, Steven Michael",
+        "officer_role": "director",
+        "appointed_on": "2017-02-24",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Campbell Road",
+          "country": "United Kingdom",
+          "locality": "Stoke-On-Trent",
+          "postal_code": "ST4 4RJ",
+          "premises": "Unit 8 Riverside",
+          "region": "Staffordshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Steven Michael Lake",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-02-24",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Campbell Road",
+          "country": "United Kingdom",
+          "locality": "Stoke-On-Trent",
+          "postal_code": "ST4 4RJ",
+          "premises": "Unit 8 Riverside",
+          "region": "Staffordshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "106376210001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-07-21",
+        "delivered_on": "2023-08-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Allica Bank Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDXN610X",
+        "transaction_id": "MzQ1NzI0MDk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDJ38GOG",
+        "transaction_id": "MzQ0OTUxOTM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD252W57",
+        "transaction_id": "MzQyMDIxMDQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD252W4Z",
+        "transaction_id": "MzQyMDIxMDM5MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD252WGA",
+        "transaction_id": "MzQyMDIxMDE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCY5EKEG",
+        "transaction_id": "MzQxMzMwNzc3NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCDTZADV",
+        "transaction_id": "MzM5NTkzMDgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCD39TB7",
+        "transaction_id": "MzM5NDk3NTQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 48,
+        "barcode": "XC9I3ZJP",
+        "transaction_id": "MzM4ODkyMTQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXZW7IQ",
+        "transaction_id": "MzM3MDQ2ODMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBJC0O8W",
+        "transaction_id": "MzM2MzMwNjM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZS82R2",
+        "transaction_id": "MzMzMjcxMTY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAJY8YA3",
+        "transaction_id": "MzMyNDY3MjY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4O3W89",
+        "transaction_id": "MzMwMTIxMjMyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X9KHO7QI",
+        "transaction_id": "MzI4Njc5ODQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-12-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9JO3A6J",
+        "transaction_id": "MzI4NTgwMzc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X92ZQYWP",
+        "transaction_id": "MzI2MjQ2MzE4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-27",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8EVCEE9",
+        "transaction_id": "MzI0NTQyMjE0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80TGBI0",
+        "transaction_id": "MzIyODg3NzUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-12-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7K58GW3",
+        "transaction_id": "MzIyMTI5MDg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-04-30",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X74Z6NVD",
+        "transaction_id": "MzIwMzc3MzE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X71BHQKQ",
+        "transaction_id": "MzE5OTU3NDMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-01",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X67NAHAH",
+        "transaction_id": "MzE3NzE3NDc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-03-03",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X61G7DXU",
+        "transaction_id": "MzE3MDMwMTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2017-02-24",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 41,
+        "barcode": "X60V26SH",
+        "transaction_id": "MzE2OTYwNjA3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "website": "https://Aimtechnologies.com",
+    "headcount": 17,
+    "tech_stack": [
+      "Splide @splidejs/splide"
+    ],
+    "business_keywords": [
+      "motorsport products",
+      "data logging systems",
+      "racing teams",
+      "GPS lap timer",
+      "data loggers",
+      "lap timers",
+      "onboard cameras",
+      "PDMs",
+      "sensors",
+      "aftermarket digital displays",
+      "track companion",
+      "real-time performance",
+      "predictive performance",
+      "motorsport",
+      "professional racers"
+    ],
+    "services": [
+      "support",
+      "training",
+      "free software"
+    ],
+    "customer_segments": [
+      "racing teams",
+      "professional racers",
+      "car racers",
+      "kart racers",
+      "bike racers",
+      "motocross racers"
+    ],
+    "business_description": "AIM Technologies Ltd provides high-quality motorsport products, including data loggers, lap timers, onboard cameras, PDMs, sensors, and aftermarket digital displays. The company serves thousands of racing teams worldwide and offers support, training, and free software tailored to customer needs.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:13:44.776Z"
+  },
+  "scraped_at": "2026-01-10T17:13:37.503Z",
+  "updated_at": "2026-01-10T17:13:44.776Z",
+  "version": 1
+}

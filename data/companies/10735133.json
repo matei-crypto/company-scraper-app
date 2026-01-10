@@ -1,0 +1,366 @@
+{
+  "company_name": "HRIS SOLUTIONS LTD",
+  "company_number": "10735133",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-04-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 2-6 Hainault Business Park, Ilford, IG6 3UT, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 2-6 Hainault Business Park",
+    "country": "England",
+    "locality": "Ilford",
+    "postal_code": "IG6 3UT"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-04",
+    "last_made_up_to": "2025-04-20",
+    "next_made_up_to": "2026-04-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GALLACHER, Claire",
+        "officer_role": "director",
+        "appointed_on": "2025-04-14",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Hainault Business Park",
+          "country": "England",
+          "locality": "Ilford",
+          "postal_code": "IG6 3UT",
+          "premises": "Unit 2-6"
+        }
+      },
+      {
+        "name": "ULLAH, Saif",
+        "officer_role": "director",
+        "appointed_on": "2017-04-21",
+        "resigned_on": "2025-04-22",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "10 Ravens Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E20 1DQ",
+          "premises": "Flat 44, Tayberry House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ms Claire Gallacher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2025-04-14",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Hainault Business Park",
+          "country": "England",
+          "locality": "Ilford",
+          "postal_code": "IG6 3UT",
+          "premises": "Unit 2-6"
+        }
+      },
+      {
+        "name": "Mr Saif Ullah",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2017-04-21",
+        "ceased_on": "2025-04-22",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "10 Ravens Walk",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E20 1DQ",
+          "premises": "Flat 44, Tayberry House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE8PM64X",
+        "transaction_id": "MzQ3Njc2NzYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE20ZGB4",
+        "transaction_id": "MzQ2NTMzNTU1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-22",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE11D1GY",
+        "transaction_id": "MzQ2MzQ1MDAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-22",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE11D0NE",
+        "transaction_id": "MzQ2MzQ0OTczMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-22",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XE11CXRH",
+        "transaction_id": "MzQ2MzQ0OTA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-22",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE11CW5L",
+        "transaction_id": "MzQ2MzQ0ODgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD84S0XM",
+        "transaction_id": "MzQzMDIzMzEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD7R72N7",
+        "transaction_id": "MzQyOTUyMTkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD730R41",
+        "transaction_id": "MzQyODMxNDU0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD5KREI3",
+        "transaction_id": "MzQyNTg3MDE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4JBICG",
+        "transaction_id": "MzQyNDIwNzYzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCVG3F8O",
+        "transaction_id": "MzQwODg5NDE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6QKZ22",
+        "transaction_id": "MzM4NDY0NTA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBW7ADXT",
+        "transaction_id": "MzM2NzQ5MTU0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3O4WXE",
+        "transaction_id": "MzMzODc0MzMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XAWVIZ15",
+        "transaction_id": "MzMyODMyMDc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA9LGHU2",
+        "transaction_id": "MzMwODkwNzkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA47XXW9",
+        "transaction_id": "MzMwMDQ4OTM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA3HJLIJ",
+        "transaction_id": "MzI5OTY1MTA4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X98IXTDK",
+        "transaction_id": "MzI3MjM1MDk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X8XORMVT",
+        "transaction_id": "MzI1NTgxMTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X850MYC1",
+        "transaction_id": "MzIzMzg0NDY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7XNB1EQ",
+        "transaction_id": "MzIyNDk4Mzk5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X75L8AP4",
+        "transaction_id": "MzIwNDU4ODk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2017-04-21",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "X64T507M",
+        "transaction_id": "MzE3NDAxOTE3NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T17:31:57.661Z",
+  "scraped_at": "2026-01-10T17:31:57.661Z"
+}

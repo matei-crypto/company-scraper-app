@@ -1,0 +1,567 @@
+{
+  "company_name": "BP3 GLOBAL LIMITED",
+  "company_number": "09229677",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-09-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "Regus Fenchurch Street New London House, 6 London Street, London, EC3R 7LP, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Regus Fenchurch Street New London House",
+    "address_line_2": "6 London Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC3R 7LP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2024-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-06",
+    "last_made_up_to": "2025-09-22",
+    "next_made_up_to": "2026-09-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRAKONIECKI, David Alan",
+        "officer_role": "director",
+        "appointed_on": "2014-09-29",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1972,
+        "nationality": "American",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New London House",
+          "address_line_2": "6 London Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3R 7LP",
+          "premises": "Regus Fenchurch Street"
+        }
+      },
+      {
+        "name": "FRANCIS, Scott Louis",
+        "officer_role": "director",
+        "appointed_on": "2014-09-22",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1972,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "New London House",
+          "address_line_2": "6 London Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3R 7LP",
+          "premises": "Regus Fenchurch Street"
+        }
+      },
+      {
+        "name": "GIBBS, Robert Lance",
+        "officer_role": "director",
+        "appointed_on": "2014-09-22",
+        "resigned_on": "2021-11-24",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1969,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "New London House",
+          "address_line_2": "6 London Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3R 7LP",
+          "premises": "Regus Fenchurch Street"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Alamo Finco 2 Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-11-24",
+        "address": {
+          "address_line_1": "Level 9, The Shard",
+          "address_line_2": "32 London Bridge Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 9SG",
+          "premises": "C/O Horizon Capital Llp"
+        },
+        "identification": {
+          "legal_form": "Company Limited By Shares",
+          "legal_authority": "The Companies Acts",
+          "country_registered": "United Kingdom",
+          "place_registered": "United Kingdom",
+          "registration_number": "13743583"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "092296770005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-12-19",
+        "delivered_on": "2025-12-22",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Not applicable.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Alter Domus Trustees (UK) Limited as Security Trustee for the Secured Parties"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "092296770004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-23",
+        "delivered_on": "2025-07-31",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Banking"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "092296770003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-11",
+        "delivered_on": "2025-07-15",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Not applicable.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Alter Domus Trustees (UK) Limited as Security Trustee for the Secured Parties"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "092296770002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-01-10",
+        "delivered_on": "2025-01-14",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Not applicable.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Alter Domus Trustees (UK) Limited as Security Trustee for the Secured Parties"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "092296770001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-02-24",
+        "delivered_on": "2022-02-28",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Not applicable.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Alter Domus Trustees (UK) Limited as Security Trustee for the Secured Parties"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 5,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2025-12-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XEHYSGU3",
+        "transaction_id": "MzQ5NTc0MDQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECHJ617",
+        "transaction_id": "MzQ4Mzc3NjQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XECHJ550",
+        "transaction_id": "MzQ4Mzc3Mzg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-31",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XE7YV4KI",
+        "transaction_id": "MzQ3NTgzMTg0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XE6U6JJS",
+        "transaction_id": "MzQ3MzcwOTE3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-17",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "AE0ICC57",
+        "transaction_id": "MzQ2Mjk2ODA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-01-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XDU91HHT",
+        "transaction_id": "MzQ1MDk2ODk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDDB4QI",
+        "transaction_id": "MzQzODkyNDQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-17",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 25,
+        "barcode": "ACUBQ0T5",
+        "transaction_id": "MzQwNzEzMzkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCCMNZLC",
+        "transaction_id": "MzM5NDA5ODAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-21",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCAE08PK",
+        "transaction_id": "MzM5MDE4OTAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-21",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XCAE06VM",
+        "transaction_id": "MzM5MDE4ODY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "auditors",
+        "date": "2023-03-23",
+        "description": "auditors-resignation-company",
+        "type": "AUD",
+        "pages": 1,
+        "barcode": "ABZRWS3E",
+        "transaction_id": "MzM3Mzc2NDM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBJC1WWH",
+        "transaction_id": "MzM2MzMxNjUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDF2NT4",
+        "transaction_id": "MzM1MzE4MDQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-03-07",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 35,
+        "barcode": "AAYU9GDV",
+        "transaction_id": "MzMzMTYzNzU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-03-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUFZVTlHRTNhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-28",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 10,
+        "barcode": "XAYT9OUQ",
+        "transaction_id": "MzMzMTI3NzU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAI2EQ5D",
+        "transaction_id": "MzMyMTQ2NDk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEXUIA0",
+        "transaction_id": "MzMxNjc0MzE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "AAE4NBW8",
+        "transaction_id": "MzMxNjA3MzkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAD2MDKX",
+        "transaction_id": "MzMxMzkyNDMzN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAD2MBDK",
+        "transaction_id": "MzMxMzkyMzY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAD2M8YH",
+        "transaction_id": "MzMxMzkyMzEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-13",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "A9L3A58G",
+        "transaction_id": "MzI4ODIxOTg5MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 42,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 2136351,
+    "ebitda": -2184433,
+    "employees": 18
+  },
+  "enrichment": {
+    "website": "https://Bp-3.com",
+    "headcount": 18,
+    "tech_stack": [
+      "Automation Anywhere",
+      "ABBYY",
+      "AWS",
+      "Blue Prism",
+      "Camunda",
+      "OutSystems",
+      "Microsoft Power Platform",
+      "IBM",
+      "Celonis",
+      "Pega",
+      "UiPath"
+    ],
+    "business_keywords": [
+      "process automation",
+      "AI",
+      "intelligent automation",
+      "business transformation",
+      "enterprise UX design",
+      "Center of Excellence",
+      "decision intelligence",
+      "business advisory",
+      "workflow redesign",
+      "scalable solutions",
+      "human-centric solutions",
+      "ROI",
+      "compliance",
+      "audit trails",
+      "change management"
+    ],
+    "services": [
+      "business advisory",
+      "enterprise UX design",
+      "Artificial Intelligence",
+      "intelligent automation",
+      "decision intelligence",
+      "App Maintenance and Support",
+      "CoE development",
+      "value discovery",
+      "roadmap planning",
+      "solution design",
+      "implementation",
+      "enablement",
+      "performance monitoring",
+      "training",
+      "stakeholder alignment",
+      "adoption frameworks",
+      "process governance",
+      "data security",
+      "integration with ERP, CRM, and data lakes",
+      "dashboard and metrics design",
+      "audit trails and traceability"
+    ],
+    "customer_segments": [
+      "healthcare",
+      "finance",
+      "energy",
+      "retail",
+      "telecom",
+      "regulated sectors",
+      "high-complexity sectors"
+    ],
+    "business_description": "BP3 Global transforms complex business challenges into streamlined success stories through AI and automation. The company combines strategic business advisory, human-centered design, and intelligent automation to deliver measurable outcomes such as faster processes, better experiences, and measurable ROI. BP3 supports organizations across industries in designing scalable, human-centric solutions from initial vision to sustained success.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T13:43:16.654Z"
+  },
+  "scraped_at": "2026-01-10T13:43:09.208Z",
+  "updated_at": "2026-01-10T13:43:16.654Z",
+  "version": 1
+}

@@ -1,0 +1,456 @@
+{
+  "company_name": "FANGO LTD",
+  "company_number": "10951946",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-09-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Walkergate House, 67 Walkergate, Beverley, East Yorkshie, HU17 9BP, England",
+  "registered_address_structured": {
+    "address_line_1": "Walkergate House",
+    "address_line_2": "67 Walkergate",
+    "country": "England",
+    "locality": "Beverley",
+    "postal_code": "HU17 9BP",
+    "region": "East Yorkshie"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "FANGOAPP LTD",
+      "ceased_on": "2020-10-15",
+      "effective_from": "2017-09-07"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-04",
+    "last_made_up_to": "2025-12-21",
+    "next_made_up_to": "2026-12-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GATESHILL, Joseph Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2017-09-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "67 Walkergate",
+          "country": "England",
+          "locality": "Beverley",
+          "postal_code": "HU17 9BP",
+          "premises": "Walkergate House",
+          "region": "East Yorkshire"
+        }
+      },
+      {
+        "name": "USHER, Gregory Alexander",
+        "officer_role": "director",
+        "appointed_on": "2017-09-07",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "67 Walkergate",
+          "country": "England",
+          "locality": "Beverley",
+          "postal_code": "HU17 9BP",
+          "premises": "Walkergate House",
+          "region": "East Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GATESHILL, Joseph Bernard",
+        "officer_role": "secretary",
+        "appointed_on": "2023-10-20",
+        "address": {
+          "address_line_1": "67 Walkergate",
+          "country": "England",
+          "locality": "Beverley",
+          "postal_code": "HU17 9BP",
+          "premises": "Walkergate House",
+          "region": "East Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Gregory Alexander Usher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-09-07",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "67 Walkergate",
+          "country": "England",
+          "locality": "Beverley",
+          "postal_code": "HU17 9BP",
+          "premises": "Walkergate House",
+          "region": "East Yorkshie"
+        }
+      },
+      {
+        "name": "Mr Joseph Geoffrey Gateshill",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-09-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "67 Walkergate",
+          "country": "England",
+          "locality": "Beverley",
+          "postal_code": "HU17 9BP",
+          "premises": "Walkergate House",
+          "region": "East Yorkshie"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "109519460001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-24",
+        "delivered_on": "2025-07-30",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XESX105S",
+        "transaction_id": "MzQ5NzM5MDgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEFTHY23",
+        "transaction_id": "MzQ5MDM0NzE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEFTHXUY",
+        "transaction_id": "MzQ5MDM0NzA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-21",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEFTHXM9",
+        "transaction_id": "MzQ5MDM0NzAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-11-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEFTHW0X",
+        "transaction_id": "MzQ5MDM0NjYyOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-30",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XE7W0M3D",
+        "transaction_id": "MzQ3NTY3MzY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDY8YIXE",
+        "transaction_id": "MzQ1ODQzNDQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDJ5MX7T",
+        "transaction_id": "MzQ0OTQ4OTI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD42Q5D4",
+        "transaction_id": "MzQyMzMxNTgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIVBBHD",
+        "transaction_id": "MzQwNTI0ODQwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCISAOH1",
+        "transaction_id": "MzQwNTAwMTQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-02",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCFEUV3D",
+        "transaction_id": "MzM5ODc1MzkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-07",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBYTHBGW",
+        "transaction_id": "MzM3MTczOTY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBJUEDZT",
+        "transaction_id": "MzM2MzkwMDY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XBGC3ZMA",
+        "transaction_id": "MzM1NzgyMjc1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB64VF2W",
+        "transaction_id": "MzM0MjQ4NjYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB2P0E2A",
+        "transaction_id": "MzMzNzE4NTQzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJSH0X5",
+        "transaction_id": "MzMyNDI2NTk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9ZI3OPK",
+        "transaction_id": "MzI5MzE0NDEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-02-16",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 20,
+        "barcode": "A9XP249V",
+        "transaction_id": "MzI5MTM1MjU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-02-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 6,
+        "transaction_id": "QTlYUDI0OUZhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-16",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A9XP249N",
+        "transaction_id": "MzI5MTM1MjU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-01-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QTlWQ1lOOVVhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-01-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTlWQ1lOOUVhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-01-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QTlWQ1lOQ1FhZGlxemtjeA"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Fangocloud.co.uk",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "bespoke event management software",
+      "event planning solutions",
+      "event admin elimination",
+      "booking process streamlining",
+      "guest experience improvement",
+      "ticket selling",
+      "deposit acceptance",
+      "pre-payment processing",
+      "food pre-order collection",
+      "drink pre-order collection",
+      "allergen information gathering",
+      "table plan management",
+      "24/7 sales driving",
+      "UK event planners",
+      "hospitality industry software"
+    ],
+    "services": [
+      "bespoke event management software",
+      "ticket selling",
+      "deposit acceptance",
+      "pre-payment processing",
+      "food and drink pre-order collection",
+      "allergen information gathering",
+      "table plan management",
+      "event admin elimination",
+      "booking process streamlining",
+      "guest experience improvement"
+    ],
+    "customer_segments": [
+      "UK event planners",
+      "venues across the UK",
+      "hospitality industry"
+    ],
+    "business_description": "FanGo LTD provides bespoke event management software tailored for UK event planners and the hospitality industry. The software helps eliminate event admin, streamline the booking process, improve guest experience, and drive sales 24/7 by offering features such as ticket selling, deposit and pre-payment acceptance, food and drink pre-order collection, allergen information gathering, and table plan management.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:12:07.717Z"
+  },
+  "scraped_at": "2026-01-10T18:11:59.892Z",
+  "updated_at": "2026-01-10T18:12:07.717Z",
+  "version": 1
+}

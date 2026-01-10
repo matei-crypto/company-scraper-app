@@ -1,0 +1,366 @@
+{
+  "company_name": "SMG BUSINESS SOLUTIONS LTD",
+  "company_number": "09929375",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-12-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "25 West Tenter Street, London, E1 8DT, England",
+  "registered_address_structured": {
+    "address_line_1": "25 West Tenter Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 8DT"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "I2 SOLUTIONS GROUP LTD",
+      "ceased_on": "2018-03-02",
+      "effective_from": "2015-12-24"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-15",
+    "last_made_up_to": "2025-10-01",
+    "next_made_up_to": "2026-10-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DODSON, Michaela Ann",
+        "officer_role": "director",
+        "appointed_on": "2019-08-16",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Tenter Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8DT",
+          "premises": "25"
+        }
+      },
+      {
+        "name": "GEE, Steven Michael",
+        "officer_role": "director",
+        "appointed_on": "2015-12-24",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "West Tenter Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E1 8DT",
+          "premises": "25"
+        }
+      },
+      {
+        "name": "RICHARDS, Alan John",
+        "officer_role": "director",
+        "appointed_on": "2023-05-25",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "West Tenter Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8DT",
+          "premises": "25"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Steven Michael Gee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-01-13",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1975,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "West Tenter Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8DT",
+          "premises": "25"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XED30Y6I",
+        "transaction_id": "MzQ4NDU4MzA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XEBXZ7K8",
+        "transaction_id": "MzQ4MjgwOTA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE059FXV",
+        "transaction_id": "MzQ2MTg3MjcyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDDIOOO8",
+        "transaction_id": "MzQzOTE1MTE0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDDIOOTL",
+        "transaction_id": "MzQzOTE1MTEzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDDIONIR",
+        "transaction_id": "MzQzOTE1MDc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDCGJ5IC",
+        "transaction_id": "MzQzNzM0MzkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-07-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD78GV7C",
+        "transaction_id": "MzQyODU3NTYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-12-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCIPQ4FS",
+        "transaction_id": "MzQwNDg4NjU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCDR5B03",
+        "transaction_id": "MzM5NTY4Njk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCCEGEQ1",
+        "transaction_id": "MzM5MzY0MDE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC4CSEEA",
+        "transaction_id": "MzM4MDk1NzQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-25",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC4A5Q6W",
+        "transaction_id": "MzM4MDg1MTUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC0S7OB4",
+        "transaction_id": "MzM3NTIwMTkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-31",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC0H6VQQ",
+        "transaction_id": "MzM3NDczMjA5N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUJFQ1FNOUxhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUJFQ1FIWlZhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBE0RIOH",
+        "transaction_id": "MzM1NDE2MzY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-09-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBD6T3O0",
+        "transaction_id": "MzM1MjY4ODE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBCGD8MX",
+        "transaction_id": "MzM1MTc1MjMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-10-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAE77P28",
+        "transaction_id": "MzMxNTc5MDYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-10-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAE77OZS",
+        "transaction_id": "MzMxNTc5MDU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAE77CTU",
+        "transaction_id": "MzMxNTc4NzUwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XADIL5AI",
+        "transaction_id": "MzMxNDQzMzUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-04-28",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUExVUVBUlRhZGlxemtjeA"
+      }
+    ],
+    "total_count": 50,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://I2solutions.co.uk",
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T15:32:41.278Z",
+  "scraped_at": "2026-01-10T15:32:41.278Z"
+}

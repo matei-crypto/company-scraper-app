@@ -1,0 +1,385 @@
+{
+  "company_name": "SOFICO SERVICES UK LTD",
+  "company_number": "11043739",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-11-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Units 40-48 Malvern Hills Science Park, Geraldine Road, Malvern, Worcestershire, WR14 3SZ",
+  "registered_address_structured": {
+    "address_line_1": "Units 40-48 Malvern Hills Science Park",
+    "address_line_2": "Geraldine Road",
+    "locality": "Malvern",
+    "postal_code": "WR14 3SZ",
+    "region": "Worcestershire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-15",
+    "last_made_up_to": "2025-11-01",
+    "next_made_up_to": "2026-11-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DE BRUYNE, Wim",
+        "officer_role": "director",
+        "appointed_on": "2025-09-08",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1979,
+        "nationality": "Belgian",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "Geraldine Road",
+          "country": "United Kingdom",
+          "locality": "Malvern",
+          "postal_code": "WR14 3SZ",
+          "premises": "Units 40-48 Malvern Hills Science Park",
+          "region": "Worcestershire"
+        }
+      },
+      {
+        "name": "HOMPES, Gerard",
+        "officer_role": "director",
+        "appointed_on": "2017-11-02",
+        "resigned_on": "2025-05-08",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1967,
+        "nationality": "Dutch",
+        "country_of_residence": "Belgium",
+        "address": {
+          "address_line_1": "Geraldine Road",
+          "locality": "Malvern",
+          "postal_code": "WR14 3SZ",
+          "premises": "Units 40-48 Malvern Hills Science Park",
+          "region": "Worcestershire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Soft And Informatics Company Nv",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-11-02",
+        "ceased_on": "2019-11-01",
+        "address": {
+          "address_line_1": "Technologiepark-Zwijnaarde 1",
+          "country": "Belgium",
+          "locality": "9052 Gent",
+          "premises": "Sofico"
+        },
+        "identification": {
+          "legal_form": "Corporation Limited By Shares",
+          "legal_authority": "Belgian Law",
+          "country_registered": "Belgium",
+          "place_registered": "Belgium",
+          "registration_number": "0404.484.060"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XESWXR3S",
+        "transaction_id": "MzQ5NzM2NDM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-06",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "AEC9HKZN",
+        "transaction_id": "MzQ4MzgwMDc0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-06",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "AEC9HKZV",
+        "transaction_id": "MzQ4MzgwMDc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 3,
+        "barcode": "AEBH6ESZ",
+        "transaction_id": "MzQ4MjQ4NjM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AE0KV3BU",
+        "transaction_id": "MzQ2MzQ1NjYwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFXAVCG",
+        "transaction_id": "MzQ0MzU0Mzc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-11",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "AD6H0W5S",
+        "transaction_id": "MzQyNzc4NDE3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-09",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "ACIXCQ5C",
+        "transaction_id": "MzQwNjA2MjMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCGAR369",
+        "transaction_id": "MzM5OTg5MTUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGRWTAQ",
+        "transaction_id": "MzM1ODM1NzQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBD4951V",
+        "transaction_id": "MzM1MjYzOTAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAGCQTLU",
+        "transaction_id": "MzMxODc4NTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAE4E6YB",
+        "transaction_id": "MzMxNTY0NDU5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-10",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A9H9C3K0",
+        "transaction_id": "MzI4MzAwOTMyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9HFMCNE",
+        "transaction_id": "MzI4Mjg4MDkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-11-07",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "X8HQQ3CI",
+        "transaction_id": "MzI0ODc5NzQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-11-07",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X8HQPZ7N",
+        "transaction_id": "MzI0ODc5NjM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8HQPT4I",
+        "transaction_id": "MzI0ODc5NDY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-08-09",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A8AZQOZC",
+        "transaction_id": "MzI0MTEwMTY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-07",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7WMBOKG",
+        "transaction_id": "MzIyMzgzMzI2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7K57SM9",
+        "transaction_id": "MzIyMTI4NTE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-10-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7GW7DUI",
+        "transaction_id": "MzIxNzM0Nzg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2017-11-02",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X6IAF1C9",
+        "transaction_id": "MzE4OTIzMzA5MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 23,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 34
+  },
+  "enrichment": {
+    "website": "https://Sofico.global",
+    "headcount": 34,
+    "tech_stack": [
+      "SOFICO Miles Enterprise",
+      "SOFICO Miles",
+      "SOFICO Cloud"
+    ],
+    "business_keywords": [
+      "automotive software",
+      "mobility software",
+      "finance software",
+      "leasing software",
+      "fleet management software",
+      "mobility management software",
+      "cloud-based platform",
+      "contract management",
+      "automotive services",
+      "mobility services",
+      "digital transformation",
+      "modular software",
+      "forward-thinking software",
+      "integrations",
+      "automotive retail finance"
+    ],
+    "services": [
+      "software for automotive & mobility services",
+      "finance management solutions",
+      "leasing management solutions",
+      "fleet management solutions",
+      "mobility management solutions",
+      "cloud-based platform for managing unlimited contract types",
+      "unified platform for overseeing different lines of business",
+      "project goal definition and planning",
+      "software implementation",
+      "solution testing based on business processes",
+      "onboarding for Miles platform",
+      "platform management support",
+      "post-deployment support"
+    ],
+    "customer_segments": [
+      "finance companies",
+      "leasing companies",
+      "fleet management companies",
+      "mobility management companies",
+      "automotive companies",
+      "internationally recognized brands"
+    ],
+    "business_description": "SOFICO SERVICES UK LTD provides industry-leading software solutions for the automotive and mobility sectors, specializing in finance, leasing, fleet, and mobility management. Their cloud-based platform enables companies to manage contracts, operations, and business lines globally with modular, flexible, and integrated solutions. The company offers implementation, onboarding, and ongoing support services.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T18:30:58.900Z"
+  },
+  "scraped_at": "2026-01-10T18:30:50.310Z",
+  "updated_at": "2026-01-10T18:30:58.900Z",
+  "version": 1
+}

@@ -1,0 +1,428 @@
+{
+  "company_name": "FULL VISION LIMITED",
+  "company_number": "10108555",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-04-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Units 9-12 Seven Acres Business Park, Seven Acres Avenue, Takeley, CM22 6PR, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Units 9-12 Seven Acres Business Park",
+    "address_line_2": "Seven Acres Avenue",
+    "country": "United Kingdom",
+    "locality": "Takeley",
+    "postal_code": "CM22 6PR"
+  },
+  "sic_codes": [
+    "62090",
+    "74100"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-01-31",
+    "next_accounts_period_end_on": "2025-04-30",
+    "next_accounts_period_start_on": "2024-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-21",
+    "last_made_up_to": "2025-04-07",
+    "next_made_up_to": "2026-04-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TANNER, Samuel James, Leslie",
+        "officer_role": "director",
+        "appointed_on": "2016-04-07",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Seven Acres Business Park",
+          "address_line_2": "Seven Acres Avenue",
+          "country": "United Kingdom",
+          "locality": "Takeley",
+          "postal_code": "CM22 6PR",
+          "premises": "Units 9-12"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Full Vision Group Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-05-01",
+        "address": {
+          "address_line_1": "Seven Acres Avenue",
+          "address_line_2": "Takeley",
+          "country": "England",
+          "locality": "Bishop's Stortford",
+          "postal_code": "CM22 6PR",
+          "premises": "Units 9-12 Seven Acres Business Park"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales",
+          "registration_number": "11863564"
+        }
+      },
+      {
+        "name": "Mr Samuel James, Leslie Tanner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-07",
+        "ceased_on": "2019-05-01",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1X 8UE",
+          "premises": "171-173 Grays Inn Road"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "101085550001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-04-17",
+        "delivered_on": "2024-04-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2026-01-08",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XETB0KKN",
+        "transaction_id": "MzQ5ODMwMzk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2026-01-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XETB0I62",
+        "transaction_id": "MzQ5ODMwMzQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE05HNSB",
+        "transaction_id": "MzQ2MjA0NjQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDJ2Z9R5",
+        "transaction_id": "MzQ0OTM1NDY5OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-04-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XD1M3MA3",
+        "transaction_id": "MzQxOTM2NzA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0MTY76",
+        "transaction_id": "MzQxNzUwMTc2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCGZ97D6",
+        "transaction_id": "MzQwMTQ4MjE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1NZK4X",
+        "transaction_id": "MzM3NjU1NTg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBWCSUDJ",
+        "transaction_id": "MzM2Nzc1ODgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-10-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBEWYBR6",
+        "transaction_id": "MzM1NTYzOTUyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB383YCI",
+        "transaction_id": "MzMzODA5OTE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAWL2374",
+        "transaction_id": "MzMyODA3NTc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA2SKL9E",
+        "transaction_id": "MzI5ODIyNjczM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9I3TKPS",
+        "transaction_id": "MzI4Mzc2OTIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X93FE2F7",
+        "transaction_id": "MzI2MjgxOTEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-04-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "X924AVB5",
+        "transaction_id": "MzI2MTYwNzAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8XOXF6A",
+        "transaction_id": "MzI1NTg5NzQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-09-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8ESLHIA",
+        "transaction_id": "MzI0NTMxMzY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-07-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QTg4RlAyTkZhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2019-07-04",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 1,
+        "barcode": "A88FP2NN",
+        "transaction_id": "MzIzODIyMDY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-06-24",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X883U26P",
+        "transaction_id": "MzIzNzQ5NjM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-06-21",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X883U2DE",
+        "transaction_id": "MzIzNzQ5NjQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X82YRKH6",
+        "transaction_id": "MzIzMTU1MzkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-constitution",
+        "date": "2019-02-11",
+        "description": "notice-restriction-on-company-articles",
+        "type": "CC01",
+        "pages": 1,
+        "barcode": "A7YAIWUJ",
+        "transaction_id": "MzIyNjY2NzgyNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-02-07",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 1,
+        "barcode": "A7YAIWUB",
+        "transaction_id": "MzIyNjE0MDkxMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 38,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Fullvision.co.uk",
+    "headcount": 25,
+    "tech_stack": [
+      "digital cutter"
+    ],
+    "business_keywords": [
+      "signage",
+      "branding",
+      "modular stand build",
+      "graphics",
+      "project management",
+      "creative design",
+      "large format printing",
+      "finishing",
+      "digital cutting",
+      "installation",
+      "derig",
+      "3D design",
+      "sustainable solutions",
+      "eco-friendly fabric",
+      "recyclable signage",
+      "visual impact"
+    ],
+    "services": [
+      "project management",
+      "creative graphic and stand design",
+      "modular stand building",
+      "large format printing",
+      "finishing",
+      "stitching",
+      "assembly",
+      "digital cutting",
+      "installation",
+      "derig",
+      "3D design"
+    ],
+    "customer_segments": [
+      "organisers",
+      "exhibitors",
+      "events",
+      "global clients"
+    ],
+    "business_description": "Full Vision Limited is a leading specialist in signage, branding, and modular stand building, offering a full suite of creative services including project management, design, large format printing, finishing, digital cutting, and installation. The company focuses on delivering visually impactful and sustainable solutions for global clients, with a commitment to excellence, customer service, and environmental responsibility.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T15:58:29.998Z"
+  },
+  "scraped_at": "2026-01-10T15:58:21.712Z",
+  "updated_at": "2026-01-10T15:58:29.997Z",
+  "version": 1
+}

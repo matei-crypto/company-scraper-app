@@ -1,0 +1,363 @@
+{
+  "company_name": "INCITED LTD",
+  "company_number": "09956446",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2016-01-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "10 Queen Street Place, London, EC4R 1AG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "10 Queen Street Place",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4R 1AG"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-31",
+    "last_made_up_to": "2025-01-17",
+    "next_made_up_to": "2026-01-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TURNER, Deborah",
+        "officer_role": "director",
+        "appointed_on": "2016-01-18",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "New Zealander",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Queen Street Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4R 1AG",
+          "premises": "10"
+        }
+      },
+      {
+        "name": "TURNER, Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2016-01-18",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Queen Street Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4R 1AG",
+          "premises": "10"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Nicholas Turner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Queen Street Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4R 1AG",
+          "premises": "10"
+        }
+      },
+      {
+        "name": "Deborah Turner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "New Zealander",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Queen Street Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4R 1AG",
+          "premises": "10"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XE3ISGV4",
+        "transaction_id": "MzQ2ODEwNDEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE1F0RCP",
+        "transaction_id": "MzQ2NDE0NDA2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDV2REF6",
+        "transaction_id": "MzQ1MjYzNTAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-12-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "YDI9L4GP",
+        "transaction_id": "WURJOUw0R1BhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-12-27",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 55,
+        "barcode": "YDI9L4GH",
+        "transaction_id": "MzQ0ODI2MjkyM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-04",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD4J3HPT",
+        "transaction_id": "MzQyNDExMDY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-06-03",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUQzVkkwU1lhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XD229XFS",
+        "transaction_id": "MzQyMDAyMzA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-02-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUNXMzRPQkthZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCVIWXWI",
+        "transaction_id": "MzQwOTA1NzExOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XC3R51JE",
+        "transaction_id": "MzM3OTk0OTUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-02-27",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "ABXY572H",
+        "transaction_id": "MzM3MDgwNDQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-02-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUJXTTBMNDhhZGlxemtjeA"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-26",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBW1YTFU",
+        "transaction_id": "MzM2NzI5MjYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBW1YTE2",
+        "transaction_id": "MzM2NzI5MjYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-26",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBW1YT9L",
+        "transaction_id": "MzM2NzI5MjYwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBW1YS0B",
+        "transaction_id": "MzM2NzI5MjMzNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-29",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "ABHQO0G2",
+        "transaction_id": "MzM2MDAzMTQ5NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-28",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "ABHQO0J6",
+        "transaction_id": "MzM2MDAzMTQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-09-21",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUJDTDZEWUdhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-08-15",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUJBNlZBSVphZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XB73NF8B",
+        "transaction_id": "MzM0Mzk2MDAzNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB67LJJT",
+        "transaction_id": "MzM0MjY1MTQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB67LL00",
+        "transaction_id": "MzM0MjY1MTcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB67LJKX",
+        "transaction_id": "MzM0MjY1MTQzOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 60,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Incited.com",
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T15:37:43.135Z",
+  "scraped_at": "2026-01-10T15:37:43.135Z"
+}

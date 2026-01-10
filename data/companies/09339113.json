@@ -1,0 +1,447 @@
+{
+  "company_name": "TAB LABS LTD",
+  "company_number": "09339113",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2014-12-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "6th Floor, One, London Wall, London, EC2Y 5EB",
+  "registered_address_structured": {
+    "address_line_1": "6th Floor, One",
+    "address_line_2": "London Wall",
+    "locality": "London",
+    "postal_code": "EC2Y 5EB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-17",
+    "last_made_up_to": "2025-12-03",
+    "next_made_up_to": "2026-12-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DATTA, Mark Ganesh Anthony",
+        "officer_role": "director",
+        "appointed_on": "2014-12-03",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Counterslip",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS1 6AJ",
+          "premises": "5th Floor, Halo"
+        }
+      },
+      {
+        "name": "WOOD, Christopher Paul",
+        "officer_role": "director",
+        "appointed_on": "2014-12-03",
+        "resigned_on": "2020-04-10",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Temple Back East",
+          "address_line_2": "Temple Quay",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS1 6EG",
+          "premises": "2"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mark Ganesh Anthony Datta",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Counterslip",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS1 6AJ",
+          "premises": "5th Floor, Halo"
+        }
+      },
+      {
+        "name": "Mr Christopher Paul Wood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Counteslip",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS1 6AJ",
+          "premises": "5th Floor, Halo"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "093391130001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-08-17",
+        "delivered_on": "2020-08-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGNJHUB",
+        "transaction_id": "MzQ5MjE5NzEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XEFO2FQ8",
+        "transaction_id": "MzQ4OTUxNTM0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDICIXU9",
+        "transaction_id": "MzQ0ODUyMzM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHCZBLF",
+        "transaction_id": "MzQ0NjQ3ODU3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCIC4WZ5",
+        "transaction_id": "MzQwMzk2NTkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XCC3RJCB",
+        "transaction_id": "MzM5MzI3MzI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC2F5OR6",
+        "transaction_id": "MzM3Nzk1NjMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC2F5N9D",
+        "transaction_id": "MzM3Nzk1NjAwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC2F5MG2",
+        "transaction_id": "MzM3Nzk1NTg2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBII5NG9",
+        "transaction_id": "MzM2MTYxMTU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XBCW2AMX",
+        "transaction_id": "MzM1MjI0MTU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJ1IKJT",
+        "transaction_id": "MzMyMzI1MzA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XADVWOEQ",
+        "transaction_id": "MzMxNTA2Njg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9J7YHE2",
+        "transaction_id": "MzI4NTE5MjE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-08-25",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9C6QVLV",
+        "transaction_id": "MzI3NjA5NjUyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X98TJE0O",
+        "transaction_id": "MzI3MjY3MTE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-04-22",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X93I4OS0",
+        "transaction_id": "MzI2Mjk3MjUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8JQM9G2",
+        "transaction_id": "MzI1MTQ2MzY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8EMXZLF",
+        "transaction_id": "MzI0NDkyNzIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7JZUKZL",
+        "transaction_id": "MzIyMTAyNzM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7EXBU2G",
+        "transaction_id": "MzIxNTA4MTQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6KK9G2W",
+        "transaction_id": "MzE5MTg1ODE5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X6FD6YVT",
+        "transaction_id": "MzE4NTgwNzI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5LUN9RM",
+        "transaction_id": "MzE2NDQxNTYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-09-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X5EN872G",
+        "transaction_id": "MzE1NjUzNDkyOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Business.tab.travel",
+    "headcount": 11,
+    "tech_stack": [
+      "Google Tag Manager"
+    ],
+    "business_keywords": [
+      "card payments",
+      "hotels",
+      "tours",
+      "tourism businesses",
+      "online payments",
+      "in-person payments",
+      "international guests",
+      "deposits",
+      "booking widget",
+      "payment links",
+      "PMS",
+      "OTA ecosystem",
+      "weekly payouts",
+      "local currency",
+      "payment processing"
+    ],
+    "services": [
+      "Take card payments from international guests online, in advance or in-person",
+      "Instant setup for payment processing",
+      "Free payouts in preferred currency",
+      "Secure bookings in advance to reduce no-shows",
+      "On-the-spot sales with weak WiFi signal support",
+      "Reliable weekly payouts to bank accounts",
+      "In-person payments using the Tab app on any device",
+      "Deposits for advance bookings",
+      "Booking widget for website direct payments",
+      "Integration with existing booking engine/PMS and OTA ecosystem"
+    ],
+    "customer_segments": [
+      "hotels",
+      "tour operators",
+      "tourism businesses",
+      "boutique hotels",
+      "hostels",
+      "villa rentals",
+      "large hotels",
+      "hotel chains",
+      "hotel groups",
+      "walking tours",
+      "adrenaline sports",
+      "retreats",
+      "surf camps",
+      "language schools",
+      "yoga retreats"
+    ],
+    "business_description": "Tab is a payment processing service designed for tourism businesses, hotels, and tour operators. It enables businesses to accept card payments from international guests online, in advance, or in-person with instant setup and free payouts in the preferred local currency. The service integrates with existing booking systems and supports various payment methods to help businesses thrive.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T14:03:12.908Z"
+  },
+  "scraped_at": "2026-01-10T14:03:04.792Z",
+  "updated_at": "2026-01-10T14:03:12.908Z",
+  "version": 1
+}

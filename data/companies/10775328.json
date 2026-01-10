@@ -1,0 +1,480 @@
+{
+  "company_name": "TARGET3D LIMITED",
+  "company_number": "10775328",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-05-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "11c Dock Street, London, E1 8JN, England",
+  "registered_address_structured": {
+    "address_line_1": "11c Dock Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 8JN"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-30",
+    "last_made_up_to": "2025-05-16",
+    "next_made_up_to": "2026-05-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JEFFRIES, Robert",
+        "officer_role": "director",
+        "appointed_on": "2018-06-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dock Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8JN",
+          "premises": "11c"
+        }
+      },
+      {
+        "name": "KEELER, Ashley",
+        "officer_role": "director",
+        "appointed_on": "2018-01-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dock Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8JN",
+          "premises": "11c"
+        }
+      },
+      {
+        "name": "RANKIN, Allan",
+        "officer_role": "director",
+        "appointed_on": "2017-05-17",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Dock Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8JN",
+          "premises": "11c"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ashley Keeler",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2018-04-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dock Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8JN",
+          "premises": "11c"
+        }
+      },
+      {
+        "name": "Mr Allan Rankin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2017-05-17",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dock Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E1 8JN",
+          "premises": "11c"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "107753280002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-11-06",
+        "delivered_on": "2023-11-25",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Digital Catapult Services Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "107753280001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-08-11",
+        "delivered_on": "2017-08-14",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2020-12-22",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEHYMR60",
+        "transaction_id": "MzQ5NTY5NDkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE3LQJ2X",
+        "transaction_id": "MzQ2ODMyMTA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE3LQLGP",
+        "transaction_id": "MzQ2ODMyMTU5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE3LQJAO",
+        "transaction_id": "MzQ2ODMyMTEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE3LQIKG",
+        "transaction_id": "MzQ2ODMyMDk0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE3LQIC1",
+        "transaction_id": "MzQ2ODMyMDg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDICKIO0",
+        "transaction_id": "MzQ0ODUzNjYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDI7157E",
+        "transaction_id": "MzQ0ODE5MjAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD487LOI",
+        "transaction_id": "MzQyMzY0OTQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-05-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD487HUX",
+        "transaction_id": "MzQyMzY0ODM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD487HUP",
+        "transaction_id": "MzQyMzY0ODM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD487H94",
+        "transaction_id": "MzQyMzY0ODI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCXUDJWY",
+        "transaction_id": "MzQxMjc3MjQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-11-30",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUNHSVFPNEphZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-11-30",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 18,
+        "barcode": "ACGIQO4R",
+        "transaction_id": "MzQwMjEyMDc1NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-11-25",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 47,
+        "barcode": "ACH0IGUR",
+        "transaction_id": "MzQwMTkzMjA2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC4CUGJT",
+        "transaction_id": "MzM4MDk3NjI2MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-03-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBYYXY3K",
+        "transaction_id": "MzM3MjAyMzU5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBX13VS9",
+        "transaction_id": "MzM2ODg0MDE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-07-19",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 18,
+        "barcode": "YB85D1X6",
+        "transaction_id": "MzM0NTU3MDAwNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-19",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YB85CZDE",
+        "transaction_id": "MzM0NTU2OTM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-07-18",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUI4NUQyMDlhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4MTMK2",
+        "transaction_id": "MzM0MDExMzQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-03-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAZHU4PC",
+        "transaction_id": "MzMzMjQ3NTA3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XAJVDQJF",
+        "transaction_id": "MzMyNDUwNjQ1M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 44,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 25
+  },
+  "enrichment": {
+    "website": "https://Target3d.co.uk",
+    "headcount": 25,
+    "tech_stack": [],
+    "business_keywords": [
+      "motion capture",
+      "virtual production",
+      "volumetric capture",
+      "3D technology",
+      "immersive technology",
+      "system integration",
+      "tracking solutions",
+      "VR",
+      "AR",
+      "robotics",
+      "biomechanics",
+      "animation",
+      "VFX",
+      "gaming",
+      "training and simulation",
+      "3D scanning",
+      "haptics",
+      "stereoscopic display",
+      "geospatial display",
+      "XR",
+      "MR"
+    ],
+    "services": [
+      "motion capture labs",
+      "product training",
+      "immersive lab spaces",
+      "virtual production volumes",
+      "scoping",
+      "design",
+      "logistics",
+      "installation",
+      "troubleshooting",
+      "studio booking"
+    ],
+    "customer_segments": [
+      "organisations",
+      "individuals",
+      "academics",
+      "universities",
+      "game developers",
+      "video production companies",
+      "life science",
+      "sports",
+      "location based entertainment",
+      "training and simulation providers"
+    ],
+    "business_description": "Target3D specializes in motion capture, virtual production, and volumetric capture, providing immersive technology sales, solutions, and services. They deliver system integration and tracking solutions for VR, AR, robotics, biomechanics, animation, VFX, gaming, training, simulation, 3D scanning, and haptics. The company supports clients from scoping to installation, troubleshooting, and training, with over 30 years of experience.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:38:10.371Z"
+  },
+  "scraped_at": "2026-01-10T17:38:02.034Z",
+  "updated_at": "2026-01-10T17:38:10.371Z",
+  "version": 1
+}

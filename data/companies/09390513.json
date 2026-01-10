@@ -1,0 +1,405 @@
+{
+  "company_name": "ITGUY LONDON LIMITED",
+  "company_number": "09390513",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2015-01-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "W2 8 Woodberry Down, London, N4 2TG, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "W2 8 Woodberry Down",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N4 2TG"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-02-28",
+    "next_accounts_period_end_on": "2026-05-31",
+    "next_accounts_period_start_on": "2025-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-27",
+    "last_made_up_to": "2025-01-13",
+    "next_made_up_to": "2026-01-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CALABRIA, Luciene",
+        "officer_role": "director",
+        "appointed_on": "2024-07-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1967,
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "8 Woodberry Down",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N4 2TG",
+          "premises": "W2"
+        }
+      },
+      {
+        "name": "SCHNEIDER, Ben",
+        "officer_role": "director",
+        "appointed_on": "2015-01-15",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "8 Woodberry Down",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N4 2TG",
+          "premises": "W2"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SCHNEIDER, Ben",
+        "officer_role": "secretary",
+        "appointed_on": "2015-01-15",
+        "address": {
+          "address_line_1": "8 Woodberry Down",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N4 2TG",
+          "premises": "W2"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ben Schneider",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "8 Woodberry Down",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N4 2TG",
+          "premises": "W2"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XE7YTSDD",
+        "transaction_id": "MzQ3NTgyMDA1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWKWUA2",
+        "transaction_id": "MzQ1NTE5MDg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDVLWIY8",
+        "transaction_id": "MzQ1MzQ5MDAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-07-12",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD75SAI9",
+        "transaction_id": "MzQyODQ5ODY2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XD6916BN",
+        "transaction_id": "MzQyNjk5OTYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCWCKQSG",
+        "transaction_id": "MzQxMDI4NzMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-12-18",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUNIVlBYQ1BhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-12-18",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 16,
+        "barcode": "YCHVPWZ7",
+        "transaction_id": "MzQwMjk4NjA0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCEYD3IN",
+        "transaction_id": "MzM5Nzk1NTQ0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBV5MG15",
+        "transaction_id": "MzM2NTYxNzMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBDC9WYB",
+        "transaction_id": "MzM1Mjk4MTEzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-24",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB0GQIIZ",
+        "transaction_id": "MzMzMzk2NTUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYTEW03",
+        "transaction_id": "MzMzMTMyMjYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAWFIFGY",
+        "transaction_id": "MzMyNzcyODg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAJPL4WO",
+        "transaction_id": "MzMyNDExMzA5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9WG46WR",
+        "transaction_id": "MzI4ODg3NzkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9I6JF62",
+        "transaction_id": "MzI4MzkwMTA0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8X0ZEF6",
+        "transaction_id": "MzI1NDk3ODIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A8KII6S8",
+        "transaction_id": "MzI1MjQ2MDU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-04-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X83HEZCJ",
+        "transaction_id": "MzIzMjE3MzY4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7X7HVL6",
+        "transaction_id": "MzIyNDQ5NDUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7HKRKPN",
+        "transaction_id": "MzIxODA5NjUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X6XRFIPK",
+        "transaction_id": "MzE5NTM5OTg2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6L1DS2G",
+        "transaction_id": "MzE5MjQ5MTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-11",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X6L1PGDK",
+        "transaction_id": "MzE5MjUwMTkzN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 32,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Itguy.com",
+    "headcount": 6,
+    "tech_stack": [
+      "Microsoft",
+      "Google"
+    ],
+    "business_keywords": [
+      "managed IT support",
+      "IT support contracts",
+      "cybersecurity",
+      "IT strategy",
+      "IT roadmap",
+      "tech support",
+      "outsourced IT support",
+      "IT services",
+      "sustainable IT",
+      "remote working",
+      "cloud migration",
+      "IT audits",
+      "IT training",
+      "24/7 monitoring",
+      "IT freedom"
+    ],
+    "services": [
+      "Managed IT support contracts",
+      "Cybersecurity",
+      "IT strategy and roadmaps",
+      "Migrate to Microsoft",
+      "Sustainable IT solutions",
+      "Flexible and remote working support",
+      "Cloud migration",
+      "IT audits",
+      "Monthly reports",
+      "Tailored IT training programs",
+      "Rapid help for day-to-day IT challenges",
+      "24/7 monitoring and backup",
+      "Cyber Essentials"
+    ],
+    "customer_segments": [
+      "businesses in London",
+      "charities",
+      "small businesses"
+    ],
+    "business_description": "ITGUYS LONDON LIMITED provides managed IT support contracts and cybersecurity services for businesses, charities, and small businesses in London. They offer tailored IT strategies, roadmaps, and sustainable IT solutions to empower organizations to focus on their objectives with confidence and security.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 22,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T14:11:00.736Z"
+  },
+  "scraped_at": "2026-01-10T14:10:54.050Z",
+  "updated_at": "2026-01-10T14:11:00.736Z",
+  "version": 1
+}

@@ -1,0 +1,772 @@
+{
+  "company_name": "TESTCARD LTD",
+  "company_number": "10764577",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2017-05-11",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 6 Betton Business Park, Racecourse Road, East Ayton, Scarborough, YO13 9HD, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 6 Betton Business Park",
+    "address_line_2": "Racecourse Road",
+    "country": "England",
+    "locality": "East Ayton",
+    "postal_code": "YO13 9HD",
+    "region": "Scarborough"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "TESTCARD DIAGNOSTICS LTD",
+      "ceased_on": "2018-10-05",
+      "effective_from": "2017-05-11"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-02",
+    "last_made_up_to": "2025-06-18",
+    "next_made_up_to": "2026-06-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GENOVA, Marieta",
+        "officer_role": "director",
+        "appointed_on": "2023-11-15",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1996,
+        "nationality": "Bulgarian",
+        "country_of_residence": "Bulgaria",
+        "address": {
+          "address_line_1": "Bul. Bulgaria",
+          "country": "Bulgaria",
+          "locality": "Sofia",
+          "premises": "113",
+          "region": "1000"
+        }
+      },
+      {
+        "name": "HERON, Luke Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2023-01-18",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "MONSTER, Elmer Meeuwis",
+        "officer_role": "director",
+        "appointed_on": "2022-05-04",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1974,
+        "nationality": "Dutch",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "BOTHAM, Andrew Michael, Dr",
+        "officer_role": "director",
+        "appointed_on": "2020-01-28",
+        "resigned_on": "2025-12-12",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Racecourse Road",
+          "address_line_2": "East Ayton",
+          "country": "England",
+          "locality": "Scarborough",
+          "postal_code": "YO13 9HT",
+          "premises": "Unit 6"
+        }
+      },
+      {
+        "name": "CRAIG-WOOD, Christopher John",
+        "officer_role": "director",
+        "appointed_on": "2020-05-16",
+        "resigned_on": "2022-11-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "DOBREV, Deian",
+        "officer_role": "director",
+        "appointed_on": "2019-10-14",
+        "resigned_on": "2020-07-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1977,
+        "nationality": "Bulgarian",
+        "country_of_residence": "Bulgaria",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HT",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "EZEKIEV, Pavel Dimitrov",
+        "officer_role": "director",
+        "appointed_on": "2020-07-01",
+        "resigned_on": "2023-11-09",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1973,
+        "nationality": "Bulgarian",
+        "country_of_residence": "Bulgaria",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "HART, Timothy James",
+        "officer_role": "director",
+        "appointed_on": "2022-09-05",
+        "resigned_on": "2022-12-16",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "HERON, Daniel Mark",
+        "officer_role": "director",
+        "appointed_on": "2023-07-20",
+        "resigned_on": "2023-10-15",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Waterall Road",
+          "address_line_2": "Hothfield",
+          "country": "United Kingdom",
+          "locality": "Ashford",
+          "postal_code": "TN26 1AB",
+          "premises": "Duck Barn",
+          "region": "Kent"
+        }
+      },
+      {
+        "name": "HERON, Luke Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2020-05-16",
+        "resigned_on": "2021-11-22",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "HERON, Luke Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2017-05-11",
+        "resigned_on": "2020-01-28",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Corsham Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N1 6DR",
+          "premises": "31a"
+        }
+      },
+      {
+        "name": "LEAM, Hilary Margaret",
+        "officer_role": "director",
+        "appointed_on": "2022-05-04",
+        "resigned_on": "2024-10-11",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "MA, Lichun Lesley",
+        "officer_role": "director",
+        "appointed_on": "2021-02-01",
+        "resigned_on": "2022-07-10",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1963,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "MEITINER, Howard Percival",
+        "officer_role": "director",
+        "appointed_on": "2020-07-01",
+        "resigned_on": "2023-09-30",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1952,
+        "nationality": "British",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "NIBLETT, Julian",
+        "officer_role": "director",
+        "appointed_on": "2023-05-02",
+        "resigned_on": "2025-12-09",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "SCHMIDT, Meinhard",
+        "officer_role": "director",
+        "appointed_on": "2023-10-01",
+        "resigned_on": "2025-12-31",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1960,
+        "nationality": "Swiss",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "SUTHERLAND, George Mitchell",
+        "officer_role": "director",
+        "appointed_on": "2019-02-08",
+        "resigned_on": "2025-10-31",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1954,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "VALLANCE-OWEN, Andrew John, Dr",
+        "officer_role": "director",
+        "appointed_on": "2020-07-01",
+        "resigned_on": "2022-06-16",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1951,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BLAIR, Colin Campbell",
+        "officer_role": "secretary",
+        "appointed_on": "2022-10-01",
+        "resigned_on": "2024-09-11",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "HALL, Frank Matthew Sunderland",
+        "officer_role": "secretary",
+        "appointed_on": "2024-09-11",
+        "resigned_on": "2025-10-28",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      },
+      {
+        "name": "SUTHERLAND, George Mitchell",
+        "officer_role": "secretary",
+        "appointed_on": "2020-07-01",
+        "resigned_on": "2022-10-01",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Aldbridge Services London Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2022-03-14",
+        "ceased_on": "2022-03-14",
+        "address": {
+          "address_line_1": "50 Mark Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3R 7QR",
+          "premises": "Tricor Suite 4th Floor"
+        },
+        "identification": {
+          "legal_form": "Private Company",
+          "legal_authority": "United Kingdom"
+        }
+      },
+      {
+        "name": "Mr Luke Nicholas Heron",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2017-05-11",
+        "ceased_on": "2021-12-02",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Betton Business Park",
+          "address_line_2": "Racecourse Road",
+          "country": "England",
+          "locality": "East Ayton",
+          "postal_code": "YO13 9HD",
+          "premises": "Unit 6",
+          "region": "Scarborough"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2026-01-06",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XET7N19S",
+        "transaction_id": "MzQ5Nzc3ODYyNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-12-24",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEI24J8I",
+        "transaction_id": "MzQ5NjI0MDE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEHZIS9M",
+        "transaction_id": "MzQ5NjA5NTI3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEH736FM",
+        "transaction_id": "MzQ5MzY0MzYwNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-04",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEELNSE0",
+        "transaction_id": "MzQ4NzM1MzMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-04",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XEELNRXU",
+        "transaction_id": "MzQ4NzM1MzEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-10-31",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEEB78N7",
+        "transaction_id": "MzQ4NzA3NjczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XE8PN854",
+        "transaction_id": "MzQ3Njc3NzAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-07-30",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE7W00ZE",
+        "transaction_id": "MzQ3NTY2ODMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-20",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XE5134DN",
+        "transaction_id": "MzQ3MDc2MTU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 12,
+        "barcode": "XE4YHMO3",
+        "transaction_id": "MzQ3MDU3OTQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-05-20",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE2ZU26B",
+        "transaction_id": "MzQ2NzEyMTM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-04-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XE1F3E7N",
+        "transaction_id": "MzQ2NDE3MzI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDZ5J73F",
+        "transaction_id": "MzQ2MDE4NzA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDDW89MG",
+        "transaction_id": "MzQzOTkyNzkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-11",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XDBEP21C",
+        "transaction_id": "MzQzNTI0OTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-11",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XDBEP1A8",
+        "transaction_id": "MzQzNTI0OTY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDBC3O0Y",
+        "transaction_id": "MzQzNTEwMDEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDBC23ZC",
+        "transaction_id": "MzQzNTA4Njc4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD8Y9GR4",
+        "transaction_id": "MzQzMTM1NDIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-07-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD7LXQXF",
+        "transaction_id": "MzQyOTM1ODQzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XD45K8U9",
+        "transaction_id": "MzQyMzUyNDEyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 10,
+        "barcode": "XD3K8F55",
+        "transaction_id": "MzQyMjY2OTM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD3K85V4",
+        "transaction_id": "MzQyMjY2Mjk4NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-05-01",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD2818EZ",
+        "transaction_id": "MzQyMDQxNzE3OWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 150,
+    "recent_filings_count": 14
+  },
+  "financials": {
+    "employees": 33
+  },
+  "enrichment": {
+    "website": "https://Testcard.com",
+    "headcount": 33,
+    "tech_stack": [
+      "Roche Cobas® Pulse"
+    ],
+    "business_keywords": [
+      "digital diagnostics",
+      "point of care testing",
+      "clinical-grade scanner",
+      "lateral flow reading",
+      "urine dip reading",
+      "test results reporting",
+      "platform technology",
+      "at-home testing",
+      "computer vision",
+      "electronic patient records",
+      "mobile app",
+      "healthcare accessibility",
+      "diagnostic technology",
+      "ClearScreen",
+      "NHS"
+    ],
+    "services": [
+      "ClearScreen lateral flow and urine dip reading, recording, and reporting solution",
+      "Integration of platform technology into existing hardware and software",
+      "Deployment of diagnostic technology onto third-party devices",
+      "Technological solutions for research to supply instant, objective test results and data records",
+      "At-home self-testing with accuracy, ease of use, and affordability",
+      "Pre-procedure screening for clinical use",
+      "Implementation and deployment of ClearScreen app on camera-enabled mobile devices",
+      "Training materials provision for clinical settings",
+      "Unidirectional integrations with middleware solutions",
+      "In-person and remote support for implementation and ongoing use",
+      "Regular updates to app features and functionality based on user feedback"
+    ],
+    "customer_segments": [
+      "NHS trusts",
+      "clinical partners",
+      "healthcare professionals",
+      "laypersons at home",
+      "pharmacies",
+      "research organisations",
+      "clinical settings"
+    ],
+    "business_description": "TestCard is a company that develops platform technology to turn smart devices into clinical-grade scanners for accurate reading, recording, and reporting of diagnostic test results. It provides solutions for clinical testing, at-home self-testing, and research, partnering with organisations like the NHS and Roche to enhance healthcare accessibility and integration with existing systems.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T17:36:10.425Z"
+  },
+  "scraped_at": "2026-01-10T17:36:02.906Z",
+  "updated_at": "2026-01-10T17:36:10.425Z",
+  "version": 1
+}
