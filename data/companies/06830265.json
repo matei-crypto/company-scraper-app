@@ -1,0 +1,478 @@
+{
+  "company_name": "IGNIYTE LTD",
+  "company_number": "06830265",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-02-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "29 Temple Lane, Copmanthorpe, York, YO23 3TB, England",
+  "registered_address_structured": {
+    "address_line_1": "29 Temple Lane",
+    "address_line_2": "Copmanthorpe",
+    "country": "England",
+    "locality": "York",
+    "postal_code": "YO23 3TB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-29",
+    "last_made_up_to": "2025-04-15",
+    "next_made_up_to": "2026-04-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WADSWORTH, Fiona Jayne",
+        "officer_role": "director",
+        "appointed_on": "2017-10-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lapwing Avenue",
+          "country": "England",
+          "locality": "Menston",
+          "postal_code": "LS29 6SG",
+          "premises": "14"
+        }
+      },
+      {
+        "name": "WADSWORTH, Simon",
+        "officer_role": "director",
+        "appointed_on": "2009-02-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lapwing Avenue",
+          "country": "England",
+          "locality": "Menston",
+          "postal_code": "LS29 6SG",
+          "premises": "14",
+          "region": "West Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WADSWORTH, Simon",
+        "officer_role": "secretary",
+        "appointed_on": "2010-11-10",
+        "address": {
+          "address_line_1": "Lapwing Avenue",
+          "country": "England",
+          "locality": "Menston",
+          "postal_code": "LS29 6SG",
+          "premises": "14",
+          "region": "West Yorkshire"
+        }
+      },
+      {
+        "name": "SWIFT (SECRETARIES) LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2009-02-25",
+        "resigned_on": "2011-01-25",
+        "address": {
+          "address_line_1": "6 Cumberland Close",
+          "address_line_2": "Lancashire",
+          "country": "United Kingdom",
+          "locality": "Darwen",
+          "postal_code": "BB3 2TR",
+          "premises": "Swift House"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Fiona Wadsworth",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2023-04-17",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lapwing Avenue",
+          "address_line_2": "Menston",
+          "country": "England",
+          "locality": "Ilkley",
+          "postal_code": "LS29 6SG",
+          "premises": "14"
+        }
+      },
+      {
+        "name": "Mr Simon Wadsworth",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-04-15",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lapwing Avenue",
+          "country": "England",
+          "locality": "Menston",
+          "postal_code": "LS29 6SG",
+          "premises": "14",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068302650001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-12-19",
+        "delivered_on": "2014-12-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE8SG55K",
+        "transaction_id": "MzQ3NjkyNzkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE20W4PS",
+        "transaction_id": "MzQ2NTE5ODE4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD695TDS",
+        "transaction_id": "MzQyNzAzODUwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2L7PER",
+        "transaction_id": "MzQyMDg0MjIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC6O6IHC",
+        "transaction_id": "MzM4NDY3MzYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1QSJ22",
+        "transaction_id": "MzM3NjczMDg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XC1O06XT",
+        "transaction_id": "MzM3NjU2MDkyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB85IW3L",
+        "transaction_id": "MzM0NTYyMDY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB85IVSZ",
+        "transaction_id": "MzM0NTYyMDY0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-13",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XB85IVLK",
+        "transaction_id": "MzM0NTYyMDU5NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB85IVFH",
+        "transaction_id": "MzM0NTYyMDUzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1YVD1K",
+        "transaction_id": "MzMzNjM2NDk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAHUDJOO",
+        "transaction_id": "MzMyMTAwOTk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XA7QOJQJ",
+        "transaction_id": "MzMwNjI2Mjc1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA30RY1U",
+        "transaction_id": "MzI5ODc0MjMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9DNLV3D",
+        "transaction_id": "MzI3NzY5NTYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9DNLUN7",
+        "transaction_id": "MzI3NzY5NTUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-15",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9DNLUIA",
+        "transaction_id": "MzI3NzY5NTQ3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-09-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9DNLTNE",
+        "transaction_id": "MzI3NzY5NTIzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9438DWP",
+        "transaction_id": "MzI2MzYzNTY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9438D0O",
+        "transaction_id": "MzI2MzYzNTQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X92ZLI6X",
+        "transaction_id": "MzI2MjM0NjQzMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-02-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8Y222XE",
+        "transaction_id": "MzI1NjI1NDQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X89VG6QA",
+        "transaction_id": "MzIzOTUzNjA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X83HG33T",
+        "transaction_id": "MzIzMjE4NzAxM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 64,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Igniyte.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "Google",
+      "Trustpilot"
+    ],
+    "business_keywords": [
+      "online reputation management",
+      "reputation management",
+      "review management",
+      "negative content removal",
+      "search engine results",
+      "online presence",
+      "brand reputation",
+      "personal reputation",
+      "crisis management",
+      "PR",
+      "content creation",
+      "social media profiles",
+      "Google removals",
+      "Trustpilot",
+      "UK right to be forgotten"
+    ],
+    "services": [
+      "online reputation management",
+      "review management",
+      "removing negative content online",
+      "business reputation management",
+      "personal reputation management",
+      "auditing online presence",
+      "developing reputation strategy",
+      "PR",
+      "content creation",
+      "blog creation",
+      "social media profile optimization",
+      "challenging content that breaches laws or website guidelines",
+      "removing content from Google",
+      "demoting negative content",
+      "monitoring online reputation",
+      "Google removals",
+      "online reputation management for high net worth individuals"
+    ],
+    "customer_segments": [
+      "businesses",
+      "brands",
+      "people",
+      "individuals",
+      "companies",
+      "high net worth individuals",
+      "celebrities"
+    ],
+    "business_description": "Igniyte specializes in online reputation management for businesses, brands, and individuals. They provide services to remove or demote negative content, manage reviews, and improve online visibility through PR, content creation, and search engine optimization. Their goal is to help clients maintain a positive and controlled online presence.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:51:30.925Z"
+  },
+  "scraped_at": "2026-01-10T06:51:24.156Z",
+  "updated_at": "2026-01-10T06:51:30.925Z",
+  "version": 1
+}

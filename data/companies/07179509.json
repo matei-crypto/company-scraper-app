@@ -1,0 +1,415 @@
+{
+  "company_name": "WUBBLEYOU LIMITED",
+  "company_number": "07179509",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-03-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "Ye Olde Hundred, 69 Church Way, North Shields, NE29 0AE, England",
+  "registered_address_structured": {
+    "address_line_1": "Ye Olde Hundred",
+    "address_line_2": "69 Church Way",
+    "country": "England",
+    "locality": "North Shields",
+    "postal_code": "NE29 0AE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-26",
+    "last_made_up_to": "2025-03-12",
+    "next_made_up_to": "2026-03-12"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RENNEY, Mark",
+        "officer_role": "director",
+        "appointed_on": "2010-03-05",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "69 Church Way",
+          "country": "England",
+          "locality": "North Shields",
+          "postal_code": "NE29 0AE",
+          "premises": "Ye Olde Hundred"
+        }
+      },
+      {
+        "name": "PEEKE-VOUT, Michael Andrew John",
+        "officer_role": "director",
+        "appointed_on": "2010-03-05",
+        "resigned_on": "2021-03-31",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Langton Drive",
+          "country": "United Kingdom",
+          "locality": "Cramlington",
+          "postal_code": "NE23 3XS",
+          "premises": "20"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Michael Peeke-Vout",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-12-21",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "69 Church Way",
+          "country": "England",
+          "locality": "North Shields",
+          "postal_code": "NE29 0AE",
+          "premises": "Ye Olde Hundred"
+        }
+      },
+      {
+        "name": "Mr Mark Renney",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "69 Church Way",
+          "country": "England",
+          "locality": "North Shields",
+          "postal_code": "NE29 0AE",
+          "premises": "Ye Olde Hundred"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEHNN8V9",
+        "transaction_id": "MzQ5NTEyMDY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDY67YGR",
+        "transaction_id": "MzQ1ODIzMjI1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDDQF2X7",
+        "transaction_id": "MzQzOTI3MDg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYDMWKP",
+        "transaction_id": "MzQxMzc2MDUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCI6DBZO",
+        "transaction_id": "MzQwMzQzODQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYQQ1NM",
+        "transaction_id": "MzM3MTU1OTg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBBXJ2B6",
+        "transaction_id": "MzM1MDgwMTY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZV0K16",
+        "transaction_id": "MzMzMjg1MTM5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAGFEMCP",
+        "transaction_id": "MzMxODkxMjg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA4ANMR7",
+        "transaction_id": "MzMwMDYzMzYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA0GYED6",
+        "transaction_id": "MzI5NDYzMDM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-04",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A9WF0IQ0",
+        "transaction_id": "MzI5MDAxOTcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-04",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A9WF0IPS",
+        "transaction_id": "MzI5MDAxOTcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 3,
+        "barcode": "A9WF0IQG",
+        "transaction_id": "MzI5MDAxOTcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-02-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 5,
+        "barcode": "A9WF0IQ8",
+        "transaction_id": "MzI5MDAxOTcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X9WQR6XK",
+        "transaction_id": "MzI4OTM4NTkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-07-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9A7E9G9",
+        "transaction_id": "MzI3MzkyMjkxN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-07-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9A4XJ02",
+        "transaction_id": "MzI3MzkzNDQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-07-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9A4XHAX",
+        "transaction_id": "MzI3MzkzNDA2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X90XPI0G",
+        "transaction_id": "MzI1OTkwMjY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-03-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X90XPH8G",
+        "transaction_id": "MzI1OTkwMjM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X90XPEH6",
+        "transaction_id": "MzI1OTkwMTYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-01-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8XOVJ1K",
+        "transaction_id": "MzI1NTg3OTkxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X8K930PV",
+        "transaction_id": "MzI1MjA2MTQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X80QRMIU",
+        "transaction_id": "MzIyODc5MzcxNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 47,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Wubbleyou.co.uk",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "tech products",
+      "tech ecosystems",
+      "revenue streams",
+      "business intelligence",
+      "internal automation",
+      "AI agents",
+      "productivity",
+      "product roadmaps",
+      "business health dashboards",
+      "product strategy",
+      "UX design",
+      "UI design",
+      "discovery journeys",
+      "scalability",
+      "digital solutions"
+    ],
+    "services": [
+      "Tech product development",
+      "Internal automation",
+      "Business intelligence",
+      "AI strategy & implementation",
+      "Product strategy",
+      "Discovery journeys",
+      "UX & UI design",
+      "Ongoing support & maintenance",
+      "Value-driven product roadmaps",
+      "Real-time business health dashboards",
+      "Workshops for critical insights",
+      "Custom built AI agents"
+    ],
+    "customer_segments": [
+      "scaling businesses",
+      "public sector",
+      "ambitious businesses",
+      "industry innovators",
+      "entrepreneurs"
+    ],
+    "business_description": "Wubbleyou brings tech products to market for scaling businesses and the public sector, helping them unlock new 7-figure revenue streams and achieve scale. They develop tech ecosystems, automate internal processes, and implement AI to transform businesses into market-leading innovators, with a focus on creating recurring revenue and improving productivity.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:02:00.307Z"
+  },
+  "scraped_at": "2026-01-10T08:01:54.744Z",
+  "updated_at": "2026-01-10T08:02:00.307Z",
+  "version": 1
+}

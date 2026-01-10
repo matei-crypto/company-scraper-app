@@ -1,0 +1,358 @@
+{
+  "company_name": "UNSUNG LIMITED",
+  "company_number": "07100820",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-12-10",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 181 61 Praed Street, Paddington, London, London, W2 1NS",
+  "registered_address_structured": {
+    "address_line_1": "Suite 181 61 Praed Street",
+    "address_line_2": "Paddington",
+    "locality": "London",
+    "postal_code": "W2 1NS",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-24",
+    "last_made_up_to": "2025-12-10",
+    "next_made_up_to": "2026-12-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BELDHAM, Todd Andre",
+        "officer_role": "director",
+        "appointed_on": "2009-12-10",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "61 Praed Street",
+          "address_line_2": "Paddington",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W2 1NS",
+          "premises": "Suite 181",
+          "region": "London"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Anna Ruth Beldham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-01-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "44 Teignmouth Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW2 4DX",
+          "premises": "Flat 2"
+        }
+      },
+      {
+        "name": "Mr Todd Andre Beldham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "ownership-of-shares-75-to-100-percent-as-firm",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "44 Teignmouth Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW2 4DX",
+          "premises": "Flat 2"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2026-01-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XET4XD4B",
+        "transaction_id": "MzQ5NzU5NDYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHNWYPL",
+        "transaction_id": "MzQ5NTE5ODM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XE2EE4EO",
+        "transaction_id": "MzQ2NTc3NzA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDIFCI5U",
+        "transaction_id": "MzQ0ODY2MzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XD7GI4BS",
+        "transaction_id": "MzQyODk2NDQ5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIV8L01",
+        "transaction_id": "MzQwNTIyMDIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XC7N1J4H",
+        "transaction_id": "MzM4NjE1MDgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBJ6FUMZ",
+        "transaction_id": "MzM2MjkyODcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XB6D2WIX",
+        "transaction_id": "MzM0MjkyNjI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-03-02",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMzMTE5ODUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-03-01",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMzMDU4MjQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYO37BL",
+        "transaction_id": "MzMzMTE5ODUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X9ZNLAOX",
+        "transaction_id": "MzI5MzQzOTExNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XHJFK3",
+        "transaction_id": "MzI5MDI0MTYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9A7EUUH",
+        "transaction_id": "MzI3MzkyOTE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8VUS5WX",
+        "transaction_id": "MzI1MzY5NTQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-01-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X8VUS5O2",
+        "transaction_id": "MzI1MzY5NTI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X86HNIP6",
+        "transaction_id": "MzIzNTY0MzA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7XCWKR6",
+        "transaction_id": "MzIyNDcxNzI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X72AFI6Y",
+        "transaction_id": "MzIwMDY4NzkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6Y1IY7F",
+        "transaction_id": "MzE5NTc3NzYyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6FCOME2",
+        "transaction_id": "MzE4NTc5MDY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-03-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "X61AVSMB",
+        "transaction_id": "MzE3MDA4OTUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-07-07",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X5APWAWO",
+        "transaction_id": "MzE1MjQ3NTgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-01-03",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X4XU2R6G",
+        "transaction_id": "MzEzODgyMTg2MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 42,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Unsungmelody.com",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T07:44:08.730Z",
+  "scraped_at": "2026-01-10T07:44:08.730Z"
+}

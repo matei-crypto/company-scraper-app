@@ -1,0 +1,448 @@
+{
+  "company_name": "CK IT SOLUTIONS LIMITED",
+  "company_number": "07129501",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-01-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "Flat 7, Spitfire, 262 Wimborne Road, Poole, BH15 3EF, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Flat 7, Spitfire",
+    "address_line_2": "262 Wimborne Road",
+    "country": "United Kingdom",
+    "locality": "Poole",
+    "postal_code": "BH15 3EF"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2022-09-30",
+    "next_accounts_period_end_on": "2021-12-31",
+    "next_accounts_period_start_on": "2021-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2020-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2023-02-02",
+    "last_made_up_to": "2022-01-19",
+    "next_made_up_to": "2023-01-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CHISHOLM, Stephen",
+        "officer_role": "director",
+        "appointed_on": "2010-01-19",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Sterte Avenue",
+          "country": "United Kingdom",
+          "locality": "Poole",
+          "premises": "Units 4 & 5 Holes Bay Business Park",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "BOWERS, Matthew Michael",
+        "officer_role": "director",
+        "appointed_on": "2013-06-30",
+        "resigned_on": "2019-04-10",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Brookside House",
+          "address_line_2": "Brookside Business Park Cold Meece",
+          "country": "United Kingdom",
+          "locality": "Stone",
+          "postal_code": "ST15 0RZ",
+          "premises": "28-29",
+          "region": "Staffordshire"
+        }
+      },
+      {
+        "name": "KELLY, Sean Rupert",
+        "officer_role": "director",
+        "appointed_on": "2010-01-19",
+        "resigned_on": "2010-09-30",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Avonvale Road",
+          "address_line_2": "Redfield",
+          "country": "United Kingdom",
+          "locality": "Bristol",
+          "postal_code": "BS5 9RY",
+          "premises": "169"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Stephen Chisholm",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2019-04-10",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Kingsbridge Road",
+          "address_line_2": "Lower Parkstone",
+          "locality": "Poole",
+          "postal_code": "BH14 8TN",
+          "premises": "2",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "Ologic (Uk) Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2019-04-10",
+        "address": {
+          "address_line_1": "Brookside Business Park",
+          "address_line_2": "Cold Meece",
+          "country": "United Kingdom",
+          "locality": "Stone",
+          "postal_code": "ST15 0RZ",
+          "premises": "30",
+          "region": "Staffordshire"
+        },
+        "identification": {
+          "legal_form": "Ltd",
+          "legal_authority": "English",
+          "country_registered": "United Kingdom",
+          "place_registered": "England",
+          "registration_number": "5697147"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "071295010002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-03-29",
+        "delivered_on": "2018-04-03",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Units 4 - 5 holes bay park, sterte avenue west, poole, BH15 2AA.",
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2021-02-26",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "071295010001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-11-15",
+        "delivered_on": "2017-11-16",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2022-10-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBF2MLRT",
+        "transaction_id": "MzM1NjExMTkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2022-08-09",
+        "description": "dissolution-voluntary-strike-off-suspended",
+        "type": "SOAS(A)",
+        "pages": 1,
+        "transaction_id": "MzM0ODA5NjM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-07-26",
+        "description": "gazette-notice-voluntary",
+        "type": "GAZ1(A)",
+        "pages": 1,
+        "transaction_id": "MzM0NTczNTA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2022-07-14",
+        "description": "dissolution-application-strike-off-company",
+        "type": "DS01",
+        "pages": 1,
+        "barcode": "XB887SW2",
+        "transaction_id": "MzM0NTczNDY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB3W8AFL",
+        "transaction_id": "MzMzOTEzMDUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB3W8A3U",
+        "transaction_id": "MzMzOTEzMDM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAWCPNIO",
+        "transaction_id": "MzMyNzU2NDE5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAE4FILF",
+        "transaction_id": "MzMxNTc2OTQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-02-26",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X9Z4NNIQ",
+        "transaction_id": "MzI5MjY5MjQyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9WLDV1N",
+        "transaction_id": "MzI4OTE2MjUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X98W4BNF",
+        "transaction_id": "MzI3MjczNTYyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-01-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8XOSIPL",
+        "transaction_id": "MzI1NTg1MTA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8EV52VK",
+        "transaction_id": "MzI0NTM1ODMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-08-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8BPGESA",
+        "transaction_id": "MzI0MTU0MzAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-05-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 3,
+        "barcode": "A846KIGE",
+        "transaction_id": "MzIzMzI0NDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-05-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "A846KIG2",
+        "transaction_id": "MzIzMzI0NDM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-04-30",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X84I7VPD",
+        "transaction_id": "MzIzMzI4NzY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-03-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X80QUSPU",
+        "transaction_id": "MzIyODgyMTQ3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7Y33KRN",
+        "transaction_id": "MzIyNTUwODMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7ESOVP5",
+        "transaction_id": "MzIxNDg0MTA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-04-03",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 6,
+        "barcode": "X733BI6X",
+        "transaction_id": "MzIwMTYyOTkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X6YH7H6Z",
+        "transaction_id": "MzE5NjI3OTUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-11-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 23,
+        "barcode": "X6JAUB6J",
+        "transaction_id": "MzE5MDM0ODA0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6DHQH8P",
+        "transaction_id": "MzE4MzY3OTkxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-01-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5YQRCNM",
+        "transaction_id": "MzE2NzE4Nzg4MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 48,
+    "recent_filings_count": 0
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Ckitsolutions.co.uk",
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T07:50:28.807Z",
+  "scraped_at": "2026-01-10T07:50:28.807Z"
+}

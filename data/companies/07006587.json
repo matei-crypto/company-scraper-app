@@ -1,0 +1,515 @@
+{
+  "company_name": "BEQOM UK LIMITED",
+  "company_number": "07006587",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-09-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Palmerston House, 814 Brighton Road, Purley, Surrey, CR8 2BR, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Palmerston House",
+    "address_line_2": "814 Brighton Road",
+    "country": "United Kingdom",
+    "locality": "Purley",
+    "postal_code": "CR8 2BR",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "EXCENTIVE LIMITED",
+      "ceased_on": "2015-09-22",
+      "effective_from": "2009-09-02"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-16",
+    "last_made_up_to": "2025-09-02",
+    "next_made_up_to": "2026-09-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PERRY, Bradford Charles",
+        "officer_role": "director",
+        "appointed_on": "2019-09-05",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1976,
+        "nationality": "Irish",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "814 Brighton Road",
+          "country": "United Kingdom",
+          "locality": "Purley",
+          "postal_code": "CR8 2BR",
+          "premises": "Palmerston House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "CHARLES, Nicholas Erik",
+        "officer_role": "director",
+        "appointed_on": "2009-09-02",
+        "resigned_on": "2013-05-15",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Oak Tree House",
+          "address_line_2": "5 Newnham Park",
+          "locality": "Hook",
+          "postal_code": "RG27 9QL",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "COSGROVE, Patricia Janet",
+        "officer_role": "director",
+        "appointed_on": "2011-06-08",
+        "resigned_on": "2015-03-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "138 Houndsditch",
+          "locality": "London",
+          "postal_code": "EC3A 7AR",
+          "premises": "The St Botolph Building"
+        }
+      },
+      {
+        "name": "RONGA, Fabio Pierre Giulio",
+        "officer_role": "director",
+        "appointed_on": "2009-09-02",
+        "resigned_on": "2024-12-31",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1969,
+        "nationality": "Swiss,Italian",
+        "address": {
+          "country": "Switzerland",
+          "locality": "Marchissy",
+          "premises": "Route Des Montagnes",
+          "region": "1261"
+        }
+      },
+      {
+        "name": "STEINHAUSER, Yves",
+        "officer_role": "director",
+        "appointed_on": "2015-09-07",
+        "resigned_on": "2019-06-30",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1972,
+        "nationality": "Swiss",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "138 Houndsditch",
+          "locality": "London",
+          "postal_code": "EC3A 7AR",
+          "premises": "The St Botolph Building"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WILFRED T FRY LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2009-09-02",
+        "resigned_on": "2011-09-02",
+        "address": {
+          "address_line_1": "Crescent Road",
+          "locality": "Worthing",
+          "postal_code": "BN11 1RN",
+          "premises": "Crescent House",
+          "region": "West Sussex"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "070065870003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-04-04",
+        "delivered_on": "2025-04-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust, National Association"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "070065870002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-06-14",
+        "delivered_on": "2022-06-17",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust, National Association"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "070065870001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-06-14",
+        "delivered_on": "2022-06-17",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust, National Association"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-09-25",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEBV7DE9",
+        "transaction_id": "MzQ4MjY3MTg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEBV778G",
+        "transaction_id": "MzQ4MjY3MDQ3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEB9KUVT",
+        "transaction_id": "MzQ4MTU5NzU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEB9IAAG",
+        "transaction_id": "MzQ4MTU3NTYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEAT7AGG",
+        "transaction_id": "MzQ4MDQyODk2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-08-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE9WKDOW",
+        "transaction_id": "MzQ3ODkzODExOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-04-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 63,
+        "barcode": "XDZZXU2B",
+        "transaction_id": "MzQ2MTY1Njc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDCDQGRE",
+        "transaction_id": "MzQzNzE1ODcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCYWDI95",
+        "transaction_id": "MzQxNDU1NDEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "ACFYI36A",
+        "transaction_id": "MzM5OTcyMDA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBCSO6Z",
+        "transaction_id": "MzM5MTcyNTIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBD4I340",
+        "transaction_id": "MzM1MjgxMTE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBC0G8IG",
+        "transaction_id": "MzM1MTExNjQxNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-06-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 62,
+        "barcode": "XB6D0O4B",
+        "transaction_id": "MzM0Mjg4NjM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-06-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 22,
+        "barcode": "XB6D1WTE",
+        "transaction_id": "MzM0Mjg5NjcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-05-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 17,
+        "barcode": "YB385S3O",
+        "transaction_id": "MzMzODExNTUyMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-05-05",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUIzODVSSDdhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AAD9PHUQ",
+        "transaction_id": "MzMxNDQzMzQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAC6SMYP",
+        "transaction_id": "MzMxMjY2NzMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9HIEVDM",
+        "transaction_id": "MzI4MzAwODA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CPCCWW",
+        "transaction_id": "MzI3Njc0ODQ5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8E1SDG3",
+        "transaction_id": "MzI0NDI3MDYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-11",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X8DR9IG2",
+        "transaction_id": "MzI0Mzk5MjE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-09-04",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X8DBH0IA",
+        "transaction_id": "MzI0MzQ1ODE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8D5ZQW2",
+        "transaction_id": "MzI0MzE2NDE5NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 54,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Beqom.com",
+    "headcount": 15,
+    "tech_stack": [
+      "beqom AI",
+      "PayAnalytics by beqom"
+    ],
+    "business_keywords": [
+      "pay equity",
+      "pay transparency",
+      "compensation management",
+      "performance management",
+      "HR compliance",
+      "pay-for-performance",
+      "total compensation",
+      "fair pay",
+      "pay gaps",
+      "AI-driven compensation",
+      "explainable AI",
+      "HRIS integration",
+      "payroll systems",
+      "global pay laws",
+      "talent retention"
+    ],
+    "services": [
+      "Pay Equity & Transparency",
+      "Compensation Management",
+      "Performance Management",
+      "Pay-for-performance tools",
+      "Global HR compliance management",
+      "Real-time benchmark data for salary decisions",
+      "Configurable review cycles",
+      "Goal setting",
+      "360 feedback",
+      "API-based HRIS and payroll system connectivity",
+      "Pay equity and transparency compliance (U.S. regulations, EU Pay Transparency Directive)",
+      "Pay strategy transformation using Intentional AI"
+    ],
+    "customer_segments": [
+      "global companies",
+      "S&P 500 companies",
+      "enterprises with complex legal entities",
+      "companies in multiple jurisdictions",
+      "energy sector companies",
+      "financial services companies",
+      "consumer goods companies"
+    ],
+    "business_description": "beqom provides industry-leading tools for pay equity, transparency, compensation, and performance management, powered by explainable and controllable AI. The company helps global organizations achieve compliance with pay regulations, close pay gaps, and optimize compensation strategies through data-driven and transparent decision-making. beqom integrates with existing HRIS and payroll systems to streamline fair pay practices and talent retention.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:27:35.706Z"
+  },
+  "scraped_at": "2026-01-10T07:27:27.829Z",
+  "updated_at": "2026-01-10T07:27:35.706Z",
+  "version": 1
+}

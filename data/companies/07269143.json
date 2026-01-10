@@ -1,0 +1,491 @@
+{
+  "company_name": "CJ SYSTEMS LIMITED",
+  "company_number": "07269143",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-06-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "4j Westpark, Chelston, Wellington, Somerset, TA21 9AD",
+  "registered_address_structured": {
+    "address_line_1": "4j Westpark",
+    "address_line_2": "Chelston",
+    "locality": "Wellington",
+    "postal_code": "TA21 9AD",
+    "region": "Somerset"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "95110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-15",
+    "last_made_up_to": "2025-06-01",
+    "next_made_up_to": "2026-06-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SEALBY, Jonathan James",
+        "officer_role": "director",
+        "appointed_on": "2010-06-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Westpark",
+          "address_line_2": "Chelston",
+          "country": "England",
+          "locality": "Wellington",
+          "postal_code": "TA21 9AD",
+          "premises": "4j",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "STILTON, Christopher Anthony",
+        "officer_role": "director",
+        "appointed_on": "2010-06-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Westpark",
+          "address_line_2": "Chelston",
+          "country": "England",
+          "locality": "Wellington",
+          "postal_code": "TA21 9AD",
+          "premises": "4j",
+          "region": "Somerset"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Jonathan James Sealby",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-06-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Chelston",
+          "country": "United Kingdom",
+          "locality": "Wellington",
+          "postal_code": "TA21 9AD",
+          "premises": "4j Westpark",
+          "region": "Somerset"
+        }
+      },
+      {
+        "name": "Mr Christopher Anthony Stilton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-06-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Chelston",
+          "country": "United Kingdom",
+          "locality": "Wellington",
+          "postal_code": "TA21 9AD",
+          "premises": "4j Westpark",
+          "region": "Somerset"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "072691430002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-03-17",
+        "delivered_on": "2025-03-17",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Unit 4J, westpark 26 business park, westpark, chelston, wellington TA21 9AD."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "072691430001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-11-19",
+        "delivered_on": "2024-11-20",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEAQKGBF",
+        "transaction_id": "MzQ4MDI4MjQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3W8SE9",
+        "transaction_id": "MzQ2ODU4MDU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-03-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 50,
+        "barcode": "XDYJN2EA",
+        "transaction_id": "MzQ1ODkxNDE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-11-20",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 39,
+        "barcode": "XDGAPGVC",
+        "transaction_id": "MzQ0NDI5MDMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-08",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD93L2CO",
+        "transaction_id": "MzQzMTYxMTI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4GFC74",
+        "transaction_id": "MzQyNDAzMTQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCGAP1E9",
+        "transaction_id": "MzM5OTg3MjE0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCGAP1KA",
+        "transaction_id": "MzM5OTg3MjEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCFS7RIB",
+        "transaction_id": "MzM5OTE4MTA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC4QAOT7",
+        "transaction_id": "MzM4MTU2ODU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBIPYGC1",
+        "transaction_id": "MzM2MTc4MjgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB58PHSZ",
+        "transaction_id": "MzM0MTI2MjgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAHX582Y",
+        "transaction_id": "MzMyMTIxNjc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA5PY0Q2",
+        "transaction_id": "MzMwMjk0OTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9Y5V2KR",
+        "transaction_id": "MzI5MTI4Nzg1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X96AMMCX",
+        "transaction_id": "MzI2NjIzMzA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-17",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8KHA0O1",
+        "transaction_id": "MzI1MjM3MzMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X86UOYL7",
+        "transaction_id": "MzIzNTkzMzM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7KT2HS8",
+        "transaction_id": "MzIyMjE0MjEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X77DL848",
+        "transaction_id": "MzIwNjU4MTgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-20",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6JM73VE",
+        "transaction_id": "MzE5MDUzOTUxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 8,
+        "barcode": "X681M92W",
+        "transaction_id": "MzE3NzQ1NjQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-20",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X59JPE0B",
+        "transaction_id": "MzE1MTA2NTQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-06-02",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X58BFGG1",
+        "transaction_id": "MzE0OTk0Nzk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-06-12",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X49FP5AY",
+        "transaction_id": "MzEyNTAyMzA0OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 40,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Cjsystems.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Office 365"
+    ],
+    "business_keywords": [
+      "IT solutions",
+      "IT support",
+      "cyber security",
+      "email protection",
+      "penetration testing",
+      "anti-virus",
+      "compliance support",
+      "proactive monitoring",
+      "cloud computing",
+      "cloud email",
+      "hosted servers",
+      "hosted desktops",
+      "VOIP telephony",
+      "BT lines",
+      "SIP trunks",
+      "fibre broadband",
+      "leased lines",
+      "backup and disaster recovery",
+      "business continuity",
+      "structured cabling",
+      "WiFi solutions",
+      "IT audit",
+      "IT transition management"
+    ],
+    "services": [
+      "Free IT audit",
+      "Tailored IT support",
+      "Cyber security solutions",
+      "Email protection",
+      "Penetration testing",
+      "Anti-virus",
+      "Compliance support",
+      "Proactive IT support (remote and onsite)",
+      "Proactive system monitoring",
+      "Cloud computing",
+      "Cloud email",
+      "Fully hosted servers",
+      "Fully hosted desktops",
+      "Hosted VOIP telephony",
+      "BT lines provision",
+      "SIP trunks provision",
+      "Fibre broadband provision",
+      "Leased lines provision",
+      "Backup and disaster recovery solutions",
+      "Business continuity solutions",
+      "Structured cabling",
+      "Business class WiFi solutions",
+      "IT transition management from existing providers"
+    ],
+    "customer_segments": [
+      "Businesses in the South West",
+      "Office-based systems users",
+      "Businesses needing hardware provisioning",
+      "Companies requiring IT support for popular office systems",
+      "Businesses seeking cloud migration",
+      "Companies needing cyber security solutions"
+    ],
+    "business_description": "CJ Systems Limited provides sensible IT solutions and a complete IT service throughout the South West. They offer tailored IT support, cyber security solutions, cloud computing, communications infrastructure, and backup and disaster recovery services, along with free IT audits and proactive system monitoring to ensure business continuity and security.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 37,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T08:22:05.377Z"
+  },
+  "scraped_at": "2026-01-10T08:21:55.797Z",
+  "updated_at": "2026-01-10T08:22:05.377Z",
+  "version": 1
+}

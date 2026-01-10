@@ -1,0 +1,528 @@
+{
+  "company_name": "VELOCITY IT LTD",
+  "company_number": "07126010",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-01-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "9th Floor, 9 Appold Street, London, Greater London, EC2A 2AP, England",
+  "registered_address_structured": {
+    "address_line_1": "9th Floor, 9 Appold Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 2AP",
+    "region": "Greater London"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-19",
+    "last_made_up_to": "2026-01-05",
+    "next_made_up_to": "2027-01-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CALLANAN, Conor Joseph",
+        "officer_role": "director",
+        "appointed_on": "2024-03-13",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1966,
+        "nationality": "Irish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "9 Appold Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "9 Appold Street"
+        }
+      },
+      {
+        "name": "MCGLOIN, David Francis",
+        "officer_role": "director",
+        "appointed_on": "2024-03-13",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "9 Appold Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "9 Appold Street"
+        }
+      },
+      {
+        "name": "VAN ROOYEN, Arno De Wet",
+        "officer_role": "director",
+        "appointed_on": "2010-01-14",
+        "resigned_on": "2024-03-13",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Nene Lane",
+          "locality": "Towcester",
+          "postal_code": "NN12 6YN",
+          "premises": "2",
+          "region": "Northamptonshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "VAN ROOYEN, Sally",
+        "officer_role": "secretary",
+        "appointed_on": "2010-01-14",
+        "resigned_on": "2017-10-23",
+        "address": {
+          "address_line_1": "107 Technology House",
+          "address_line_2": "Silbury Boulevard",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK9 1LH",
+          "premises": "151"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Core Technology Systems (U.K) Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2024-03-13",
+        "address": {
+          "address_line_1": "9th Floor, 9 Appold Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2AP",
+          "premises": "C/O Core Technology Systems Uk Ltd",
+          "region": "London"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House Uk",
+          "registration_number": "02502866"
+        }
+      },
+      {
+        "name": "Mr Arno De Wet Van Rooyen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2024-03-13",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Nene Lane",
+          "country": "England",
+          "locality": "Towcester",
+          "postal_code": "NN12 6YN",
+          "premises": "2",
+          "region": "Northamptonshire"
+        }
+      },
+      {
+        "name": "Mrs Sally Van Rooyen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-10-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Silbury Boulevard",
+          "country": "England",
+          "locality": "Milton Keynes",
+          "postal_code": "MK9 1LH",
+          "premises": "151 107 Technology House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "071260100002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-03-13",
+        "delivered_on": "2024-03-14",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tc Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "071260100001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-03-13",
+        "delivered_on": "2024-03-14",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Tc Loans Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XET4Z7CU",
+        "transaction_id": "MzQ5NzYwOTE3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2026-01-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XET4Z6BN",
+        "transaction_id": "MzQ5NzYwOTAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-03",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XECEZT40",
+        "transaction_id": "MzQ4MzczMjY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-03",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE60IZAA",
+        "transaction_id": "MzQ3MjQ2Njg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDUS1MMB",
+        "transaction_id": "MzQ1MjI1MTg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDUBZNMG",
+        "transaction_id": "MzQ1MTQ1NDgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XD63HNG0",
+        "transaction_id": "MzQyNjY2NzA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD229F39",
+        "transaction_id": "MzQyMDAxNzc5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XD229DTF",
+        "transaction_id": "MzQyMDAxNzU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCZFFPQL",
+        "transaction_id": "MzQxNTc1Mjk3NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCZ7AIPD",
+        "transaction_id": "MzQxNTIyMDA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-19",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCZ7AEEW",
+        "transaction_id": "MzQxNTIxNzYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-19",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCZ7ADZU",
+        "transaction_id": "MzQxNTIxNzUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCZ7AAFS",
+        "transaction_id": "MzQxNTIxNjUwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCZ7AA6R",
+        "transaction_id": "MzQxNTIxNTk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-19",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCZ7A697",
+        "transaction_id": "MzQxNTIxNDIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 102,
+        "barcode": "XCYWBI2I",
+        "transaction_id": "MzQxNDUzNzEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 116,
+        "barcode": "XCYWBG88",
+        "transaction_id": "MzQxNDUzNjgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCUX27PD",
+        "transaction_id": "MzQwNzkwMjM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-09-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCD05C17",
+        "transaction_id": "MzM5NDc0NDM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-09-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCCRYEDT",
+        "transaction_id": "MzM5NDI2MjYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-18",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCCBN28B",
+        "transaction_id": "MzM5MzQ2OTEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBWCXSWG",
+        "transaction_id": "MzM2Nzc5OTYzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBVDRS8Q",
+        "transaction_id": "MzM2NjA5MTMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAW50N22",
+        "transaction_id": "MzMyNzQzODcyOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 56,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Velocity-it.com",
+    "headcount": 8,
+    "tech_stack": [
+      "Microsoft Copilot",
+      "Microsoft 365",
+      "Dynamics 365",
+      "Office 365"
+    ],
+    "business_keywords": [
+      "Automation",
+      "Artificial Intelligence",
+      "AI",
+      "Business Process Automation",
+      "Digital Transformation",
+      "Process Automation",
+      "Robotic Process Automation",
+      "RPA",
+      "Low-Code Automation",
+      "Intelligent Automation",
+      "Process Mining",
+      "Microsoft 365",
+      "Dynamics 365",
+      "Microsoft Copilot",
+      "Team and Site Provisioning"
+    ],
+    "services": [
+      "Automation & AI Services",
+      "Business Process Automation",
+      "Digital Transformation",
+      "Process Automation Consultancy",
+      "Robotic Process Automation (RPA)",
+      "Low-Code Automation (BPA)",
+      "Artificial Intelligence (AI) Automation",
+      "Process Mining",
+      "Team and Site Provisioning",
+      "Microsoft Copilot Implementation",
+      "Automation & AI Consultation",
+      "Free Automation & AI Assessment"
+    ],
+    "customer_segments": [
+      "Enterprises",
+      "Universities",
+      "Government Councils",
+      "Ambulance Services",
+      "Government Departments",
+      "Businesses seeking operational efficiency"
+    ],
+    "business_description": "VELOCITY IT LTD (referred to as Core in the content) provides automation and AI services to transform business operations by reducing manual tasks, increasing efficiency, and enabling smart decision-making. They offer a range of solutions including business process automation, robotic process automation (RPA), low-code automation, AI automation, and digital transformation, tailored to help organizations operate smarter and more profitably.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 20,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T07:50:12.680Z"
+  },
+  "scraped_at": "2026-01-10T07:50:03.320Z",
+  "updated_at": "2026-01-10T07:50:12.680Z",
+  "version": 1
+}

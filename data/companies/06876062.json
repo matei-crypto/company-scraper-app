@@ -1,0 +1,423 @@
+{
+  "company_name": "OMNIE LTD",
+  "company_number": "06876062",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-04-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "3rd Floor, 16 Toft Green, York 3rd Floor, 16 Toft Green, York, YO1 6JT, England",
+  "registered_address_structured": {
+    "address_line_1": "3rd Floor, 16 Toft Green, York 3rd Floor",
+    "address_line_2": "16 Toft Green",
+    "country": "England",
+    "locality": "York",
+    "postal_code": "YO1 6JT"
+  },
+  "sic_codes": [
+    "46510",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "INTREFACE LIMITED",
+      "ceased_on": "2025-10-08",
+      "effective_from": "2015-11-26"
+    },
+    {
+      "name": "BUZZ INTRANET LIMITED",
+      "ceased_on": "2015-11-26",
+      "effective_from": "2014-04-23"
+    },
+    {
+      "name": "CLOWD TECHNOLOGY LIMITED",
+      "ceased_on": "2014-04-23",
+      "effective_from": "2012-10-25"
+    },
+    {
+      "name": "EREXI LIMITED",
+      "ceased_on": "2012-10-25",
+      "effective_from": "2009-04-14"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-06",
+    "last_made_up_to": "2025-09-22",
+    "next_made_up_to": "2026-09-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "EDWARDS, Damian Anthony",
+        "officer_role": "director",
+        "appointed_on": "2009-04-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Fountain Court",
+          "country": "England",
+          "locality": "Doncaster",
+          "postal_code": "DN9 3QS",
+          "premises": "23 Jetstream Drive",
+          "region": "South Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "EDWARDS, Damian Anthony",
+        "officer_role": "secretary",
+        "appointed_on": "2009-04-14",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Fountain Court",
+          "country": "England",
+          "locality": "Doncaster",
+          "postal_code": "DN9 3QS",
+          "premises": "23 Jetstream Drive",
+          "region": "South Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Damian Anthony Edwards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Fountain Court",
+          "country": "England",
+          "locality": "Doncaster",
+          "postal_code": "DN9 3QS",
+          "premises": "23 Jetstream Drive",
+          "region": "South Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068760620002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-12-07",
+        "delivered_on": "2017-12-12",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Leasehold property known as 23 jetstream drive, auckley, doncaster, DN9 3QS.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "068760620001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-02-23",
+        "delivered_on": "2017-02-28",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "change-of-name",
+        "date": "2025-10-08",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XECPPJMG",
+        "transaction_id": "MzQ4NDE3MjQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECMVPPF",
+        "transaction_id": "MzQ4MzkwMDQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEAQHIP2",
+        "transaction_id": "MzQ4MDI1ODgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDD04D2H",
+        "transaction_id": "MzQzODQ0OTk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCRFOJC",
+        "transaction_id": "MzQzNzczNTg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUZV5A2",
+        "transaction_id": "MzQwODA1NTQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-01",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 10,
+        "barcode": "ACEZ2RQR",
+        "transaction_id": "MzM5ODI3MzIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCCML2BM",
+        "transaction_id": "MzM5NDA3MjQ0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCCJY8O0",
+        "transaction_id": "MzM5Mzk4OTg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2F5YX6",
+        "transaction_id": "MzM3Nzk1ODU3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-20",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBJ92S95",
+        "transaction_id": "MzM2MzAzNTcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XB945HAW",
+        "transaction_id": "MzM0NjkyNTEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB293BGO",
+        "transaction_id": "MzMzNjUzOTU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA9QU4NE",
+        "transaction_id": "MzMwOTE3MTI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA30S4PD",
+        "transaction_id": "MzI5ODc0NDAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-20",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X99P04FT",
+        "transaction_id": "MzI3MzQ0MDQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X95HFQ02",
+        "transaction_id": "MzI2NTIyODcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X87IQ6XC",
+        "transaction_id": "MzIzNjgyNDE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X83HAM2A",
+        "transaction_id": "MzIzMjEzMzIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-04-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X82ITJ8B",
+        "transaction_id": "MzIzMTAzNzUyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-04-02",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X82ITFEA",
+        "transaction_id": "MzIzMTAzNjQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-04-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X82ITEEZ",
+        "transaction_id": "MzIzMTAzNTkwOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-04-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X82ITCMB",
+        "transaction_id": "MzIzMTAzNTM2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X74O5HGB",
+        "transaction_id": "MzIwMzU2OTk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X72M1BGR",
+        "transaction_id": "MzIwMTEwMjg4NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 53,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Intreface.com",
+    "headcount": 9,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T07:00:11.793Z",
+  "scraped_at": "2026-01-10T07:00:11.793Z"
+}

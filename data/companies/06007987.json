@@ -1,0 +1,570 @@
+{
+  "company_name": "WECLICK MEDIA LTD",
+  "company_number": "06007987",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-11-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "C/O JAMES COOPER KRESTON, White Building 1-4 Cumberland Place, Southampton, SO15 2NP",
+  "registered_address_structured": {
+    "address_line_1": "C/O JAMES COOPER KRESTON",
+    "address_line_2": "White Building 1-4 Cumberland Place",
+    "locality": "Southampton",
+    "postal_code": "SO15 2NP"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "WECLIK LIMITED",
+      "ceased_on": "2009-12-07",
+      "effective_from": "2006-11-23"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2019-09-30",
+    "next_accounts_period_end_on": "2018-12-31",
+    "next_accounts_period_start_on": "2018-01-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2017-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2018-12-07",
+    "last_made_up_to": "2017-11-23",
+    "next_made_up_to": "2018-11-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "O'GRADY, Paul Freemantle",
+        "officer_role": "director",
+        "appointed_on": "2006-11-23",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Higher Kingsbury",
+          "address_line_2": "Milborne Port",
+          "locality": "Sherborne",
+          "postal_code": "DT9 5EB",
+          "premises": "Kingsbury Cottage",
+          "region": "Dorset"
+        }
+      },
+      {
+        "name": "PORTER-SMITH, Robert Alan",
+        "officer_role": "director",
+        "appointed_on": "2010-01-01",
+        "resigned_on": "2014-04-10",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1956,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Avenue",
+          "country": "United Kingdom",
+          "locality": "Worminghall",
+          "postal_code": "HP18 9LD",
+          "premises": "45",
+          "region": "Buckinghamshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "RAWLES, Daniel Esteban",
+        "officer_role": "secretary",
+        "appointed_on": "2007-10-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1-4 Cumberland Place",
+          "locality": "Southampton",
+          "postal_code": "SO15 2NP",
+          "premises": "White Building"
+        }
+      },
+      {
+        "name": "BRASH, David James",
+        "officer_role": "secretary",
+        "appointed_on": "2006-11-23",
+        "resigned_on": "2007-10-04",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Orchil House",
+          "address_line_2": "Orchil Road",
+          "locality": "Auchterarder",
+          "postal_code": "PH3 1NB",
+          "region": "Perthshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul Freemantle O'Grady",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-11-23",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1-4 Cumberland Place",
+          "locality": "Southampton",
+          "postal_code": "SO15 2NP",
+          "premises": "White Building"
+        }
+      },
+      {
+        "name": "Mrs Sarah Louise Rawles",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-11-23",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1-4 Cumberland Place",
+          "locality": "Southampton",
+          "postal_code": "SO15 2NP",
+          "premises": "White Building"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "060079870003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-01-12",
+        "delivered_on": "2017-01-14",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Paul Freemantle O’Grady"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2010-08-13",
+        "delivered_on": "2010-08-27",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Key Property Investments (Number Four) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2007-08-20",
+        "delivered_on": "2007-09-07",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Key Property Investments (Number Four) Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "An amount equal to three month's rent and all other monies due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "insolvency": {
+    "cases": [
+      {
+        "dates": [
+          {
+            "type": "administration-started-on",
+            "date": "2018-05-15"
+          },
+          {
+            "type": "administration-ended-on",
+            "date": "2020-05-12"
+          }
+        ],
+        "notes": [],
+        "practitioners": [
+          {
+            "name": "Thomas Charles Russell",
+            "address": {
+              "address_line_1": "The White Building",
+              "address_line_2": "1-4 Cumberland Place",
+              "locality": "Southamton",
+              "postal_code": "SO15 2NP"
+            },
+            "role": "practitioner"
+          },
+          {
+            "name": "Alan Peter Whalley",
+            "address": {
+              "address_line_1": "The White Building 1-4 Cumberland Place",
+              "locality": "Southampton",
+              "region": "Hampshire",
+              "postal_code": "SO15 2NP"
+            },
+            "ceased_to_act_on": "2020-02-20",
+            "role": "practitioner"
+          },
+          {
+            "name": "Sandra Lillian Mundy",
+            "address": {
+              "address_line_1": "The White Building 1-4 Cumberland Place",
+              "locality": "Southampton",
+              "region": "Hampshire",
+              "postal_code": "SO15 2NP"
+            },
+            "role": "practitioner"
+          }
+        ]
+      }
+    ],
+    "has_insolvency_history": true
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2021-06-18",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzMwNDcxNzA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-04-20",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzI5NTk1MTY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2020-05-20",
+        "description": "liquidation-in-administration-end-of-administration",
+        "type": "AM21",
+        "pages": 13,
+        "barcode": "A94ZDWQ9",
+        "transaction_id": "MzI2NTIzMjc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2020-03-20",
+        "description": "liquidation-in-administration-removal-of-administrator-from-office",
+        "type": "AM16",
+        "pages": 7,
+        "barcode": "A90TPU8H",
+        "transaction_id": "MzI2MDM1Njk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2020-03-20",
+        "description": "liquidation-in-administration-appointment-of-a-replacement-or-additional-administrator",
+        "type": "AM11",
+        "pages": 3,
+        "barcode": "A90TPU6X",
+        "transaction_id": "MzI2MDM1MDQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2019-12-17",
+        "description": "liquidation-in-administration-progress-report",
+        "type": "AM10",
+        "pages": 13,
+        "barcode": "A8K5PPVD",
+        "transaction_id": "MzI1MjM1NDM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2019-06-26",
+        "description": "liquidation-in-administration-progress-report",
+        "type": "AM10",
+        "pages": 13,
+        "barcode": "A87IJ94W",
+        "transaction_id": "MzIzNzg2NzUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2019-04-19",
+        "description": "liquidation-in-administration-extension-of-period",
+        "type": "AM19",
+        "pages": 3,
+        "barcode": "A82U51H6",
+        "transaction_id": "MzIzMjQ1MTMzNmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2019-01-05",
+        "description": "liquidation-in-administration-progress-report",
+        "type": "AM10",
+        "pages": 13,
+        "barcode": "A7KOKUTS",
+        "transaction_id": "MzIyMzc1OTM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2018-08-07",
+        "description": "liquidation-administration-notice-deemed-approval-of-proposals",
+        "type": "AM06",
+        "pages": 3,
+        "barcode": "A7B0LN6H",
+        "transaction_id": "MzIxMTUyNzgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2018-07-18",
+        "description": "liquidation-in-administration-proposals",
+        "type": "AM03",
+        "pages": 22,
+        "barcode": "A79IZEER",
+        "transaction_id": "MzIxMDAzNjY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-06-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "A77LXU0P",
+        "transaction_id": "MzIwNzA5NzI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2018-05-31",
+        "description": "liquidation-in-administration-appointment-of-administrator",
+        "type": "AM01",
+        "pages": 3,
+        "barcode": "A766RROH",
+        "transaction_id": "MzIwNjMzNzE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X71RHLQ2",
+        "transaction_id": "MzIwMDE2MjM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-11-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X6K7WHEI",
+        "transaction_id": "MzE5MTQ3MDU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6K6XT2I",
+        "transaction_id": "MzE5MTQzOTA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-08-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X6BX8IH5",
+        "transaction_id": "MzE4MTk0ODU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-05-08",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X65Z69SG",
+        "transaction_id": "MzE3NTI1ODcxN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-01-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 39,
+        "barcode": "A5Y45H1U",
+        "transaction_id": "MzE2NjkwNTM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5L9K4C3",
+        "transaction_id": "MzE2MzY1NzExOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X5GLUU96",
+        "transaction_id": "MzE1ODYyNDc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-08-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5D1JKSP",
+        "transaction_id": "MzE1NDczNTYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-12-03",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X4LDZNOB",
+        "transaction_id": "MzEzNjU3NDY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X4GYHRS0",
+        "transaction_id": "MzEzMjAwMDYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-11-25",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X3LCBFY2",
+        "transaction_id": "MzExMTkzMzgzNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 61,
+    "recent_filings_count": 0
+  },
+  "financials": {
+    "employees": 26
+  },
+  "enrichment": {
+    "website": "https://Weclickmedia.com",
+    "headcount": 26,
+    "tech_stack": [
+      "NameBright.com registrar",
+      "SSL encryption technology",
+      "PayPal payment processing",
+      "Escrow.com payment processing"
+    ],
+    "business_keywords": [
+      "domain",
+      "domain name",
+      "domain sale",
+      "domain acquisition",
+      "domain purchase",
+      "domain transfer",
+      "payment plan",
+      "financing",
+      "SSL encryption",
+      "WhoIs Privacy Protection",
+      "web address",
+      "domain registrar",
+      "customer support",
+      "money back guarantee",
+      "secure shopping"
+    ],
+    "services": [
+      "domain name sales",
+      "domain acquisition assistance",
+      "payment plans for domain purchases",
+      "zero percent financing for domain purchases",
+      "quick delivery of domains",
+      "30-day money back guarantee on domain purchases",
+      "safe and secure domain shopping",
+      "customer support for domain purchases",
+      "domain transfer assistance to other registrars",
+      "WhoIs Privacy Protection for domains"
+    ],
+    "customer_segments": [
+      "individuals seeking domain names",
+      "businesses seeking domain names",
+      "domain investors",
+      "people looking for payment plans for domains"
+    ],
+    "business_description": "HugeDomains helps customers acquire domain names by offering them for sale with affordable payment options, including zero percent financing. The company provides quick domain delivery, secure shopping, and a 30-day money back guarantee, along with customer support for domain purchases and transfers.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T04:29:10.506Z"
+  },
+  "scraped_at": "2026-01-10T04:29:04.493Z",
+  "updated_at": "2026-01-10T04:29:10.505Z",
+  "version": 1
+}

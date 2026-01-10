@@ -1,0 +1,445 @@
+{
+  "company_name": "KEHORNE LIMITED",
+  "company_number": "06569434",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-04-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Grovelands, Boundary Way, Hemel Hempstead, HP2 7TE, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Grovelands",
+    "address_line_2": "Boundary Way",
+    "country": "England",
+    "locality": "Hemel Hempstead",
+    "postal_code": "HP2 7TE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-28",
+    "last_made_up_to": "2025-04-14",
+    "next_made_up_to": "2026-04-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HORNE, David Lewis",
+        "officer_role": "director",
+        "appointed_on": "2008-04-17",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Grovelands",
+          "address_line_2": "Boundary Way",
+          "country": "England",
+          "locality": "Hemel Hempstead",
+          "postal_code": "HP2 7TE",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr David Lewis Horne",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2017-04-17",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Grovelands",
+          "address_line_2": "Boundary Way",
+          "country": "England",
+          "locality": "Hemel Hempstead",
+          "postal_code": "HP2 7TE",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "065694340001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-10-06",
+        "delivered_on": "2022-10-06",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Fixed and floating charge over all land and property and assets present and future including goodwill, insurance, book debts, rents, other claims and plant and equipment.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Ffe Spv Limited (Co. No. 11281716)"
+          }
+        ],
+        "satisfied_on": "2026-01-05",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "mortgage",
+        "date": "2026-01-05",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XET4XSQZ",
+        "transaction_id": "MzQ5NzU5ODA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEIF0O7F",
+        "transaction_id": "MzQ5NjYwNzM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0GA1TM",
+        "transaction_id": "MzQ2MjQ3MDI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD84R2KH",
+        "transaction_id": "MzQzMDIyNDI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1OT98W",
+        "transaction_id": "MzQxOTU2NTkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCVW5QYG",
+        "transaction_id": "MzQwOTQ4MjYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2PVV9C",
+        "transaction_id": "MzM3ODM5NDk2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBVWH2FD",
+        "transaction_id": "MzM2Njk3NjMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-10-06",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 21,
+        "barcode": "XBE13M9U",
+        "transaction_id": "MzM1NDMzMTI0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2H8OGR",
+        "transaction_id": "MzMzNzAxMjEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAHGXWHU",
+        "transaction_id": "MzMyMDQ1NjU4NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XABLEKMQ",
+        "transaction_id": "MzMxMTcxMzg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAAK6G97",
+        "transaction_id": "MzMxMDI3MTA3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA3RXLNM",
+        "transaction_id": "MzI5OTg4MzI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-05-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA3RXC8R",
+        "transaction_id": "MzI5OTg4MTAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-05-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA3RX9PM",
+        "transaction_id": "MzI5OTg4MDQ5M2FkaXF6a2N4"
+      },
+      {
+        "category": "insolvency",
+        "date": "2021-03-05",
+        "description": "legacy",
+        "type": "CAP-SS",
+        "pages": 1,
+        "barcode": "A9Y93DKO",
+        "transaction_id": "MzI5MzM4NDk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-02-24",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QTlZOTNES0dhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-23",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A9Y93DK8",
+        "transaction_id": "MzI5MTg1MTg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-23",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 3,
+        "barcode": "A9Y93DK0",
+        "transaction_id": "MzI5MTg1MTg5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9XUZVBU",
+        "transaction_id": "MzI5MDgyNDU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X945Z9P5",
+        "transaction_id": "MzI2MzczNjk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-01-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8XRMG09",
+        "transaction_id": "MzI1NjA1MTIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-12-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X8LFK0AW",
+        "transaction_id": "MzI1MzMzMDEzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-12-30",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8LFJZLC",
+        "transaction_id": "MzI1MzMyOTk1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 54,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Kehorne.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "WordPress",
+      "Google Analytics"
+    ],
+    "business_keywords": [
+      "website design",
+      "website development",
+      "digital agency",
+      "web applications",
+      "landing pages",
+      "electronic digital mailers",
+      "multi-language websites",
+      "responsive websites",
+      "web hosting",
+      "domain name registration",
+      "carbon-neutral hosting",
+      "WordPress updates",
+      "Google Analytics integration",
+      "brand asset management",
+      "restaurant templates",
+      "online ordering",
+      "online payments",
+      "advance bookings",
+      "delivery module",
+      "technical scope creation",
+      "bespoke systems",
+      "off-the-shelf systems",
+      "custom themes",
+      "copywriting",
+      "logo creation",
+      "website support",
+      "website maintenance",
+      "charity website development",
+      "community group website development"
+    ],
+    "services": [
+      "Website design",
+      "Website development",
+      "Project management",
+      "Technical scope creation for projects",
+      "Development of bespoke systems",
+      "Development of off-the-shelf systems",
+      "Custom theme development",
+      "Multi-language web application development",
+      "Landing page development",
+      "Electronic digital mailer development",
+      "Copywriting",
+      "Logo creation",
+      "Website support",
+      "Website hosting",
+      "Website maintenance",
+      "Domain name registration",
+      "Email solutions",
+      "Google Analytics integration",
+      "WordPress updates",
+      "Comprehensive site management",
+      "Scalable web hosting services",
+      "Charity and community group website development",
+      "Restaurant website template development",
+      "Online ordering system setup",
+      "Online payment system setup",
+      "Advance booking system setup",
+      "Delivery module integration for takeaways",
+      "Digital brand asset management system (SimpleBAMS)",
+      "Podcast content distillation into e-books"
+    ],
+    "customer_segments": [
+      "Marketing agencies",
+      "Small and medium-sized businesses",
+      "Schools",
+      "Local Slough businesses",
+      "Charities",
+      "Community groups",
+      "Restaurants",
+      "Cycling enthusiasts",
+      "Distributors",
+      "Sales representatives",
+      "Third-party agencies",
+      "In-house marketing departments"
+    ],
+    "business_description": "Kehorne Limited is a digital agency specializing in website design and development, offering services such as project management, technical scoping, bespoke and off-the-shelf system development, and custom theme creation. They work with marketing agencies and businesses to build multi-language web applications, landing pages, and electronic digital mailers, and provide full design, copywriting, hosting, and maintenance services. Kehorne also supports charities, community groups, and restaurants with tailored digital solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:01:44.716Z"
+  },
+  "scraped_at": "2026-01-10T06:01:34.352Z",
+  "updated_at": "2026-01-10T06:01:44.716Z",
+  "version": 1
+}

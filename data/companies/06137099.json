@@ -1,0 +1,485 @@
+{
+  "company_name": "GIROUX LIMITED",
+  "company_number": "06137099",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-03-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "Meritor, Outlook Avenue, Peacehaven, East Sussex, BN10 8XE",
+  "registered_address_structured": {
+    "address_line_1": "Meritor",
+    "address_line_2": "Outlook Avenue",
+    "locality": "Peacehaven",
+    "postal_code": "BN10 8XE",
+    "region": "East Sussex"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "GEOJAN LIMITED",
+      "ceased_on": "2012-08-17",
+      "effective_from": "2007-03-05"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-02",
+    "last_made_up_to": "2025-11-18",
+    "next_made_up_to": "2026-11-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GIROUX, Eric",
+        "officer_role": "director",
+        "appointed_on": "2007-03-05",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "Canadian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Outlook Avenue",
+          "country": "United Kingdom",
+          "locality": "Peacehaven",
+          "postal_code": "BN10 8XE",
+          "premises": "Meritor",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "ALLCHORNE, Kevin",
+        "officer_role": "director",
+        "appointed_on": "2017-06-01",
+        "resigned_on": "2022-01-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Outlook Avenue",
+          "country": "United Kingdom",
+          "locality": "Peacehaven",
+          "postal_code": "BN10 8XE",
+          "premises": "Meritor",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "MU, Yang",
+        "officer_role": "director",
+        "appointed_on": "2012-05-01",
+        "resigned_on": "2013-03-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1974,
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Outlook Avenue",
+          "country": "United Kingdom",
+          "locality": "Peacehaven",
+          "postal_code": "BN10 8XE",
+          "premises": "Meritor",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "WILKINSON, Simon Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2008-01-01",
+        "resigned_on": "2008-03-04",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "3 Ashcombe Road",
+          "locality": "London",
+          "postal_code": "SW19 8JP"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JACQUES, Michele",
+        "officer_role": "secretary",
+        "appointed_on": "2009-10-01",
+        "address": {
+          "address_line_1": "Outlook Avenue",
+          "country": "United Kingdom",
+          "locality": "Peacehaven",
+          "postal_code": "BN10 8XE",
+          "premises": "Meritor",
+          "region": "East Sussex"
+        }
+      },
+      {
+        "name": "DE FOIARD BROWN, Anne",
+        "officer_role": "secretary",
+        "appointed_on": "2007-03-05",
+        "resigned_on": "2009-10-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "49 Graham Road",
+          "locality": "London",
+          "postal_code": "SW19 3SW"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Eric Giroux",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "Canadian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Outlook Avenue",
+          "locality": "Peacehaven",
+          "postal_code": "BN10 8XE",
+          "premises": "Meritor",
+          "region": "East Sussex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "061370990001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-05-14",
+        "delivered_on": "2025-05-15",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XEHYOEO0",
+        "transaction_id": "MzQ5NTcwNzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-29",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEGCMD5C",
+        "transaction_id": "MzQ5MTYxMTAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGCMCNL",
+        "transaction_id": "MzQ5MTYxMDk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-05-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 39,
+        "barcode": "XE2MMPQJ",
+        "transaction_id": "MzQ2NjUwNDczNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDIKKEC0",
+        "transaction_id": "MzQ0ODc0MTMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDG54AZ6",
+        "transaction_id": "MzQ0MzY5NDIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-04-26",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XD1U8UZU",
+        "transaction_id": "MzQxOTc2ODYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCZFN4EX",
+        "transaction_id": "MzQxNTgyNzAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCHCHOSJ",
+        "transaction_id": "MzQwMTk1MjIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYGDDW9",
+        "transaction_id": "MzM3MTM3MzU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBCIZGBD",
+        "transaction_id": "MzM1MTg2Mzk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAZ1W8PC",
+        "transaction_id": "MzMzMTkzNTA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-01-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUFWVk9GTjVhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-10",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAVE5AT7",
+        "transaction_id": "MzMyNjIwMjQ1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XAJPIH0W",
+        "transaction_id": "MzMyNDA3OTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-05-04",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QUEyUkRPNUxhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-03-22",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "QTlaWFlHTUphZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9ZVHCKQ",
+        "transaction_id": "MzI5MzcyODY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-12-31",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTlLODVBU1dhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X9KHPJFC",
+        "transaction_id": "MzI4NjgwNzY3MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-11-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QTlJQkRXQ1phZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-11-27",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 52,
+        "barcode": "A9IBDWCR",
+        "transaction_id": "MzI4NDQ5OTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-11-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9I6PLM9",
+        "transaction_id": "MzI4Mzk4MTM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-11-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X9GZLHLT",
+        "transaction_id": "MzI4MjI1OTI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-02",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "A9GHE35S",
+        "transaction_id": "MzI4MjA2NTYxN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Giroux.co.uk",
+    "headcount": 6,
+    "tech_stack": [],
+    "business_keywords": [
+      "predictive insurance analytics",
+      "data-driven underwriting",
+      "insurance analytics",
+      "underwriting decisions",
+      "business intelligence",
+      "data analytics",
+      "actuarial modelling",
+      "data science",
+      "insurance data",
+      "underwriting profitability",
+      "data reporting",
+      "MI reporting",
+      "premium analysis",
+      "claims data",
+      "broker relationships"
+    ],
+    "services": [
+      "predictive insurance analytics platform",
+      "data extraction, cleansing, and organization from any system and spreadsheet",
+      "automated earned premium generation",
+      "rate strength analysis",
+      "IBNR and ultimates calculation",
+      "data preparation for underwriting",
+      "external data embedding into underwriting processes",
+      "actuarial modelling support",
+      "ad-hoc data science projects",
+      "advanced reporting for underwriting",
+      "underwriting performance analysis",
+      "broker relationship monitoring and optimization",
+      "data-driven underwriting decision support",
+      "time-saving automation for data processing"
+    ],
+    "customer_segments": [
+      "underwriting teams",
+      "underwriters",
+      "insurance companies",
+      "MGAs (Managing General Agents)",
+      "capacity providers",
+      "insurer partners",
+      "brokers",
+      "construction specialty underwriters",
+      "travel policy underwriters"
+    ],
+    "business_description": "GIROUX LIMITED provides a predictive insurance analytics platform called GIROUX.Ai that empowers data-driven underwriting decisions. The platform helps underwriting teams save time, increase profitability, and optimize distribution by automating data preparation, reporting, and advanced analytics. It supports insurers, MGAs, and underwriters in making informed, evidence-based decisions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 13,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T04:46:25.790Z"
+  },
+  "scraped_at": "2026-01-10T04:46:17.712Z",
+  "updated_at": "2026-01-10T04:46:25.789Z",
+  "version": 1
+}

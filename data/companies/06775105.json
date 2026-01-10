@@ -1,0 +1,439 @@
+{
+  "company_name": "SOURCE UPS LTD",
+  "company_number": "06775105",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-12-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Intec House, St. Nicholas Close, Fleet, Hampshire, GU51 4JA",
+  "registered_address_structured": {
+    "address_line_1": "Intec House",
+    "address_line_2": "St. Nicholas Close",
+    "locality": "Fleet",
+    "postal_code": "GU51 4JA",
+    "region": "Hampshire"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-29",
+    "last_made_up_to": "2025-03-15",
+    "next_made_up_to": "2026-03-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BANKS, Gavin",
+        "officer_role": "director",
+        "appointed_on": "2008-12-17",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Nicholas Close",
+          "country": "United Kingdom",
+          "locality": "Fleet",
+          "postal_code": "GU51 4JA",
+          "premises": "Intec House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "BANKS, Susannah Lucy",
+        "officer_role": "director",
+        "appointed_on": "2014-05-29",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Nicholas Close",
+          "locality": "Fleet",
+          "postal_code": "GU51 4JA",
+          "premises": "Intec House",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Gavin Banks",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Nicholas Close",
+          "country": "United Kingdom",
+          "locality": "Fleet",
+          "postal_code": "GU51 4JA",
+          "premises": "Intec House",
+          "region": "Hampshire"
+        }
+      },
+      {
+        "name": "Mrs Susannah Lucy Banks",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St. Nicholas Close",
+          "country": "United Kingdom",
+          "locality": "Fleet",
+          "postal_code": "GU51 4JA",
+          "premises": "Intec House",
+          "region": "Hampshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "067751050001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-09-02",
+        "delivered_on": "2020-09-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE6DYH0J",
+        "transaction_id": "MzQ3MjkxODI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDZGMEK0",
+        "transaction_id": "MzQ2MDc2Mzg0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDAVYGWB",
+        "transaction_id": "MzQzNDMzNjA5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCZSYQJ6",
+        "transaction_id": "MzQxNjI3MTgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCYO084J",
+        "transaction_id": "MzQxMzk3MzE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCYO08AO",
+        "transaction_id": "MzQxMzk3MzE0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCYO08BC",
+        "transaction_id": "MzQxMzk3MzE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCYO0897",
+        "transaction_id": "MzQxMzk3MzE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCYO02II",
+        "transaction_id": "MzQxMzk3MTg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCYO02Q3",
+        "transaction_id": "MzQxMzk3MTg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCD0A9TF",
+        "transaction_id": "MzM5NDc4NzgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC80IXZ4",
+        "transaction_id": "MzM4NjgwMDM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-07-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC80IY4P",
+        "transaction_id": "MzM4NjgwMDM4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZCDV35",
+        "transaction_id": "MzM3MjY1NDQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBCG92GW",
+        "transaction_id": "MzM1MTcxMTM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZY1WXU",
+        "transaction_id": "MzMzMzIwMDg0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XADYRQNV",
+        "transaction_id": "MzMxNTI2MTI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-09-22",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMxNDQyMjk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XADIK0RH",
+        "transaction_id": "MzMxNDQyMjkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-09-21",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMxMzMzNzM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9EOWEOW",
+        "transaction_id": "MzI3OTIzMDIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-09-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X9D529QY",
+        "transaction_id": "MzI3NzEzMTk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93XTKTK",
+        "transaction_id": "MzI2MzQxNjMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8F2YYM9",
+        "transaction_id": "MzI0NTUwMzkwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X83MN789",
+        "transaction_id": "MzIzMjM1NzUyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 52,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Sourceups.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "APC",
+      "Riello",
+      "Eaton",
+      "Vertiv",
+      "SDMO",
+      "Uniflair",
+      "EcostruXure IT Software",
+      "Netbotz Environmental Monitoring"
+    ],
+    "business_keywords": [
+      "UPS specialist",
+      "data centre solutions",
+      "uninterruptible power supplies",
+      "UPS maintenance",
+      "data centre infrastructure",
+      "edge computing",
+      "power protection",
+      "cooling solutions",
+      "IT infrastructure",
+      "business continuity",
+      "rack power distribution",
+      "environmental monitoring",
+      "fire suppression systems",
+      "battery replacement",
+      "generator maintenance"
+    ],
+    "services": [
+      "Data Centre Services",
+      "UPS Maintenance",
+      "Cooling Maintenance",
+      "Generator Maintenance",
+      "Fire Suppression Maintenance",
+      "UPS Battery Replacement",
+      "Power & Cooling Upgrades",
+      "Comms Rooms solutions",
+      "Data Centres solutions",
+      "Edge Computing solutions"
+    ],
+    "customer_segments": [
+      "businesses and organisations of any size"
+    ],
+    "business_description": "Source UPS specialises in data centre infrastructure solutions, including edge computing, on-premise, and regional data centre applications. The company provides secure environments to protect and optimise IT infrastructure performance, ensuring business continuity through power, cooling, racks, monitoring, and management solutions. They work with leading manufacturers to deliver energy-efficient and cost-effective solutions for businesses of any size.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:39:28.326Z"
+  },
+  "scraped_at": "2026-01-10T06:39:21.101Z",
+  "updated_at": "2026-01-10T06:39:28.325Z",
+  "version": 1
+}

@@ -1,0 +1,466 @@
+{
+  "company_name": "YOUR CONSULTING LIMITED",
+  "company_number": "06240222",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-05-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "341 Rayners Lane, Pinner, Greater London, HA5 5EN, England",
+  "registered_address_structured": {
+    "address_line_1": "341 Rayners Lane",
+    "country": "England",
+    "locality": "Pinner",
+    "postal_code": "HA5 5EN",
+    "region": "Greater London"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "VECTIS 520 LIMITED",
+      "ceased_on": "2007-07-18",
+      "effective_from": "2007-05-08"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-11",
+    "last_made_up_to": "2025-03-28",
+    "next_made_up_to": "2026-03-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ARORA, Kashti",
+        "officer_role": "director",
+        "appointed_on": "2022-05-03",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Rayners Lane",
+          "country": "England",
+          "locality": "Pinner",
+          "postal_code": "HA5 5EN",
+          "premises": "341",
+          "region": "Greater London"
+        }
+      },
+      {
+        "name": "ARORA, Pankaj",
+        "officer_role": "director",
+        "appointed_on": "2007-07-12",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Burlington Road",
+          "locality": "Isleworth",
+          "postal_code": "TW7 4LU",
+          "premises": "27",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "O'CALLAGHAN, Anthony Patrick",
+        "officer_role": "director",
+        "appointed_on": "2021-08-20",
+        "resigned_on": "2023-02-23",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "2 New Road",
+          "address_line_2": "Brading",
+          "country": "England",
+          "locality": "Sandown",
+          "postal_code": "PO36 0DT",
+          "premises": "Arnold House",
+          "region": "Isle Of Wight"
+        }
+      },
+      {
+        "name": "GARBETTS CONSULTING LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2007-05-08",
+        "resigned_on": "2007-07-12",
+        "address": {
+          "address_line_1": "Arnold House",
+          "address_line_2": "2 New Road Brading",
+          "locality": "Sandown",
+          "postal_code": "PO36 0DT",
+          "region": "Isle Of Wight"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ARORA, Kashti",
+        "officer_role": "secretary",
+        "appointed_on": "2007-07-12",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Burlington Road",
+          "locality": "Isleworth",
+          "postal_code": "TW7 4LU",
+          "premises": "27",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "GARBETTS NOMINEES LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2007-05-08",
+        "resigned_on": "2007-07-12",
+        "address": {
+          "address_line_1": "Arnold House",
+          "address_line_2": "2 New Road Brading",
+          "locality": "Sandown",
+          "postal_code": "PO36 0DT",
+          "region": "Isle Of Wight"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Pankaj Arora",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Burlington Road",
+          "country": "England",
+          "locality": "Isleworth",
+          "postal_code": "TW7 4LU",
+          "premises": "27",
+          "region": "Middlesex"
+        }
+      },
+      {
+        "name": "Mrs Kashti Arora",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Burlington Road",
+          "address_line_2": "Isleworth",
+          "country": "United Kingdom",
+          "locality": "Isleworth",
+          "postal_code": "TW7 4LU",
+          "premises": "27",
+          "region": "Middlesex"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-06-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE3Z9ZGX",
+        "transaction_id": "MzQ2ODkxODk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE3Z9ZSJ",
+        "transaction_id": "MzQ2ODkxOTAzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE1KQ7NK",
+        "transaction_id": "MzQ2NDYwMTcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDZBBGOW",
+        "transaction_id": "MzQ2MDYwNjY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD690HOZ",
+        "transaction_id": "MzQyNjk5MjYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-05-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD3HI8PC",
+        "transaction_id": "MzQyMjQ0MDkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCISBAQW",
+        "transaction_id": "MzQwNTAwNzQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCA3L6N3",
+        "transaction_id": "MzM4OTk2NjA0NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-23",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBXZTRWX",
+        "transaction_id": "MzM3MDQ0Nzk3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBJEQCUO",
+        "transaction_id": "MzM2MzQ0MDMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBBXFZYW",
+        "transaction_id": "MzM1MDc3MTg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB3AUITT",
+        "transaction_id": "MzMzODI1NTg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAJHLIPN",
+        "transaction_id": "MzMyMzg2NTYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAC6LZQ9",
+        "transaction_id": "MzMxMjYwMzA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XABATADK",
+        "transaction_id": "MzMxMTMwNDg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9KEVOCR",
+        "transaction_id": "MzI4NjY1MjI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9G3LESP",
+        "transaction_id": "MzI4MTA2MzI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8K3OZO0",
+        "transaction_id": "MzI1MTg3NTc5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DM25JD",
+        "transaction_id": "MzI0MzgzNDYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X7JZU59K",
+        "transaction_id": "MzIyMTAyMzIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7CGN0UX",
+        "transaction_id": "MzIxMjI3NTIxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X6JMCTAY",
+        "transaction_id": "MzE5MDU0NTUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6E23P20",
+        "transaction_id": "MzE4NDM1NDUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-11-11",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X5JIR38O",
+        "transaction_id": "MzE2MTczNDk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-08-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5CRB6S0",
+        "transaction_id": "MzE1NDU2NjA4M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 57,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Yourconsult.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "SAP Intelligent Enterprise"
+    ],
+    "business_keywords": [
+      "SAP",
+      "consulting",
+      "digital transformation",
+      "data analytics",
+      "data visualisation",
+      "project management",
+      "PMO",
+      "change management",
+      "Intelligent Enterprise",
+      "robotics",
+      "artificial intelligence",
+      "internet of things",
+      "business productivity",
+      "cross-industry insight",
+      "SAP expertise"
+    ],
+    "services": [
+      "Data Analytics & Visualisation",
+      "Project Management & Delivery"
+    ],
+    "customer_segments": [],
+    "business_description": "Your Consulting Limited specializes in maximizing SAP investments through cross-industry insight and deep SAP expertise. The company delivers services in data analytics, visualization, and project management to drive sustainable business transformation, productivity, and digital infrastructure development.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T05:00:47.797Z"
+  },
+  "scraped_at": "2026-01-10T05:00:43.747Z",
+  "updated_at": "2026-01-10T05:00:47.797Z",
+  "version": 1
+}

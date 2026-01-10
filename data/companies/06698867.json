@@ -1,0 +1,606 @@
+{
+  "company_name": "INTEGRITY OFFICE LIMITED",
+  "company_number": "06698867",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-09-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 14 Montgomery Way, Rosehill Industrial Estate, Carlisle, Cumbria, CA1 2RW",
+  "registered_address_structured": {
+    "address_line_1": "Unit 14 Montgomery Way",
+    "address_line_2": "Rosehill Industrial Estate",
+    "locality": "Carlisle",
+    "postal_code": "CA1 2RW",
+    "region": "Cumbria"
+  },
+  "sic_codes": [
+    "61900",
+    "62020",
+    "62090",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-31",
+    "last_made_up_to": "2025-01-17",
+    "next_made_up_to": "2026-01-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BLACK, Edward John",
+        "officer_role": "director",
+        "appointed_on": "2020-11-26",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Montgomery Way",
+          "address_line_2": "Rosehill Industrial Estate",
+          "locality": "Carlisle",
+          "postal_code": "CA1 2RW",
+          "premises": "Unit 14",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "DALY, Donna",
+        "officer_role": "director",
+        "appointed_on": "2020-11-26",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Montgomery Way",
+          "address_line_2": "Rosehill Industrial Estate",
+          "locality": "Carlisle",
+          "postal_code": "CA1 2RW",
+          "premises": "Unit 14",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "JEFFERSON, Michael Christopher",
+        "officer_role": "director",
+        "appointed_on": "2020-11-26",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Montgomery Way",
+          "address_line_2": "Rosehill Industrial Estate",
+          "locality": "Carlisle",
+          "postal_code": "CA1 2RW",
+          "premises": "Unit 14",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "FISHER, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2008-09-16",
+        "resigned_on": "2020-11-26",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Standingstone Heights",
+          "locality": "Wigton",
+          "postal_code": "CA7 9DS",
+          "premises": "12",
+          "region": "Cumbria"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JEFFERSON, Michael Christopher",
+        "officer_role": "secretary",
+        "appointed_on": "2020-11-26",
+        "address": {
+          "address_line_1": "Montgomery Way",
+          "address_line_2": "Rosehill Industrial Estate",
+          "locality": "Carlisle",
+          "postal_code": "CA1 2RW",
+          "premises": "Unit 14",
+          "region": "Cumbria"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Eco-Genics Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-07-29",
+        "address": {
+          "address_line_1": "Annan Business Park Way",
+          "country": "Scotland",
+          "locality": "Annan",
+          "postal_code": "DG12 6TZ",
+          "premises": "6"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "Scotland",
+          "place_registered": "Scotland",
+          "registration_number": "Sc364707"
+        }
+      },
+      {
+        "name": "Eco It Services Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-11-26",
+        "ceased_on": "2022-07-29",
+        "address": {
+          "address_line_1": "Victoria Place",
+          "country": "United Kingdom",
+          "locality": "Carlisle",
+          "postal_code": "CA1 1HP",
+          "premises": "Fairview House",
+          "region": "Cumbria"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "England & Wales",
+          "country_registered": "England",
+          "place_registered": "Companies House Register Of Companies",
+          "registration_number": "12992168"
+        }
+      },
+      {
+        "name": "Mr Andrew Fisher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-07-31",
+        "ceased_on": "2020-11-26",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Standingstone Heights",
+          "country": "United Kingdom",
+          "locality": "Wigton",
+          "postal_code": "CA7 9DS",
+          "premises": "12",
+          "region": "Cumbria"
+        }
+      },
+      {
+        "name": "Michelle Fisher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-07-31",
+        "ceased_on": "2016-08-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Standingstone Heights",
+          "country": "United Kingdom",
+          "locality": "Wigton",
+          "postal_code": "CA7 9DS",
+          "premises": "12",
+          "region": "Cumbria"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-03-03",
+        "delivered_on": "2010-03-05",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hitachi Capital (UK) PLC T/as Hitachi Capital Invoice Finance"
+          }
+        ],
+        "satisfied_on": "2020-11-12",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Agreement"
+          }
+        ],
+        "created_on": "2009-12-18",
+        "delivered_on": "2009-12-24",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All book debts together with the benefit of all rights attached to such book debts see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hitachi Capital Invoice Finance"
+          }
+        ],
+        "satisfied_on": "2020-11-12",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2009-03-12",
+        "delivered_on": "2009-03-18",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit balance see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Zurich Assurance LTD"
+          }
+        ],
+        "satisfied_on": "2016-04-22",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£8,550 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2009-01-26",
+        "delivered_on": "2009-01-28",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Armstrong Watson Computer Solutions LLP"
+          }
+        ],
+        "satisfied_on": "2011-10-21",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2009-01-22",
+        "delivered_on": "2009-01-29",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-18",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XE72CW9F",
+        "transaction_id": "MzQ3NDMzMDAwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDV5SHHE",
+        "transaction_id": "MzQ1Mjg3MTQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-22",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "ADBGHA1N",
+        "transaction_id": "MzQzNjc3ODQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-22",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 44,
+        "barcode": "ADBGHA17",
+        "transaction_id": "MzQzNjc3ODQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-09-22",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 2,
+        "barcode": "ADBGHA1F",
+        "transaction_id": "MzQzNjc3ODQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-09-22",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ADBGHA0Z",
+        "transaction_id": "MzQzNjc3ODM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-09-05",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ADAJMNBT",
+        "transaction_id": "MzQzNDYwNTM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-09-05",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ADAJMNEH",
+        "transaction_id": "MzQzNDYwNTMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCUX1SW8",
+        "transaction_id": "MzQwNzg5ODU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC2FA31E",
+        "transaction_id": "MzM3Nzk5NjgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-27",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XBY02YRE",
+        "transaction_id": "MzM3MDY0NDg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBWSSQ1T",
+        "transaction_id": "MzM2ODM0NTI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XB9N2ZG3",
+        "transaction_id": "MzM0NzcyMTQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB9N2Y0Q",
+        "transaction_id": "MzM0NzcyMTE2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XB8YRBKI",
+        "transaction_id": "MzM0NjY3OTY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAVZFHOR",
+        "transaction_id": "MzMyNjk1NjA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-25",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAFTV140",
+        "transaction_id": "MzMxNzk5NTM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-01-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9X4AX40",
+        "transaction_id": "MzI4OTkxMjI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-26",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X9IMMSEA",
+        "transaction_id": "MzI4NDUwNjQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9IMMRYO",
+        "transaction_id": "MzI4NDUwNjM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9IMMQLB",
+        "transaction_id": "MzI4NDUwNjA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9IMMOS9",
+        "transaction_id": "MzI4NDUwNTcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9IMMOI6",
+        "transaction_id": "MzI4NDUwNTYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-11-26",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "X9IMMLS8",
+        "transaction_id": "MzI4NDUwNTA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-11-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X9IMMKAU",
+        "transaction_id": "MzI4NDUwNDY4MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 80,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 21
+  },
+  "enrichment": {
+    "website": "https://Integrityoffice.co.uk",
+    "headcount": 21,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T06:24:21.263Z",
+  "scraped_at": "2026-01-10T06:24:21.263Z"
+}

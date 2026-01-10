@@ -1,0 +1,503 @@
+{
+  "company_name": "INHOUSE IT SUPPORT LIMITED",
+  "company_number": "06230326",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-04-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "31 Southfields, East Molesey, KT8 0BP, England",
+  "registered_address_structured": {
+    "address_line_1": "31 Southfields",
+    "country": "England",
+    "locality": "East Molesey",
+    "postal_code": "KT8 0BP"
+  },
+  "sic_codes": [
+    "62020",
+    "62030"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-23",
+    "last_made_up_to": "2025-11-09",
+    "next_made_up_to": "2026-11-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WILLIAMS, Christopher David",
+        "officer_role": "director",
+        "appointed_on": "2022-06-29",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Southfields",
+          "country": "England",
+          "locality": "East Molesey",
+          "postal_code": "KT8 0BP",
+          "premises": "31"
+        }
+      },
+      {
+        "name": "WILLIAMS, Christopher David",
+        "officer_role": "director",
+        "appointed_on": "2007-04-27",
+        "resigned_on": "2022-06-29",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Alfred Road",
+          "country": "England",
+          "locality": "Kingston Upon Thames",
+          "postal_code": "KT1 2UA",
+          "premises": "30",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WILLIAMS, Robert Ian",
+        "officer_role": "secretary",
+        "appointed_on": "2007-04-27",
+        "resigned_on": "2022-06-29",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Alfred Road",
+          "country": "England",
+          "locality": "Kingston Upon Thames",
+          "postal_code": "KT1 2UA",
+          "premises": "30",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Caee Group Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-09-21",
+        "address": {
+          "address_line_1": "South Kilvington",
+          "country": "England",
+          "locality": "Thirsk",
+          "postal_code": "YO7 2NL",
+          "premises": "Old Rectory"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Register Of Companies",
+          "registration_number": "14205079"
+        }
+      },
+      {
+        "name": "Mr Christopher David Williams",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2022-09-21",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Alfred Road",
+          "country": "England",
+          "locality": "Kingston Upon Thames",
+          "postal_code": "KT1 2UA",
+          "premises": "30",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Deposit agreement to secure own liabilities"
+          }
+        ],
+        "created_on": "2009-01-21",
+        "delivered_on": "2009-01-23",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All such rights to the repayment of the deposit meaning the debt(s) on the account(s) described in the schedule being the account with the bank denominated in sterling designated ltsb re inhouse it support limited and numbered and any account(s) for the time being replacing the same and all interest owing in respect thereof and all deposits with the banks treasury division in the name of the bank re the company."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-07-01",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Deposit agreement to secure own liabilities"
+          }
+        ],
+        "created_on": "2008-10-28",
+        "delivered_on": "2008-10-30",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All such rights to the repayment of the deposit meaning the debt(s) on the account(s) described in the schedule being the account with the bank denominated in designated and numbered and any account(s) for the time being replacing the same and all interest owing in respect thereof and all deposits with the banks treasury division in the name of the bank re the company. Account numbered 3651391LN."
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Tsb Bank PLC"
+          }
+        ],
+        "satisfied_on": "2019-07-01",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEI1N3FC",
+        "transaction_id": "MzQ5NTk3MjEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGYJ4GR",
+        "transaction_id": "MzQ5Mjg2OTM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE8HSAU1",
+        "transaction_id": "MzQ3NjY2MjQ5MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE2H44EK",
+        "transaction_id": "MzQ2NTkxNjE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XE2EFHQA",
+        "transaction_id": "MzQ2NTc4NzkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XE2EFH89",
+        "transaction_id": "MzQ2NTc4Nzg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDINE8WI",
+        "transaction_id": "MzQ0ODg5MzE2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDI3QF6O",
+        "transaction_id": "MzQ0NzU4ODAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIVS1QJ",
+        "transaction_id": "MzQwNTQ0MzcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCFXNWMU",
+        "transaction_id": "MzM5OTQzOTk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC97R437",
+        "transaction_id": "MzM4ODcwMzg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBJX2HCP",
+        "transaction_id": "MzM2NDA0NjEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB76MB2A",
+        "transaction_id": "MzM0NDE5MDIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-29",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB76LIQP",
+        "transaction_id": "MzM0NDE4NDAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-29",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XB76LC4R",
+        "transaction_id": "MzM0NDE4MjYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-29",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB76LBND",
+        "transaction_id": "MzM0NDE4MjQyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-23",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XAJY262O",
+        "transaction_id": "MzMyNDYwOTQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAJY26IA",
+        "transaction_id": "MzMyNDYwOTU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAJKDF82",
+        "transaction_id": "MzMyMzk5MzExMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACZW0EY",
+        "transaction_id": "MzMxMzc2MTQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACZVYGO",
+        "transaction_id": "MzMxMzc2MDk2NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACZVYY2",
+        "transaction_id": "MzMxMzc2MDkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACZVY0Y",
+        "transaction_id": "MzMxMzc2MDc5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACZVY2A",
+        "transaction_id": "MzMxMzc2MDc2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA95CMWW",
+        "transaction_id": "MzMwODE1MDA2OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 59,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Inhous.com",
+    "headcount": 6,
+    "tech_stack": [],
+    "business_keywords": [
+      "residential property consultancy",
+      "property buying",
+      "property selling",
+      "property letting",
+      "high-net-worth individuals",
+      "private clients",
+      "corporate clients",
+      "sports clients",
+      "entertainment clients",
+      "property market",
+      "dedicated property consultant",
+      "tailored property solutions",
+      "unbiased property advice",
+      "discretion",
+      "anonymity",
+      "property negotiations",
+      "property viewings",
+      "off-market property sales",
+      "relocation services"
+    ],
+    "services": [
+      "dedicated property consultant service",
+      "tailored property solutions",
+      "property buying",
+      "property selling",
+      "property letting",
+      "specialist property advice",
+      "property market navigation",
+      "property viewings coordination",
+      "negotiations handling",
+      "staging assistance",
+      "legal assistance for property transactions",
+      "off-market property sales",
+      "relocation support for individuals",
+      "corporate relocation services",
+      "rental property search",
+      "rental furniture arrangement",
+      "property feedback and valuation"
+    ],
+    "customer_segments": [
+      "high-net-worth individuals",
+      "private clients",
+      "corporate clients",
+      "companies referring clients",
+      "sports professionals",
+      "media professionals",
+      "entertainment professionals",
+      "first-time property buyers",
+      "international clients",
+      "clients relocating to London",
+      "clients buying/selling property abroad"
+    ],
+    "business_description": "INHOUSE is an independent residential property consultancy specializing in helping high-net-worth individuals globally buy, sell, and let exceptional property. The company provides dedicated property consultants to deliver tailored solutions, unbiased advice, and exceptional service to private, corporate, sports, and entertainment clients. INHOUSE emphasizes discretion, anonymity, and a deep understanding of clients' unique needs in the property market.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T04:59:45.749Z"
+  },
+  "scraped_at": "2026-01-10T04:59:38.193Z",
+  "updated_at": "2026-01-10T04:59:45.748Z",
+  "version": 1
+}

@@ -1,0 +1,492 @@
+{
+  "company_name": "YOURCAD LIMITED",
+  "company_number": "06480323",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-01-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "12 Skipton Road, Earby, Barnoldswick, BB18 6PX, England",
+  "registered_address_structured": {
+    "address_line_1": "12 Skipton Road",
+    "address_line_2": "Earby",
+    "country": "England",
+    "locality": "Barnoldswick",
+    "postal_code": "BB18 6PX"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MICAD LIMITED",
+      "ceased_on": "2010-11-02",
+      "effective_from": "2008-01-22"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-05",
+    "last_made_up_to": "2025-01-22",
+    "next_made_up_to": "2026-01-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CUNLIFFE, Lucy Rebecca",
+        "officer_role": "director",
+        "appointed_on": "2022-07-20",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Skipton Road",
+          "address_line_2": "Earby",
+          "country": "England",
+          "locality": "Barnoldswick",
+          "postal_code": "BB18 6PX",
+          "premises": "12"
+        }
+      },
+      {
+        "name": "CUNLIFFE, Matthew Ian",
+        "officer_role": "director",
+        "appointed_on": "2008-01-22",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Skipton Road",
+          "address_line_2": "Earby",
+          "country": "England",
+          "locality": "Barnoldswick",
+          "postal_code": "BB18 6PX",
+          "premises": "12"
+        }
+      },
+      {
+        "name": "KEATINGS, Benjamin Charles",
+        "officer_role": "director",
+        "appointed_on": "2012-08-13",
+        "resigned_on": "2023-02-27",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Victoria Road",
+          "address_line_2": "Earby",
+          "country": "England",
+          "locality": "Barnoldswick",
+          "postal_code": "BB18 6US",
+          "premises": "8",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "MACNEALL, David",
+        "officer_role": "director",
+        "appointed_on": "2020-10-01",
+        "resigned_on": "2023-10-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1986,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Skipton Road",
+          "address_line_2": "Earby",
+          "country": "England",
+          "locality": "Barnoldswick",
+          "postal_code": "BB18 6PX",
+          "premises": "12"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CUNLIFFE, Lucy Rebecca",
+        "officer_role": "secretary",
+        "appointed_on": "2008-01-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Skipton Road",
+          "address_line_2": "Earby",
+          "country": "England",
+          "locality": "Barnoldswick",
+          "postal_code": "BB18 6PX",
+          "premises": "12"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Matthew Ian Cunliffe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Skipton Road",
+          "address_line_2": "Earby",
+          "country": "England",
+          "locality": "Barnoldswick",
+          "postal_code": "BB18 6PX",
+          "premises": "12"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "064803230001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-10-06",
+        "delivered_on": "2014-10-09",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "resolution",
+        "date": "2025-10-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "AEDBJ5ZF",
+        "transaction_id": "QUVEQko1WkZhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-10-20",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "AEDBJ5WG",
+        "transaction_id": "MzQ4NTUyMTY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-10-20",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AEDBJ5ZV",
+        "transaction_id": "MzQ4NTUyMTY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-10-20",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "AEDBJ5ZN",
+        "transaction_id": "MzQ4NTUyMTYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE9TWVYJ",
+        "transaction_id": "MzQ3ODc5NzQzMmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-02-28",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "ADX4WA03",
+        "transaction_id": "QURYNFdBMDNhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-02-28",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "ADX4WA0J",
+        "transaction_id": "QURYNFdBMEphZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-28",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "ADX4WA0B",
+        "transaction_id": "MzQ1NjcxNjgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-28",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "ADX4WA17",
+        "transaction_id": "MzQ1NjcxNjgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-28",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADX4WA0Z",
+        "transaction_id": "MzQ1NjcxNjgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-02-28",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADX4WA0R",
+        "transaction_id": "MzQ1NjcxNjgyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDVDXFO8",
+        "transaction_id": "MzQ1MzI5MDEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDC0C3UH",
+        "transaction_id": "MzQzNjU1NDI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVWEGCY",
+        "transaction_id": "MzQwOTU1MzkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCGGG00Q",
+        "transaction_id": "MzQwMDY1OTk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCGDUQKZ",
+        "transaction_id": "MzQwMDQ0Mjg5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XC9I6EZC",
+        "transaction_id": "MzM4ODk0Mjc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-03",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBYJ0O76",
+        "transaction_id": "MzM3MTQ2NjQ2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBWSTO3S",
+        "transaction_id": "MzM2ODM1NDU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XB99MDMY",
+        "transaction_id": "MzM0NzIzMTU0MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB8O3WK0",
+        "transaction_id": "MzM0NjIyNzg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWYKBWY",
+        "transaction_id": "MzMyODYyMjQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA9LD35E",
+        "transaction_id": "MzMwODg3NjI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X9ZI2YSR",
+        "transaction_id": "MzI5MzEzNjY4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-10-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9ERPZCX",
+        "transaction_id": "MzI3OTM2ODE0NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 74,
+    "recent_filings_count": 12
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Yourcad.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "Point Cloud survey",
+      "photogrammetry"
+    ],
+    "business_keywords": [
+      "Computer Aided Design",
+      "CAD",
+      "Building Information Modelling",
+      "BIM",
+      "architectural design",
+      "mechanical design",
+      "electrical design",
+      "plumbing design",
+      "MEP design",
+      "3D modelling",
+      "digital construction support",
+      "manufacturing design",
+      "photorealistic imagery",
+      "Point Cloud survey",
+      "photogrammetry",
+      "digital twins",
+      "sheet metal products",
+      "solar impact study",
+      "space planning",
+      "steel canopy design"
+    ],
+    "services": [
+      "BIM and CAD services",
+      "Creation of data-rich digital twins for construction projects, products, and MEP services",
+      "Manufacturing engineering for products, architectural, and street furniture design",
+      "High-quality photorealistic imagery and drawings",
+      "Digitalisation of dated MEP systems using Point Cloud survey and photogrammetry",
+      "3D models for optimising production and minimising wastage",
+      "Solar impact studies to assess sun shadows",
+      "MEP modelling solutions for new builds and refurbishments",
+      "3D modelling and BIM support for concept products, manufacturing, assembly, and sales drawings",
+      "Architectural design for residential extensions and enhancements",
+      "MEP modelling for healthcare facilities",
+      "Design of architectural steel structures",
+      "Industrial racking and space planning using 3D drawings",
+      "Full MEP modelling for office developments"
+    ],
+    "customer_segments": [
+      "architectural firms",
+      "manufacturing companies",
+      "engineering services",
+      "local councils",
+      "schools",
+      "healthcare practices",
+      "residential homeowners",
+      "distribution warehouses",
+      "office developers",
+      "humanitarian NGOs"
+    ],
+    "business_description": "YourCAD Limited provides a comprehensive range of cutting-edge design services using Computer Aided Design (CAD) and Building Information Modelling (BIM). The company supports architectural, mechanical, electrical, and plumbing design and modelling needs, offering digital construction support and manufacturing design to bring ideas to reality. Their experienced in-house team delivers high-quality, data-rich solutions for various sectors.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T05:44:31.076Z"
+  },
+  "scraped_at": "2026-01-10T05:44:21.265Z",
+  "updated_at": "2026-01-10T05:44:31.076Z",
+  "version": 1
+}

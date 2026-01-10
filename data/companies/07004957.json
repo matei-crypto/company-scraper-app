@@ -1,0 +1,531 @@
+{
+  "company_name": "GREENWOOD CAMPBELL LTD",
+  "company_number": "07004957",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-08-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "18 Albert Road, Bournemouth, BH1 1BZ, England",
+  "registered_address_structured": {
+    "address_line_1": "18 Albert Road",
+    "country": "England",
+    "locality": "Bournemouth",
+    "postal_code": "BH1 1BZ"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "IADIGITAL LTD",
+      "ceased_on": "2015-09-23",
+      "effective_from": "2009-08-29"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-12",
+    "last_made_up_to": "2025-06-28",
+    "next_made_up_to": "2026-06-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DAVIES, Marshall",
+        "officer_role": "director",
+        "appointed_on": "2025-04-17",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Albert Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH1 1BZ",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "CAMPBELL, Ian Robert",
+        "officer_role": "director",
+        "appointed_on": "2009-08-29",
+        "resigned_on": "2019-05-08",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Albert Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH1 1BZ",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "GREENWOOD, Adam Lovell",
+        "officer_role": "director",
+        "appointed_on": "2009-08-29",
+        "resigned_on": "2025-04-17",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Albert Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH1 1BZ",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "GREENWOOD, Gemma",
+        "officer_role": "director",
+        "appointed_on": "2022-01-31",
+        "resigned_on": "2025-04-17",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Albert Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH1 1BZ",
+          "premises": "18"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ian Robert Campbell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-08-29",
+        "ceased_on": "2019-03-05",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Albert Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH1 1BZ",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "Mr Adam Lovell Greenwood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-08-29",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Albert Road",
+          "country": "England",
+          "locality": "Bournemouth",
+          "postal_code": "BH1 1BZ",
+          "premises": "18"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "070049570003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-04-17",
+        "delivered_on": "2025-04-25",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Adam Greenwood"
+          },
+          {
+            "name": "Marshall Davies"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "070049570002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-03-17",
+        "delivered_on": "2020-03-19",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Marketfinance Limited"
+          }
+        ],
+        "satisfied_on": "2020-11-23",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "070049570001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-04-13",
+        "delivered_on": "2016-04-14",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XE98CS2Z",
+        "transaction_id": "MzQ3NzU5MzE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5S1INC",
+        "transaction_id": "MzQ3MTkxMTk3NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-04-25",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 10,
+        "barcode": "XE17AH37",
+        "transaction_id": "MzQ2NDAwMjA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE0OLDYP",
+        "transaction_id": "MzQ2MzEwOTYxNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-17",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE0OLDMW",
+        "transaction_id": "MzQ2MzEwOTU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-17",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE0OLDS1",
+        "transaction_id": "MzQ2MzEwOTU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XD75SN5L",
+        "transaction_id": "MzQyODUwMTcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-12",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD75SGRS",
+        "transaction_id": "MzQyODUwMDE5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD702CWZ",
+        "transaction_id": "MzQyODA2OTM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XCIPEUR5",
+        "transaction_id": "MzQwNDc3NDg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7PVM9N",
+        "transaction_id": "MzM4NjM0ODUwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XC3U4L21",
+        "transaction_id": "MzM4MDE5NjYyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB82P394",
+        "transaction_id": "MzM0NTM3MDc1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XB4SA4B4",
+        "transaction_id": "MzM0MDQ0MjcwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-02-25",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAYIO1WZ",
+        "transaction_id": "MzMzMDkzNzQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7KWKZN",
+        "transaction_id": "MzMwNTg2NTU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-11-23",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X9IEEP0I",
+        "transaction_id": "MzI4NDEyMTY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9EM5XN7",
+        "transaction_id": "MzI3OTA0NjgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-07-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X98DFZ3S",
+        "transaction_id": "MzI3MjEyOTkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-03-19",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 36,
+        "barcode": "X915V8FY",
+        "transaction_id": "MzI2MDI5NTE5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-01-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8X92WZD",
+        "transaction_id": "MzI1NTM3ODI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8I9CHHS",
+        "transaction_id": "MzI0OTQxMTQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X88JXIT8",
+        "transaction_id": "MzIzODExMzI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-05-20",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X85WCQ0Z",
+        "transaction_id": "MzIzNDc4NDQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-05-20",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X85WCI0Z",
+        "transaction_id": "MzIzNDc4Mjc0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 58,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Greenwoodcampbell.com",
+    "headcount": 7,
+    "tech_stack": [
+      "Google Ads"
+    ],
+    "business_keywords": [
+      "digital agency",
+      "technology agency",
+      "human tech agency",
+      "website development",
+      "web app development",
+      "digital marketing",
+      "user experience",
+      "UX",
+      "digital platform creation",
+      "website support",
+      "website hosting",
+      "digital strategy",
+      "search engine optimisation",
+      "SEO",
+      "paid search",
+      "PPC advertising",
+      "data-driven insights",
+      "content management systems"
+    ],
+    "services": [
+      "Digital Platform Creation",
+      "Website Development",
+      "Website Support & Hosting",
+      "Digital Strategy",
+      "Search Engine Optimisation (SEO)",
+      "Paid Search (PPC advertising)"
+    ],
+    "customer_segments": [
+      "businesses looking to enhance online presence",
+      "businesses needing custom website development",
+      "businesses seeking digital marketing solutions",
+      "organisations focused on improving user experience",
+      "clients requiring website maintenance and hosting",
+      "clients needing data-driven digital strategies"
+    ],
+    "business_description": "Greenwood Campbell Ltd is a multi award-winning digital and technology agency based in Bournemouth, specialising in creating innovative website and web app development solutions. They combine empathy, research, and data-driven insights to deliver user-centric digital experiences and digital marketing strategies. Their purpose is to improve people's lives through advanced technology and creative solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:26:57.275Z"
+  },
+  "scraped_at": "2026-01-10T07:26:51.141Z",
+  "updated_at": "2026-01-10T07:26:57.275Z",
+  "version": 1
+}

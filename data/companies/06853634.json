@@ -1,0 +1,439 @@
+{
+  "company_name": "SELL BOOKS LIMITED",
+  "company_number": "06853634",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-03-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "105 Eade Road, Oriental Carpet Centre - Vale Road Studios, London, N4 1TJ, England",
+  "registered_address_structured": {
+    "address_line_1": "105 Eade Road",
+    "address_line_2": "Oriental Carpet Centre - Vale Road Studios",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N4 1TJ"
+  },
+  "sic_codes": [
+    "47610",
+    "47910",
+    "62090",
+    "63990"
+  ],
+  "previous_company_names": [
+    {
+      "name": "STRATEGIC INVESTMENT LIMITED",
+      "ceased_on": "2020-08-21",
+      "effective_from": "2009-03-20"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-14",
+    "last_made_up_to": "2025-01-31",
+    "next_made_up_to": "2026-01-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SPURR, Sean",
+        "officer_role": "director",
+        "appointed_on": "2009-03-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Gibson Gardens",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N16 7HD",
+          "premises": "67"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SPURR, Sean",
+        "officer_role": "secretary",
+        "appointed_on": "2009-03-20",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Gibson Gardens",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N16 7HD",
+          "premises": "67"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Sean Spurr",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Eade Road",
+          "address_line_2": "Oriental Carpet Centre - Vale Road Studios",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N4 1TJ",
+          "premises": "105"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068536340001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-10-07",
+        "delivered_on": "2020-10-08",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEIF3M1T",
+        "transaction_id": "MzQ5NjYzMzc5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDVE074A",
+        "transaction_id": "MzQ1MzMxMzIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVDZPYB",
+        "transaction_id": "MzQ1MzMwOTI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCW6YH34",
+        "transaction_id": "MzQwOTg2NzM4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCJBBIG0",
+        "transaction_id": "MzQwNTg0MjAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXBKNGI",
+        "transaction_id": "MzM2OTI3NzE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XB5GI2E2",
+        "transaction_id": "MzM0MTQ3NjQ4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB3O3ECP",
+        "transaction_id": "MzMzODczMTQ1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAX3YNHC",
+        "transaction_id": "MzMyODg2Mjg2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XAKJ9K17",
+        "transaction_id": "MzMyNTQxOTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA0U5JPV",
+        "transaction_id": "MzI5NTA1NTQyNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-10-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9F7VNI8",
+        "transaction_id": "MzI4MDAzODQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X9DAHS9E",
+        "transaction_id": "MzI3NzM1MzE1N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-08-21",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X9BTQD5M",
+        "transaction_id": "MzI3NTg2NzA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-20",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X9BTQDNS",
+        "transaction_id": "MzI3NTc5NzQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-08-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9BTQDEZ",
+        "transaction_id": "MzI3NTc5NzQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-07-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X98IT8R7",
+        "transaction_id": "MzI3MjMxMTcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X921MTIY",
+        "transaction_id": "MzI2MTQ5MzIzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X88X655T",
+        "transaction_id": "MzIzODUwOTI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X81MKP2J",
+        "transaction_id": "MzIyOTc4MDA2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X7LP27B4",
+        "transaction_id": "MzIyMzEzODQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X72RX3YY",
+        "transaction_id": "MzIwMTM5NDUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X6XWDRHK",
+        "transaction_id": "MzE5NTU3ODE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-01-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6X85DAX",
+        "transaction_id": "MzE5NDcyNjM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-03-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X62ZE3KO",
+        "transaction_id": "MzE3MTk4MzUyNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 45,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Sibni.org",
+    "headcount": 15,
+    "tech_stack": [
+      "space technology"
+    ],
+    "business_keywords": [
+      "infrastructure projects",
+      "investment planning",
+      "investment delivery",
+      "Investment Strategy for Northern Ireland (ISNI)",
+      "reform championing",
+      "major programmes",
+      "major projects",
+      "public sector support",
+      "contracts",
+      "procurement",
+      "negotiation",
+      "business case development",
+      "evaluation",
+      "delivery",
+      "physical infrastructure",
+      "digital infrastructure",
+      "social infrastructure",
+      "environmental initiatives",
+      "education projects",
+      "planning processes",
+      "cost overruns",
+      "capital projects",
+      "economic research",
+      "climate action",
+      "space technology"
+    ],
+    "services": [
+      "Expert support on investment planning and delivery",
+      "Creation of Investment Strategy for Northern Ireland (ISNI)",
+      "Championing reform for transformation projects",
+      "Support for major programmes and projects across physical, digital, and social infrastructure and environmental initiatives",
+      "Advisory on contracts and procurement",
+      "Advisory on negotiation",
+      "Business case development",
+      "Evaluation of projects",
+      "Delivery of infrastructure projects",
+      "Analysis of root causes of delays and cost overruns in major capital projects",
+      "Economics intern programme"
+    ],
+    "customer_segments": [
+      "Government in Northern Ireland",
+      "Councils",
+      "Stakeholders",
+      "Public sector",
+      "Controlled, maintained, and voluntary school sectors"
+    ],
+    "business_description": "The Strategic Investment Board (SIB) helps government in Northern Ireland deliver infrastructure projects on time and on budget. It works with government, councils, and stakeholders to provide expert support on investment planning, delivery, and reform, focusing on major programmes and projects across physical, digital, social infrastructure, and environmental initiatives. SIB also advises the public sector on complex issues like contracts, procurement, and business case development.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:56:14.415Z"
+  },
+  "scraped_at": "2026-01-10T06:56:05.352Z",
+  "updated_at": "2026-01-10T06:56:14.415Z",
+  "version": 1
+}

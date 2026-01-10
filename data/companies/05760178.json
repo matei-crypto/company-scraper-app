@@ -1,0 +1,475 @@
+{
+  "company_name": "AFFINITY IT SERVICES LIMITED",
+  "company_number": "05760178",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-03-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 24 President Buildings, Savile Street East, Sheffield, South Yorkshire, S4 7UQ, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 24 President Buildings",
+    "address_line_2": "Savile Street East",
+    "country": "England",
+    "locality": "Sheffield",
+    "postal_code": "S4 7UQ",
+    "region": "South Yorkshire"
+  },
+  "sic_codes": [
+    "61100",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-11",
+    "last_made_up_to": "2025-03-28",
+    "next_made_up_to": "2026-03-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BEAUMONT, Colin Mortimer",
+        "officer_role": "director",
+        "appointed_on": "2006-03-28",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Savile Street East",
+          "country": "England",
+          "locality": "Sheffield",
+          "postal_code": "S4 7UQ",
+          "premises": "Unit 24 President Buildings",
+          "region": "South Yorkshire"
+        }
+      },
+      {
+        "name": "BEAUMONT, Stanley",
+        "officer_role": "director",
+        "appointed_on": "2006-03-28",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "22 Templar Close",
+          "locality": "Stenson Fields",
+          "postal_code": "DE24 3EL",
+          "region": "South Derbyshire"
+        }
+      },
+      {
+        "name": "GRAY, Richard Sean",
+        "officer_role": "director",
+        "appointed_on": "2006-03-28",
+        "resigned_on": "2008-11-21",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "10 Huntingdon Road, Intake",
+          "locality": "Doncaster",
+          "postal_code": "DN2 6HP",
+          "region": "South Yorkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BEAUMONT, Colin Mortimer",
+        "officer_role": "secretary",
+        "appointed_on": "2006-03-28",
+        "resigned_on": "2015-09-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Aizlewoods Mill",
+          "address_line_2": "Nursery Street",
+          "locality": "Sheffield",
+          "postal_code": "S3 8GG",
+          "premises": "Unit 29",
+          "region": "South Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Colin Mortimer Beaumont",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Savile Street East",
+          "country": "England",
+          "locality": "Sheffield",
+          "postal_code": "S4 7UQ",
+          "premises": "Unit 24 President Buildings",
+          "region": "South Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "057601780002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-04-20",
+        "delivered_on": "2018-04-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2013-02-05",
+        "delivered_on": "2013-02-06",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "satisfied_on": "2018-07-16",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEAQJVY3",
+        "transaction_id": "MzQ4MDI3ODE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE05OURS",
+        "transaction_id": "MzQ2MjE0ODI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDH7CT7M",
+        "transaction_id": "MzQ0NTkzNDE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZT8ODC",
+        "transaction_id": "MzQxNjQxMjQ4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCECJMEP",
+        "transaction_id": "MzM5NjgyODA2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC08T7GB",
+        "transaction_id": "MzM3NDI3MDA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBCODYQQ",
+        "transaction_id": "MzM1MjA5NDA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB0R984G",
+        "transaction_id": "MzMzNDI4Mjg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAHZTAOW",
+        "transaction_id": "MzMyMTM2NDk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1G8MDT",
+        "transaction_id": "MzI5NjM5OTA4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9K16QMW",
+        "transaction_id": "MzI4NjE0MDcwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X92K158Y",
+        "transaction_id": "MzI2MjAyOTI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8KHB6UB",
+        "transaction_id": "MzI1MjM4MjU2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X831GKO0",
+        "transaction_id": "MzIzMTY1NjMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X7ITINPV",
+        "transaction_id": "MzIxOTYxNjAyNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-07-16",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "X7ABSIY1",
+        "transaction_id": "MzIwOTc4Mzg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-04-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 9,
+        "barcode": "X74G7FMI",
+        "transaction_id": "MzIwMzIwMzczNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X733LHRD",
+        "transaction_id": "MzIwMTYzOTg0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X69H99YG",
+        "transaction_id": "MzE3OTA2Mjg0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X645NJ76",
+        "transaction_id": "MzE3MzM0NjA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X5MAONU8",
+        "transaction_id": "MzE2NDk5NTgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-04-22",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X55H7WE3",
+        "transaction_id": "MzE0Njk1MzM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-01-11",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "A4NDP7D7",
+        "transaction_id": "MzEzOTIyMTU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2015-11-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X4L8OVVC",
+        "transaction_id": "MzEzNjMxNzMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2015-09-11",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X4FQ6UGJ",
+        "transaction_id": "MzEzMDgwMzg0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 60,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Affinityit.co.uk",
+    "headcount": 15,
+    "tech_stack": [
+      "NAPIT certified electrical services"
+    ],
+    "business_keywords": [
+      "IT Support",
+      "IT Services",
+      "Telecoms",
+      "Electrical Services",
+      "Managed Services",
+      "Remote Working",
+      "Hosted VOIP",
+      "On Premise Telephony Servers",
+      "NAPIT Certified",
+      "Business IT Solutions",
+      "Small to Medium Sized Enterprises",
+      "Commercial Electrical Contractor",
+      "Industrial Electrical Contractor",
+      "IT Systems",
+      "Technology Solutions"
+    ],
+    "services": [
+      "IT Support",
+      "IT Services and Solutions",
+      "Telecoms Services",
+      "Electrical Services",
+      "Managed Services",
+      "Free Remote Working Review",
+      "Hosted VOIP",
+      "On Premise Telephony Servers"
+    ],
+    "customer_segments": [
+      "Small to Medium Sized Enterprises",
+      "Businesses",
+      "Commercial Clients",
+      "Industrial Clients",
+      "Charities"
+    ],
+    "business_description": "Affinity IT Services Limited, based in Sheffield, provides IT support, telecoms, electrical services, and managed services to businesses. They offer real-world technology solutions and products aimed predominantly at small to medium-sized enterprises, ensuring IT systems empower business goals. Their services include IT support, hosted VOIP, on-premise telephony servers, and NAPIT certified electrical contracting.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 22,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T03:48:54.216Z"
+  },
+  "scraped_at": "2026-01-10T03:48:47.638Z",
+  "updated_at": "2026-01-10T03:48:54.216Z",
+  "version": 1
+}

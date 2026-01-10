@@ -1,0 +1,462 @@
+{
+  "company_name": "SAADIAN TECHNOLOGIES UK LIMITED",
+  "company_number": "07180876",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-03-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "118 Pall Mall St. James's, London, SW1Y 5ED, England",
+  "registered_address_structured": {
+    "address_line_1": "118 Pall Mall St. James's",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW1Y 5ED"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "audited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-14",
+    "last_made_up_to": "2025-09-30",
+    "next_made_up_to": "2026-09-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KOUMARIANOS, Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2014-03-11",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1943,
+        "nationality": "British",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "Clanwilliam Square",
+          "care_of": "Saadian Technologies",
+          "country": "Ireland",
+          "locality": "Dublin 2",
+          "premises": "14"
+        }
+      },
+      {
+        "name": "MCGUIRK, Cliodhna",
+        "officer_role": "director",
+        "appointed_on": "2010-03-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "14 Clanwilliam Square",
+          "country": "Ireland",
+          "locality": "Dublin 2"
+        }
+      },
+      {
+        "name": "LISTER, Derek",
+        "officer_role": "director",
+        "appointed_on": "2010-03-06",
+        "resigned_on": "2014-03-11",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "14 Clanwilliam Square",
+          "country": "Ireland",
+          "locality": "Dublin 2"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Cliodhna Mcguirk",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2023-08-09",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1976,
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "St. James's",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1Y 5ED",
+          "premises": "118 Pall Mall"
+        }
+      },
+      {
+        "name": "Mr Philip Sykes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2023-08-09",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "St. James's",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1Y 5ED",
+          "premises": "118 Pall Mall"
+        }
+      },
+      {
+        "name": "Saadian Technologies Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-12-14",
+        "address": {
+          "address_line_1": "Clanwilliam Square",
+          "address_line_2": "Grand Canal Quay",
+          "country": "Ireland",
+          "locality": "Dublin 2",
+          "premises": "14"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Share",
+          "legal_authority": "Companies Act 2014",
+          "country_registered": "Ireland",
+          "place_registered": "Companies Registration Office Ireland",
+          "registration_number": "330243"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "071808760001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-19",
+        "delivered_on": "2020-06-23",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEC6N381",
+        "transaction_id": "MzQ4MzI4NDgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-22",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XEBMWF0A",
+        "transaction_id": "MzQ4MjE0MDE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-23",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDECDV14",
+        "transaction_id": "MzQ0MDY4NjI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDTA60R",
+        "transaction_id": "MzQzOTU0NzM2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-10",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDDG1WSW",
+        "transaction_id": "MzQzOTA1ODM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-10-10",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XDDG1SOB",
+        "transaction_id": "MzQzOTA1NzM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-03",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "ACF45KY2",
+        "transaction_id": "MzM5ODc1ODQ3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDLVEFZ",
+        "transaction_id": "MzM5NTUxNjE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-17",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "ABGW8RNL",
+        "transaction_id": "MzM1ODgwNTgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEMD0R6",
+        "transaction_id": "MzM1NTIxNTEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-10",
+        "description": "accounts-amended-with-made-up-date",
+        "type": "AAMD",
+        "pages": 13,
+        "barcode": "AB5LRC7T",
+        "transaction_id": "MzM0MTY4OTE1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAVWL409",
+        "transaction_id": "MzMyNjgxMTU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJHI51S",
+        "transaction_id": "MzMyMzgzNjY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-06",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "AAE4R0ZT",
+        "transaction_id": "MzMxNTg4ODIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA9QRUMO",
+        "transaction_id": "MzMwOTE0ODg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-06",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "A9KG024X",
+        "transaction_id": "MzI4NzUzNzM3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9G6GEHM",
+        "transaction_id": "MzI4MTM2MDI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 45,
+        "barcode": "X97S12QZ",
+        "transaction_id": "MzI2ODAyNzg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8FTWLLN",
+        "transaction_id": "MzI0NjU5Mzk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A8EW4JOJ",
+        "transaction_id": "MzI0NTgxMTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7L9MKHU",
+        "transaction_id": "MzIyMjgwNjU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-20",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "A7EPBEEZ",
+        "transaction_id": "MzIxNDg2NzU0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6L8UOZH",
+        "transaction_id": "MzE5Mjg2MTM4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-11-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "A6I0K45U",
+        "transaction_id": "MzE4OTIyMzk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5LULD4W",
+        "transaction_id": "MzE2NDM5NTMzMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 45,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "ebitda": 84142,
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Saadian.com",
+    "headcount": 7,
+    "tech_stack": [],
+    "business_keywords": [
+      "jail intelligence",
+      "jail intelligence technology",
+      "law enforcement solutions",
+      "corrections facilities",
+      "public safety",
+      "crime prevention",
+      "offender data",
+      "data-driven insights",
+      "jail data",
+      "actionable intelligence",
+      "corrections technology",
+      "law enforcement technology",
+      "PINS",
+      "safer corrections",
+      "agency results"
+    ],
+    "services": [
+      "jail intelligence technology",
+      "actionable intelligence for law enforcement and corrections",
+      "data-driven insights for safer corrections",
+      "jail data utilization"
+    ],
+    "customer_segments": [
+      "law enforcement",
+      "corrections facilities",
+      "agencies"
+    ],
+    "business_description": "Saadian Technologies provides jail intelligence technology designed to help law enforcement and corrections facilities enhance public safety, prevent crime, and make informed decisions using offender data and actionable intelligence. Their solutions focus on unlocking the power of jail data to drive safer outcomes for agencies.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:02:38.849Z"
+  },
+  "scraped_at": "2026-01-10T08:02:32.169Z",
+  "updated_at": "2026-01-10T08:02:38.849Z",
+  "version": 1
+}

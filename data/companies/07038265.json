@@ -1,0 +1,510 @@
+{
+  "company_name": "SUSTAINWARE LIMITED",
+  "company_number": "07038265",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-10-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "Warnford Court, 29, Throgmorton Street, London, EC2N 2AT, England",
+  "registered_address_structured": {
+    "address_line_1": "Warnford Court",
+    "address_line_2": "29, Throgmorton Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2N 2AT"
+  },
+  "sic_codes": [
+    "58290",
+    "62090",
+    "74909"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-02",
+    "last_made_up_to": "2025-05-19",
+    "next_made_up_to": "2026-05-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DURAS, Mirela",
+        "officer_role": "director",
+        "appointed_on": "2025-11-24",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1974,
+        "nationality": "British,Croatian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "29, Throgmorton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2N 2AT",
+          "premises": "Warnford Court"
+        }
+      },
+      {
+        "name": "FISHER, Steven Jon",
+        "officer_role": "director",
+        "appointed_on": "2025-11-24",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "29, Throgmorton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2N 2AT",
+          "premises": "Warnford Court"
+        }
+      },
+      {
+        "name": "BENJAMIN, Rosalind Pearl",
+        "officer_role": "director",
+        "appointed_on": "2009-10-12",
+        "resigned_on": "2025-11-24",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "29, Throgmorton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2N 2AT",
+          "premises": "Warnford Court"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BENJAMIN, Rosalind Pearl",
+        "officer_role": "secretary",
+        "appointed_on": "2009-10-12",
+        "resigned_on": "2018-04-27",
+        "address": {
+          "address_line_1": "Basinghall Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2V 5BR",
+          "premises": "15"
+        }
+      },
+      {
+        "name": "HARAN, Abigail",
+        "officer_role": "secretary",
+        "appointed_on": "2018-04-27",
+        "resigned_on": "2020-03-10",
+        "address": {
+          "address_line_1": "Basinghall Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2V 5BR",
+          "premises": "15"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Helix International Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-10-12",
+        "address": {
+          "address_line_1": "Throgmorton Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2N 2AT",
+          "premises": "Warnford Court"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "England And Wales",
+          "registration_number": "06713486"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "070382650002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-07-31",
+        "delivered_on": "2023-08-04",
+        "particulars": {
+          "type": "brief-description",
+          "description": "The chargor charges by way of first fixed charge its intellectual property as defined in the charge.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC"
+          }
+        ],
+        "satisfied_on": "2025-12-09",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2012-04-24",
+        "delivered_on": "2012-04-26",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "satisfied_on": "2023-08-01",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-12-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEHCDXT4",
+        "transaction_id": "MzQ5Mzk0NzI2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEHCDXRK",
+        "transaction_id": "MzQ5Mzk0NzIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEHCDX7D",
+        "transaction_id": "MzQ5Mzk0NzEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-12-09",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XEH18PSG",
+        "transaction_id": "MzQ5MzExOTIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-16",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XE6WWR8H",
+        "transaction_id": "MzQ3Mzk1MDU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3G7UUI",
+        "transaction_id": "MzQ2ODAwMDgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDA2O5SQ",
+        "transaction_id": "MzQzMzI3Mzc1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3HFD2Z",
+        "transaction_id": "MzQyMjQxNjY2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-25",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCAOZANE",
+        "transaction_id": "MzM5MDg3MTY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 66,
+        "barcode": "XC97MI7F",
+        "transaction_id": "MzM4ODY2MjYxM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-01",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XC8ZHAT3",
+        "transaction_id": "MzM4ODI4NzY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC41SLDC",
+        "transaction_id": "MzM4MDMyMzYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-22",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBAYRZ20",
+        "transaction_id": "MzM0OTM1NTE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4MXF41",
+        "transaction_id": "MzM0MDE0OTI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XB46W8QX",
+        "transaction_id": "MzMzOTUwMTI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-09-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XACX58OY",
+        "transaction_id": "MzMxMzYzNTA2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-12",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAAPHGT7",
+        "transaction_id": "MzMxMDUwMTY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA5PXTEJ",
+        "transaction_id": "MzMwMjk0NzY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X962U26P",
+        "transaction_id": "MzI2NjA5OTIzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X924F3GY",
+        "transaction_id": "MzI2MTY0Mjc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X90HX7GI",
+        "transaction_id": "MzI1OTQxMjkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-16",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8E4DG6I",
+        "transaction_id": "MzI0NDMwNDEyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85WCISB",
+        "transaction_id": "MzIzNDc4Mjk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-25",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X802MHGU",
+        "transaction_id": "MzIyNzg2MTQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7G62DSA",
+        "transaction_id": "MzIxNjQ2OTQzMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 55,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "website": "https://Hssmart.com",
+    "headcount": 17,
+    "tech_stack": [
+      "ISO 45001"
+    ],
+    "business_keywords": [
+      "risk management software",
+      "compliance management software",
+      "safety management software",
+      "digital golden thread",
+      "single source of truth",
+      "risk assessment",
+      "incident reporting",
+      "mobile application",
+      "task management",
+      "automated notifications",
+      "dashboard",
+      "modular software architecture",
+      "ISO 45001",
+      "health and safety",
+      "fire safety",
+      "environmental compliance",
+      "business continuity",
+      "supplier management",
+      "permit to work",
+      "information security",
+      "asset management"
+    ],
+    "services": [
+      "Risk management",
+      "Compliance management",
+      "Safety management",
+      "Health & Safety management",
+      "Fire Safety management",
+      "Environmental Compliance monitoring",
+      "Business Continuity management",
+      "Supplier Management",
+      "Permit to Work management",
+      "Information Security management",
+      "Asset Management",
+      "Risk Assessment",
+      "Incident Reporting",
+      "Task management with automated notifications and escalations",
+      "Document management with built-in approval processes",
+      "Mobile access to compliance and risk data"
+    ],
+    "customer_segments": [
+      "Commercial Property",
+      "Residential Property",
+      "Education Sector",
+      "Financial Services",
+      "Tech & Telecoms",
+      "Facilities Management",
+      "Healthcare Sector",
+      "Professional Services",
+      "Low to medium risk sectors"
+    ],
+    "business_description": "SUSTAINWARE LIMITED provides QUOODA®, a comprehensive risk, compliance, and safety management software platform. The platform offers a single source of truth, streamlining policies and processes for businesses, and is designed to be powerful yet simple to use, scalable, and accessible via desktop and mobile. QUOODA® supports end-to-end management of risk, compliance, and safety duties across various sectors.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:32:28.818Z"
+  },
+  "scraped_at": "2026-01-10T07:32:17.738Z",
+  "updated_at": "2026-01-10T07:32:28.818Z",
+  "version": 1
+}

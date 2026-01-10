@@ -1,0 +1,569 @@
+{
+  "company_name": "ARMSTRONG BELL LIMITED",
+  "company_number": "05747368",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-03-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Office 1, Greenbox, Westonhall Road, Bromsgrove, B60 4AL, England",
+  "registered_address_structured": {
+    "address_line_1": "Office 1, Greenbox",
+    "address_line_2": "Westonhall Road",
+    "country": "England",
+    "locality": "Bromsgrove",
+    "postal_code": "B60 4AL"
+  },
+  "sic_codes": [
+    "61900",
+    "62020",
+    "62030"
+  ],
+  "previous_company_names": [
+    {
+      "name": "OCEAN DATA NETWORK SERVICES LTD",
+      "ceased_on": "2009-06-22",
+      "effective_from": "2006-03-17"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-02-28",
+    "next_accounts_period_end_on": "2026-05-31",
+    "next_accounts_period_start_on": "2025-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-19",
+    "last_made_up_to": "2025-11-05",
+    "next_made_up_to": "2026-11-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COPLEY, William George",
+        "officer_role": "director",
+        "appointed_on": "2006-03-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Westonhall Road",
+          "country": "England",
+          "locality": "Bromsgrove",
+          "postal_code": "B60 4AL",
+          "premises": "Office 1, Greenbox"
+        }
+      },
+      {
+        "name": "JONES, Sean David",
+        "officer_role": "director",
+        "appointed_on": "2006-03-17",
+        "resigned_on": "2008-07-03",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1967,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "12 Barle Close",
+          "address_line_2": "West End",
+          "locality": "Southampton",
+          "postal_code": "SO18 3QN",
+          "region": "Hampshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "COPLEY, Elaine Louise",
+        "officer_role": "secretary",
+        "appointed_on": "2008-07-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Westonhall Road",
+          "country": "England",
+          "locality": "Bromsgrove",
+          "postal_code": "B60 4AL",
+          "premises": "Office 1, Greenbox"
+        }
+      },
+      {
+        "name": "COPLEY, William George",
+        "officer_role": "secretary",
+        "appointed_on": "2006-03-17",
+        "resigned_on": "2008-07-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Wilden Lane",
+          "country": "England",
+          "locality": "Stourport On Severn",
+          "postal_code": "DY13 9JR",
+          "premises": "198",
+          "region": "Worcestershire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr William George Copley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2017-02-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1975,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Westonhall Road",
+          "country": "England",
+          "locality": "Bromsgrove",
+          "postal_code": "B60 4AL",
+          "premises": "Office 1, Greenbox"
+        }
+      },
+      {
+        "name": "Mrs Elaine Louise Copley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Westonhall Road",
+          "country": "England",
+          "locality": "Bromsgrove",
+          "postal_code": "B60 4AL",
+          "premises": "Office 1, Greenbox"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "057473680005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-01-30",
+        "delivered_on": "2018-02-01",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Svenska Handelsbanken Ab (Publ)"
+          }
+        ],
+        "satisfied_on": "2024-01-08",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "057473680004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-12-12",
+        "delivered_on": "2014-12-12",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A legal mortgage over the leasehold - 1 greenbox weston hall road stoke prior bromsgrove warwickshire - hm land registry title number WR104259.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal mortgage"
+          }
+        ],
+        "created_on": "2013-03-11",
+        "delivered_on": "2013-03-13",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "L/H property known as 13 greenbox weston hall road stoke prior bromsgrove warwickshire title no WR109466 with the benefit of all rights, licences, guarantees, rent deposits, contracts, deeds undertakings & warranties relating to the property. Any shares or membership rights in any management company for the property. Any goodwill of any business from time to time carried on at the property. Any rental & other money payable and any lease licence or other interest created in respect of the property & all other payments whatever in respect of the property."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "satisfied_on": "2018-04-07",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2013-02-25",
+        "delivered_on": "2013-02-27",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "satisfied_on": "2018-02-07",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Mortgage deed"
+          }
+        ],
+        "created_on": "2007-03-07",
+        "delivered_on": "2007-03-13",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Unit 13 green box west hall road stoke prior bromsgrove worcestershire."
+        },
+        "persons_entitled": [
+          {
+            "name": "Tipton & Coseley Building Society"
+          }
+        ],
+        "satisfied_on": "2014-09-20",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£135,000 and all other monies due or to become due"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 5,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEEOLN7C",
+        "transaction_id": "MzQ4NzU3OTQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XE89ERWX",
+        "transaction_id": "MzQ3NjA4MzAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDVLSGV6",
+        "transaction_id": "MzQ1MzQ1NTY3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XDBRY082",
+        "transaction_id": "MzQzNTk3MTUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCVZ0PE1",
+        "transaction_id": "MzQwOTYxNDQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "BCV157BK",
+        "transaction_id": "MzQwODUwODM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-09",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XCUBPM4J",
+        "transaction_id": "MzQwNjk2Mzg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCUBPJCH",
+        "transaction_id": "MzQwNjk2MzE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-09",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XCUBPJ3N",
+        "transaction_id": "MzQwNjk2MzE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-01-08",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCUBJOOH",
+        "transaction_id": "MzQwNjg0NDI1MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCGOCMCO",
+        "transaction_id": "MzQwMDgzNDkyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBWKXSY0",
+        "transaction_id": "MzM2ODE2ODIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "ABIB0A6P",
+        "transaction_id": "MzM2MTE3Mzg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "AAX5E4IH",
+        "transaction_id": "MzMyOTAzNTEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWYJI61",
+        "transaction_id": "MzMyODYxNTM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XKAHKG",
+        "transaction_id": "MzI5MDQwMDQwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A9GHDWC9",
+        "transaction_id": "MzI4MTk5MzE1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8YI0Z5U",
+        "transaction_id": "MzI1NjgxNzA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A8FOQO2G",
+        "transaction_id": "MzI0NjU4MDAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A7YXJUT6",
+        "transaction_id": "MzIyNjc1MTIxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7YOEPYZ",
+        "transaction_id": "MzIyNjIzMDAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-04-07",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "A73CAIZL",
+        "transaction_id": "MzIwMzIwMzIxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6ZG3RQ1",
+        "transaction_id": "MzE5NzM4NzkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-02-07",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "A6ZA37E9",
+        "transaction_id": "MzE5NzYyMzc2OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-02-01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 20,
+        "barcode": "X6YUYXU3",
+        "transaction_id": "MzE5NjczNDEwN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 63,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 18
+  },
+  "enrichment": {
+    "website": "https://Armstrongbell.co.uk",
+    "headcount": 18,
+    "tech_stack": [],
+    "business_keywords": [
+      "IT Support",
+      "Hosted Voice",
+      "Connectivity",
+      "Business Mobile",
+      "Managed IT",
+      "Voice & UC",
+      "Communication Experts",
+      "IT Services",
+      "Bromsgrove IT Support",
+      "Worcestershire IT Support",
+      "Birmingham IT Support",
+      "Midlands IT Support",
+      "UK IT Support",
+      "Business IT Support",
+      "Mobile IT Support"
+    ],
+    "services": [
+      "IT Support",
+      "Hosted Voice",
+      "Connectivity",
+      "Business Mobile",
+      "Managed IT",
+      "Voice & UC"
+    ],
+    "customer_segments": [
+      "Businesses in Bromsgrove",
+      "Businesses in Worcestershire",
+      "Businesses in Birmingham",
+      "Businesses in the Midlands",
+      "Businesses in the UK"
+    ],
+    "business_description": "Armstrong Bell provides IT support, hosted voice, connectivity, and business mobile services. They serve businesses in Bromsgrove, Worcestershire, Birmingham, the Midlands, and the UK, specializing in managed IT and communication solutions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 19,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T03:45:46.563Z"
+  },
+  "scraped_at": "2026-01-10T03:45:41.560Z",
+  "updated_at": "2026-01-10T03:45:46.563Z",
+  "version": 1
+}

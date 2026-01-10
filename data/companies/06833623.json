@@ -1,0 +1,454 @@
+{
+  "company_name": "ACCUPART LTD",
+  "company_number": "06833623",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-03-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "25a Longwood Park Longwood Road, Trafford Park, Manchester, M17 1PZ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "25a Longwood Park Longwood Road",
+    "address_line_2": "Trafford Park",
+    "country": "United Kingdom",
+    "locality": "Manchester",
+    "postal_code": "M17 1PZ"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-30",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-12",
+    "last_made_up_to": "2025-03-29",
+    "next_made_up_to": "2026-03-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SWANN, David Roy",
+        "officer_role": "director",
+        "appointed_on": "2009-03-02",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Albany Court",
+          "address_line_2": "Urmston",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M41 5RH",
+          "premises": "43"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SWANN, David Roy",
+        "officer_role": "secretary",
+        "appointed_on": "2009-03-02",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Longwood Road",
+          "address_line_2": "Trafford Park",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M17 1PZ",
+          "premises": "25a Longwood Park"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Lisa Swann",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-03-23",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Centurion House",
+          "address_line_2": "129 Deansgate",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M3 3WR",
+          "premises": "Moore Stephens"
+        }
+      },
+      {
+        "name": "David Roy Swann",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Albany Court",
+          "address_line_2": "Urmston",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M41 5RH",
+          "premises": "43"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068336230001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-02-27",
+        "delivered_on": "2017-02-27",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Debenture.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hitachi Capital (UK) PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-31",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEIKLM8H",
+        "transaction_id": "MzQ5NzA5MDc0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDZGJQHD",
+        "transaction_id": "MzQ2MDc0MDY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDJ2WDSA",
+        "transaction_id": "MzQ0OTMyNzE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD06L7DV",
+        "transaction_id": "MzQxNjg1MTcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCIV4PBS",
+        "transaction_id": "MzQwNTE4ODM2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC159QWO",
+        "transaction_id": "MzM3NTYyNDYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBJUO7ZE",
+        "transaction_id": "MzM2NDA4MTk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB1QICZV",
+        "transaction_id": "MzMzNTc4NzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAJY6G4X",
+        "transaction_id": "MzMyNDY1MDA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA1J3RAI",
+        "transaction_id": "MzI5NjU2NTAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9WFXLCW",
+        "transaction_id": "MzI4ODgyMTU2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X92ESYBE",
+        "transaction_id": "MzI2MTg1MDUzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8KXFF2W",
+        "transaction_id": "MzI1MjkyMzkxNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-07-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X88RMVTD",
+        "transaction_id": "MzIzODIyMzg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X82IQU9C",
+        "transaction_id": "MzIzMTAxMTc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7L9K22I",
+        "transaction_id": "MzIyMjgzMDM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X74Z883T",
+        "transaction_id": "MzIwMzc3NDc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-04-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X744P12H",
+        "transaction_id": "MzIwMjg0ODk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-04-18",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X744P109",
+        "transaction_id": "MzIwMjg0ODk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2018-03-29",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X72QRK1L",
+        "transaction_id": "MzIwMTM1ODM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-01-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X6WX21WR",
+        "transaction_id": "MzE5NDQ5ODg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X6MAHAPM",
+        "transaction_id": "MzE5NDAyNDQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-02-27",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 28,
+        "barcode": "X615H3LT",
+        "transaction_id": "MzE2OTg2MDE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X5MY6TCG",
+        "transaction_id": "MzE2NTU3Mzk0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-12-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5LUQHJM",
+        "transaction_id": "MzE2NDQ0Nzc0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 41,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Accupart.co.uk",
+    "headcount": 6,
+    "tech_stack": [
+      "Toshiba laptops",
+      "IBM laptops",
+      "Lenovo laptops",
+      "Compaq laptops",
+      "HP laptops",
+      "Samsung laptops",
+      "Acer laptops",
+      "Sony laptops",
+      "Fujitsu laptops",
+      "Advent laptops",
+      "Packard Bell laptops",
+      "Dell laptops",
+      "Gateway laptops",
+      "Evesham laptops",
+      "E-systems laptops",
+      "Asus laptops",
+      "Apple iPhone 4",
+      "Apple iPhone 4S",
+      "Apple iPhone 5"
+    ],
+    "business_keywords": [
+      "laptop screens",
+      "LCD screens",
+      "replacement laptop screen",
+      "LCD panels",
+      "digitizers",
+      "LCD assembly",
+      "tablet screens",
+      "phone LCDs",
+      "phone parts",
+      "touch screens",
+      "laptop parts",
+      "electronics components",
+      "screen replacement"
+    ],
+    "services": [
+      "supply of laptop screens",
+      "supply of digitizers",
+      "supply of LCD assembly",
+      "supply of tablet screens",
+      "supply of phone LCDs and parts",
+      "next working day delivery in the UK",
+      "worldwide shipping"
+    ],
+    "customer_segments": [
+      "European customers",
+      "UK customers",
+      "international customers",
+      "consumers needing screen replacements",
+      "businesses needing electronics components"
+    ],
+    "business_description": "Accupart Ltd is Europe's leading supplier of laptop screens and replacement LCD panels for a wide range of brands. The company provides an extensive range of products including laptop screens, digitizers, LCD assemblies, tablet screens, and phone parts, offering next working day delivery in the UK and worldwide shipping.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:52:36.451Z"
+  },
+  "scraped_at": "2026-01-10T06:52:27.596Z",
+  "updated_at": "2026-01-10T06:52:36.451Z",
+  "version": 1
+}

@@ -1,0 +1,424 @@
+{
+  "company_name": "JBS TECH LTD",
+  "company_number": "06398480",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-10-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "164 Bedford Road, Kempston, Bedford, Bedfordshire, MK42 8BH",
+  "registered_address_structured": {
+    "address_line_1": "164 Bedford Road",
+    "address_line_2": "Kempston",
+    "locality": "Bedford",
+    "postal_code": "MK42 8BH",
+    "region": "Bedfordshire"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-02",
+    "last_made_up_to": "2025-03-19",
+    "next_made_up_to": "2026-03-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SANDHU, Bikramjit Singh",
+        "officer_role": "director",
+        "appointed_on": "2007-10-15",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "14 Norman Crescent",
+          "locality": "Pinner",
+          "postal_code": "HA5 3QN",
+          "region": "Middx"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SANDHU, Belindar",
+        "officer_role": "secretary",
+        "appointed_on": "2007-10-15",
+        "resigned_on": "2008-03-19",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "14 Norman Crescent",
+          "locality": "Pinner",
+          "postal_code": "HA5 3QN",
+          "region": "Middx"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Bikramjit Singh Sandhu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-10-15",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bedford Road",
+          "address_line_2": "Kempston",
+          "locality": "Bedford",
+          "postal_code": "MK42 8BH",
+          "premises": "164",
+          "region": "Bedfordshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "063984800001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-12-20",
+        "delivered_on": "2023-12-22",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE08HCC2",
+        "transaction_id": "MzQ2MjI4NjQ2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDJ5O6F5",
+        "transaction_id": "MzQ0OTUwMDQzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCZ7AF0B",
+        "transaction_id": "MzQxNTIxNzczNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCJGLSCR",
+        "transaction_id": "MzQwNjA3NzQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-12-22",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 82,
+        "barcode": "XCIVOVE0",
+        "transaction_id": "MzQwNTQxNTg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFEPVFU",
+        "transaction_id": "MzM5ODY2NjgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBJXD0GW",
+        "transaction_id": "MzM2NDE4ODUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBHDPFQ9",
+        "transaction_id": "MzM1OTUyOTUyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XAKJ3YQQ",
+        "transaction_id": "MzMyNTM4MDU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAID8OJC",
+        "transaction_id": "MzMyMTkyMzI0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9Z7DFAA",
+        "transaction_id": "MzI5MjgwOTE0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9GX0I3F",
+        "transaction_id": "MzI4MjIyMzc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8LICLSA",
+        "transaction_id": "MzI1MzQ2MDM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8HB0MER",
+        "transaction_id": "MzI0ODM0MDk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X7L9OB9N",
+        "transaction_id": "MzIyMjgxOTg3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7GTAHZV",
+        "transaction_id": "MzIxNzMxMDE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X6ME46SR",
+        "transaction_id": "MzE5NDA4NjA4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-11-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6IGCEKF",
+        "transaction_id": "MzE4OTQzNzY3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X5N0S9G3",
+        "transaction_id": "MzE2NTYyODkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-11-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5JT6DEX",
+        "transaction_id": "MzE2MTk3NTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-12-24",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X4MXFENS",
+        "transaction_id": "MzEzODM4MjQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-11-05",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X4JI5BTD",
+        "transaction_id": "MzEzNDYwMTgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2014-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X3NVMNG9",
+        "transaction_id": "MzExNDQ5NDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-11-27",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X3LKA1VC",
+        "transaction_id": "MzExMjI2OTUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2013-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X2OCPKXF",
+        "transaction_id": "MzA5MTcwOTYyNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 43,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Jansait.com",
+    "headcount": 10,
+    "tech_stack": [],
+    "business_keywords": [
+      "IT Support",
+      "Managed Service Provider",
+      "Business Computer Support",
+      "IT Solutions",
+      "IT Managed Services",
+      "PCs",
+      "Laptops",
+      "Servers",
+      "Networking",
+      "Telephony",
+      "Broadband",
+      "Cloud",
+      "IT Setup",
+      "IT Maintenance",
+      "GDPR",
+      "Internet Security",
+      "Paperless Transaction Processing"
+    ],
+    "services": [
+      "IT Support",
+      "Managed IT Services",
+      "IT Setup Review",
+      "Tailored IT Solutions",
+      "IT Managed Services for Dental Practices",
+      "IT Support for Dentists",
+      "IT Support for Schools",
+      "IT Solutions for Businesses",
+      "IT Hardware Support",
+      "IT Software Support",
+      "GDPR Support",
+      "Internet Security",
+      "Internal Security",
+      "Remote IT Issue Resolution",
+      "IT System Installation",
+      "Backup Solutions",
+      "Virus Software Management"
+    ],
+    "customer_segments": [
+      "Dental Practices",
+      "Schools",
+      "Businesses",
+      "Educational Establishments"
+    ],
+    "business_description": "Jansa IT is a leading Managed Service Provider offering IT support and solutions, including PCs, laptops, servers, networking, telephony, broadband, and cloud services. They provide tailored IT solutions and managed services to help businesses, dental practices, and educational establishments improve profitability, efficiency, and technology alignment with their needs.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 30,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T05:27:39.612Z"
+  },
+  "scraped_at": "2026-01-10T05:27:25.874Z",
+  "updated_at": "2026-01-10T05:27:39.612Z",
+  "version": 1
+}

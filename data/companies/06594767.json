@@ -1,0 +1,385 @@
+{
+  "company_name": "THE IT DEPT LIMITED",
+  "company_number": "06594767",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-05-15",
+  "jurisdiction": "england-wales",
+  "registered_address": "3a Bridge Court, Liverpool New Road, Preston, Lancashire, PR4 5BF, England",
+  "registered_address_structured": {
+    "address_line_1": "3a Bridge Court",
+    "address_line_2": "Liverpool New Road",
+    "country": "England",
+    "locality": "Preston",
+    "postal_code": "PR4 5BF",
+    "region": "Lancashire"
+  },
+  "sic_codes": [
+    "62020",
+    "95110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "203 LTD",
+      "ceased_on": "2020-06-23",
+      "effective_from": "2008-05-15"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-16",
+    "last_made_up_to": "2025-05-02",
+    "next_made_up_to": "2026-05-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SCHOFIELD, Matthew",
+        "officer_role": "director",
+        "appointed_on": "2018-03-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool New Road",
+          "country": "England",
+          "locality": "Preston",
+          "postal_code": "PR4 5BF",
+          "premises": "3a Bridge Court",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "DONKIN, Michael",
+        "officer_role": "director",
+        "appointed_on": "2008-05-15",
+        "resigned_on": "2018-03-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Blackburn Road",
+          "country": "United Kingdom",
+          "locality": "Chorley",
+          "postal_code": "PR6 8EP",
+          "premises": "203"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Matthew Schofield",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2018-04-19",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Liverpool New Road",
+          "country": "England",
+          "locality": "Preston",
+          "postal_code": "PR4 5BF",
+          "premises": "3a Bridge Court",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "Mr Michael Donkin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-05-15",
+        "ceased_on": "2018-04-19",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6 -8 Church Street, Adlington",
+          "address_line_2": "Pr7 4ex",
+          "country": "United Kingdom",
+          "locality": "Chorley",
+          "postal_code": "PR7 4EX",
+          "premises": "6 -8 Church Street, Adlington",
+          "region": "Lancashire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEFAOY9L",
+        "transaction_id": "MzQ4ODg2OTU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-10-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEE2AIUX",
+        "transaction_id": "MzQ4NjM5ODI4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEE2AIOX",
+        "transaction_id": "MzQ4NjM5ODI3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-10-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEE2AI2Y",
+        "transaction_id": "MzQ4NjM5ODEwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE2MIIZD",
+        "transaction_id": "MzQ2NjM1NTQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-02",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE1QCQU9",
+        "transaction_id": "MzQ2NDkxODcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-02",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE1QCQKI",
+        "transaction_id": "MzQ2NDkxODU5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDFOT6YE",
+        "transaction_id": "MzQ0MjYwOTczNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD2AZABU",
+        "transaction_id": "MzQyMDY2NTcwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-24",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCGZ4V2A",
+        "transaction_id": "MzQwMTQxMjk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC2SA3BD",
+        "transaction_id": "MzM3ODM2MTM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-03-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBYGCSYQ",
+        "transaction_id": "MzM3MTM2ODk2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBHTJ96J",
+        "transaction_id": "MzM2MDExMzE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB3DGLPM",
+        "transaction_id": "MzMzODM0ODg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA8PEONM",
+        "transaction_id": "MzMwNzY0MzY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA4O0YWB",
+        "transaction_id": "MzMwMTE4NTIxN2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-06-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X97S1R48",
+        "transaction_id": "MzI2ODA1Mzk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X954AE0X",
+        "transaction_id": "MzI2NDg2NzI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X951PLLN",
+        "transaction_id": "MzI2NDc5NjY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X84NKVO1",
+        "transaction_id": "MzIzMzUzMDg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-05-02",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "X84NKV8B",
+        "transaction_id": "MzIzMzUzMDgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-04-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X836RLDM",
+        "transaction_id": "MzIzMTg1ODU4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X75XFYBD",
+        "transaction_id": "MzIwNDg2MzI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-04-19",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "X7471F7U",
+        "transaction_id": "MzIwMjk3MTA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-04-19",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "X7471BKR",
+        "transaction_id": "MzIwMjk3MDkxNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 53,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://The-it-dept.uk",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T06:05:11.709Z",
+  "scraped_at": "2026-01-10T06:05:11.709Z"
+}

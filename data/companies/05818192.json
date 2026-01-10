@@ -1,0 +1,445 @@
+{
+  "company_name": "QUANTIFI LIMITED",
+  "company_number": "05818192",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-05-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Snow Hill, 3rd Floor, London, EC1A 2DJ, England",
+  "registered_address_structured": {
+    "address_line_1": "4 Snow Hill, 3rd Floor",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1A 2DJ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-30",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-28",
+    "last_made_up_to": "2025-05-14",
+    "next_made_up_to": "2026-05-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DOUGLAS, Rohan",
+        "officer_role": "director",
+        "appointed_on": "2006-05-16",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1962,
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Snow Hill, 3rd Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1A 2DJ",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "DEL DUCA, Kathleen",
+        "officer_role": "secretary",
+        "appointed_on": "2006-05-16",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Snow Hill, 3rd Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1A 2DJ",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Rohan Douglas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-09-24",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1962,
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Snow Hill, 3rd Floor",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1A 2DJ",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "058181920002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-06-15",
+        "delivered_on": "2020-06-19",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-10-12",
+        "delivered_on": "2012-10-18",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit of £27,090.00 see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Coal Pension Properties Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2026-01-07",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AEIH471C",
+        "transaction_id": "MzQ5NzQwMjQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-26",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "AE5AFEZ4",
+        "transaction_id": "MzQ3MTY1MzUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE35P4MO",
+        "transaction_id": "MzQ2NzcwMDU1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-21",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XE304S9E",
+        "transaction_id": "MzQ2NzM1NTc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-05-16",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XE2MJI37",
+        "transaction_id": "MzQ2NjQwMTQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-15",
+        "description": "withdrawal-of-a-person-with-significant-control-statement",
+        "type": "PSC09",
+        "pages": 2,
+        "barcode": "XE2MJKO2",
+        "transaction_id": "MzQ2NjQwNDUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDINH95D",
+        "transaction_id": "MzQ0ODkxODc5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDINGY0G",
+        "transaction_id": "MzQ0ODkxNjQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-24",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDINC7CX",
+        "transaction_id": "MzQ0ODg3NjE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-26",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XDCGJQQG",
+        "transaction_id": "MzQzNzM1MTczNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDCB25PN",
+        "transaction_id": "MzQzNzAwMDg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD341JLT",
+        "transaction_id": "MzQyMTgzMjU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-01",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "ACEZ266Y",
+        "transaction_id": "MzM5ODIzNjIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3R8M6R",
+        "transaction_id": "MzM3OTk3ODc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-06",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "ABJFNEL4",
+        "transaction_id": "MzM2NDE4MDU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB44BN21",
+        "transaction_id": "MzMzOTQzMDczOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "AAERJRJV",
+        "transaction_id": "MzMxNjY1ODIwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4O8OEO",
+        "transaction_id": "MzMwMTI1MzAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "A9IY8IZ4",
+        "transaction_id": "MzI4NTE4NDkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-06-19",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X97K0T6Y",
+        "transaction_id": "MzI2Nzc1Mzg4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X95C6YW9",
+        "transaction_id": "MzI2NTAzNTY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 17,
+        "barcode": "L8FC0J6G",
+        "transaction_id": "MzI0NjMxMjk3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85WDTCP",
+        "transaction_id": "MzIzNDgwNjI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "L7FC78WH",
+        "transaction_id": "MzIxNTgxNTg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X78FP3I5",
+        "transaction_id": "MzIwNzcyMDE1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 68,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "revenue": 5090480,
+    "ebitda": 135223,
+    "employees": 31
+  },
+  "enrichment": {
+    "website": "https://Quantifisolutions.com",
+    "headcount": 31,
+    "tech_stack": [],
+    "business_keywords": [
+      "risk",
+      "analytics",
+      "trading",
+      "market risk",
+      "counterparty risk",
+      "liquidity risk",
+      "credit risk",
+      "pricing analytics",
+      "fixed income",
+      "equities",
+      "FX",
+      "commodities",
+      "lifecycle management",
+      "P&L",
+      "position management",
+      "compliance",
+      "next-generation technology"
+    ],
+    "services": [
+      "risk analytics",
+      "pricing analytics for credit, rates, fixed income, equities, FX and commodities",
+      "trading solutions (booking, lifecycle management, P&L, limits, and position management)",
+      "compliance solutions",
+      "market risk management",
+      "counterparty risk management",
+      "liquidity risk management",
+      "credit risk management"
+    ],
+    "customer_segments": [
+      "banks",
+      "asset managers",
+      "hedge funds",
+      "pension funds",
+      "insurers",
+      "brokers",
+      "corporates",
+      "global commodity trading firms"
+    ],
+    "business_description": "Quantifi is a leading provider of risk, analytics, and trading solutions, founded in 2002. The company uses next-generation technology to help clients better trade and manage risk, offering unified views of market, counterparty, liquidity, and credit risk analytics, as well as pricing and trading solutions for various asset classes.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T03:58:46.358Z"
+  },
+  "scraped_at": "2026-01-10T03:58:39.304Z",
+  "updated_at": "2026-01-10T03:58:46.358Z",
+  "version": 1
+}

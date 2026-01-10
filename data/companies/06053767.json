@@ -1,0 +1,565 @@
+{
+  "company_name": "SEVRON LTD",
+  "company_number": "06053767",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-01-16",
+  "jurisdiction": "england-wales",
+  "registered_address": "Room 2 Floor 3, Maybrook House, 27-35 Grainger Street, Newcastle Upon Tyne, NE1 5JE, England",
+  "registered_address_structured": {
+    "address_line_1": "Room 2 Floor 3, Maybrook House",
+    "address_line_2": "27-35 Grainger Street",
+    "country": "England",
+    "locality": "Newcastle Upon Tyne",
+    "postal_code": "NE1 5JE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ETHOS SOLUTION LIMITED",
+      "ceased_on": "2011-02-03",
+      "effective_from": "2007-07-05"
+    },
+    {
+      "name": "MSDS SERVICES LIMITED",
+      "ceased_on": "2007-07-05",
+      "effective_from": "2007-01-16"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-30",
+    "last_made_up_to": "2025-07-16",
+    "next_made_up_to": "2026-07-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TOOLE, David",
+        "officer_role": "director",
+        "appointed_on": "2022-03-31",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1981,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Floor 3, Maybrook House",
+          "address_line_2": "27-35 Grainger Street",
+          "country": "England",
+          "locality": "Newcastle Upon Tyne",
+          "postal_code": "NE1 5JE",
+          "premises": "Room 2"
+        }
+      },
+      {
+        "name": "ALLEN, Dale Joseph",
+        "officer_role": "director",
+        "appointed_on": "2007-01-16",
+        "resigned_on": "2022-03-31",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "address_line_2": "Worsley",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M28 3NJ",
+          "premises": "1 Worsley Court"
+        }
+      },
+      {
+        "name": "WALKER, Daniel Scott",
+        "officer_role": "director",
+        "appointed_on": "2007-01-16",
+        "resigned_on": "2017-10-20",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Longmeanygate",
+          "country": "United Kingdom",
+          "locality": "Leyland",
+          "postal_code": "PR26 7PA",
+          "premises": "Hippingstones Bridge",
+          "region": "Lancs"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WALKER, Daniel Scott",
+        "officer_role": "secretary",
+        "appointed_on": "2007-01-16",
+        "resigned_on": "2017-12-24",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Longmeanygate",
+          "country": "United Kingdom",
+          "locality": "Leyland",
+          "postal_code": "PR26 7PA",
+          "premises": "Hippingstones Bridge",
+          "region": "Lancashire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Sevron Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2020-11-25",
+        "address": {
+          "address_line_1": "Euxton Lane",
+          "address_line_2": "Euxton",
+          "country": "England",
+          "locality": "Chorley",
+          "postal_code": "PR7 6TE",
+          "premises": "Chorley Business & Technology Centre",
+          "region": "Lancashire"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act",
+          "country_registered": "England",
+          "place_registered": "England And Wales",
+          "registration_number": "09892840"
+        }
+      },
+      {
+        "name": "Mr Dale Joseph Allen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2020-11-20",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Olympic Court",
+          "address_line_2": "Whitehills Business Park",
+          "country": "England",
+          "locality": "Blackpool",
+          "postal_code": "FY4 5GU",
+          "premises": "Unit 2",
+          "region": "Lancashire"
+        }
+      },
+      {
+        "name": "Mr Daniel Scott Walker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-12-24",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Longmeanygate",
+          "country": "England",
+          "locality": "Leyland",
+          "postal_code": "PR26 7PA",
+          "premises": "Hippingstones Bridge",
+          "region": "Lancashire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "060537670003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-01-10",
+        "delivered_on": "2020-01-25",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lancashire County Developments (Property) Limited"
+          }
+        ],
+        "satisfied_on": "2025-01-22",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "060537670002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-02-01",
+        "delivered_on": "2019-02-01",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lancashire County Developments (Investments) Limited"
+          }
+        ],
+        "satisfied_on": "2025-01-23",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-11-08",
+        "delivered_on": "2012-11-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "A rent deposit of £1,040.00 plus vat of £208 and all other monies from time to time in the bank account."
+        },
+        "persons_entitled": [
+          {
+            "name": "Micheldever Tyre Services Limited"
+          }
+        ],
+        "satisfied_on": "2017-01-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£1,040.00 and all other monies due or to become due"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7IJB4X",
+        "transaction_id": "MzQ3NTE1NTYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE6WSVFN",
+        "transaction_id": "MzQ3MzkxNzY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDYPARA0",
+        "transaction_id": "MzQ1OTQ2MTcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-01-23",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDUUSS61",
+        "transaction_id": "MzQ1MjQwMjU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-01-22",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XDURZ85T",
+        "transaction_id": "MzQ1MjIzMjY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-10-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDECA0RT",
+        "transaction_id": "MzQ0MDY1Mzc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD81R816",
+        "transaction_id": "MzQyOTkyMDI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XCZ9XP1V",
+        "transaction_id": "MzQxNTQzOTcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7XQ3C8",
+        "transaction_id": "MzM4NjU5OTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-09",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBX0YFSX",
+        "transaction_id": "MzM2ODc1NDAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-01-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBVGEZND",
+        "transaction_id": "MzM2NjI3NzEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBFFUS48",
+        "transaction_id": "MzM1NjU5ODM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8ILMJS",
+        "transaction_id": "MzM0NTk0MDc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-08",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB1ITU4W",
+        "transaction_id": "MzMzNTcwMDAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-08",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB1ISIMZ",
+        "transaction_id": "MzMzNTY4Njc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XB0UGRKW",
+        "transaction_id": "MzMzNDY4MjEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB0JEWN4",
+        "transaction_id": "MzMzNDA4ODM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-03-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB0JEK43",
+        "transaction_id": "MzMzNDA4NTI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA9O3VXL",
+        "transaction_id": "MzMwOTA0MTkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-28",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XA9O3IX4",
+        "transaction_id": "MzMwOTAzODc2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-27",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XA9LE14H",
+        "transaction_id": "MzMwODg4NTM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-27",
+        "description": "move-registers-to-registered-office-company-with-new-address",
+        "type": "AD04",
+        "pages": 1,
+        "barcode": "XA9LD7E3",
+        "transaction_id": "MzMwODg3NzM5OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-07-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XA9IPGN5",
+        "transaction_id": "MzMwODc2MjYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA9DEYFU",
+        "transaction_id": "MzMwODU5NDcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-19",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X9WIO4P4",
+        "transaction_id": "MzI4ODk0OTAzOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 88,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Sevron.co.uk",
+    "headcount": 7,
+    "tech_stack": [
+      "Safety365",
+      "Incident365",
+      "COSHH365",
+      "The Knights of Safety Academy"
+    ],
+    "business_keywords": [
+      "Chemical Safety Compliance",
+      "Safety365",
+      "COSHH",
+      "Risk Assessment",
+      "Workplace Safety",
+      "Safety Data Sheets",
+      "SDS Management",
+      "Compliance Monitoring",
+      "Incident Management",
+      "Health & Safety Training",
+      "COSHH Risk Assessor Certification",
+      "COSHH365 Software Certification",
+      "COSHH Manager Certification",
+      "Task-based COSHH assessments",
+      "PUWER Risk Assessments"
+    ],
+    "services": [
+      "COSHH Risk Assessment Management",
+      "Safety Data Sheet Inventory Management",
+      "Risk Assessment Management (Task & PUWER)",
+      "Incident Management Solution (Incident365)",
+      "Free Online COSHH Training Courses",
+      "Health & Safety Courses via The Knights of Safety Academy",
+      "Automated workplace safety handling with system automations",
+      "Compliant assessments and safety data sheets",
+      "Full audit trail and compliance monitoring"
+    ],
+    "customer_segments": [],
+    "business_description": "Sevron Ltd provides chemical safety compliance solutions, including risk assessment management, safety data sheet (SDS) inventory, and incident management tools. The company offers automated workplace safety systems, compliance monitoring, and free online COSHH training courses to help businesses reduce and eliminate workplace risks while maintaining compliance.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T04:36:04.352Z"
+  },
+  "scraped_at": "2026-01-10T04:35:57.675Z",
+  "updated_at": "2026-01-10T04:36:04.352Z",
+  "version": 1
+}

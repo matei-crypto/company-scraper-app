@@ -1,0 +1,498 @@
+{
+  "company_name": "REMARK GLOBAL LIMITED",
+  "company_number": "05954260",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-10-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "15 Station Road, St Ives, Cambridgeshire, PE27 5BH",
+  "registered_address_structured": {
+    "address_line_1": "15 Station Road",
+    "address_line_2": "St Ives",
+    "locality": "Cambridgeshire",
+    "postal_code": "PE27 5BH"
+  },
+  "sic_codes": [
+    "43210",
+    "43290",
+    "62090",
+    "82990"
+  ],
+  "previous_company_names": [
+    {
+      "name": "RE-MARK TELECOMMUNICATIONS LIMITED",
+      "ceased_on": "2013-08-22",
+      "effective_from": "2006-10-03"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-08",
+    "last_made_up_to": "2025-06-24",
+    "next_made_up_to": "2026-06-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MCCALLUM, James Robert",
+        "officer_role": "director",
+        "appointed_on": "2007-04-11",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "15 Station Road",
+          "country": "United Kingdom",
+          "locality": "St. Ives",
+          "postal_code": "PE27 5BH",
+          "premises": "The Station House"
+        }
+      },
+      {
+        "name": "MCCALLUM, Michelle Louise",
+        "officer_role": "director",
+        "appointed_on": "2007-04-11",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "15 Station Road",
+          "country": "United Kingdom",
+          "locality": "St. Ives",
+          "postal_code": "PE27 5BH",
+          "premises": "The Station House"
+        }
+      },
+      {
+        "name": "RM NOMINEES LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2006-10-03",
+        "resigned_on": "2006-10-03",
+        "address": {
+          "address_line_1": "Invision House",
+          "address_line_2": "Wilbury Way",
+          "locality": "Hitchin",
+          "postal_code": "SG4 0TW",
+          "region": "Hertfordshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MCCALLUM, Michelle Louise",
+        "officer_role": "secretary",
+        "appointed_on": "2008-10-09",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "15 Station Road",
+          "country": "United Kingdom",
+          "locality": "St. Ives",
+          "postal_code": "PE27 5BH",
+          "premises": "The Station House"
+        }
+      },
+      {
+        "name": "FABLEFORCE NOMINEES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2007-04-11",
+        "resigned_on": "2008-10-09",
+        "address": {
+          "address_line_1": "1a Queen Street",
+          "locality": "Rushden",
+          "postal_code": "NN10 0AA",
+          "region": "Northamptonshire"
+        }
+      },
+      {
+        "name": "RM REGISTRARS LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2006-10-03",
+        "resigned_on": "2006-10-03",
+        "address": {
+          "address_line_1": "Invision House",
+          "address_line_2": "Wilbury Way",
+          "locality": "Hitchin",
+          "postal_code": "SG4 0TW",
+          "region": "Hertfordshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Michelle Louise Mccallum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-05-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "15 Station Road",
+          "address_line_2": "St Ives",
+          "locality": "Cambridgeshire",
+          "postal_code": "PE27 5BH"
+        }
+      },
+      {
+        "name": "Mr James Robert Mccallum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-05-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "15 Station Road",
+          "address_line_2": "St Ives",
+          "locality": "Cambridgeshire",
+          "postal_code": "PE27 5BH"
+        }
+      },
+      {
+        "name": "Hortus Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-05-01",
+        "address": {
+          "address_line_1": "15 Station Road",
+          "country": "United Kingdom",
+          "locality": "St Ives",
+          "postal_code": "PE27 5BH",
+          "premises": "The Station House",
+          "region": "Cambridgeshire"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England And Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "08717768"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "059542600002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-06-21",
+        "delivered_on": "2016-06-30",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "059542600001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-04-30",
+        "delivered_on": "2015-05-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank PLC"
+          }
+        ],
+        "satisfied_on": "2025-06-26",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-09-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEBXZCE0",
+        "transaction_id": "MzQ4MjgxMDI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEBXZC1E",
+        "transaction_id": "MzQ4MjgxMDA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-26",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEBXZCMP",
+        "transaction_id": "MzQ4MjgxMDI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XE6RCE1T",
+        "transaction_id": "MzQ3MzQ2NDcyNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-06-26",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE5K02E3",
+        "transaction_id": "MzQ3MTY1NDQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5H5NQG",
+        "transaction_id": "MzQ3MTQ4MTEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD703TKG",
+        "transaction_id": "MzQyODA4MTk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD5Y34KR",
+        "transaction_id": "MzQyNjM1MDc1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XC88L92R",
+        "transaction_id": "MzM4NzE5ODMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6I8P7L",
+        "transaction_id": "MzM4NDEzNTQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XB7S7NEB",
+        "transaction_id": "MzM0NTA4NDI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB70VTJK",
+        "transaction_id": "MzM0Mzc4OTA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XA9QU4F4",
+        "transaction_id": "MzMwOTE3MTI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7L3IHT",
+        "transaction_id": "MzMwNTkyMzU5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9GH0SG0",
+        "transaction_id": "MzI4MTYzMzQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X97XDESO",
+        "transaction_id": "MzI2ODIxODk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-29",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "A95H5822",
+        "transaction_id": "MzI2NjEwODE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-03-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X91OFRM0",
+        "transaction_id": "MzI2MTA0MjgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-03-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X91OFRGP",
+        "transaction_id": "MzI2MTA0Mjc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-08-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8BS18RU",
+        "transaction_id": "MzI0MTU5OTI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8AU0FW3",
+        "transaction_id": "MzI0MDcwOTgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7H3AVLL",
+        "transaction_id": "MzIxNzQ3MzQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-22",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X7H39B48",
+        "transaction_id": "MzIxNzQ3MTg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7H395VF",
+        "transaction_id": "MzIxNzQ3MTc1MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-10-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7H38ZGF",
+        "transaction_id": "MzIxNzQ3MTYxN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 70,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 35
+  },
+  "enrichment": {
+    "website": "https://Remark-group.co.uk",
+    "headcount": 35,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T04:20:12.301Z",
+  "scraped_at": "2026-01-10T04:20:12.301Z"
+}

@@ -1,0 +1,456 @@
+{
+  "company_name": "BANC MEDIA LTD",
+  "company_number": "06880227",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-04-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Ground Floor, Washbrook House, Talbot Road, Manchester, Greater Manchester, M32 0FP, England",
+  "registered_address_structured": {
+    "address_line_1": "Ground Floor, Washbrook House",
+    "address_line_2": "Talbot Road",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M32 0FP",
+    "region": "Greater Manchester"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-01",
+    "last_made_up_to": "2025-04-17",
+    "next_made_up_to": "2026-04-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BIRCHALL, Neil",
+        "officer_role": "director",
+        "appointed_on": "2010-04-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Talbot Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M32 0FP",
+          "premises": "Ground Floor, Washbrook House",
+          "region": "Greater Manchester"
+        }
+      },
+      {
+        "name": "COZENS, Martin",
+        "officer_role": "director",
+        "appointed_on": "2010-04-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Talbot Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M32 0FP",
+          "premises": "Ground Floor, Washbrook House",
+          "region": "Greater Manchester"
+        }
+      },
+      {
+        "name": "CARTER, Michael Paul",
+        "officer_role": "director",
+        "appointed_on": "2009-04-17",
+        "resigned_on": "2014-07-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1969,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Salford Quays",
+          "locality": "Manchester",
+          "postal_code": "M50 3XZ",
+          "premises": "Furness House, Furness Quay",
+          "region": "Greater Manchester"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "EDWARDS, Diane",
+        "officer_role": "secretary",
+        "appointed_on": "2009-04-17",
+        "resigned_on": "2010-04-01",
+        "address": {
+          "address_line_1": "Grasmere Road, Royton",
+          "locality": "Oldham",
+          "postal_code": "OL2 6SW",
+          "premises": "101",
+          "region": "Lancashire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Neil Birchall",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Talbot Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M32 0FP",
+          "premises": "Ground Floor, Washbrook House",
+          "region": "Greater Manchester"
+        }
+      },
+      {
+        "name": "Mr Martin Cozens",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Talbot Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M32 0FP",
+          "premises": "Ground Floor, Washbrook House",
+          "region": "Greater Manchester"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068802270001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-01-16",
+        "delivered_on": "2017-01-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XEE7U09N",
+        "transaction_id": "MzQ4NjcwNDAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-28",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE7QAY7D",
+        "transaction_id": "MzQ3NTI3MDQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1QBD8R",
+        "transaction_id": "MzQ2NDkwMTk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD229LYA",
+        "transaction_id": "MzQyMDAxOTc5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-05",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XD0ESP41",
+        "transaction_id": "MzQxNzI1NDMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC7N78HU",
+        "transaction_id": "MzM4NjI0MzMzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC2V8WJE",
+        "transaction_id": "MzM3ODY0NDc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-20",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "AB662CI1",
+        "transaction_id": "MzM0MjY2OTQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB3NX4RM",
+        "transaction_id": "MzMzODY3NTQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "AA4VJWF6",
+        "transaction_id": "MzMwMjM1NDU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3HI4HC",
+        "transaction_id": "MzI5OTY0MjE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9CUL6LV",
+        "transaction_id": "MzI3NjkwNzQ5MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-07-24",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "X99ZMW68",
+        "transaction_id": "MzI3MzgwMjA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A9380GZ6",
+        "transaction_id": "MzI2MjgxODg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X84KVMGZ",
+        "transaction_id": "MzIzMzQxMTg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A81ZCAAJ",
+        "transaction_id": "MzIzMDQ3MDc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-12",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "A77LXQAA",
+        "transaction_id": "MzIwNzA5OTEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X750C6IH",
+        "transaction_id": "MzIwMzkyNTI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-11-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6J8ZLBS",
+        "transaction_id": "MzE5MDIzODU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-14",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A67YMVJN",
+        "transaction_id": "MzE3NzgyMTEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X65BR4TU",
+        "transaction_id": "MzE3NDY5MjQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2017-01-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "X5YQSVGY",
+        "transaction_id": "MzE2NzIwNTM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-06-23",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X59RR3RL",
+        "transaction_id": "MzE1MTQzODQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-03-09",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "A51Y6JNV",
+        "transaction_id": "MzE0MzUwMzEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-12-10",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X4LYYTVA",
+        "transaction_id": "MzEzNzI0OTU3MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 54,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 27
+  },
+  "enrichment": {
+    "website": "https://Bancmedia.com",
+    "headcount": 27,
+    "tech_stack": [],
+    "business_keywords": [
+      "digital agency",
+      "strategy-first",
+      "digital marketing",
+      "creative design",
+      "web design",
+      "brand building",
+      "customer attraction",
+      "sales growth",
+      "website transformation",
+      "strategic roadmap",
+      "ambitious brands"
+    ],
+    "services": [
+      "Digital Marketing",
+      "Creative Design",
+      "Web Design",
+      "Brand Building",
+      "Strategy Development"
+    ],
+    "customer_segments": [
+      "ambitious brands"
+    ],
+    "business_description": "BANC MEDIA LTD is a strategy-first digital agency that helps ambitious brands grow through digital marketing, creative and web design, and strategic roadmaps. The company focuses on attracting new customers, driving sales, transforming websites, and building brands.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:01:29.117Z"
+  },
+  "scraped_at": "2026-01-10T07:01:24.327Z",
+  "updated_at": "2026-01-10T07:01:29.117Z",
+  "version": 1
+}

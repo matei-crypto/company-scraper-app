@@ -1,0 +1,494 @@
+{
+  "company_name": "CONTROL LTD",
+  "company_number": "06904202",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-05-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "Reading Enterprise Centre University Of Reading, Earley Gate, Whiteknights Road, Reading, RG6 6BU, England",
+  "registered_address_structured": {
+    "address_line_1": "Reading Enterprise Centre University Of Reading",
+    "address_line_2": "Earley Gate, Whiteknights Road",
+    "country": "England",
+    "locality": "Reading",
+    "postal_code": "RG6 6BU"
+  },
+  "sic_codes": [
+    "45320",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "RACE DATA CONSULTING LIMITED",
+      "ceased_on": "2016-11-16",
+      "effective_from": "2014-05-14"
+    },
+    {
+      "name": "RACE DATA SYSTEMS LIMITED",
+      "ceased_on": "2014-05-14",
+      "effective_from": "2009-05-13"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "audit-exemption-subsidiary",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-27",
+    "last_made_up_to": "2025-05-13",
+    "next_made_up_to": "2026-05-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BEAN, Josephine",
+        "officer_role": "director",
+        "appointed_on": "2017-09-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "University Of Reading",
+          "address_line_2": "Earley Gate, Whiteknights Road",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG6 6BU",
+          "premises": "Reading Enterprise Centre"
+        }
+      },
+      {
+        "name": "KAKAD, Sacha Rashmi",
+        "officer_role": "director",
+        "appointed_on": "2019-10-28",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "University Of Reading",
+          "address_line_2": "Earley Gate, Whiteknights Road",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG6 6BU",
+          "premises": "Reading Enterprise Centre"
+        }
+      },
+      {
+        "name": "SANDERS, Nathan Thomas",
+        "officer_role": "director",
+        "appointed_on": "2009-05-13",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "38 Bradmore Way",
+          "address_line_2": "Lower Earley",
+          "locality": "Reading",
+          "postal_code": "RG6 4DS"
+        }
+      },
+      {
+        "name": "APARICIO, Jesus Manuel",
+        "officer_role": "director",
+        "appointed_on": "2009-10-01",
+        "resigned_on": "2013-05-31",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Swallowfield",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG7 1WY",
+          "premises": "Wyvols Court"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CABLE, Richard",
+        "officer_role": "secretary",
+        "appointed_on": "2009-05-13",
+        "resigned_on": "2009-10-01",
+        "address": {
+          "address_line_1": "9 Old Fields Road",
+          "country": "Mid Glamorgan",
+          "locality": "Pencoed",
+          "postal_code": "CF35 5LJ",
+          "premises": "Fields House",
+          "region": "Bridgend"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Westbase Group Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2017-09-01",
+        "address": {
+          "address_line_1": "Lodge Way",
+          "address_line_2": "Portskewett",
+          "country": "Wales",
+          "locality": "Caldicot",
+          "postal_code": "NP26 5PS",
+          "premises": "2"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "Wales",
+          "place_registered": "England And Wales",
+          "registration_number": "10349073"
+        }
+      },
+      {
+        "name": "Mr Nathan Thomas Sanders",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-05-13",
+        "ceased_on": "2017-09-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Imperial Way",
+          "country": "England",
+          "locality": "Reading",
+          "postal_code": "RG2 0TD",
+          "premises": "Atlantic House",
+          "region": "Berkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "069042020001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-02-25",
+        "delivered_on": "2021-03-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "AEBEPQKJ",
+        "transaction_id": "MzQ4MjQ5NTQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 37,
+        "barcode": "AEBEPQKR",
+        "transaction_id": "MzQ4MjQ5NTI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-09-24",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "AEBEPQKB",
+        "transaction_id": "MzQ4MjQ5NDk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-09-24",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AEBEPQK3",
+        "transaction_id": "MzQ4MjQ5NDg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3G6MR6",
+        "transaction_id": "MzQ2Nzk2NTM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-18",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ADCIWOJF",
+        "transaction_id": "MzQ0MDA3MzkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-18",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 37,
+        "barcode": "ADCIWOHC",
+        "transaction_id": "MzQ0MDA3MzczMmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-10-18",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ADCIWOH4",
+        "transaction_id": "MzQ0MDA3MzY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-10-18",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 1,
+        "barcode": "ADCIWOGW",
+        "transaction_id": "MzQ0MDA3MzUzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD39DRHD",
+        "transaction_id": "MzQyMjE0NzU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "ACD2VEJN",
+        "transaction_id": "MzM5NzUwMTI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-23",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 44,
+        "barcode": "ACD2VEJV",
+        "transaction_id": "MzM5NzUwMTE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-10-23",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ACD2VENN",
+        "transaction_id": "MzM5NzUwMTE0NGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-10-23",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ACD2VELZ",
+        "transaction_id": "MzM5NzUwMTA5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC3LQ99C",
+        "transaction_id": "MzM3OTU0OTIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-10-28",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 31,
+        "barcode": "ABFHI6F5",
+        "transaction_id": "MzM1NjczOTk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-10-28",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUJGSEk2RkRhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-10",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "ABDNBD4I",
+        "transaction_id": "MzM1NDYwNjUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-10",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 41,
+        "barcode": "ABDNBD2P",
+        "transaction_id": "MzM1NDYwNjMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-10-10",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 3,
+        "barcode": "ABDNBD2X",
+        "transaction_id": "MzM1NDYwNjI0MmFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2022-10-10",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ABDNBD4Q",
+        "transaction_id": "MzM1NDYwNjE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4MTSEG",
+        "transaction_id": "MzM0MDEzMTczNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-23",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB4MU2K9",
+        "transaction_id": "MzM0MDExNzExOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-10",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "AAG1AU54",
+        "transaction_id": "MzMxOTczMTI5NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-10",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 38,
+        "barcode": "AAG1AU74",
+        "transaction_id": "MzMxOTczMTIwOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Cntrl.io",
+    "headcount": 8,
+    "tech_stack": [],
+    "business_keywords": [
+      "Motorsport telemetry",
+      "Race telemetry",
+      "Cellular telemetry system",
+      "Telemetry solution",
+      "Race winning connectivity",
+      "Hardware",
+      "Software",
+      "Infrastructure",
+      "Data delivery",
+      "Race engineering",
+      "24 Hours of Le Mans",
+      "Spa",
+      "Daytona",
+      "Nürburgring",
+      "Demanding circuits"
+    ],
+    "services": [
+      "Race winning telemetry solution",
+      "Cellular telemetry system",
+      "Data delivery for race engineers (track side or remote)"
+    ],
+    "customer_segments": [
+      "Motorsport teams"
+    ],
+    "business_description": "Control Ltd provides the world’s most comprehensive Motorsport telemetry solution, combining hardware, software, and infrastructure to deliver race-winning connectivity. Their cellular telemetry system enables teams to race confidently at demanding circuits by providing critical data to race engineers globally.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:04:10.924Z"
+  },
+  "scraped_at": "2026-01-10T07:04:05.669Z",
+  "updated_at": "2026-01-10T07:04:10.924Z",
+  "version": 1
+}

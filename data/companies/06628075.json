@@ -1,0 +1,426 @@
+{
+  "company_name": "ITSUS CONSULTING LTD",
+  "company_number": "06628075",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-06-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 Cwrt Y Parc, Earlswood Road, Llanishen, Cardiff, CF14 5GH",
+  "registered_address_structured": {
+    "address_line_1": "4 Cwrt Y Parc, Earlswood Road",
+    "address_line_2": "Llanishen",
+    "locality": "Cardiff",
+    "postal_code": "CF14 5GH"
+  },
+  "sic_codes": [
+    "61900",
+    "62090",
+    "71122"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CO-TECH COMMUNICATIONS LIMITED",
+      "ceased_on": "2009-03-05",
+      "effective_from": "2008-06-24"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-06",
+    "last_made_up_to": "2025-07-23",
+    "next_made_up_to": "2026-07-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "COUSINS, Alexander Peter",
+        "officer_role": "director",
+        "appointed_on": "2008-06-24",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Cwrt Y Parc, Earlswood Road",
+          "address_line_2": "Llanishen",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF14 5GH",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "MIAN, Shahid Hamid, Dr",
+        "officer_role": "director",
+        "appointed_on": "2009-07-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Cwrt Y Parc, Earlswood Road",
+          "address_line_2": "Llanishen",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF14 5GH",
+          "premises": "4"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Alexander Peter Cousins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Cwrt Y Parc, Earlswood Road",
+          "address_line_2": "Llanishen",
+          "locality": "Cardiff",
+          "postal_code": "CF14 5GH",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "Dr Shahid Hamid Mian",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Cwrt Y Parc, Earlswood Road",
+          "address_line_2": "Llanishen",
+          "locality": "Cardiff",
+          "postal_code": "CF14 5GH",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "066280750002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-09-15",
+        "delivered_on": "2014-09-19",
+        "particulars": {
+          "type": "brief-description",
+          "description": "F/H property k/a unit 4CWRT y parc, earlswood road, llanishen, cardiff.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "066280750001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2014-07-24",
+        "delivered_on": "2014-07-24",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE8POUKZ",
+        "transaction_id": "MzQ3Njc5MTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE89P3TH",
+        "transaction_id": "MzQ3NjIxMzYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDAFRHZE",
+        "transaction_id": "MzQzMzY2MzgwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8CGXLW",
+        "transaction_id": "MzQzMDM1MzMyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD60WMI1",
+        "transaction_id": "MzQyNjUzNTQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCDJ9PUH",
+        "transaction_id": "MzM5NTQ1OTYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC6YY0O9",
+        "transaction_id": "MzM4NTA1NTE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB99O8T7",
+        "transaction_id": "MzM0NzI0ODAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB6VLM1K",
+        "transaction_id": "MzM0MzYxMjI1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "AA98WXBL",
+        "transaction_id": "MzMwODU4NzEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7D751C",
+        "transaction_id": "MzMwNTY3NDcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-07-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "A98FPBSB",
+        "transaction_id": "MzI3MjY1NDI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97UOI1V",
+        "transaction_id": "MzI2ODExNjE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "L8GQ1P8O",
+        "transaction_id": "MzI0NzU2OTEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X88BHZWO",
+        "transaction_id": "MzIzNzYxMjkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-07-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "A79GEMX7",
+        "transaction_id": "MzIwOTE5MzMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-07-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X79KDYYW",
+        "transaction_id": "MzIwOTA5MDMzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "A69DUXWQ",
+        "transaction_id": "MzE3OTE2MDEwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-06-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X69CYW23",
+        "transaction_id": "MzE3ODg1MzU5OWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-06-27",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X5A1ZZ1V",
+        "transaction_id": "MzE1MTY4NjM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A57PNSDT",
+        "transaction_id": "MzE0OTc1MDYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-06-25",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X4AB170Z",
+        "transaction_id": "MzEyNTg3ODQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-06-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "A488W595",
+        "transaction_id": "MzEyNDIxOTM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2015-03-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X42K48B4",
+        "transaction_id": "MzExODYzNjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2014-09-19",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 9,
+        "barcode": "A3GQXBG3",
+        "transaction_id": "MzEwODExMjY5M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 54,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 26
+  },
+  "enrichment": {
+    "website": "https://Itsusconsulting.com",
+    "headcount": 26,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T06:10:25.324Z",
+  "scraped_at": "2026-01-10T06:10:25.324Z"
+}

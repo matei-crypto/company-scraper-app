@@ -1,0 +1,451 @@
+{
+  "company_name": "HIPERDIST LIMITED",
+  "company_number": "06504536",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-02-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "St. George’S House, Knoll Road, Camberley, Surey, GU15 3SY, England",
+  "registered_address_structured": {
+    "address_line_1": "St. George’S House",
+    "address_line_2": "Knoll Road",
+    "country": "England",
+    "locality": "Camberley",
+    "postal_code": "GU15 3SY",
+    "region": "Surey"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "INTERDIST ALLIANCES LIMITED",
+      "ceased_on": "2020-06-09",
+      "effective_from": "2009-03-03"
+    },
+    {
+      "name": "INTERDIST UK LIMITED",
+      "ceased_on": "2009-03-03",
+      "effective_from": "2008-02-14"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-28",
+    "next_accounts_period_end_on": "2025-12-28",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-24",
+    "last_made_up_to": "2025-11-10",
+    "next_made_up_to": "2026-11-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KAREH, Antoine",
+        "officer_role": "director",
+        "appointed_on": "2008-02-14",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1952,
+        "nationality": "Lebanese",
+        "country_of_residence": "Lebanon",
+        "address": {
+          "address_line_1": "Knoll Road",
+          "country": "England",
+          "locality": "Camberley",
+          "postal_code": "GU15 3SY",
+          "premises": "St. George’S House",
+          "region": "Surey"
+        }
+      },
+      {
+        "name": "C & M REGISTRARS LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2008-02-14",
+        "resigned_on": "2008-02-14",
+        "address": {
+          "address_line_1": "7 Spa Road",
+          "locality": "London",
+          "postal_code": "SE16 3QQ"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JP SECRETARIAL SERVICES LTD",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-02-14",
+        "address": {
+          "address_line_1": "Nucleus House",
+          "address_line_2": "2 Lower Mortlake Road",
+          "country": "United Kingdom",
+          "locality": "Richmond",
+          "postal_code": "TW9 2JA",
+          "premises": "2nd Floor"
+        }
+      },
+      {
+        "name": "C & M SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-02-14",
+        "resigned_on": "2008-02-14",
+        "address": {
+          "address_line_1": "7 Spa Road",
+          "locality": "London",
+          "postal_code": "SE16 3QQ"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Susan Tierney",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-09-03",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Knoll Road",
+          "country": "England",
+          "locality": "Camberley",
+          "postal_code": "GU15 3SY",
+          "premises": "St. George’S House",
+          "region": "Surey"
+        }
+      },
+      {
+        "name": "John Edmund Tierny",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-04-21",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "The Fairway",
+          "country": "United Kingdom",
+          "locality": "Worplesdon",
+          "postal_code": "GU3 3QE",
+          "premises": "Conway House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Unidist Lebanon (Universal Distributors) Holdings Sal",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Cis Building",
+          "country": "Lebanon",
+          "locality": "Beirut",
+          "premises": "Jal El Dib"
+        },
+        "identification": {
+          "legal_form": "Holding Sal (Private Company)",
+          "legal_authority": "Lebanon Laws",
+          "country_registered": "Lebanon",
+          "place_registered": "Lebanese Company Register",
+          "registration_number": "Rc Beirut 338"
+        }
+      },
+      {
+        "name": "Antoine Kareh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1952,
+        "nationality": "Lebanese",
+        "country_of_residence": "France",
+        "address": {
+          "address_line_1": "Knoll Road",
+          "country": "England",
+          "locality": "Camberley",
+          "postal_code": "GU15 3SY",
+          "premises": "St. George’S House",
+          "region": "Surey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEF20WX7",
+        "transaction_id": "MzQ4ODAzODE5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-08",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 38,
+        "barcode": "XEANR896",
+        "transaction_id": "MzQ4MDEyNzA5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXN29C0",
+        "transaction_id": "MzQ1NzIxMDE1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 37,
+        "barcode": "XDI6YLDD",
+        "transaction_id": "MzQ0ODE3MTAxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-10-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDCZYSMI",
+        "transaction_id": "MzQzODM5OTU2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-23",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDC87N1T",
+        "transaction_id": "MzQzNjgxMzE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCY5FWW9",
+        "transaction_id": "MzQxMzQ4MjU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 37,
+        "barcode": "XCD06P83",
+        "transaction_id": "MzM5NDc1NjA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBZ6WVH6",
+        "transaction_id": "MzM3MjMzNTI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBYIXTG0",
+        "transaction_id": "MzM3MTQzOTAxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-28",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 39,
+        "barcode": "XBDHVN4B",
+        "transaction_id": "MzM1MzM4ODg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1AKFVE",
+        "transaction_id": "MzMzNTI1OTg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-27",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 40,
+        "barcode": "XADO1A22",
+        "transaction_id": "MzMxNDgwODIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2PZ82J",
+        "transaction_id": "MzI5ODE1NjA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-16",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XA2F8VXV",
+        "transaction_id": "MzI5Nzc2MDg1MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-16",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XA2F8USP",
+        "transaction_id": "MzI5Nzc2MDUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-30",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 38,
+        "barcode": "X9GP5RVK",
+        "transaction_id": "MzI4MjAxNDQzM2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-06-09",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "X96QQXO2",
+        "transaction_id": "MzI2Njg4NjM4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X921P2CI",
+        "transaction_id": "MzI2MTUxMzg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Z8NWOR",
+        "transaction_id": "MzI1Nzc4NjE0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-19",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 37,
+        "barcode": "X8KMNOR5",
+        "transaction_id": "MzI1MjYwMjQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-30",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8F30SO1",
+        "transaction_id": "MzI0NTUyMjA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X7ZCF8AO",
+        "transaction_id": "MzIyNzA4NTQ4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-25",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 35,
+        "barcode": "X7HC2SSO",
+        "transaction_id": "MzIxNzg5ODg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-28",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X7FGW2XN",
+        "transaction_id": "MzIxNTc0NDgzOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 65,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "revenue": 101986000,
+    "ebitda": 1349000,
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Interdistalliances.com",
+    "headcount": 14,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T05:49:18.936Z",
+  "scraped_at": "2026-01-10T05:49:18.936Z"
+}

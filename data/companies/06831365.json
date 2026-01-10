@@ -1,0 +1,553 @@
+{
+  "company_name": "VENOM IT LIMITED",
+  "company_number": "06831365",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-02-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "59 Washway Road, Sale, M33 7AB, England",
+  "registered_address_structured": {
+    "address_line_1": "59 Washway Road",
+    "country": "England",
+    "locality": "Sale",
+    "postal_code": "M33 7AB"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-12",
+    "last_made_up_to": "2025-02-26",
+    "next_made_up_to": "2026-02-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "POWELL, Rebecca Louise",
+        "officer_role": "director",
+        "appointed_on": "2009-02-26",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Washway Road",
+          "country": "England",
+          "locality": "Sale",
+          "postal_code": "M33 7AB",
+          "premises": "59"
+        }
+      },
+      {
+        "name": "POWELL, Steven Frank",
+        "officer_role": "director",
+        "appointed_on": "2009-05-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Washway Road",
+          "country": "England",
+          "locality": "Sale",
+          "postal_code": "M33 7AB",
+          "premises": "59"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Miss Rebecca Louise Powell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Washway Road",
+          "country": "England",
+          "locality": "Sale",
+          "postal_code": "M33 7AB",
+          "premises": "59"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068313650006",
+        "charge_number": 6,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-08-24",
+        "delivered_on": "2023-08-29",
+        "particulars": {
+          "type": "brief-description",
+          "description": "59 washway road, sale, M33 7AB (land registry title number GM297810).",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "068313650005",
+        "charge_number": 5,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-08-03",
+        "delivered_on": "2023-08-15",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "068313650004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-09-11",
+        "delivered_on": "2019-09-13",
+        "particulars": {
+          "type": "brief-description",
+          "description": "55 washway road, sale M33 7AB title number GM309114. 59 washway road,sale M33 7AB title number GM297810.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Santander UK PLC as Security Trustee"
+          }
+        ],
+        "satisfied_on": "2023-09-01",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "068313650003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-02-16",
+        "delivered_on": "2018-02-19",
+        "particulars": {
+          "type": "brief-description",
+          "description": "59 washway road, sale, M33 7DD (land registry title no: GM297810).",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "068313650002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2017-11-24",
+        "delivered_on": "2017-11-30",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "068313650001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-05-15",
+        "delivered_on": "2015-06-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "55 washway road sale cheshire.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 6,
+    "unsatisfied_count": 5,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-09-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEAFXFW9",
+        "transaction_id": "MzQ3OTk1Njg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE7FUNDF",
+        "transaction_id": "MzQ3NTAyNTQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXCH2M8",
+        "transaction_id": "MzQ1Njg5NDE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD7GAA4P",
+        "transaction_id": "MzQyODg4MTQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXOTLE9",
+        "transaction_id": "MzQxMjQwMjQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "ACB3DEPC",
+        "transaction_id": "MzM5MTg4MzY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-09-01",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCB54AAH",
+        "transaction_id": "MzM5MTY0NjE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 8,
+        "barcode": "XCAWNSX4",
+        "transaction_id": "MzM5MTA1ODM1OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-15",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "XC9Y8HBC",
+        "transaction_id": "MzM4OTYwNDg1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC6QSKWY",
+        "transaction_id": "MzM4NDgwODk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYANUT5",
+        "transaction_id": "MzM3MDk3NzQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB885CUA",
+        "transaction_id": "MzM0NTcxMzE5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYTFCGW",
+        "transaction_id": "MzMzMTMyNjI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAHZO1DU",
+        "transaction_id": "MzMyMTMxNTk4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA3E9WQW",
+        "transaction_id": "MzI5OTMxNzczNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9JO0OC8",
+        "transaction_id": "MzI4NTc4MTI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZRD1BM",
+        "transaction_id": "MzI1ODUyNzczMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2019-09-13",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 51,
+        "barcode": "X8DWQ1AO",
+        "transaction_id": "MzI0NDIxOTE3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8D8P6XN",
+        "transaction_id": "MzI0MzI4NzM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X828C1Y1",
+        "transaction_id": "MzIzMDc2OTUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-03-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X828BROH",
+        "transaction_id": "MzIzMDc2NzQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-03-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X828BPWI",
+        "transaction_id": "MzIzMDc2NzEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-03-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X828BO8I",
+        "transaction_id": "MzIzMDc2Njc3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7I2JDTM",
+        "transaction_id": "MzIxODU5MzYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-09-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "A7ECJMP6",
+        "transaction_id": "MzIxNDYzMzc4OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 54,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 27
+  },
+  "enrichment": {
+    "website": "https://Venomit.co.uk",
+    "headcount": 27,
+    "tech_stack": [
+      "Microsoft Office 365",
+      "Veeam",
+      "ownCloud",
+      "Skype for Business",
+      "Citrix",
+      "SAP",
+      "Hosted Desktop (DaaS)"
+    ],
+    "business_keywords": [
+      "Managed IT Services",
+      "IT Support",
+      "Cloud Solutions",
+      "Cyber Security",
+      "Hosted Desktop",
+      "Secure Cloud Solutions",
+      "IT Infrastructure",
+      "Data Security",
+      "Remote Working",
+      "Disaster Recovery",
+      "IT Consultancy",
+      "Cloud Hosting",
+      "Data Centres",
+      "Desktop-as-a-Service (DaaS)",
+      "IT Partnership"
+    ],
+    "services": [
+      "Managed IT Services",
+      "Cyber Security Solutions",
+      "Cloud Solutions",
+      "Hosted Desktop Solutions",
+      "IT Support",
+      "Cloud Hosting",
+      "IT Consultancy",
+      "Secure Data Centres",
+      "IT Infrastructure Upgrades",
+      "Data Security and Protection",
+      "Remote Workforce Solutions",
+      "Disaster Recovery Planning"
+    ],
+    "customer_segments": [
+      "Small businesses",
+      "Growing businesses",
+      "Medium businesses",
+      "Large businesses",
+      "UK businesses",
+      "Removal companies",
+      "Event services companies",
+      "Companies working with vulnerable people",
+      "Architect firms",
+      "Medical companies",
+      "Legal firms"
+    ],
+    "business_description": "Venom IT Limited is an award-winning IT support company providing managed IT services, secure cloud solutions, and cyber security for businesses across the UK. They offer tailored IT solutions, including hosted desktop, cloud hosting, and robust security measures, to support businesses of varying sizes and industries with their IT infrastructure and remote working needs.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 34,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-10T06:52:00.597Z"
+  },
+  "scraped_at": "2026-01-10T06:51:48.682Z",
+  "updated_at": "2026-01-10T06:52:00.597Z",
+  "version": 1
+}

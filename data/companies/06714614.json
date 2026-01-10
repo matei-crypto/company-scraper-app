@@ -1,0 +1,468 @@
+{
+  "company_name": "SAVVY IT LIMITED",
+  "company_number": "06714614",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-10-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "3 Parsonage Chambers, Manchester, M3 2HW, England",
+  "registered_address_structured": {
+    "address_line_1": "3 Parsonage Chambers",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M3 2HW"
+  },
+  "sic_codes": [
+    "62030",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-04-30",
+    "next_accounts_period_end_on": "2026-07-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-17",
+    "last_made_up_to": "2025-10-03",
+    "next_made_up_to": "2026-10-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRIGHT, Sam Nicholas",
+        "officer_role": "director",
+        "appointed_on": "2025-09-03",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Stockton Road",
+          "address_line_2": "Chorlton-Cum-Hardy",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M21 9FB",
+          "premises": "19"
+        }
+      },
+      {
+        "name": "BROOKES, Jordan Ellis",
+        "officer_role": "director",
+        "appointed_on": "2025-09-03",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Blenhiem Road",
+          "address_line_2": "Moseley",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B13 9TY",
+          "premises": "35"
+        }
+      },
+      {
+        "name": "HOMER, Christopher",
+        "officer_role": "director",
+        "appointed_on": "2008-10-03",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Parsonage Chambers",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M3 2HW",
+          "premises": "3"
+        }
+      },
+      {
+        "name": "HOMER, Hannah Claire",
+        "officer_role": "director",
+        "appointed_on": "2020-09-24",
+        "resigned_on": "2025-09-03",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Howard Way",
+          "address_line_2": "Interchange Park",
+          "country": "England",
+          "locality": "Newport Pagnell",
+          "postal_code": "MK16 9PY",
+          "premises": "Suite 118, Icentre"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Bespoke Xyz Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-09-03",
+        "address": {
+          "address_line_1": "Parsonage",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M3 2HW",
+          "premises": "3"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "England And Wales"
+        }
+      },
+      {
+        "name": "Mr Christopher Homer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2025-09-03",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Howard Way",
+          "address_line_2": "Interchange Park",
+          "country": "England",
+          "locality": "Newport Pagnell",
+          "postal_code": "MK16 9PY",
+          "premises": "Suite 118, Icentre"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XECN5Q9I",
+        "transaction_id": "MzQ4NDA3ODk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-22",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEBMWJH7",
+        "transaction_id": "MzQ4MjE0MTA5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-16",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEB6PPPZ",
+        "transaction_id": "MzQ4MTM3Njg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-12",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEAYMZU9",
+        "transaction_id": "MzQ4MDgxMDQ1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEAYMYG8",
+        "transaction_id": "MzQ4MDgxMDE4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEAYMWT5",
+        "transaction_id": "MzQ4MDgwOTc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XEAYMW05",
+        "transaction_id": "MzQ4MDgwOTU1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEAYMUFD",
+        "transaction_id": "MzQ4MDgwOTE3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-09-01",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YE9WNBLU",
+        "transaction_id": "WUU5V05CTFVhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-09-01",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YE9WN9SH",
+        "transaction_id": "MzQ3ODk2NTQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE90H62W",
+        "transaction_id": "MzQ3NzM5MTIwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDE9KH22",
+        "transaction_id": "MzQ0MDQ2NzgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDD7R3B4",
+        "transaction_id": "MzQzODU1NzY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCX8KR7F",
+        "transaction_id": "MzQxMTYwMTc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-02-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCWVCMTS",
+        "transaction_id": "MzQxMTIyNzAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDDTOHC",
+        "transaction_id": "MzM5NTIxODcxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XC9VKJJD",
+        "transaction_id": "MzM4OTQ3OTM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBICMRF4",
+        "transaction_id": "MzM2MTMyODMzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEMH8H7",
+        "transaction_id": "MzM1NTI1NDYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAHGUHGP",
+        "transaction_id": "MzMyMDM5NzM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEEYK23",
+        "transaction_id": "MzMxNTkzMTk5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA0E6NYX",
+        "transaction_id": "MzI5NDQ0NjI4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA0E6LT4",
+        "transaction_id": "MzI5NDQ0NTczOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-03-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XA0E6KGY",
+        "transaction_id": "MzI5NDQ0NTQ4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9J7X9Z7",
+        "transaction_id": "MzI4NTE4MjE0N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 60,
+    "recent_filings_count": 11
+  },
+  "financials": {
+    "employees": 18
+  },
+  "enrichment": {
+    "website": "https://Savvy-it.com",
+    "headcount": 18,
+    "tech_stack": [
+      "AutoCAD",
+      "GIS"
+    ],
+    "business_keywords": [
+      "IT staffing",
+      "payroll services",
+      "SaaS solutions",
+      "software innovation",
+      "ISO 9001",
+      "ISO 27001",
+      "CMMI Level 3",
+      "staff augmentation",
+      "workflow automation",
+      "AI-powered solutions",
+      "process automation",
+      "low-code development",
+      "telecom design",
+      "global payroll",
+      "employer-of-record (EOR)",
+      "contingent staffing",
+      "supplier success platform",
+      "global capability centers",
+      "OSP telecom design",
+      "predictive analytics"
+    ],
+    "services": [
+      "Staff Augmentation",
+      "Staff Management",
+      "Payroll Services",
+      "Software Project Consulting",
+      "Custom Workflow Applications (SaaS)",
+      "OSP Telecom Design",
+      "AI-Powered Solutions",
+      "Process Automation",
+      "Low-Code Development Framework",
+      "Contingent Staffing",
+      "Global Capability Centers (GCC)",
+      "Permanent & Direct Placement",
+      "STARS – Supplier Success Platform"
+    ],
+    "customer_segments": [
+      "Fortune 500 companies",
+      "government agencies",
+      "healthcare",
+      "government",
+      "retail",
+      "manufacturing",
+      "technology",
+      "energy",
+      "telecom",
+      "federal agencies",
+      "state/local governments",
+      "enterprise clients",
+      "public-sector clients"
+    ],
+    "business_description": "Savvy IT LIMITED (operating as Savvysoft Technologies) delivers flexible IT staffing, payroll services, SaaS solutions, and software innovation backed by ISO 9001, ISO 27001, and CMMI Level 3 standards. The company provides scalable workforce solutions, telecom design, workflow automation, and custom software development for Fortune 500 companies and government agencies across the U.S. and India.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:26:05.457Z"
+  },
+  "scraped_at": "2026-01-10T06:25:55.432Z",
+  "updated_at": "2026-01-10T06:26:05.457Z",
+  "version": 1
+}

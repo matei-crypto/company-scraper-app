@@ -1,0 +1,456 @@
+{
+  "company_name": "CRYSTAL BALL LIMITED",
+  "company_number": "06668428",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-08-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Washbrook House Talbot Road, Stretford, Manchester, M32 0FP, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Washbrook House Talbot Road",
+    "address_line_2": "Stretford",
+    "country": "United Kingdom",
+    "locality": "Manchester",
+    "postal_code": "M32 0FP"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-14",
+    "last_made_up_to": "2025-02-28",
+    "next_made_up_to": "2026-02-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SINGH, Raj",
+        "officer_role": "director",
+        "appointed_on": "2008-08-08",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Talbot Road",
+          "address_line_2": "Stretford",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M32 0FP",
+          "premises": "Washbrook House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ST PAULS SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-08-08",
+        "resigned_on": "2021-01-10",
+        "address": {
+          "address_line_1": "St Pauls Square",
+          "country": "England",
+          "locality": "Liverpool",
+          "postal_code": "L3 9SJ",
+          "premises": "No 1",
+          "region": "Merseyside"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Seven Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "501 Chester Road",
+          "country": "United Kingdom",
+          "locality": "Manchester",
+          "postal_code": "M16 9HU",
+          "premises": "1st Floor, West Point"
+        },
+        "identification": {
+          "legal_form": "Ltd",
+          "legal_authority": "English",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "06897260"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "066684280002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-05-07",
+        "delivered_on": "2021-05-10",
+        "particulars": {
+          "type": "brief-description",
+          "description": "N/A.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Handelsbanken PLC"
+          }
+        ],
+        "satisfied_on": "2022-03-18",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "066684280001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-02-27",
+        "delivered_on": "2018-03-05",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "satisfied_on": "2022-12-21",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDYJNJK8",
+        "transaction_id": "MzQ1ODkxNzkyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDX9MXUH",
+        "transaction_id": "MzQ1NjczMTM0MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCY01BG2",
+        "transaction_id": "MzQxMzE1MDYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCXX8B3T",
+        "transaction_id": "MzQxMjk3ODQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCAJKFT4",
+        "transaction_id": "MzM5MDU4NDU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-12-21",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "ABJD20VU",
+        "transaction_id": "MzM2MzQxMDg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBH83GJS",
+        "transaction_id": "MzM1OTE1ODQ3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBA5TZEA",
+        "transaction_id": "MzM0ODQ4MDkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-03-18",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "AB01FREH",
+        "transaction_id": "MzMzMzQxNzg0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAWCPF9U",
+        "transaction_id": "MzMyNzU2MTk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAD5CXQH",
+        "transaction_id": "MzMxNDA2MTU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XACH1ICG",
+        "transaction_id": "MzMxMjg3MTYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-05-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 20,
+        "barcode": "XA47UBRT",
+        "transaction_id": "MzMwMDQ1Njg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-01-25",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X9WW7FNL",
+        "transaction_id": "MzI4OTU3MzUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-07",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X9VPDNY8",
+        "transaction_id": "MzI4Nzg2MDU1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9GGV53U",
+        "transaction_id": "MzI4MTU4NTE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X8ZLYN8M",
+        "transaction_id": "MzI1ODMxNDI3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8E9QWS3",
+        "transaction_id": "MzI0NDUxMTkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X7YU0Z7D",
+        "transaction_id": "MzIyNjU3MjQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-08-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7DHDGUH",
+        "transaction_id": "MzIxMzM2MDA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-08-31",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X7DHDC7V",
+        "transaction_id": "MzIxMzM1OTk5NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-03-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 5,
+        "barcode": "X712Q4M1",
+        "transaction_id": "MzE5OTIzMjg4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-02-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X70KLSY1",
+        "transaction_id": "MzE5ODY2NDk2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2018-01-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6WWFL2W",
+        "transaction_id": "MzE5NDQ3NTY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X6E2BTND",
+        "transaction_id": "MzE4NDM2MzM4NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 46,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Crystalball.tv",
+    "headcount": 14,
+    "tech_stack": [
+      "Google Tag Manager GTM-TWLCD3XM",
+      "4G dash cams"
+    ],
+    "business_keywords": [
+      "fleet management",
+      "vehicle tracking",
+      "telematics",
+      "fleet tracking",
+      "dash cams",
+      "4G dash cams",
+      "lone worker protection",
+      "asset tracking",
+      "plant tracking",
+      "Thatcham tracking",
+      "GPS tracking",
+      "fleet management software",
+      "cloud-based telematics",
+      "driver behaviour analysis",
+      "fleet performance"
+    ],
+    "services": [
+      "Fleet & Vehicle Tracking",
+      "Insurance Approved Thatcham Tracking",
+      "Cloud Based & AI Dash Cams",
+      "Direct Vision Standard",
+      "Lone Worker Protection",
+      "Asset/Plant Tracking",
+      "Vehicle telematics",
+      "Real-time vehicle tracking",
+      "Remote immobilisation",
+      "Driver behaviour analysis",
+      "Fleet performance analytics",
+      "Route optimisation",
+      "Fuel efficiency monitoring",
+      "Driver safety enhancement",
+      "Geofencing",
+      "Real-time alerts for speeding, excessive idling, and unauthorised vehicle use"
+    ],
+    "customer_segments": [
+      "SMEs",
+      "local government",
+      "fleet managers",
+      "transport and logistics companies"
+    ],
+    "business_description": "Crystal Ball Limited provides fleet management solutions, including vehicle tracking, cloud-based telematics, 4G dash cams, and lone worker protection. Their technology integrates real-time tracking, driver behaviour analysis, and fleet performance insights to help businesses save money and improve operational efficiency. The company serves SMEs and local government with award-winning, industry-leading fleet management software.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:18:35.230Z"
+  },
+  "scraped_at": "2026-01-10T06:18:26.874Z",
+  "updated_at": "2026-01-10T06:18:35.230Z",
+  "version": 1
+}

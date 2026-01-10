@@ -1,0 +1,438 @@
+{
+  "company_name": "ADDOOCO IT LIMITED",
+  "company_number": "06687050",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-09-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Dundee House, Millennium Way, Chesterfield, S41 8ND, England",
+  "registered_address_structured": {
+    "address_line_1": "Dundee House",
+    "address_line_2": "Millennium Way",
+    "country": "England",
+    "locality": "Chesterfield",
+    "postal_code": "S41 8ND"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-06",
+    "last_made_up_to": "2025-08-23",
+    "next_made_up_to": "2026-08-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WALTERS, Richard",
+        "officer_role": "director",
+        "appointed_on": "2008-09-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Millennium Way",
+          "country": "England",
+          "locality": "Chesterfield",
+          "postal_code": "S41 8ND",
+          "premises": "Dundee House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Walters Capital Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2023-04-21",
+        "address": {
+          "address_line_1": "Millennium Way",
+          "country": "England",
+          "locality": "Chesterfield",
+          "postal_code": "S41 8ND",
+          "premises": "Dundee House"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "14762010"
+        }
+      },
+      {
+        "name": "Mr Richard Walters",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-09-02",
+        "ceased_on": "2023-04-21",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Millennium Way",
+          "country": "England",
+          "locality": "Chesterfield",
+          "postal_code": "S41 8ND",
+          "premises": "Dundee House",
+          "region": "Derbyshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "066870500003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-08-23",
+        "delivered_on": "2023-08-24",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "066870500001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-07-02",
+        "delivered_on": "2018-07-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Freehold over dundee house, millennium way, chesterfield, S41 8ND and registered at the land registry under title number DY357063.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Clydesdale Bank PLC (Trading as Both Clydesdale and Yorkshire Bank) (Company Number SC001111)"
+          }
+        ],
+        "satisfied_on": "2023-07-24",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_code": "066870500002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-06-29",
+        "delivered_on": "2018-07-03",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All that property known as dundee house, millennium way, chesterfield, S41 8ND and registered at the land registry under DY357063.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Clydesdale Bank PLC (Trading as Clydesdale Bank and Yorkshire Bank)"
+          }
+        ],
+        "satisfied_on": "2023-07-24",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XEBVM6RC",
+        "transaction_id": "MzQ4Mjg0NjA0MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-09-02",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEAA1ZEJ",
+        "transaction_id": "MzQ3OTQ3MzQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEA7II60",
+        "transaction_id": "MzQ3OTM4MjgwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDCDUX63",
+        "transaction_id": "MzQzNzIwMjYyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDA4ZWUI",
+        "transaction_id": "MzQzMzIyMTA1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XCD0G5XD",
+        "transaction_id": "MzM5NDgzOTA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-08-24",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 56,
+        "barcode": "XCAMA05E",
+        "transaction_id": "MzM5MDY5ODM2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCAJJHK1",
+        "transaction_id": "MzM5MDU3Njk1MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-07-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XC8GDRNL",
+        "transaction_id": "MzM4NzM2NDMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-07-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XC8GDSDS",
+        "transaction_id": "MzM4NzM2NDQwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-05-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC3LLBIF",
+        "transaction_id": "MzM3OTQ4MTg5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC3LKSLC",
+        "transaction_id": "MzM3OTQ3NzY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-05-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUMyQjU5MFphZGlxemtjeA"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-03",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 4,
+        "barcode": "AC2B5917",
+        "transaction_id": "MzM3Nzk1MDA1N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-03",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 2,
+        "barcode": "AC2B58YZ",
+        "transaction_id": "MzM3Nzk1MDA2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC0679N6",
+        "transaction_id": "MzM3NDEyNDE0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEGY7TN",
+        "transaction_id": "MzM1NDk3MzU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XBDNC39T",
+        "transaction_id": "MzM1MzY3NDMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-01-19",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAW218MP",
+        "transaction_id": "MzMyNzEwMzUwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAD59VYY",
+        "transaction_id": "MzMxNDAzMDAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XA7QUD9L",
+        "transaction_id": "MzMwNjMwMjc2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DNN95M",
+        "transaction_id": "MzI3NzcwNzIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X98ARGK3",
+        "transaction_id": "MzI3MjAyNzM5NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8HO02L0",
+        "transaction_id": "MzI0ODY3MTI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8E4BSHC",
+        "transaction_id": "MzI0NDI4ODIwMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 55,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Addoocoit.co.uk",
+    "headcount": 20,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T06:22:35.536Z",
+  "scraped_at": "2026-01-10T06:22:35.536Z"
+}

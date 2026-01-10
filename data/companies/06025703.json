@@ -1,0 +1,511 @@
+{
+  "company_name": "DIGITAL SECURE SYSTEMS LIMITED",
+  "company_number": "06025703",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-12-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "Eastern Business Park, St Mellons, Cardiff, South Glamorgan, CF3 5EA",
+  "registered_address_structured": {
+    "address_line_1": "Eastern Business Park",
+    "address_line_2": "St Mellons",
+    "locality": "Cardiff",
+    "postal_code": "CF3 5EA",
+    "region": "South Glamorgan"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-26",
+    "last_made_up_to": "2025-12-12",
+    "next_made_up_to": "2026-12-12"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BASSETT, Kevin",
+        "officer_role": "director",
+        "appointed_on": "2008-04-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St Mellons",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Eastern Business Park",
+          "region": "South Glamorgan"
+        }
+      },
+      {
+        "name": "LEE, Georgina Elizabeth",
+        "officer_role": "director",
+        "appointed_on": "2006-12-12",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St Mellons",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Eastern Business Park",
+          "region": "South Glamorgan"
+        }
+      },
+      {
+        "name": "PAUL, Alan",
+        "officer_role": "director",
+        "appointed_on": "2006-12-12",
+        "resigned_on": "2008-02-28",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1949,
+        "nationality": "British",
+        "address": {
+          "address_line_1": "9 Hazel Gardens",
+          "address_line_2": "Sonning Common",
+          "locality": "Reading",
+          "postal_code": "RG4 9TF"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BASSETT, Kevin",
+        "officer_role": "secretary",
+        "appointed_on": "2008-04-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "St Mellons",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Eastern Business Park",
+          "region": "South Glamorgan"
+        }
+      },
+      {
+        "name": "PAUL, Alan",
+        "officer_role": "secretary",
+        "appointed_on": "2006-12-12",
+        "resigned_on": "2008-02-28",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "9 Hazel Gardens",
+          "address_line_2": "Sonning Common",
+          "locality": "Reading",
+          "postal_code": "RG4 9TF"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Advanced Secure Technologies Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2025-10-17",
+        "address": {
+          "address_line_1": "Wern Fawr Lane",
+          "address_line_2": "Old St. Mellons",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Eastern Business Park"
+        },
+        "identification": {
+          "legal_form": "Limited Company",
+          "legal_authority": "Companies Act 2006"
+        }
+      },
+      {
+        "name": "Mr Kevin Bassett",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2025-10-17",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St Mellons",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Eastern Business Park",
+          "region": "South Glamorgan"
+        }
+      },
+      {
+        "name": "Georgina Elizabeth Lee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2025-10-17",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "St Mellons",
+          "locality": "Cardiff",
+          "postal_code": "CF3 5EA",
+          "premises": "Eastern Business Park",
+          "region": "South Glamorgan"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "060257030003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-04-09",
+        "delivered_on": "2024-04-10",
+        "particulars": {
+          "type": "brief-description",
+          "description": "All other freehold and leasehold property now or in the future belonging to the company together with all buildings, trade and other fixtures, fixed plant and machinery of the company from time to time on such property and;. All patents, copyrights, marks, service marks, designs and other intellectual property rights (including without limitation business names, know-how, formulae, inventions, confidential information, trade secrets, computer software, programs and systems), claims and all fees, royalties and other rights of every kind deriving from such intellectual property now or in the future belonging to the company.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Dbw Investments (3) Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-06-17",
+        "delivered_on": "2011-06-23",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All the undertaking property and assets present and future, see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Finance Wales Investments (6) Limited"
+          }
+        ],
+        "satisfied_on": "2024-03-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2008-08-04",
+        "delivered_on": "2008-08-08",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Finance Wales Investments (2) Limited"
+          }
+        ],
+        "satisfied_on": "2024-03-14",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "resolution",
+        "date": "2025-12-28",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YEHQQ2XK",
+        "transaction_id": "WUVIUVEyWEthZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-12-27",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YEHQPZZV",
+        "transaction_id": "MzQ5NTM3MjI3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEI24BN7",
+        "transaction_id": "MzQ5NjIzODU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-19",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XEHQQ9FF",
+        "transaction_id": "MzQ5NTM3NDIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-19",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEHQQ72Z",
+        "transaction_id": "MzQ5NTM3MzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-12-19",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEHQQ6OP",
+        "transaction_id": "MzQ5NTM3MzUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XE6WWVFF",
+        "transaction_id": "MzQ3Mzk1MTM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-02-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YDX44H0Y",
+        "transaction_id": "WURYNDRIMFlhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDVWWYEX",
+        "transaction_id": "MzQ1NDEzMzQ1MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-29",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADEA99VN",
+        "transaction_id": "MzQ0MDY5NTIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-29",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADEA99VV",
+        "transaction_id": "MzQ0MDY5NTI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-10",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "ADCY6SDF",
+        "transaction_id": "MzQzOTAyNDM0NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-10",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 4,
+        "barcode": "ADCY6SD7",
+        "transaction_id": "MzQzOTAyNDM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XD84LFM9",
+        "transaction_id": "MzQzMDEwNzM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-04-10",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 36,
+        "barcode": "XD0PU1GH",
+        "transaction_id": "MzQxNzgzMDEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-14",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCYWDC3M",
+        "transaction_id": "MzQxNDU1MjY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-03-14",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XCYWDCRL",
+        "transaction_id": "MzQxNDU1Mjc2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XCW75FQA",
+        "transaction_id": "MzQwOTk0MDEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCW75BGJ",
+        "transaction_id": "MzQwOTkzOTAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC8OTX1C",
+        "transaction_id": "MzM4Nzk2NzEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-03-15",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM3MjUxODI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBZ9PWW8",
+        "transaction_id": "MzM3MjUxODE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-11",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBZ1THV7",
+        "transaction_id": "MzM3MjI5ODAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-02-28",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM3MDAyNTI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XB91ITJL",
+        "transaction_id": "MzM0NjgwNTk1OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 77,
+    "recent_filings_count": 9
+  },
+  "financials": {
+    "employees": 24
+  },
+  "enrichment": {
+    "headcount": 24,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T04:31:38.801Z",
+  "scraped_at": "2026-01-10T04:31:38.801Z"
+}

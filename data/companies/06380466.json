@@ -1,0 +1,680 @@
+{
+  "company_name": "GEEKS LTD",
+  "company_number": "06380466",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-09-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "6 Sutton Park Road, 6 Sutton Park Road, Sutton, London, SM1 2GD, England",
+  "registered_address_structured": {
+    "address_line_1": "6 Sutton Park Road",
+    "address_line_2": "6 Sutton Park Road",
+    "country": "England",
+    "locality": "Sutton",
+    "postal_code": "SM1 2GD",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090",
+    "63120"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-28",
+    "last_made_up_to": "2025-03-14",
+    "next_made_up_to": "2026-03-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AGHNIANEJAD MEHRJARDI, Somayeh",
+        "officer_role": "director",
+        "appointed_on": "2010-09-24",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6 Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6 Sutton Park Road",
+          "region": "London"
+        }
+      },
+      {
+        "name": "KHAMOOSHI, Paymon",
+        "officer_role": "director",
+        "appointed_on": "2007-09-25",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6 Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6 Sutton Park Road",
+          "region": "London"
+        }
+      },
+      {
+        "name": "AFSHAR, Mazdak",
+        "officer_role": "director",
+        "appointed_on": "2007-11-28",
+        "resigned_on": "2018-11-14",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "66a London Road",
+          "country": "England",
+          "locality": "Morden",
+          "postal_code": "SM4 5BE",
+          "premises": "Apollo House",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "AGHNIANEJAD, Somayeh",
+        "officer_role": "director",
+        "appointed_on": "2009-06-04",
+        "resigned_on": "2010-09-24",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "Iranian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Hillcross Avenue",
+          "locality": "Morden",
+          "postal_code": "SM4 4EG",
+          "premises": "100",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "GEEKS LTD",
+        "officer_role": "corporate-director",
+        "appointed_on": "2009-06-04",
+        "resigned_on": "2009-06-04",
+        "address": {
+          "address_line_1": "Hillcross Avenue",
+          "locality": "Morden",
+          "postal_code": "SM4 4EG",
+          "premises": "100",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "AGHNIANEJAD MEHRJARDI, Somayeh",
+        "officer_role": "secretary",
+        "appointed_on": "2010-09-24",
+        "address": {
+          "address_line_1": "6 Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6 Sutton Park Road",
+          "region": "London"
+        }
+      },
+      {
+        "name": "AGHNIANEJAD, Somayeh",
+        "officer_role": "secretary",
+        "appointed_on": "2007-09-25",
+        "resigned_on": "2008-02-07",
+        "nationality": "Iranian",
+        "address": {
+          "address_line_1": "100 Hillcross Avenue",
+          "address_line_2": "Morden",
+          "locality": "Surrey",
+          "postal_code": "SM4 4EG"
+        }
+      },
+      {
+        "name": "BOOSTANI, Bahareh",
+        "officer_role": "secretary",
+        "appointed_on": "2008-02-07",
+        "resigned_on": "2010-09-24",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Kenley Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW19 3DW",
+          "premises": "134"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Geeks Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-01-28",
+        "address": {
+          "address_line_1": "Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House, England And Wales",
+          "registration_number": "13773591"
+        }
+      },
+      {
+        "name": "Wordup App Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-01-27",
+        "ceased_on": "2022-01-28",
+        "address": {
+          "address_line_1": "Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "England And Wales",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House, England And Wales",
+          "registration_number": "13773590"
+        }
+      },
+      {
+        "name": "Mrs Somayeh Aghnianejad Mehrjardi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-10-01",
+        "ceased_on": "2022-01-27",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6 Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6 Sutton Park Road",
+          "region": "London"
+        }
+      },
+      {
+        "name": "Mr Paymon Khamooshi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-10-01",
+        "ceased_on": "2022-01-27",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6 Sutton Park Road",
+          "country": "England",
+          "locality": "Sutton",
+          "postal_code": "SM1 2GD",
+          "premises": "6 Sutton Park Road",
+          "region": "London"
+        }
+      },
+      {
+        "name": "Mr Mazdak Afshar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-10-01",
+        "ceased_on": "2018-11-13",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "66a London Road",
+          "locality": "Morden",
+          "postal_code": "SM4 5BE",
+          "premises": "Apollo House",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "063804660003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-09-27",
+        "delivered_on": "2019-10-13",
+        "particulars": {
+          "type": "brief-description",
+          "description": "By way of legal mortgage all interest in suite 1, suite 2 and car parking space at 6 sutton park road, sutton SM1 2GD registered under title numbers SGL704480, SGL704481 and SGL738728.",
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "063804660002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2019-09-25",
+        "delivered_on": "2019-09-30",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Deed of rent deposit"
+          }
+        ],
+        "created_on": "2011-04-08",
+        "delivered_on": "2011-04-28",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "All interest from time to time standing to the credit of an interest bearing account where the deposit balance is held see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Peer Securities Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-29",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "AEBRDCPK",
+        "transaction_id": "MzQ4MjgyNzczNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE9ZH6AX",
+        "transaction_id": "MzQ3OTE1MzgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE9ZH5XN",
+        "transaction_id": "MzQ3OTE1MzczN2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-04-02",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "ADYLWK9D",
+        "transaction_id": "QURZTFdLOURhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-24",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "ADYLWK95",
+        "transaction_id": "MzQ1OTU5ODk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-24",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADYLWK8X",
+        "transaction_id": "MzQ1OTU5ODkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XDYBS6NL",
+        "transaction_id": "MzQ1ODY4NDMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-13",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "ADHNP6GB",
+        "transaction_id": "MzQ0NzEyNTg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD36R0AO",
+        "transaction_id": "MzQyMjA0Njc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-23",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YCUX8CUP",
+        "transaction_id": "MzQwNzk1OTk0OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-15",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ACUJADJD",
+        "transaction_id": "MzQwNzQ2ODMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-01-10",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 35,
+        "barcode": "YCIY4YSR",
+        "transaction_id": "MzQwNTM5NzU4NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-01-10",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "WUNJWTRWUUphZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-03",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "YCTVLOYP",
+        "transaction_id": "MzQwNjI1ODgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-03",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ACIZVYTE",
+        "transaction_id": "MzQwNjM5ODMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-10-09",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WUNER0pMVkxhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-04",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCDGLPHN",
+        "transaction_id": "MzM5NTM3ODU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-04",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YCCXJHBE",
+        "transaction_id": "MzM5NDY1NjQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-04",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "YCCXJG68",
+        "transaction_id": "MzM5NDY1NjE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-10-04",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 35,
+        "barcode": "YCCXJ2OJ",
+        "transaction_id": "MzM5NDY1MjY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-29",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "AC63SKUI",
+        "transaction_id": "MzM4Mzg3ODk2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-22",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XC1O1MG0",
+        "transaction_id": "MzM3NjU3MjQwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC1TP2KZ",
+        "transaction_id": "MzM3NzA0ODEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-06",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "ABDNA7HM",
+        "transaction_id": "MzM1Mzg5MzE0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XB471IGH",
+        "transaction_id": "MzMzOTU1MjAyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 109,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 2642590,
+    "ebitda": -14078,
+    "employees": 26
+  },
+  "enrichment": {
+    "website": "https://Geeks.ltd.uk",
+    "headcount": 26,
+    "tech_stack": [
+      "Sawyer AI"
+    ],
+    "business_keywords": [
+      "AI-powered software development",
+      "software development",
+      "AI solutions",
+      "digital strategy",
+      "AI consulting",
+      "data strategy",
+      "digital due diligence",
+      "software design",
+      "AI opportunity discovery",
+      "AI integration",
+      "AI model training",
+      "custom web app development",
+      "custom mobile app development",
+      "bespoke CRM development",
+      "bespoke ERP development",
+      "UX design",
+      "wireframing",
+      "data transformation",
+      "AI agent development"
+    ],
+    "services": [
+      "AI & Data Strategy",
+      "AI Consulting",
+      "Data Strategy Consulting",
+      "Digital Due Diligence",
+      "Buy or Build Software Analysis",
+      "Solution Design & Discovery",
+      "AI Opportunity Discovery",
+      "Software Solution Design",
+      "Wireframing & UX Design",
+      "Data Transformation Services",
+      "AI Software Development",
+      "AI Agent Development",
+      "AI Integration Development",
+      "AI Model Training",
+      "Custom Web App Development",
+      "Custom Mobile App Development",
+      "Bespoke Customer Portal",
+      "Bespoke CRM & ERP Development",
+      "Scope and Quote tool (powered by Sawyer AI)"
+    ],
+    "customer_segments": [
+      "SMEs",
+      "Construction",
+      "Transport & Logistics",
+      "Property & Facilities Management",
+      "Finance & Insurance",
+      "Workforce Management & Recruitment",
+      "Manufacturing",
+      "Education",
+      "Health & Wellbeing",
+      "Legal",
+      "Retail",
+      "Farming & Agriculture",
+      "Nonprofit Organisations",
+      "Consultancy"
+    ],
+    "business_description": "Geeks Ltd is a US & UK-based AI-powered software development company that helps SMEs evolve by delivering software solutions from strategy to design and implementation. They assist ambitious businesses in discovering and realizing AI opportunities, offering services ranging from immediate quick-wins to long-term digital strategy through award-winning frameworks, deep technical skills, and hands-on partnerships.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T05:23:25.433Z"
+  },
+  "scraped_at": "2026-01-10T05:23:16.986Z",
+  "updated_at": "2026-01-10T05:23:25.433Z",
+  "version": 1
+}

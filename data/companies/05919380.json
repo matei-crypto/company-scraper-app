@@ -1,0 +1,485 @@
+{
+  "company_name": "ARAMAR SOLUTIONS LIMITED",
+  "company_number": "05919380",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-08-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "124 City Road, London, EC1V 2NX, England",
+  "registered_address_structured": {
+    "address_line_1": "124 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "D&M PROPERTIES LIMITED",
+      "ceased_on": "2009-11-02",
+      "effective_from": "2006-08-30"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-14",
+    "last_made_up_to": "2025-08-31",
+    "next_made_up_to": "2026-08-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HOWELL, Robert John",
+        "officer_role": "director",
+        "appointed_on": "2006-08-30",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "SANDS, Christopher Shaun",
+        "officer_role": "director",
+        "appointed_on": "2015-03-04",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "WHITNEY, Mark Roy",
+        "officer_role": "director",
+        "appointed_on": "2015-01-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "CRACKNELL, Mark Ian",
+        "officer_role": "director",
+        "appointed_on": "2006-08-30",
+        "resigned_on": "2014-10-10",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Monarch Way",
+          "locality": "Ipswich",
+          "postal_code": "IP8 3TA"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CRACKNELL, Mark Ian",
+        "officer_role": "secretary",
+        "appointed_on": "2006-08-30",
+        "resigned_on": "2014-10-10",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "1 Monarch Way",
+          "locality": "Ipswich",
+          "postal_code": "IP8 3TA"
+        }
+      },
+      {
+        "name": "WILLIAMS, Kimberley Anne",
+        "officer_role": "secretary",
+        "appointed_on": "2017-11-03",
+        "resigned_on": "2019-07-31",
+        "address": {
+          "address_line_1": "Delta Terrace, West Road",
+          "country": "England",
+          "locality": "Ipswich",
+          "postal_code": "IP3 9FH",
+          "premises": "4 Ground Floor"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Chris Shaun Sands",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "Mr Mark Roy Whitney",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      },
+      {
+        "name": "Mr Robert John Howell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "City Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC1V 2NX",
+          "premises": "124"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEHHZFMI",
+        "transaction_id": "MzQ5NDUwMDg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAT58GJ",
+        "transaction_id": "MzQ4MDQwNTU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDI9NJWX",
+        "transaction_id": "MzQ0ODI4NDU5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDAYIG4I",
+        "transaction_id": "MzQzNDQ2NzY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCISGBOO",
+        "transaction_id": "MzQwNTA2NDkyNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCB26T15",
+        "transaction_id": "MzM5MTQxMzY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBGXRN02",
+        "transaction_id": "MzM1ODkzMzgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBC2VEYI",
+        "transaction_id": "MzM1MTA5MjcwNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB4MSY1F",
+        "transaction_id": "MzM0MDEwODA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XAJHP90Q",
+        "transaction_id": "MzMyMzg5ODE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XACX9ZNV",
+        "transaction_id": "MzMxMzY3ODAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-01-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9VK09OA",
+        "transaction_id": "MzI4NzU1NzEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9H549K0",
+        "transaction_id": "MzI4MjUzMjI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9CP1Y88",
+        "transaction_id": "MzI3NjU5MzQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8KMW36P",
+        "transaction_id": "MzI1MjY1NzE3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DOPMKH",
+        "transaction_id": "MzI0MzkxNDc2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-08-01",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X8AWMJ2O",
+        "transaction_id": "MzI0MDc4MzQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X7L9MU7V",
+        "transaction_id": "MzIyMjgxMTMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7EGKLXK",
+        "transaction_id": "MzIxNDU4NzM2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-01-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X6MGSBLN",
+        "transaction_id": "MzE5NDIxNjQ5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-11-16",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X6JBGKLM",
+        "transaction_id": "MzE5MDM3MDA3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6ERTVVT",
+        "transaction_id": "MzE4NTA1MzgyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2017-09-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X6ERSRE3",
+        "transaction_id": "MzE4NTA1MjY4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X5MDKXXV",
+        "transaction_id": "MzE2NTE2NzMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-09-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 9,
+        "barcode": "X5FD4YLC",
+        "transaction_id": "MzE1NzIwOTY0NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 63,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Aramar.co.uk",
+    "headcount": 12,
+    "tech_stack": [
+      "IBM Planning Analytics",
+      "IBM Business Analytics",
+      "IBM Apptio",
+      "IBM watsonx",
+      "IBM Envizi"
+    ],
+    "business_keywords": [
+      "data analytics",
+      "business process improvement",
+      "IBM software solutions",
+      "business performance management",
+      "budgeting",
+      "AI-enhanced forecasting",
+      "intuitive analysis",
+      "reporting",
+      "workflows",
+      "IBM Business Analytics",
+      "IBM Apptio",
+      "IBM watsonx",
+      "IBM Envizi",
+      "sustainable business growth"
+    ],
+    "services": [
+      "data analytics solutions",
+      "business process improvement",
+      "IBM Planning Analytics",
+      "IBM Business Analytics services",
+      "IBM Apptio services",
+      "IBM watsonx services",
+      "IBM Envizi services"
+    ],
+    "customer_segments": [],
+    "business_description": "Aramar provides data analytics solutions and business process improvement services to optimize business performance. The company specializes in IBM software solutions, including IBM Planning Analytics, which combines budgeting, AI-enhanced forecasting, analysis, reporting, and workflows. Aramar is a trusted IBM Gold Partner delivering services across IBM Business Analytics, IBM Apptio, IBM watsonx, and IBM Envizi.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T04:13:49.020Z"
+  },
+  "scraped_at": "2026-01-10T04:13:43.332Z",
+  "updated_at": "2026-01-10T04:13:49.019Z",
+  "version": 1
+}

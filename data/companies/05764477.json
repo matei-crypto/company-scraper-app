@@ -1,0 +1,495 @@
+{
+  "company_name": "CONFLUENCE INTERNATIONAL LIMITED",
+  "company_number": "05764477",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-03-31",
+  "jurisdiction": "england-wales",
+  "registered_address": "Fourth Floor, 4, St. Paul's Churchyard, London, EC4M 8AY, England",
+  "registered_address_structured": {
+    "address_line_1": "Fourth Floor",
+    "address_line_2": "4, St. Paul's Churchyard",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC4M 8AY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-14",
+    "last_made_up_to": "2025-03-31",
+    "next_made_up_to": "2026-03-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "EVANS, Mark Stephen",
+        "officer_role": "director",
+        "appointed_on": "2006-03-31",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1964,
+        "nationality": "American",
+        "address": {
+          "address_line_1": "Roseville Court",
+          "country": "United States",
+          "locality": "Tiburon",
+          "postal_code": "94920",
+          "premises": "11",
+          "region": "California"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "EVANS, Christopher",
+        "officer_role": "secretary",
+        "appointed_on": "2019-04-04",
+        "resigned_on": "2022-03-31",
+        "address": {
+          "address_line_1": "Mansel Road",
+          "address_line_2": "Wimbledon",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW19 4AA",
+          "premises": "Mansel Court"
+        }
+      },
+      {
+        "name": "EVERSECRETARY LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2006-03-31",
+        "resigned_on": "2019-04-04",
+        "address": {
+          "address_line_1": "Eversheds House",
+          "address_line_2": "70 Great Bridgewater Street",
+          "locality": "Manchester",
+          "postal_code": "M1 5ES"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mark Stephen Evans",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1964,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "4, St. Paul's Churchyard",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4M 8AY",
+          "premises": "Fourth Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "057644770003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-05-30",
+        "delivered_on": "2025-06-02",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Golub Capital Markets Llc"
+          }
+        ],
+        "satisfied_on": "2025-08-11",
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2007-09-18",
+        "delivered_on": "2007-09-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£9,123.75 or such other sum held pursuant to the rent deposit deed."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Mayor and Commonalty and Citizens of the City of London"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2006-12-18",
+        "delivered_on": "2006-12-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£9,319.22."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Mayor and Commonalty and Citizens of the City of London"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "AEBU0EHM",
+        "transaction_id": "MzQ4Mjg5NjIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-08-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XE8PR5ZC",
+        "transaction_id": "MzQ3NjgxMTU3NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-06-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 33,
+        "barcode": "YE4CR3XV",
+        "transaction_id": "WUU0Q1IzWFZhZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-06-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 52,
+        "barcode": "XE3TY449",
+        "transaction_id": "MzQ2ODY0NzQ3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZZWQGJ",
+        "transaction_id": "MzQ2MTY0ODEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-10",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "ADCLGXLC",
+        "transaction_id": "MzQzODQ0NTAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD60XY9U",
+        "transaction_id": "MzQyNjU2OTk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-04-05",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XD0C35OZ",
+        "transaction_id": "MzQxNzE0MTAzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0C37QX",
+        "transaction_id": "MzQxNzE0MTQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCY5DEC8",
+        "transaction_id": "MzQxMzI5OTQxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-13",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "ACJCMS4P",
+        "transaction_id": "MzQwNjU0MjQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCFEV156",
+        "transaction_id": "MzM5ODc1NTI5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1ASSY0",
+        "transaction_id": "MzM3NjA1NTA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-15",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "ABZ7O34Q",
+        "transaction_id": "MzM3MjUyNDQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-03-08",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM3MTc1NDU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-03-07",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM3MDIxMTI2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB298GCG",
+        "transaction_id": "MzMzNjU4OTcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-31",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XB0X2YYW",
+        "transaction_id": "MzMzNDc3NzI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 21,
+        "barcode": "AAJK65RL",
+        "transaction_id": "MzMyNDEwODQ2MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-09",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XA68LEGG",
+        "transaction_id": "MzMwMzc1MzUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA68LKRC",
+        "transaction_id": "MzMwMzc1NTM1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 19,
+        "barcode": "A9K86TXF",
+        "transaction_id": "MzI4NzA0Njk3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-09-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9CP6M9M",
+        "transaction_id": "MzI3NjYzMTI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94J9DZ5",
+        "transaction_id": "MzI2NDE5MDMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-04",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "A8EWSOS1",
+        "transaction_id": "MzI0NTY5NjY3M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 75,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "revenue": 3883090,
+    "ebitda": 129316,
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Confluence.com",
+    "headcount": 13,
+    "tech_stack": [],
+    "business_keywords": [
+      "investment management solutions",
+      "data-driven solutions",
+      "private markets",
+      "alternative funds",
+      "fund reporting",
+      "performance analytics",
+      "risk management",
+      "regulatory compliance",
+      "investor communications",
+      "portfolio analytics",
+      "GIPS compliance",
+      "multi-asset risk",
+      "data technology",
+      "ESG solutions",
+      "financial reporting"
+    ],
+    "services": [
+      "Alternative Funds Reporting Platform",
+      "Performance Measurement",
+      "GIPS Compliance",
+      "Attribution Reporting",
+      "Hosted Portfolio Management",
+      "Fund Performance",
+      "Style Factor Analysis",
+      "Institutional Plan Analytics & Reporting",
+      "Institutional Plan Data Insights",
+      "Manager Research",
+      "Multi-Asset Risk Management",
+      "Risk Analytics",
+      "Investment Data Warehouse",
+      "Data Transformation",
+      "Complex Asset Pricing",
+      "Pricing Valuation Services",
+      "ESG Indices and Benchmarks",
+      "Custom Reporting Solution",
+      "Index Benchmark Services",
+      "Regulatory Compliance",
+      "Regulatory Reporting",
+      "Post Trade Compliance",
+      "PRIIPs KID",
+      "Fund Reporting",
+      "Signal Investment Monitoring",
+      "Transaction Reporting",
+      "Compliance Management",
+      "Financial Reporting",
+      "Prospectus Factsheets",
+      "Fund Expense Management",
+      "Tailored Shareholder Reporting"
+    ],
+    "customer_segments": [
+      "Asset Managers",
+      "Asset Owners",
+      "Asset Service Providers"
+    ],
+    "business_description": "Confluence International Limited is a global leader in data-driven investment management solutions, delivering products and services designed to optimize efficiency and control. The company specializes in performance analytics, risk management, regulatory compliance, investor communications, and private fund reporting, serving asset managers, asset owners, and asset service providers worldwide.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T03:49:26.069Z"
+  },
+  "scraped_at": "2026-01-10T03:49:18.728Z",
+  "updated_at": "2026-01-10T03:49:26.069Z",
+  "version": 1
+}

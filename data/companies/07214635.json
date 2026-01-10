@@ -1,0 +1,377 @@
+{
+  "company_name": "CYOA LIMITED",
+  "company_number": "07214635",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-04-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "1st Floor 104 Oxford Street, Fitzrovia, London, W1D 1LP, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "1st Floor 104 Oxford Street",
+    "country": "United Kingdom",
+    "locality": "Fitzrovia",
+    "postal_code": "W1D 1LP",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-21",
+    "last_made_up_to": "2025-04-07",
+    "next_made_up_to": "2026-04-07"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HIGGINS, Claire",
+        "officer_role": "director",
+        "appointed_on": "2010-04-07",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "104 Oxford Street",
+          "country": "United Kingdom",
+          "locality": "Fitzrovia",
+          "postal_code": "W1D 1LP",
+          "premises": "1st Floor",
+          "region": "London"
+        }
+      },
+      {
+        "name": "BUSH, Kelly",
+        "officer_role": "director",
+        "appointed_on": "2010-04-07",
+        "resigned_on": "2010-12-16",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "54 Lambs Conduit Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1N 3LW",
+          "premises": "Flat 2"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Ms Claire Higgins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "104 Oxford Street",
+          "country": "United Kingdom",
+          "locality": "Fitzrovia",
+          "postal_code": "W1D 1LP",
+          "premises": "1st Floor",
+          "region": "London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEHYY969",
+        "transaction_id": "MzQ5NTc4NTY1NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0J1U43",
+        "transaction_id": "MzQ2MjcxMzQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-02-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDVOLL61",
+        "transaction_id": "MzQ1MzYzNTU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-10-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDDTM56J",
+        "transaction_id": "MzQzOTg0MjY4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD6XEIP1",
+        "transaction_id": "MzQyNzk0OTQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD63O2ZV",
+        "transaction_id": "MzQyNjcyMzgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0MNZ5T",
+        "transaction_id": "MzQxNzQ1MDU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCFPF4M2",
+        "transaction_id": "MzM5OTAxNTQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0XO1TD",
+        "transaction_id": "MzM3NTUwNjI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBGUQY34",
+        "transaction_id": "MzM1ODU0MjEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2RQPKJ",
+        "transaction_id": "MzMzNzMxOTk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAJY9PZE",
+        "transaction_id": "MzMyNDY3OTI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-15",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 7,
+        "barcode": "AA7WMZZE",
+        "transaction_id": "MzMwNzc3NzA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2Y0O4Q",
+        "transaction_id": "MzI5ODU5ODY0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9G965QH",
+        "transaction_id": "MzI4MTQ1MDk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X94GLY3N",
+        "transaction_id": "MzI2NDA0MDMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-05-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X94GLGAP",
+        "transaction_id": "MzI2NDAzNTg5N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-05-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X94GLGAX",
+        "transaction_id": "MzI2NDAzNTkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-01-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X8W567CR",
+        "transaction_id": "MzI1Mzk0OTcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8JIIWUH",
+        "transaction_id": "MzI1MTA0MDczNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X83K3W01",
+        "transaction_id": "MzIzMjMwMzg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X7H5GA9N",
+        "transaction_id": "MzIxNzYzNjEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-04-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X74Y9Y88",
+        "transaction_id": "MzIwMzgyODMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X6LJYJRT",
+        "transaction_id": "MzE5MzExODY1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-04-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X653PC01",
+        "transaction_id": "MzE3NDM0NjE0NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 46,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Cyoamedia.com",
+    "headcount": 12,
+    "tech_stack": [],
+    "business_keywords": [
+      "social media",
+      "design",
+      "agency",
+      "digital services",
+      "music",
+      "fashion",
+      "media",
+      "social media agency",
+      "design agency",
+      "digital agency"
+    ],
+    "services": [
+      "digital services"
+    ],
+    "customer_segments": [
+      "clients in music",
+      "clients in fashion"
+    ],
+    "business_description": "CYOA is a social media and design agency that provides a full range of digital services for clients in the music and fashion industries.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:11:05.342Z"
+  },
+  "scraped_at": "2026-01-10T08:11:02.310Z",
+  "updated_at": "2026-01-10T08:11:05.342Z",
+  "version": 1
+}

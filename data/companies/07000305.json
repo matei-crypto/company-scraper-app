@@ -1,0 +1,441 @@
+{
+  "company_name": "CARBON AND FINCH LTD",
+  "company_number": "07000305",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-08-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "Oru Workspace, 7 Throwley Way, Sutton, SM1 4AF, England",
+  "registered_address_structured": {
+    "address_line_1": "Oru Workspace",
+    "address_line_2": "7 Throwley Way",
+    "country": "England",
+    "locality": "Sutton",
+    "postal_code": "SM1 4AF"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BIDATASK LTD",
+      "ceased_on": "2021-07-05",
+      "effective_from": "2009-08-25"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-22",
+    "last_made_up_to": "2025-09-08",
+    "next_made_up_to": "2026-09-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JAKOBSEN, Jimmi",
+        "officer_role": "director",
+        "appointed_on": "2009-08-25",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1976,
+        "nationality": "British,Danish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "6-7 Derby Square",
+          "address_line_2": "2nd Floor, Epsom Workhub",
+          "country": "United Kingdom",
+          "locality": "Epsom",
+          "postal_code": "KT19 8AG",
+          "premises": "Suite 6",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JAKOBSEN, Oleksandra",
+        "officer_role": "secretary",
+        "appointed_on": "2009-08-25",
+        "address": {
+          "address_line_1": "Yew Tree Bottom Road",
+          "country": "United Kingdom",
+          "locality": "Epsom",
+          "postal_code": "KT17 3NE",
+          "premises": "5",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Oleksandra Jakobsen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-06-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Holly Close",
+          "country": "England",
+          "locality": "Epsom",
+          "postal_code": "KT19 8FQ",
+          "premises": "2",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "Mr Jimmi Jakobsen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors-as-firm",
+          "significant-influence-or-control-as-firm"
+        ],
+        "notified_on": "2016-06-30",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1976,
+        "nationality": "Danish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Yew Tree Bottom Road",
+          "country": "United Kingdom",
+          "locality": "Epsom",
+          "postal_code": "KT17 3NE",
+          "premises": "5",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "070003050001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-07-07",
+        "delivered_on": "2020-07-14",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XECK46OY",
+        "transaction_id": "MzQ4MzgwNzgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-08-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE9B95NT",
+        "transaction_id": "MzQ3ODA2MjYyMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE9B95BO",
+        "transaction_id": "MzQ3ODA2MjUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-05-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE3ATREI",
+        "transaction_id": "MzQ2Nzc5OTIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDF691HD",
+        "transaction_id": "MzQ0MTkxODk1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDCUBR8U",
+        "transaction_id": "MzQzNzk0NjkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-02-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCXBF8C1",
+        "transaction_id": "MzQxMTg3NTQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUUDFJT",
+        "transaction_id": "MzQwNzYyODAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCEI5CT7",
+        "transaction_id": "MzM5NzE1MTY0OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-10-19",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XCEI5BS1",
+        "transaction_id": "MzM5NzE1MTQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-10-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCEI5BDV",
+        "transaction_id": "MzM5NzE1MTM0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDJCGRN",
+        "transaction_id": "MzM5NTQ4Njg4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-04-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC1TM71D",
+        "transaction_id": "MzM3NzAyNDM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBEBNAIQ",
+        "transaction_id": "MzM1NDY0NTA5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAXX72UP",
+        "transaction_id": "MzMyOTkwNDYwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEV3XVN",
+        "transaction_id": "MzMxNjYyNTMxMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-04",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 11,
+        "barcode": "AABKNIMO",
+        "transaction_id": "MzMxMTg5MDg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-07-05",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "barcode": "XA7W7KFT",
+        "transaction_id": "MzMwNjY4NTIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-03-12",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA03QIG8",
+        "transaction_id": "MzI5NDE4ODY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X9YGBWV6",
+        "transaction_id": "MzI5MTUyMjI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9E0RAE0",
+        "transaction_id": "MzI3ODE0MjkyNGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-07-14",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X999909N",
+        "transaction_id": "MzI3MzA1MjE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X8YSXC8G",
+        "transaction_id": "MzI1NzI3OTkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DRAP09",
+        "transaction_id": "MzI0NDAwNTA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X86K8MA0",
+        "transaction_id": "MzIzNTcxOTIxNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 52,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Bidatask.com",
+    "headcount": 15,
+    "tech_stack": [
+      "Microsoft Dynamics 365"
+    ],
+    "business_keywords": [
+      "Microsoft Partner",
+      "Dynamics 365 Consultancy",
+      "ERP",
+      "Quality Management Systems",
+      "ISO Certification",
+      "Microsoft Dynamics 365",
+      "Consultancy",
+      "Consulting",
+      "Support",
+      "Training",
+      "UK",
+      "Microsoft Dynamics 365 Consulting",
+      "Microsoft Dynamics 365 Support",
+      "Microsoft Dynamics 365 Training",
+      "Certified Partner"
+    ],
+    "services": [
+      "Microsoft Dynamics 365 Consultancy",
+      "Microsoft Dynamics 365 Consulting",
+      "Microsoft Dynamics 365 Support",
+      "Microsoft Dynamics 365 Training",
+      "Personalised Consulting"
+    ],
+    "customer_segments": [],
+    "business_description": "Carbon & Finch is a Microsoft Partner specializing in Dynamics 365 consultancy services. The company provides Microsoft Dynamics 365 consulting, support, and training, with a focus on integrating ERP with quality management systems and achieving ISO certification.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:25:14.816Z"
+  },
+  "scraped_at": "2026-01-10T07:25:03.711Z",
+  "updated_at": "2026-01-10T07:25:14.815Z",
+  "version": 1
+}

@@ -1,0 +1,447 @@
+{
+  "company_name": "SAVAGESCAPE LTD",
+  "company_number": "05927294",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-09-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "20-22 Wenlock Road, London, N1 7GU, England",
+  "registered_address_structured": {
+    "address_line_1": "20-22 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-20",
+    "last_made_up_to": "2025-09-06",
+    "next_made_up_to": "2026-09-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SAVAGE, Andrew",
+        "officer_role": "director",
+        "appointed_on": "2006-09-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "61 Summers Street",
+          "locality": "Swindon",
+          "postal_code": "SN2 2HB",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "SAVAGE, Mark William Edward",
+        "officer_role": "director",
+        "appointed_on": "2006-09-06",
+        "resigned_on": "2012-06-15",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "61 Summers Street",
+          "locality": "Swindon",
+          "postal_code": "SN2 2HB",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "FORM 10 DIRECTORS FD LTD",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2006-09-06",
+        "resigned_on": "2006-09-07",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SAVAGE, Andrew",
+        "officer_role": "secretary",
+        "appointed_on": "2006-09-06",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "61 Summers Street",
+          "locality": "Swindon",
+          "postal_code": "SN2 2HB",
+          "region": "Wiltshire"
+        }
+      },
+      {
+        "name": "FORM 10 SECRETARIES FD LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2006-09-06",
+        "resigned_on": "2006-09-07",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andrew Savage",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wenlock Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N1 7GU",
+          "premises": "20-22"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "059272940001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-03-15",
+        "delivered_on": "2021-04-01",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Iwoca Skye Finance LTD"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEBC8XW2",
+        "transaction_id": "MzQ4MTcwNTg0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE5MNWO0",
+        "transaction_id": "MzQ3MTc1MDk4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDC0ILMQ",
+        "transaction_id": "MzQzNjcwMDkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD6950OH",
+        "transaction_id": "MzQyNzAzMDIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBKXLSI",
+        "transaction_id": "MzM5MjE5OTUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC6QZ5MX",
+        "transaction_id": "MzM4NDg2NjY5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBC2V9HM",
+        "transaction_id": "MzM1MTA4OTI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB796YWW",
+        "transaction_id": "MzM0NDI2OTQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XADFR81C",
+        "transaction_id": "MzMxNDI3OTk0MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-04-01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 18,
+        "barcode": "XA1GT88H",
+        "transaction_id": "MzI5NjYyNTMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X9IZUZJS",
+        "transaction_id": "MzI4NDg2MjMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DVOLO2",
+        "transaction_id": "MzI3ODA3OTQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-11",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X96YUXMZ",
+        "transaction_id": "MzI2NzEyODgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DLX84B",
+        "transaction_id": "MzI0Mzc3ODA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X88H5RDV",
+        "transaction_id": "MzIzODAwMjg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-10-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7FRDTK9",
+        "transaction_id": "MzIxNjE0NDMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "X792HW14",
+        "transaction_id": "MzIwODU0MTQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6F8AS61",
+        "transaction_id": "MzE4NTU0MjM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-01-26",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X5YYQ1IQ",
+        "transaction_id": "MzE2NzUyMDMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-09-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5G39KD7",
+        "transaction_id": "MzE1Nzk1ODc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-08-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5D1QYVN",
+        "transaction_id": "MzE1NDg1NDU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-16",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X599ENOG",
+        "transaction_id": "MzE1MDg3OTA1NmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-10-01",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X4H3UTNT",
+        "transaction_id": "MzEzMjE3MTgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-06-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X4AL95QY",
+        "transaction_id": "MzEyNjA0MDE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-09-15",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X3GHXX5D",
+        "transaction_id": "MzEwNzQ5ODE1N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 47,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Savagescape.com",
+    "headcount": 6,
+    "tech_stack": [],
+    "business_keywords": [
+      "web application development",
+      "custom application development",
+      "e-commerce development",
+      "CMS",
+      "content management systems",
+      "search engine optimisation",
+      "SEO",
+      "standards-compliant websites",
+      "accessible websites",
+      "bespoke solutions",
+      "online sales",
+      "website updates",
+      "web directories submission",
+      "search engine submission",
+      "existing project completion"
+    ],
+    "services": [
+      "Custom application development",
+      "E-commerce development",
+      "CMS content management systems",
+      "Search engine optimisation",
+      "Working with other programmers' code to finish existing projects",
+      "Optimising page content, structure, meta tags, titles, alt tags, framesets, and navigation",
+      "Submitting websites to web directories and search engines"
+    ],
+    "customer_segments": [
+      "Businesses needing bespoke solutions",
+      "Customers looking to grow online presence and sales",
+      "Businesses requiring website updates via CMS",
+      "Clients with existing web projects needing completion"
+    ],
+    "business_description": "Savagescape Ltd specializes in building custom web applications, e-commerce solutions, and content management systems. They focus on creating fast, standards-compliant, and accessible websites, as well as optimizing sites for search engines and assisting with existing projects.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T04:15:42.259Z"
+  },
+  "scraped_at": "2026-01-10T04:15:30.985Z",
+  "updated_at": "2026-01-10T04:15:42.258Z",
+  "version": 1
+}

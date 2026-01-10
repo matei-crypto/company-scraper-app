@@ -1,0 +1,464 @@
+{
+  "company_name": "BOZBOZ LTD",
+  "company_number": "06546278",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-03-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 2 30b Richmond Place, Brighton, East Sussex, BN2 9NA, England",
+  "registered_address_structured": {
+    "address_line_1": "Suite 2 30b Richmond Place",
+    "country": "England",
+    "locality": "Brighton",
+    "postal_code": "BN2 9NA",
+    "region": "East Sussex"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-29",
+    "next_accounts_period_end_on": "2026-03-29",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-10",
+    "last_made_up_to": "2025-03-27",
+    "next_made_up_to": "2026-03-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HOLLINGBERY, Michael David",
+        "officer_role": "director",
+        "appointed_on": "2008-03-27",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Church Road",
+          "country": "England",
+          "locality": "Hove",
+          "postal_code": "BN3 2HA",
+          "premises": "One"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HOLLINGBERY, Michael David",
+        "officer_role": "secretary",
+        "appointed_on": "2009-09-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Church Road",
+          "country": "England",
+          "locality": "Hove",
+          "postal_code": "BN3 2HA",
+          "premises": "One"
+        }
+      },
+      {
+        "name": "HOLLINGBERY, Peter Mark",
+        "officer_role": "secretary",
+        "appointed_on": "2008-03-27",
+        "resigned_on": "2009-09-01",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "38 Queen Street",
+          "locality": "Ashford",
+          "postal_code": "TN23 1RG"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Falcor Industries Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "Church Road",
+          "country": "England",
+          "locality": "Hove",
+          "postal_code": "BN3 2HA",
+          "premises": "One"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Register Of Companies",
+          "registration_number": "08723895"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2012-06-15",
+        "delivered_on": "2012-06-20",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Basement flat 1B, 1-3 church road, hove, east sussex t/no ESX297370 by way of fixed charge any other interest in the property, all rents receivable from any lease, all goodwill, the proceeds of any insurance, all fixtures and fittings not forming part of the property, all plant and machinery, all furniture equipment tools and other goods kept at the property."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Legal charge"
+          }
+        ],
+        "created_on": "2011-08-19",
+        "delivered_on": "2011-08-20",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "1 church road hove east sussex."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-07-19",
+        "delivered_on": "2011-07-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "National Westminster Bank PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHZDMQJ",
+        "transaction_id": "MzQ5NjA0MTE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZB4K5H",
+        "transaction_id": "MzQ2MDU1MDM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDIKOS36",
+        "transaction_id": "MzQ0ODc3Nzc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD1OUQIG",
+        "transaction_id": "MzQxOTU3ODkyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIPEP36",
+        "transaction_id": "MzQwNDc3MzQ4NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-05-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC49ZHI1",
+        "transaction_id": "MzM4MDc5NzI3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC0PHCEA",
+        "transaction_id": "MzM3NTEyMjY5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBZF4WEY",
+        "transaction_id": "MzM3Mjk2MDEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-16",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBIYEXVD",
+        "transaction_id": "MzM2MjcwMDUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB2BUGBL",
+        "transaction_id": "MzMzNjc0NDE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XB0UH9G9",
+        "transaction_id": "MzMzNDY4NTcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAVZDC8X",
+        "transaction_id": "MzMyNjkzNjk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-18",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XAVZDC4I",
+        "transaction_id": "MzMyNjkzNjgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XAVZDBT7",
+        "transaction_id": "MzMyNjkzNjczN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAVZDBNG",
+        "transaction_id": "MzMyNjkzNjYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA1TQKZV",
+        "transaction_id": "MzI5Njg4ODc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XA1DCE3F",
+        "transaction_id": "MzI5NjE3ODkxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X93FDOFE",
+        "transaction_id": "MzI2MjgxNDcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KXD7RS",
+        "transaction_id": "MzI1MjkwNzQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X82FZZTE",
+        "transaction_id": "MzIzMDg4NDQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7KT3FEI",
+        "transaction_id": "MzIyMjE1MTEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X72P7GCP",
+        "transaction_id": "MzIwMTI2MTk4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X6LPWWBU",
+        "transaction_id": "MzE5MzUwNjIxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-04-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X645L7XU",
+        "transaction_id": "MzE3MzMyMDAyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-04-12",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X645L85F",
+        "transaction_id": "MzE3MzMyMDA1NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 64,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Bozboz.co.uk",
+    "headcount": 11,
+    "tech_stack": [],
+    "business_keywords": [
+      "web design",
+      "website design",
+      "web design agency",
+      "Brighton",
+      "UK",
+      "digital problem solvers",
+      "content control",
+      "web development",
+      "strategic support",
+      "brand",
+      "ethical fashion",
+      "supply chain transparency"
+    ],
+    "services": [
+      "Web Design and Development",
+      "Strategic Support",
+      "Brand"
+    ],
+    "customer_segments": [
+      "organisations"
+    ],
+    "business_description": "Bozboz LTD is a web design agency based in Brighton, UK, specializing in building websites that provide clients with greater control over their content. The company offers web design, development, strategic support, and branding services to organizations.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T05:55:04.474Z"
+  },
+  "scraped_at": "2026-01-10T05:55:01.112Z",
+  "updated_at": "2026-01-10T05:55:04.474Z",
+  "version": 1
+}

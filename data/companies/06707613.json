@@ -1,0 +1,500 @@
+{
+  "company_name": "MINDCORP LIMITED",
+  "company_number": "06707613",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-09-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "1st Floor Gallery Court, 28 Arcadia Avenue, London, N3 2FG",
+  "registered_address_structured": {
+    "address_line_1": "1st Floor Gallery Court",
+    "address_line_2": "28 Arcadia Avenue",
+    "locality": "London",
+    "postal_code": "N3 2FG"
+  },
+  "sic_codes": [
+    "62020",
+    "74100"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MINDCORPORATION LIMITED",
+      "ceased_on": "2016-09-20",
+      "effective_from": "2008-09-25"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2024-03-25",
+    "next_accounts_period_end_on": "2023-03-25",
+    "next_accounts_period_start_on": "2022-04-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2022-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 25,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-09",
+    "last_made_up_to": "2025-09-25",
+    "next_made_up_to": "2026-09-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ROBINSON, Andrew William",
+        "officer_role": "director",
+        "appointed_on": "2017-05-10",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Gallery Court",
+          "address_line_2": "28 Arcadia Avenue",
+          "locality": "London",
+          "postal_code": "N3 2FG",
+          "premises": "1st Floor"
+        }
+      },
+      {
+        "name": "REISSIGER, Madeleine",
+        "officer_role": "director",
+        "appointed_on": "2008-09-25",
+        "resigned_on": "2017-05-10",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1970,
+        "nationality": "Norwegian",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Margravine Gardens",
+          "postal_code": "W6 8RL",
+          "premises": "North Lodge",
+          "region": "London"
+        }
+      },
+      {
+        "name": "COMPANY DIRECTORS LIMITED",
+        "officer_role": "corporate-director",
+        "appointed_on": "2008-09-25",
+        "resigned_on": "2008-09-25",
+        "address": {
+          "address_line_1": "Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ",
+          "premises": "788-790"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "RA COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-09-25",
+        "resigned_on": "2012-10-01",
+        "address": {
+          "address_line_1": "13 Station Road",
+          "address_line_2": "Finchley",
+          "locality": "London",
+          "postal_code": "N3 2SB"
+        }
+      },
+      {
+        "name": "TA COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2012-10-01",
+        "resigned_on": "2023-02-20",
+        "address": {
+          "address_line_1": "Renaissance House",
+          "address_line_2": "359 Cockfosters Road",
+          "country": "United Kingdom",
+          "locality": "Barnet",
+          "postal_code": "EN4 0JT",
+          "premises": "Apartment 4"
+        }
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-09-25",
+        "resigned_on": "2008-09-25",
+        "address": {
+          "address_line_1": "Finchley Road",
+          "locality": "London",
+          "postal_code": "NW11 7TJ",
+          "premises": "788-790"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Andrew Robinson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-09-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Gallery Court",
+          "address_line_2": "28 Arcadia Avenue",
+          "locality": "London",
+          "postal_code": "N3 2FG",
+          "premises": "1st Floor"
+        }
+      },
+      {
+        "name": "Ms Madeleine Reissiger",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-09-25",
+        "ceased_on": "2021-09-27",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1970,
+        "nationality": "Norwegian",
+        "country_of_residence": "England",
+        "address": {
+          "country": "England",
+          "locality": "Margravine Gardens",
+          "postal_code": "W6 8RL",
+          "premises": "North Lodge",
+          "region": "London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "067076130003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-09-12",
+        "delivered_on": "2020-10-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-08-16",
+        "delivered_on": "2012-08-22",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£2,654 inclusive of vat see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Dooba Investments Ii Limited"
+          }
+        ],
+        "satisfied_on": "2021-11-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2009-05-13",
+        "delivered_on": "2009-05-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The deposit of £2,654, the account and interest."
+        },
+        "persons_entitled": [
+          {
+            "name": "Dooba Investments Ii Limited"
+          }
+        ],
+        "satisfied_on": "2021-11-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 3,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "gazette",
+        "date": "2025-12-13",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ5MzYwNDU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEH70NI8",
+        "transaction_id": "MzQ5MzYwNDUzNGFkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2025-05-16",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQ2NjYwMzc0NGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-04-01",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ1OTU3MjI0NWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-11-20",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ0NDEyNzM4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDG7ZH1T",
+        "transaction_id": "MzQ0NDEyNzMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "dissolution",
+        "date": "2024-06-12",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQyNDg1Nzg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-05-28",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQyMTk0MTMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCCRY7A1",
+        "transaction_id": "MzM5NDI2MDk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBZPSA21",
+        "transaction_id": "MzM3MzI3NTMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-20",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XBXRM8EH",
+        "transaction_id": "MzM2OTkwOTY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGK6JXC",
+        "transaction_id": "MzM1ODIxNDIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB0X4PF7",
+        "transaction_id": "MzMzNDk0MjAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-11-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAHX33GX",
+        "transaction_id": "MzMyMTE5ODM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-11-24",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XAHX332Z",
+        "transaction_id": "MzMyMTE5ODM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XADVY9KA",
+        "transaction_id": "MzMxNTA4MTYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XADVY3WY",
+        "transaction_id": "MzMxNTA4MDEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-27",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XADVY2B6",
+        "transaction_id": "MzMxNTA3OTU5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-09-27",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XADVXWJC",
+        "transaction_id": "MzMxNTA3Nzk5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA10344W",
+        "transaction_id": "MzI5NTU5OTQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-10-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9EZSD7S",
+        "transaction_id": "MzI3OTYyMTcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-25",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X9EBN46Q",
+        "transaction_id": "MzI3ODc1NzE0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-25",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "X9EBN1BC",
+        "transaction_id": "MzI3ODc1NjQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X8KMUGRS",
+        "transaction_id": "MzI1MjY1Mjk2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8HAZIAZ",
+        "transaction_id": "MzI0ODMzMDM5MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 69,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "website": "https://Mindcorp.co.uk",
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T06:25:09.500Z",
+  "scraped_at": "2026-01-10T06:25:09.500Z"
+}

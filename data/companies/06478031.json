@@ -1,0 +1,429 @@
+{
+  "company_name": "SAFO UK LIMITED",
+  "company_number": "06478031",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-01-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "York House, 41 Sheet Street, Windsor, Berkshire, SL4 1DD, England",
+  "registered_address_structured": {
+    "address_line_1": "York House",
+    "address_line_2": "41 Sheet Street",
+    "country": "England",
+    "locality": "Windsor",
+    "postal_code": "SL4 1DD",
+    "region": "Berkshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-06",
+    "last_made_up_to": "2025-02-20",
+    "next_made_up_to": "2026-02-20"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARBOTTO, Claudia",
+        "officer_role": "director",
+        "appointed_on": "2009-01-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1969,
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "41 Sheet Street",
+          "country": "England",
+          "locality": "Windsor",
+          "postal_code": "SL4 1DD",
+          "premises": "York House",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "CAROSINI, Massimo",
+        "officer_role": "director",
+        "appointed_on": "2023-02-22",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1967,
+        "nationality": "Italian",
+        "country_of_residence": "Italy",
+        "address": {
+          "address_line_1": "41 Sheet Street",
+          "country": "England",
+          "locality": "Windsor",
+          "postal_code": "SL4 1DD",
+          "premises": "York House",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "SACCHI, Elpidio",
+        "officer_role": "director",
+        "appointed_on": "2008-01-21",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "41 Sheet Street",
+          "country": "England",
+          "locality": "Windsor",
+          "postal_code": "SL4 1DD",
+          "premises": "York House",
+          "region": "Berkshire"
+        }
+      },
+      {
+        "name": "TAYLOR, Jane",
+        "officer_role": "director",
+        "appointed_on": "2022-03-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "41 Sheet Street",
+          "country": "England",
+          "locality": "Windsor",
+          "postal_code": "SL4 1DD",
+          "premises": "York House",
+          "region": "Berkshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "PB SECRETARIAL SERVICES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2008-01-21",
+        "resigned_on": "2016-03-02",
+        "address": {
+          "address_line_1": "2nd Floor",
+          "address_line_2": "30 St Johns Lane",
+          "locality": "London",
+          "postal_code": "EC1M 4NB"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Elpidio Sacchi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "41 Sheet Street",
+          "country": "England",
+          "locality": "Windsor",
+          "postal_code": "SL4 1DD",
+          "premises": "York House",
+          "region": "Berkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2011-08-22",
+        "delivered_on": "2011-09-08",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The account and the deposit see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Mumco Limited"
+          }
+        ],
+        "satisfied_on": "2023-02-25",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£15,600 due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEHKWJNC",
+        "transaction_id": "MzQ5NDk2NzI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDX188LE",
+        "transaction_id": "MzQ1NjE0OTc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-01-06",
+        "description": "capital-return-purchase-own-shares-treasury-capital-date",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADIKVPG3",
+        "transaction_id": "MzQ0OTczMDY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDHVVJHV",
+        "transaction_id": "MzQ0NzI0MDAzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCX8P87T",
+        "transaction_id": "MzQxMTY5NjY1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCCMJBZV",
+        "transaction_id": "MzM5NDA1NDQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-02-25",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 4,
+        "barcode": "ABY381KI",
+        "transaction_id": "MzM3MDg2NTg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-23",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBXZWNCR",
+        "transaction_id": "MzM3MDQ3MTgxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBXX5UQI",
+        "transaction_id": "MzM3MDI5OTczNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBXX5UM2",
+        "transaction_id": "MzM3MDI5OTY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBXX5UKQ",
+        "transaction_id": "MzM3MDI5OTYzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXUC2NF",
+        "transaction_id": "MzM3MDA3ODAzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBX13MHS",
+        "transaction_id": "MzM2ODgzNzk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBX13HYA",
+        "transaction_id": "MzM2ODgzNjkxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XB85HX4O",
+        "transaction_id": "MzM0NTYxMjc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-03-12",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 9,
+        "barcode": "YAZHSIS0",
+        "transaction_id": "MzMzMjQ1OTMwNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-03-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAYW9XSA",
+        "transaction_id": "MzMzMTUxNjg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-02-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAYG0XEI",
+        "transaction_id": "MzMzMDgwNDg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-02-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAYG0SPE",
+        "transaction_id": "MzMzMDgwMzc0N2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-02-15",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YAXP9RAP",
+        "transaction_id": "MzMyOTY5OTcwNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-02-15",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUFYUDlSTVphZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-02-15",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YAXP9RIA",
+        "transaction_id": "MzMyOTY5OTcxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWFKAO3",
+        "transaction_id": "MzMyNzc0Njc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAE1GDOB",
+        "transaction_id": "MzMxNTQwMzc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9XSCOB7",
+        "transaction_id": "MzI5MDc1OTQ1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 71,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "revenue": 4276048,
+    "ebitda": 647692,
+    "employees": 46
+  },
+  "enrichment": {
+    "website": "https://Safogroup.co.uk",
+    "headcount": 46,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T05:43:36.694Z",
+  "scraped_at": "2026-01-10T05:43:36.694Z"
+}

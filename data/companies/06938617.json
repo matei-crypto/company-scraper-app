@@ -1,0 +1,409 @@
+{
+  "company_name": "HERON IT LIMITED",
+  "company_number": "06938617",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-06-19",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 2 Pegasus Orion Avenue, Great Blakenham, Ipswich, Suffolk, IP6 0LW, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Unit 2 Pegasus Orion Avenue",
+    "address_line_2": "Great Blakenham",
+    "country": "United Kingdom",
+    "locality": "Ipswich",
+    "postal_code": "IP6 0LW",
+    "region": "Suffolk"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-03",
+    "last_made_up_to": "2025-06-19",
+    "next_made_up_to": "2026-06-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAMMOND, Colin Paul",
+        "officer_role": "director",
+        "appointed_on": "2009-06-19",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Orion Avenue",
+          "address_line_2": "Great Blakenham",
+          "country": "United Kingdom",
+          "locality": "Ipswich",
+          "postal_code": "IP6 0LW",
+          "premises": "Pegasus 2",
+          "region": "Suffolk"
+        }
+      },
+      {
+        "name": "LARSON, Daniel",
+        "officer_role": "director",
+        "appointed_on": "2023-04-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Orion Avenue",
+          "address_line_2": "Great Blakenham",
+          "country": "United Kingdom",
+          "locality": "Ipswich",
+          "postal_code": "IP6 0LW",
+          "premises": "Pegasus 2"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Colin Paul Hammond",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Orion Avenue",
+          "address_line_2": "Great Blakenham",
+          "country": "United Kingdom",
+          "locality": "Ipswich",
+          "postal_code": "IP6 0LW",
+          "premises": "Unit 2 Pegasus",
+          "region": "Suffolk"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "069386170001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-04-06",
+        "delivered_on": "2016-04-06",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XEGHUB7N",
+        "transaction_id": "MzQ5MTY4NTI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5BPVGY",
+        "transaction_id": "MzQ3MTExOTc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDCRER1K",
+        "transaction_id": "MzQzNzcyNzg3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-09-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDBRXV29",
+        "transaction_id": "MzQzNTk0MTUxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD60U760",
+        "transaction_id": "MzQyNjUxNjE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XCCUEZGR",
+        "transaction_id": "MzM5NDI1MDQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC651888",
+        "transaction_id": "MzM4MzcyMTE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-06-20",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XC5ZP9UX",
+        "transaction_id": "MzM4MzQwNjk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-03",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XC0PCAPD",
+        "transaction_id": "MzM3NTAzOTUxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XBEU9Z8R",
+        "transaction_id": "MzM1NTUzMDYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-22",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XB6NFEKP",
+        "transaction_id": "MzM0MzEzOTY3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB6NFC9L",
+        "transaction_id": "MzM0MzEzODk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB6NF5NM",
+        "transaction_id": "MzM0MzEzNzY5NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB6NF4PV",
+        "transaction_id": "MzM0MzEzNzA5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XACMLV5C",
+        "transaction_id": "MzMxMzI3OTQzMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAB59S1T",
+        "transaction_id": "MzMxMDk5NTAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAB2PX6R",
+        "transaction_id": "MzMxMDkwMDM5MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-08-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAB2PW2P",
+        "transaction_id": "MzMxMDkwMDExNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA74N9UR",
+        "transaction_id": "MzMwNDk5MTk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97UHC4P",
+        "transaction_id": "MzI2ODAxMjAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X97K2BSY",
+        "transaction_id": "MzI2Nzc2OTg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X88RTJ82",
+        "transaction_id": "MzIzODI5OTYxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-06-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X87YJXUQ",
+        "transaction_id": "MzIzNzI5MTkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-09-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X7EHR2XM",
+        "transaction_id": "MzIxNDUyMjY4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-06-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X78H7IVU",
+        "transaction_id": "MzIwNzg0MjUwMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 45,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Heronit.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "cloud-based technology"
+    ],
+    "business_keywords": [
+      "IT expertise",
+      "IT solutions",
+      "IT support",
+      "cloud-based technology",
+      "agile",
+      "flexible",
+      "scalable",
+      "personal IT service",
+      "applied innovation",
+      "high performance operations",
+      "cyber threats safeguarding",
+      "secure IT support",
+      "competitive advantage"
+    ],
+    "services": [
+      "IT support",
+      "cloud-based technology solutions",
+      "cyber threat safeguarding"
+    ],
+    "customer_segments": [],
+    "business_description": "Heron IT Limited provides agile, flexible, and scalable IT expertise, solutions, and support using affordable, state-of-the-art, cloud-based technology to help businesses deliver their operational needs. The company focuses on IT support excellence, high-performance operations, and safeguarding clients from cyber threats.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 21,
+    "msp_likelihood_confidence": "medium",
+    "msp_likelihood_computed_at": "2026-01-10T07:09:33.466Z"
+  },
+  "scraped_at": "2026-01-10T07:09:28.512Z",
+  "updated_at": "2026-01-10T07:09:33.466Z",
+  "version": 1
+}

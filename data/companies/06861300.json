@@ -1,0 +1,440 @@
+{
+  "company_name": "TRACK A PARCEL LIMITED",
+  "company_number": "06861300",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-03-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "240 Fakenham Road Taverham, Norwich, NR8 6QW, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "240 Fakenham Road Taverham",
+    "country": "United Kingdom",
+    "locality": "Norwich",
+    "postal_code": "NR8 6QW"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-27",
+    "last_made_up_to": "2025-02-13",
+    "next_made_up_to": "2026-02-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WEBSTER, Mark Alan",
+        "officer_role": "director",
+        "appointed_on": "2009-09-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Taverham",
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR8 6QW",
+          "premises": "240 Fakenham Road"
+        }
+      },
+      {
+        "name": "KENT, Tremaine Clive",
+        "officer_role": "director",
+        "appointed_on": "2009-03-27",
+        "resigned_on": "2009-09-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "26 Orwell Crescent",
+          "address_line_2": "Belton",
+          "locality": "Great Yarmouth",
+          "postal_code": "NR31 9NZ",
+          "region": "Norfolk"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WEBSTER, Mark Alan",
+        "officer_role": "secretary",
+        "appointed_on": "2010-03-22",
+        "address": {
+          "address_line_1": "Taverham",
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR8 6QW",
+          "premises": "240 Fakenham Road"
+        }
+      },
+      {
+        "name": "JACOBS, Steven John",
+        "officer_role": "secretary",
+        "appointed_on": "2009-09-30",
+        "resigned_on": "2010-03-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Edwards Road",
+          "locality": "Norwich",
+          "postal_code": "NR7 8QW",
+          "premises": "43",
+          "region": "Norfolk"
+        }
+      },
+      {
+        "name": "LITTLEWOOD, Alison",
+        "officer_role": "secretary",
+        "appointed_on": "2009-03-27",
+        "resigned_on": "2009-09-30",
+        "address": {
+          "address_line_1": "Brasenose Avenue",
+          "locality": "Gorleston",
+          "postal_code": "NR31 7EE",
+          "premises": "133",
+          "region": "Norfolk"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Mark Alan Webster",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Fakenham Road",
+          "address_line_2": "Taverham",
+          "country": "United Kingdom",
+          "locality": "Norwich",
+          "postal_code": "NR8 6QW",
+          "premises": "240"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "068613000002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-03-30",
+        "delivered_on": "2016-04-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Freehold property known as 240 fakenham road norwich norfolk title number NK282985.",
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "068613000001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2016-02-22",
+        "delivered_on": "2016-02-24",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEHZ1ITF",
+        "transaction_id": "MzQ5NTgxMTQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDWQEFPM",
+        "transaction_id": "MzQ1NTY2Njg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDIXQNU0",
+        "transaction_id": "MzQ0OTI1Nzg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCXGYQZS",
+        "transaction_id": "MzQxMjIxMzE2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCIC447D",
+        "transaction_id": "MzQwMzk1OTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBXZPIV5",
+        "transaction_id": "MzM3MDQwODk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBK01SMQ",
+        "transaction_id": "MzM2NDMzMDIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYW3WGY",
+        "transaction_id": "MzMzMTQ2Mzk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAJK9WL7",
+        "transaction_id": "MzMyMzk1NzMxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA1TLO3C",
+        "transaction_id": "MzI5Njg0NzEwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-09-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X9E925OP",
+        "transaction_id": "MzI3ODY5NzExOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X907C7VM",
+        "transaction_id": "MzI1OTA3MDQyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8KPOFU8",
+        "transaction_id": "MzI1Mjc2NjYzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X82ISD3N",
+        "transaction_id": "MzIzMTAyNjAyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7LP0Z6G",
+        "transaction_id": "MzIyMzExOTIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X71NKQJV",
+        "transaction_id": "MzE5OTkzNzQ0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X6LQJWL4",
+        "transaction_id": "MzE5MzQ1Mzc0M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-03-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X637C8U1",
+        "transaction_id": "MzE3MjI3MDg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-29",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X5MVI8ER",
+        "transaction_id": "MzE2NTQ2OTc4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-04-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X55P4X2Y",
+        "transaction_id": "MzE0NzIxOTY0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-04-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X55P4WN4",
+        "transaction_id": "MzE0NzIxOTY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-04-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X55P4W4J",
+        "transaction_id": "MzE0NzIxOTM2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-04-26",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X55P4VSP",
+        "transaction_id": "MzE0NzIxOTM2N2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-04-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X54GKS57",
+        "transaction_id": "MzE0NTkzMTg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2016-04-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 8,
+        "barcode": "A542WMSO",
+        "transaction_id": "MzE0NjA0MjYxOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 50,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Trackaparcel.com",
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T06:57:22.033Z",
+  "scraped_at": "2026-01-10T06:57:22.033Z"
+}

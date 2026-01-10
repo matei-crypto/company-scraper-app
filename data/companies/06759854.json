@@ -1,0 +1,434 @@
+{
+  "company_name": "FORGE GLOBAL LIMITED",
+  "company_number": "06759854",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2008-11-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "18 Phipp St, London, EC2A 4NU, England",
+  "registered_address_structured": {
+    "address_line_1": "18 Phipp St",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 4NU"
+  },
+  "sic_codes": [
+    "62090",
+    "63990"
+  ],
+  "previous_company_names": [
+    {
+      "name": "DIGITAL RESULTS LIMITED",
+      "ceased_on": "2018-08-02",
+      "effective_from": "2008-11-27"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-30",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-16",
+    "last_made_up_to": "2025-09-02",
+    "next_made_up_to": "2026-09-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "SOUTHEY, Charles Oliver",
+        "officer_role": "director",
+        "appointed_on": "2017-05-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Phipp St",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 4NU",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "FINLAYSON, Kenneth John",
+        "officer_role": "director",
+        "appointed_on": "2008-11-27",
+        "resigned_on": "2017-09-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Rush Green",
+          "country": "England",
+          "locality": "Hertford",
+          "postal_code": "SG13 7SD",
+          "premises": "Rush Green Hall"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Charles Oliver Southey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2017-05-01",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Phipp St",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 4NU",
+          "premises": "18"
+        }
+      },
+      {
+        "name": "Mr Kenneth John Finlayson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2017-05-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Rush Green",
+          "locality": "Hertford",
+          "postal_code": "SG13 7SD",
+          "premises": "Rush Green Hall"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "067598540001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-08-03",
+        "delivered_on": "2020-08-07",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Security Trustee Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEC6IW1U",
+        "transaction_id": "MzQ4MzI1MDc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAAATQ8",
+        "transaction_id": "MzQ3OTY1NTM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDZJQ1V6",
+        "transaction_id": "MzQ2MTAxNTkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDZJPOC2",
+        "transaction_id": "MzQ2MTAxMzA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDCRKY2G",
+        "transaction_id": "MzQzNzc4MDAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBEOMH5",
+        "transaction_id": "MzQzNTI0NDQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDAZLQ0",
+        "transaction_id": "MzM5NTA3OTIwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCD5UPN5",
+        "transaction_id": "MzM5NTAyNTM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-02-06",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 23,
+        "barcode": "YBWICI6R",
+        "transaction_id": "MzM2ODEwMjUzMWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-02-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUJXSUNJRlNhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XBII5QBK",
+        "transaction_id": "MzM2MTYxMjUwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDV96VF",
+        "transaction_id": "MzM1Mzg2NzMxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAGKWU9L",
+        "transaction_id": "MzMxOTIxNjIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAGKU28O",
+        "transaction_id": "MzMxOTE5MDcxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAGKTY43",
+        "transaction_id": "MzMxOTE4OTgwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAE7A13C",
+        "transaction_id": "MzMxNTgxNDg3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-11-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9HNVZ8O",
+        "transaction_id": "MzI4MzI4OTk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9EROYEP",
+        "transaction_id": "MzI3OTM1ODk3OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-08-07",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "X9AY26IQ",
+        "transaction_id": "MzI3NDg1NDExMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-10-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X8GPFF4Z",
+        "transaction_id": "MzI0NzQ1NDY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2019-10-18",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "A8FRAU97",
+        "transaction_id": "MzI0NjcwMDAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-15",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 10,
+        "barcode": "A858T8H7",
+        "transaction_id": "MzIzNDQzODE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X8561CZU",
+        "transaction_id": "MzIzNDA4NTkwNmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-03-15",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 22,
+        "transaction_id": "QTgwUzBYVjVhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2018-11-27",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "A7J6TABV",
+        "transaction_id": "MzIyMDI2MjY0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 58,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 11
+  },
+  "enrichment": {
+    "website": "https://Forge.uk",
+    "headcount": 11,
+    "tech_stack": [],
+    "business_keywords": [
+      "sales-led marketing",
+      "marketing agency",
+      "revenue growth",
+      "new business",
+      "sales strategies",
+      "lead generation",
+      "campaigns",
+      "marketing KPIs",
+      "commercial milestones",
+      "cold leads",
+      "warm leads",
+      "sales processes",
+      "long-term partnerships",
+      "marketing strategy",
+      "business scaling"
+    ],
+    "services": [
+      "sales-led marketing strategies",
+      "campaign creation and delivery",
+      "lead qualification",
+      "marketing strategy transformation",
+      "long-term marketing partnerships"
+    ],
+    "customer_segments": [
+      "organisations with misaligned marketing and sales",
+      "CEOs",
+      "businesses seeking revenue growth",
+      "businesses aiming for commercial milestones",
+      "businesses needing long-term marketing partnerships"
+    ],
+    "business_description": "Forge Global Limited is a sales-led marketing agency based in Shoreditch, London, specializing in aligning marketing efforts with sales objectives to drive revenue, growth, and new business. They create and deliver campaigns focused on generating qualified leads and forming long-term partnerships to transform marketing into a primary driver of sales.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:35:35.888Z"
+  },
+  "scraped_at": "2026-01-10T06:35:29.966Z",
+  "updated_at": "2026-01-10T06:35:35.888Z",
+  "version": 1
+}

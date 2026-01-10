@@ -1,0 +1,438 @@
+{
+  "company_name": "TICG LTD",
+  "company_number": "06860032",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-03-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 5a Oldknows Factory, St. Anns Hill Road, Nottingham, Nottinghamshire, NG3 4GN, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 5a Oldknows Factory",
+    "address_line_2": "St. Anns Hill Road",
+    "country": "England",
+    "locality": "Nottingham",
+    "postal_code": "NG3 4GN",
+    "region": "Nottinghamshire"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "THIS IS CREATIVE LTD",
+      "ceased_on": "2025-05-22",
+      "effective_from": "2009-03-26"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-09",
+    "last_made_up_to": "2025-03-26",
+    "next_made_up_to": "2026-03-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LYNCH  SANDHU, Laura",
+        "officer_role": "director",
+        "appointed_on": "2017-03-28",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oldknows Factory",
+          "address_line_2": "St. Anns Hill Road",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG3 4GN",
+          "premises": "Unit 5a",
+          "region": "Nottinghamshire"
+        }
+      },
+      {
+        "name": "SANDHU, Manpreet",
+        "officer_role": "director",
+        "appointed_on": "2009-03-26",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Oldknows Factory",
+          "address_line_2": "St. Anns Hill Road",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG3 4GN",
+          "premises": "Unit 5a",
+          "region": "Nottinghamshire"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SANDHU, Gulsharn",
+        "officer_role": "secretary",
+        "appointed_on": "2009-03-26",
+        "resigned_on": "2014-06-01",
+        "address": {
+          "address_line_1": "Christina Crescent",
+          "address_line_2": "Cinderhill",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG3 3DG",
+          "premises": "42"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr  Manpreet Sandhu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Oldknows Factory",
+          "address_line_2": "St. Anns Hill Road",
+          "country": "England",
+          "locality": "Nottingham",
+          "postal_code": "NG3 4GN",
+          "premises": "Unit 5a",
+          "region": "Nottinghamshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEHQX9C9",
+        "transaction_id": "MzQ5NTQyOTEwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE5K08L4",
+        "transaction_id": "MzQ3MTY1NjEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-06-26",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE5K08EX",
+        "transaction_id": "MzQ3MTY1NjExM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-06-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE5K08LC",
+        "transaction_id": "MzQ3MTY1NjEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-06-26",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE5K08P7",
+        "transaction_id": "MzQ3MTY1NjEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-05-22",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XE32TJ6R",
+        "transaction_id": "MzQ2NzUwNzI3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDZBBHWY",
+        "transaction_id": "MzQ2MDYwNjk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDICJYM9",
+        "transaction_id": "MzQ0ODUzMTk2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDG80W7F",
+        "transaction_id": "MzQ0NDEzOTA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDG80WG0",
+        "transaction_id": "MzQ0NDEzOTEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-11-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDG80WGW",
+        "transaction_id": "MzQ0NDEzOTA5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDG80W56",
+        "transaction_id": "MzQ0NDEzOTA3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCZSZ8N6",
+        "transaction_id": "MzQxNjI3NTgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCVG1YPF",
+        "transaction_id": "MzQwODg4MTUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCGAQS21",
+        "transaction_id": "MzM5OTg4ODY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCGAQRK3",
+        "transaction_id": "MzM5OTg4ODYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCGAQRQZ",
+        "transaction_id": "MzM5OTg4ODYyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-11-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCGAQROR",
+        "transaction_id": "MzM5OTg4ODYyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC0S8GQZ",
+        "transaction_id": "MzM3NTI0Nzk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC08SQ7M",
+        "transaction_id": "MzM3NDI2NjEyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC08SQPV",
+        "transaction_id": "MzM3NDI2NjEwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-11",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBINAZFD",
+        "transaction_id": "MzM2MTcwODYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB1IU0PF",
+        "transaction_id": "MzMzNTcwMTc2MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAWVK9SZ",
+        "transaction_id": "MzMyODMzMjExMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XA59JUHJ",
+        "transaction_id": "MzMwMjExNDc3NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 58,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Rolleragency.co.uk",
+    "headcount": 13,
+    "tech_stack": [],
+    "business_keywords": [
+      "HealthTech",
+      "life science technology",
+      "AI consulting",
+      "digital transformation",
+      "healthcare technology",
+      "SaaS platforms",
+      "custom mobile tools",
+      "AI and data",
+      "human-centred design",
+      "HealthTech startups",
+      "scaleups",
+      "healthcare organisations",
+      "MedTech",
+      "digital health",
+      "clinical relevance",
+      "compliance",
+      "NHSX standards",
+      "GDS standards",
+      "UX/UI design",
+      "operational workflows",
+      "digital therapeutics"
+    ],
+    "services": [
+      "AI consulting services",
+      "validation of ideas for HealthTech startups and scaleups",
+      "adoption of emerging healthcare and life science technology solutions",
+      "bringing products to market",
+      "design and development of healthcare-ready software",
+      "development of SaaS platforms",
+      "development of custom mobile tools",
+      "harnessing AI and data to streamline operations",
+      "personalising care through AI and data",
+      "human-centred design for HealthTech products",
+      "expert guidance on UX/UI design",
+      "feature prioritisation for digital solutions",
+      "implementation strategies for healthcare business optimisation",
+      "strategy alignment for senior leaders (CDOs, CIOs, CTOs, CPOs)",
+      "MedTech scaling strategies",
+      "operational excellence in digital health",
+      "development and validation of cutting-edge medical products",
+      "navigating compliance requirements for medical products",
+      "ensuring successful commercialisation pathways",
+      "Service Design approach for digital transformation in life sciences",
+      "improving user experience in healthcare technology"
+    ],
+    "customer_segments": [
+      "HealthTech startups",
+      "HealthTech scaleups",
+      "healthcare organisations",
+      "product managers in healthcare",
+      "senior executives (CDOs, CIOs, CTOs, CPOs)",
+      "researchers in medical and healthcare fields",
+      "founders who have received funding",
+      "decision-makers in companies needing technical solutions"
+    ],
+    "business_description": "nuom Health, operating as TICG LTD, specialises in transforming healthcare through innovation and technology. The company provides AI consulting, digital transformation services, and healthcare-ready software development for life sciences and healthcare organisations. They partner with HealthTech startups, scaleups, and senior leaders to validate ideas, adopt emerging technologies, and bring products to market while ensuring compliance and clinical relevance.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T06:57:06.055Z"
+  },
+  "scraped_at": "2026-01-10T06:56:54.417Z",
+  "updated_at": "2026-01-10T06:57:06.055Z",
+  "version": 1
+}

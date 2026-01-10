@@ -1,0 +1,509 @@
+{
+  "company_name": "MEDDIGITAL LIMITED",
+  "company_number": "06453053",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-12-13",
+  "jurisdiction": "england-wales",
+  "registered_address": "Highcross House, Minsterworth, Gloucester, GL2 8JW, England",
+  "registered_address_structured": {
+    "address_line_1": "Highcross House",
+    "address_line_2": "Minsterworth",
+    "country": "England",
+    "locality": "Gloucester",
+    "postal_code": "GL2 8JW"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MEDCROWD LIMITED",
+      "ceased_on": "2012-07-10",
+      "effective_from": "2008-02-20"
+    },
+    {
+      "name": "MIIMZ LIMITED",
+      "ceased_on": "2008-02-20",
+      "effective_from": "2007-12-13"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-23",
+    "last_made_up_to": "2025-12-09",
+    "next_made_up_to": "2026-12-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GARDNER, Paul",
+        "officer_role": "director",
+        "appointed_on": "2010-08-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Minsterworth",
+          "country": "England",
+          "locality": "Gloucester",
+          "postal_code": "GL2 8JW",
+          "premises": "Highcross House"
+        }
+      },
+      {
+        "name": "JACKSON, Felix, Dr",
+        "officer_role": "director",
+        "appointed_on": "2007-12-13",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Minsterworth",
+          "country": "England",
+          "locality": "Gloucester",
+          "postal_code": "GL2 8JW",
+          "premises": "Highcross House"
+        }
+      },
+      {
+        "name": "TONGREN, Tim Van",
+        "officer_role": "director",
+        "appointed_on": "2009-10-01",
+        "resigned_on": "2012-07-10",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "Dutch",
+        "country_of_residence": "The Netherlands",
+        "address": {
+          "address_line_1": "3-4 Holborn Circus",
+          "locality": "London",
+          "postal_code": "EC1N 2HA",
+          "premises": "First Floor Thavies Inn House"
+        }
+      },
+      {
+        "name": "VAN ROOIJ, Dennis Rudolf",
+        "officer_role": "director",
+        "appointed_on": "2009-03-09",
+        "resigned_on": "2012-07-10",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "3-4 Holborn Circus",
+          "locality": "London",
+          "postal_code": "EC1N 2HA",
+          "premises": "First Floor Thavies Inn House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ASHWORTH, Karen",
+        "officer_role": "secretary",
+        "appointed_on": "2008-01-24",
+        "resigned_on": "2009-04-29",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "St Albans Avenue",
+          "locality": "London",
+          "postal_code": "W4 5JS",
+          "premises": "73"
+        }
+      },
+      {
+        "name": "VAN ROOIJ, Dennis Rudolf",
+        "officer_role": "secretary",
+        "appointed_on": "2009-04-29",
+        "resigned_on": "2012-07-10",
+        "nationality": "British",
+        "address": {
+          "country": "The Netherlands",
+          "locality": "Hilvarenbeek",
+          "premises": "Wouwerdries 55",
+          "region": "5081 Vw"
+        }
+      },
+      {
+        "name": "JORDAN COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2007-12-13",
+        "resigned_on": "2008-01-24",
+        "address": {
+          "address_line_1": "21 St Thomas Street",
+          "locality": "Bristol",
+          "postal_code": "BS1 6JS"
+        }
+      },
+      {
+        "name": "SWIFT INCORPORATIONS LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2007-12-13",
+        "resigned_on": "2007-12-13",
+        "address": {
+          "address_line_1": "1 Mitchell Lane",
+          "locality": "Bristol",
+          "postal_code": "BS1 6BU"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul Gardner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-06-30",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Minsterworth",
+          "country": "England",
+          "locality": "Gloucester",
+          "postal_code": "GL2 8JW",
+          "premises": "Highcross House"
+        }
+      },
+      {
+        "name": "Mr Felix Jackson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2016-06-30",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Minsterworth",
+          "country": "England",
+          "locality": "Gloucester",
+          "postal_code": "GL2 8JW",
+          "premises": "Highcross House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-10",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEH1B188",
+        "transaction_id": "MzQ5MzEzNzg1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-26",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEBVJIKJ",
+        "transaction_id": "MzQ4MjgyODU4N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE11CL09",
+        "transaction_id": "MzQ2MzQ0NTI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHKSY4Q",
+        "transaction_id": "MzQ0NjU3OTc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCREGEA",
+        "transaction_id": "MzQzNzcyNTQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCI8XUOO",
+        "transaction_id": "MzQwMzU0NDYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCBYIDQ8",
+        "transaction_id": "MzM5MjgyMjcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBISMD22",
+        "transaction_id": "MzM2MTg5NzI2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-29",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBDKKSEY",
+        "transaction_id": "MzM1MzU0OTYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-27",
+        "description": "change-sail-address-company-with-old-address-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XAWKYNO3",
+        "transaction_id": "MzMyODA0NDk4N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-27",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XAWKYNIW",
+        "transaction_id": "MzMyODA0NDk5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAWKYMUZ",
+        "transaction_id": "MzMyODA0NDgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAWKYMDE",
+        "transaction_id": "MzMyODA0NDQzMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAWKYKTU",
+        "transaction_id": "MzMyODA0NDE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAWKYJYI",
+        "transaction_id": "MzMyODA0Mzg5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJ98NE3",
+        "transaction_id": "MzMyMzQwMTQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XABNW1SX",
+        "transaction_id": "MzMxMTcwOTQyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9JVQS4Z",
+        "transaction_id": "MzI4NTg5NzU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-02",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9EUJ5MJ",
+        "transaction_id": "MzI3OTQ5Mzg2NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-04-16",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X932CMKQ",
+        "transaction_id": "MzI2MjUzOTcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8K962C8",
+        "transaction_id": "MzI1MjA5NDcyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-30",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8ATO8K1",
+        "transaction_id": "MzI0MDU1MzM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7KQBR41",
+        "transaction_id": "MzIyMjAyODA5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-28",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7DBO7W9",
+        "transaction_id": "MzIxMzAyOTE3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6LNLPDN",
+        "transaction_id": "MzE5MzI5ODk4MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 77,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Meddigital.com",
+    "headcount": 12,
+    "tech_stack": [],
+    "business_keywords": [
+      "healthcare challenges",
+      "insightful science",
+      "digital solutions",
+      "scientific review",
+      "compliant content",
+      "dynamic approvals",
+      "insight driven content",
+      "events",
+      "webinars",
+      "training",
+      "education",
+      "communication strategy",
+      "Digital AQP",
+      "pharmaceutical industry",
+      "medical education",
+      "digital compliance"
+    ],
+    "services": [
+      "Scientific review for compliant content",
+      "Dynamic approvals for scientific content",
+      "Creation of insight driven content",
+      "End-to-end support for events and webinars",
+      "Training and education offerings",
+      "Development and delivery of communication strategy",
+      "Use of Digital AQP to reduce signatory time",
+      "Educational events on key themes in the pharmaceutical industry",
+      "Expert engagement for strategic insights",
+      "Compliant engagement solutions to support HTA submissions",
+      "Digital compliance support",
+      "Just-in-time HTA submission support",
+      "Product launch materials",
+      "Digital compliance and best practice framework",
+      "Compliant search advertising",
+      "Training on using digital in pharma"
+    ],
+    "customer_segments": [
+      "healthcare professionals",
+      "pharmaceutical industry",
+      "patients",
+      "clinicians",
+      "HTA (Health Technology Assessment) submitters"
+    ],
+    "business_description": "medDigital Limited overcomes healthcare challenges by providing insightful science and digital solutions. They offer services including scientific review, dynamic approvals for compliant content, insight-driven content creation, event and webinar support, training and education, and communication strategy development tailored to the pharmaceutical industry and healthcare professionals.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T05:37:20.706Z"
+  },
+  "scraped_at": "2026-01-10T05:37:13.409Z",
+  "updated_at": "2026-01-10T05:37:20.706Z",
+  "version": 1
+}

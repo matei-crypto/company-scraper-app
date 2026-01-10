@@ -1,0 +1,393 @@
+{
+  "company_name": "GREENWORLD TECHNOLOGIES LIMITED",
+  "company_number": "06258426",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2007-05-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "1st Floor 70 Mark Lane, London, EC3R 7NQ, England",
+  "registered_address_structured": {
+    "address_line_1": "1st Floor 70 Mark Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC3R 7NQ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "GREENWORLD FORENSICS LIMITED",
+      "ceased_on": "2016-10-26",
+      "effective_from": "2007-05-24"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-29",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-12",
+    "last_made_up_to": "2025-04-28",
+    "next_made_up_to": "2026-04-28"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "AITKEN, David",
+        "officer_role": "director",
+        "appointed_on": "2007-05-24",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "70 Mark Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3R 7NQ",
+          "premises": "1st Floor"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "AITKEN, Tessa",
+        "officer_role": "secretary",
+        "appointed_on": "2007-05-24",
+        "resigned_on": "2009-01-15",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "116 Altrincham Road",
+          "locality": "Wilmslow",
+          "postal_code": "SK9 5NQ",
+          "region": "Cheshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr David Aitken",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "70 Mark Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3R 7NQ",
+          "premises": "1st Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE1NMOGY",
+        "transaction_id": "MzQ2NDc5NjcxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE1NMIK0",
+        "transaction_id": "MzQ2NDc5NTQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-05-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE1NMIHO",
+        "transaction_id": "MzQ2NDc5NTM5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE1NMIJ4",
+        "transaction_id": "MzQ2NDc5NTM5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-27",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDX9ODPV",
+        "transaction_id": "MzQ1Njc0Mjk5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-09",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XDTVT22G",
+        "transaction_id": "MzQ1MDQ4NTcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-09-21",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQzNjM1ODk3M2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-09-10",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQzMzcyMzI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD2L6O0A",
+        "transaction_id": "MzQyMDgzMzU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-03-13",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQxMzc2NTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-03-12",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQxMzA3Njk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-07",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCYDNHO8",
+        "transaction_id": "MzQxMzc2NDk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-07-26",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM4Njg3MTcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-07-25",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM4NjY4NjIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC2F1MO0",
+        "transaction_id": "MzM3NzkxNDE4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB2UTTS3",
+        "transaction_id": "MzMzNzY5NzI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-14",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XB1WBXEI",
+        "transaction_id": "MzMzNjMxNzA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-11-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAHWYL5S",
+        "transaction_id": "MzMyMTE1NDk3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-25",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XA7D9RO1",
+        "transaction_id": "MzMwNTcwNjA0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XA3EA9K8",
+        "transaction_id": "MzI5OTMyMDQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-04-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA38RUO3",
+        "transaction_id": "MzI5ODk3NTYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X95XIORC",
+        "transaction_id": "MzI2NTg3MjY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X93XUM8Z",
+        "transaction_id": "MzI2MzQyNjc1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-02-13",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X8YQ3UVT",
+        "transaction_id": "MzI1NzE0MTgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X8D649BK",
+        "transaction_id": "MzI0MzIwNzMwOGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 61,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 23
+  },
+  "enrichment": {
+    "website": "https://Greenworld.eu.com",
+    "headcount": 23,
+    "tech_stack": [],
+    "business_keywords": [
+      "electronic equipment disposal",
+      "data destruction",
+      "asset management",
+      "secure on-site data destruction",
+      "equipment remarketing",
+      "equipment redeployment",
+      "environmental management",
+      "forensic solutions",
+      "data recovery",
+      "data analysis",
+      "expert witness services",
+      "equipment refurbishment",
+      "WEEE legislation compliance",
+      "corporate social responsibility",
+      "zero landfill policy"
+    ],
+    "services": [
+      "secure on-site data destruction",
+      "asset management",
+      "equipment disposal",
+      "equipment remarketing",
+      "equipment redeployment",
+      "equipment valuation",
+      "equipment refurbishment",
+      "equipment upgrade",
+      "environmental management",
+      "forensic solutions (data recovery, data analysis, expert witness services)",
+      "secure asset tracking, auditing, and reporting",
+      "comprehensive asset reconciliation and tracking",
+      "developing country equipment provision programmes",
+      "free used equipment valuation",
+      "data risk assessment",
+      "compliance guidance (Data Protection Act, EU Data Protection Regulation, WEEE Legislation, Hazardous Waste Legislation)"
+    ],
+    "customer_segments": [
+      "businesses with electronic equipment disposal needs",
+      "organizations requiring secure data destruction",
+      "companies needing asset management services",
+      "clients seeking equipment remarketing or redeployment",
+      "businesses focused on corporate social responsibility",
+      "entities requiring forensic data services"
+    ],
+    "business_description": "Greenworld Technologies Limited is a specialist company providing secure on-site data destruction, asset management, and electronic equipment disposal services. It offers worldwide solutions including equipment remarketing, redeployment, environmental management, and forensic services such as data recovery and expert witness support. The company ensures compliance with government standards and legislation, focusing on maximizing equipment lifespan and minimizing environmental impact.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T05:04:02.986Z"
+  },
+  "scraped_at": "2026-01-10T05:03:53.645Z",
+  "updated_at": "2026-01-10T05:04:02.986Z",
+  "version": 1
+}

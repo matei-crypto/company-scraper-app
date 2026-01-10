@@ -1,0 +1,410 @@
+{
+  "company_name": "INSURANCE DATA SOLUTIONS LTD",
+  "company_number": "05909592",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-08-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Dalton House, 9 Dalton Square, Lancaster, Lancashire, LA1 1WD",
+  "registered_address_structured": {
+    "address_line_1": "Dalton House, 9 Dalton Square",
+    "address_line_2": "Lancaster",
+    "locality": "Lancashire",
+    "postal_code": "LA1 1WD"
+  },
+  "sic_codes": [
+    "62012",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NEW CITY SOFTWARE LIMITED",
+      "ceased_on": "2024-07-08",
+      "effective_from": "2006-08-17"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-15",
+    "last_made_up_to": "2025-07-01",
+    "next_made_up_to": "2026-07-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JOHNSON, Cheryl Maria",
+        "officer_role": "director",
+        "appointed_on": "2010-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Dalton House, 9 Dalton Square",
+          "address_line_2": "Lancaster",
+          "locality": "Lancashire",
+          "postal_code": "LA1 1WD"
+        }
+      },
+      {
+        "name": "JOHNSON, Paul",
+        "officer_role": "director",
+        "appointed_on": "2006-08-17",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dalton House, 9 Dalton Square",
+          "address_line_2": "Lancaster",
+          "locality": "Lancashire",
+          "postal_code": "LA1 1WD"
+        }
+      },
+      {
+        "name": "FORM 10 DIRECTORS FD LTD",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "2006-08-17",
+        "resigned_on": "2006-08-18",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "JOHNSON, Cheryl Maria",
+        "officer_role": "secretary",
+        "appointed_on": "2006-08-17",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Dalton House, 9 Dalton Square",
+          "address_line_2": "Lancaster",
+          "locality": "Lancashire",
+          "postal_code": "LA1 1WD"
+        }
+      },
+      {
+        "name": "FORM 10 SECRETARIES FD LTD",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2006-08-17",
+        "resigned_on": "2006-08-18",
+        "address": {
+          "address_line_1": "39a Leicester Road",
+          "address_line_2": "Salford",
+          "locality": "Manchester",
+          "postal_code": "M7 4AS"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Paul Johnson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1969,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "9 Dalton Square",
+          "country": "United Kingdom",
+          "locality": "Lancaster",
+          "postal_code": "LA1 1WD",
+          "premises": "Dalton House"
+        }
+      },
+      {
+        "name": "Mrs Cheryl Maria Johnson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "9 Dalton Square",
+          "country": "United Kingdom",
+          "locality": "Lancaster",
+          "postal_code": "LA1 1WD",
+          "premises": "Dalton House"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE6U5DH4",
+        "transaction_id": "MzQ3MzY5OTc5N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-10",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDY0Q7J6",
+        "transaction_id": "MzQ1Nzg1MzQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2024-07-08",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 4,
+        "barcode": "AD6H09A0",
+        "transaction_id": "MzQyNzkzNDI4NmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2024-07-08",
+        "description": "change-of-name-request-comments",
+        "type": "NM06",
+        "pages": 2,
+        "barcode": "AD6H0980",
+        "transaction_id": "MzQyNzkzMjQ2MWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2024-07-08",
+        "description": "change-of-name-notice",
+        "type": "CONNOT",
+        "pages": 2,
+        "barcode": "AD6H097S",
+        "transaction_id": "MzQyNzkzMTI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD6EL2O8",
+        "transaction_id": "MzQyNzE5ODg1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XD3SGZLN",
+        "transaction_id": "MzQyMzEyNjgxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCB51ONK",
+        "transaction_id": "MzM5MTYyMjk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC4A2ED4",
+        "transaction_id": "MzM4MDgyMTM2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-26",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBB749CW",
+        "transaction_id": "MzM0OTg5NzMzMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XB55UH77",
+        "transaction_id": "MzM0MTA2Mzc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAC189Y9",
+        "transaction_id": "MzMxMjI5NzU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-05-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XA59PGKG",
+        "transaction_id": "MzMwMjE2ODMzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-10-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9G93PSJ",
+        "transaction_id": "MzI4MTQyODQzMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X94YXCAA",
+        "transaction_id": "MzI2NDY2MTIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X8DEABVU",
+        "transaction_id": "MzI0MzY4ODEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-01-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X7Y8IUIG",
+        "transaction_id": "MzIyNTczODk2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X7DTFSMG",
+        "transaction_id": "MzIxMzc5MzM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-05-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X76L6LD6",
+        "transaction_id": "MzIwNTY2ODc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6G0IEW9",
+        "transaction_id": "MzE4NjYwMjM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-08-03",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "X6C0C7GO",
+        "transaction_id": "MzE4MjE3OTc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-08-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X6C0AU7C",
+        "transaction_id": "MzE4MjE3ODI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-05-15",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X66H2X94",
+        "transaction_id": "MzE3NTc2MTcyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-08-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "X5EHPFAA",
+        "transaction_id": "MzE1NjE3MzMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-05-24",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X57NTCCW",
+        "transaction_id": "MzE0OTIxODA0N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 56,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "website": "https://Estore.com.au",
+    "headcount": 13,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T04:11:43.625Z",
+  "scraped_at": "2026-01-10T04:11:43.625Z"
+}

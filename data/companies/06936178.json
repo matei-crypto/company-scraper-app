@@ -1,0 +1,433 @@
+{
+  "company_name": "ENGYS LTD",
+  "company_number": "06936178",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-06-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "1 The Green, Richmond, Surrey, TW9 1PL",
+  "registered_address_structured": {
+    "address_line_1": "1 The Green",
+    "locality": "Richmond",
+    "postal_code": "TW9 1PL",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-01",
+    "last_made_up_to": "2025-06-17",
+    "next_made_up_to": "2026-06-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAMPOS, Francisco",
+        "officer_role": "director",
+        "appointed_on": "2009-10-24",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1975,
+        "nationality": "Spanish",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Banstead",
+          "postal_code": "SM7 1BL",
+          "premises": "13 Rowan Close",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "DE VILLIERS, Eugene, Dr.",
+        "officer_role": "director",
+        "appointed_on": "2009-06-17",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Banstead",
+          "postal_code": "SM7 1HR",
+          "premises": "153 Nork Way",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "JACKSON, Andrew Park",
+        "officer_role": "director",
+        "appointed_on": "2009-10-24",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW16 2XP",
+          "premises": "25 Harborough Road"
+        }
+      },
+      {
+        "name": "SCHUMACHER, Thomas",
+        "officer_role": "director",
+        "appointed_on": "2009-10-24",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1977,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "country": "Germany",
+          "locality": "18055 Rostock",
+          "premises": "Am Gueterbahnhof 4"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Rent deposit deed"
+          }
+        ],
+        "created_on": "2012-05-16",
+        "delivered_on": "2012-05-23",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "£2,750.00. see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "South of the Border Holdings Limited"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "£2,750.00 due or to become due from the company to the chargee"
+        },
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7CWMRU",
+        "transaction_id": "MzQ3NDY2NDYyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDZ2T9CW",
+        "transaction_id": "MzQ1OTk5NTQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-04",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD6MWXEX",
+        "transaction_id": "MzQyNzY4MzAzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCZNEKDN",
+        "transaction_id": "MzQxNTk1MzI5NWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "ACICMIQQ",
+        "transaction_id": "MzQwNTAwNjgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8J4FK8",
+        "transaction_id": "MzM4NzUyODY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBY7ZZKX",
+        "transaction_id": "MzM3MDg3MTE3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-17",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 3,
+        "barcode": "XBEBLQGZ",
+        "transaction_id": "MzM1NDYzMTc2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-30",
+        "description": "confirmation-statement",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XB79I7V6",
+        "transaction_id": "MzM0NDM2MTYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-06-13",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUI1TFIwUE5hZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-06-09",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "AB5LR0RF",
+        "transaction_id": "MzM0MTg1Mjk5M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-03-29",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 2,
+        "barcode": "AB090C5N",
+        "transaction_id": "MzMzNDQ2Mjg0OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-03-28",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 3,
+        "barcode": "AB090C5F",
+        "transaction_id": "MzMzMzQ4Mjk5NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-03-26",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUIwOTBDMkJhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-01-06",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUFKWkpHUkRhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 5,
+        "barcode": "AAJZJGSH",
+        "transaction_id": "MzMyNTI2OTQ4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XAJ9FWIQ",
+        "transaction_id": "MzMyMzQ3MTI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA7KXE5L",
+        "transaction_id": "MzMwNTg3MjE3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9YWFVND",
+        "transaction_id": "MzI5MjI0NjI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X97HGP8R",
+        "transaction_id": "MzI2NzY4OTkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "X91O72OA",
+        "transaction_id": "MzI2MDg4MzU5NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-10-02",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 18,
+        "barcode": "A8EOEWDM",
+        "transaction_id": "MzI0NTgyMzk2M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-08-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QThCV1cwSTJhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-08-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QThCV1cwSUFhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2019-08-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 19,
+        "transaction_id": "QThCRjJJQU9hZGlxemtjeA"
+      }
+    ],
+    "total_count": 67,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Engys.com",
+    "headcount": 10,
+    "tech_stack": [
+      "open-source CFD technologies"
+    ],
+    "business_keywords": [
+      "CFD",
+      "computational fluid dynamics",
+      "open-source CFD",
+      "engineering analysis",
+      "design optimization",
+      "scalable CFD",
+      "HELYX",
+      "ELEMENTS",
+      "CFD software",
+      "CFD solutions",
+      "CFD consultancy",
+      "CFD training",
+      "HPC on demand",
+      "CFD development",
+      "multi-phase solver"
+    ],
+    "services": [
+      "CFD software products",
+      "CFD consultancy",
+      "CFD software development",
+      "HPC on demand",
+      "CFD training",
+      "End-to-end CFD solutions"
+    ],
+    "customer_segments": [
+      "Enterprise",
+      "AEC (Architecture, Engineering and Construction)",
+      "Turbomachinery",
+      "Motorsports",
+      "Aerospace and Defense",
+      "Marine",
+      "Process and Manufacturing",
+      "Energy industry",
+      "Automotive",
+      "Academia",
+      "Automotive OEMs",
+      "Consultants",
+      "Suppliers",
+      "Research institutes",
+      "University groups",
+      "Government/Military",
+      "Naval Architecture",
+      "Oil & Gas",
+      "Chemical",
+      "Electronics",
+      "Food & Beverage",
+      "Heavy Machinery",
+      "Medical & Pharmaceutical",
+      "Mining & Metallurgy"
+    ],
+    "business_description": "ENGYS provides open-source computational fluid dynamics (CFD) software products and services for engineering analysis and design optimization. The company offers scalable and accessible CFD solutions, including HELYX and ELEMENTS, along with consultancy, development, HPC on demand, and training services to empower engineers, scientists, and designers across various industries.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:09:03.499Z"
+  },
+  "scraped_at": "2026-01-10T07:08:56.272Z",
+  "updated_at": "2026-01-10T07:09:03.499Z",
+  "version": 1
+}

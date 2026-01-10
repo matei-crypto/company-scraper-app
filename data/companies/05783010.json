@@ -1,0 +1,783 @@
+{
+  "company_name": "LAB49 UK LIMITED",
+  "company_number": "05783010",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2006-04-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "C/O Ion, 10 Queen Street Place, London, EC4R 1BE, England",
+  "registered_address_structured": {
+    "address_line_1": "C/O Ion",
+    "address_line_2": "10 Queen Street Place",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC4R 1BE"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "CORPUS UK LIMITED",
+      "ceased_on": "2009-01-12",
+      "effective_from": "2006-04-18"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-02",
+    "last_made_up_to": "2025-04-18",
+    "next_made_up_to": "2026-04-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GUPTA, Vivake",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "10 Queen Street Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4R 1BE",
+          "premises": "C/O Ion"
+        }
+      },
+      {
+        "name": "CECCOLINI, Andrea",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "resigned_on": "2011-05-17",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1968,
+        "nationality": "Italian",
+        "address": {
+          "address_line_1": "16 Marler Road",
+          "address_line_2": "Forest Hill",
+          "locality": "London",
+          "postal_code": "SE23 2AD"
+        }
+      },
+      {
+        "name": "CHAIT, Daniel",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "resigned_on": "2011-05-17",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1973,
+        "nationality": "Usa",
+        "address": {
+          "address_line_1": "West 19th Street Apartment 9d",
+          "country": "Usa",
+          "locality": "New York",
+          "postal_code": "NY  10011",
+          "premises": "121"
+        }
+      },
+      {
+        "name": "CLINCH, Conor Gerard",
+        "officer_role": "director",
+        "appointed_on": "2015-04-26",
+        "resigned_on": "2020-09-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1979,
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "10 Queen Street Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4R 1BE",
+          "premises": "C/O Ion"
+        }
+      },
+      {
+        "name": "FLEMMER, Luke",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "resigned_on": "2014-12-10",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1971,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "St Mary Axe",
+          "address_line_2": "2nd Floor",
+          "locality": "London",
+          "postal_code": "EC3A 8EP",
+          "premises": "30"
+        }
+      },
+      {
+        "name": "HAMID, John Shahid",
+        "officer_role": "director",
+        "appointed_on": "2006-04-18",
+        "resigned_on": "2008-12-15",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1964,
+        "nationality": "American",
+        "country_of_residence": "Usa",
+        "address": {
+          "address_line_1": "187 Georgian Drive",
+          "country": "United States",
+          "locality": "Coppell",
+          "postal_code": "75019",
+          "region": "Texas"
+        }
+      },
+      {
+        "name": "HOARE, Aram",
+        "officer_role": "director",
+        "appointed_on": "2008-12-15",
+        "resigned_on": "2015-06-26",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1973,
+        "nationality": "Australian",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "Church Street",
+          "country": "Ireland",
+          "locality": "Howth",
+          "premises": "41",
+          "region": "County Dublin"
+        }
+      },
+      {
+        "name": "NICHOLSON, Joe",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "resigned_on": "2011-05-17",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "116 Court Lane",
+          "locality": "London",
+          "postal_code": "SE21 7EA"
+        }
+      },
+      {
+        "name": "OLIVIERO, Silvio",
+        "officer_role": "director",
+        "appointed_on": "2008-12-16",
+        "resigned_on": "2011-05-17",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1972,
+        "nationality": "Italian",
+        "address": {
+          "address_line_1": "Floor 7 Birchin Lane",
+          "locality": "London",
+          "postal_code": "EC3V 9BW",
+          "premises": "5th"
+        }
+      },
+      {
+        "name": "TUMMALA, Sachin",
+        "officer_role": "director",
+        "appointed_on": "2006-04-18",
+        "resigned_on": "2008-12-15",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1972,
+        "nationality": "Indian",
+        "country_of_residence": "Usa",
+        "address": {
+          "address_line_1": "University Park Lane",
+          "country": "Usa",
+          "locality": "Irving",
+          "premises": "3341",
+          "region": "Texas 75062"
+        }
+      },
+      {
+        "name": "WOODS, Ashley Graham",
+        "officer_role": "director",
+        "appointed_on": "2020-09-01",
+        "resigned_on": "2021-04-09",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1973,
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Queen Street Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4R 1BE",
+          "premises": "10"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "GRIFFIN, Neil",
+        "officer_role": "secretary",
+        "appointed_on": "2021-06-30",
+        "address": {
+          "address_line_1": "10 Queen Street Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4R 1BE",
+          "premises": "C/O Ion"
+        }
+      },
+      {
+        "name": "CLINCH, Conor Gerard",
+        "officer_role": "secretary",
+        "appointed_on": "2015-06-26",
+        "resigned_on": "2018-09-12",
+        "address": {
+          "address_line_1": "30 St. Mary Axe",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3A 8EP",
+          "premises": "Level 16"
+        }
+      },
+      {
+        "name": "HOARE, Aram",
+        "officer_role": "secretary",
+        "appointed_on": "2008-12-15",
+        "resigned_on": "2015-06-26",
+        "nationality": "Australian",
+        "address": {
+          "address_line_1": "St Mary Axe",
+          "address_line_2": "2nd Floor",
+          "locality": "London",
+          "postal_code": "EC3A 8EP",
+          "premises": "30"
+        }
+      },
+      {
+        "name": "TUMMALA, Sachin",
+        "officer_role": "secretary",
+        "appointed_on": "2006-04-18",
+        "resigned_on": "2008-12-15",
+        "nationality": "Indian",
+        "address": {
+          "address_line_1": "University Park Lane",
+          "country": "Usa",
+          "locality": "Irving",
+          "premises": "3341",
+          "region": "Texas 75062"
+        }
+      },
+      {
+        "name": "WOODS, Ashley",
+        "officer_role": "secretary",
+        "appointed_on": "2018-09-12",
+        "resigned_on": "2021-06-30",
+        "address": {
+          "address_line_1": "10 Queen Street Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4R 1BE",
+          "premises": "C/O Ion"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Andrea Pignataro",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2022-12-31",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1970,
+        "nationality": "Italian",
+        "country_of_residence": "Switzerland",
+        "address": {
+          "address_line_1": "10 Queen Street Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC4R 1BE",
+          "premises": "C/O Ion"
+        }
+      },
+      {
+        "name": "Ion Investment Group Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-06-30",
+        "ceased_on": "2022-12-31",
+        "address": {
+          "address_line_1": "4th Floor",
+          "address_line_2": "Simmonscourt Road",
+          "country": "Ireland",
+          "locality": "Dublin",
+          "premises": "Minerva House"
+        },
+        "identification": {
+          "legal_form": "Limited Liability Company",
+          "legal_authority": "Irish Law",
+          "country_registered": "Ireland",
+          "place_registered": "Cro",
+          "registration_number": "496108"
+        }
+      },
+      {
+        "name": "Lab49 Consulting Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-16",
+        "address": {
+          "address_line_1": "Simmonscourt Road",
+          "country": "Ireland",
+          "locality": "Ballsbridge",
+          "premises": "4th Floor, Minerva House",
+          "region": "Dublin"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Irish Companies Act 2014",
+          "country_registered": "Ireland",
+          "place_registered": "Cro",
+          "registration_number": "464208"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "An assignment by way of security"
+          }
+        ],
+        "created_on": "2011-10-14",
+        "delivered_on": "2011-10-21",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Each policy being LO191456253 mr vivake gupta and LO191456253 mr luke christian flemmer, all policy proceeds and all right title and interest in each policy see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Clydesdale Bank PLC"
+          }
+        ],
+        "satisfied_on": "2016-01-26",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2011-02-22",
+        "delivered_on": "2011-03-04",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Clydesdale Bank PLC"
+          }
+        ],
+        "satisfied_on": "2016-01-26",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Fixed and floating charge"
+          }
+        ],
+        "created_on": "2007-05-31",
+        "delivered_on": "2007-06-05",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Rbs Invoice Finance Limited (Security Holder)"
+          }
+        ],
+        "satisfied_on": "2009-01-13",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2007-02-05",
+        "delivered_on": "2007-02-08",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Bank PLC"
+          }
+        ],
+        "satisfied_on": "2008-12-08",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEAVWIUW",
+        "transaction_id": "MzQ4MDU0NjU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-14",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 28,
+        "barcode": "AE8VFHUL",
+        "transaction_id": "MzQ3NzIzODM3MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE11HLVD",
+        "transaction_id": "MzQ2MzQ5MTY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-08",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 28,
+        "barcode": "AD8KXCB6",
+        "transaction_id": "MzQzMTE4NTk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1B8NDS",
+        "transaction_id": "MzQxODgyMjkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-18",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XD1B8L00",
+        "transaction_id": "MzQxODgyMjQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-18",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "ACDK8RUP",
+        "transaction_id": "MzM5NzAwNDk3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC1QPR1E",
+        "transaction_id": "MzM3NjcwODIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-02",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBYGATOG",
+        "transaction_id": "MzM3MTM1MTM0MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-02",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBYGATPC",
+        "transaction_id": "MzM3MTM1MTI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-06",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 27,
+        "barcode": "ABDNAIC3",
+        "transaction_id": "MzM1MzkwNTczMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB2HDKN7",
+        "transaction_id": "MzMzNzA1NjM1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-09",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 27,
+        "barcode": "AAGLLQ6Q",
+        "transaction_id": "MzMxOTQ1MDIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-02",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XA7W86N4",
+        "transaction_id": "MzMwNjUzODAzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-02",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XA7W85HU",
+        "transaction_id": "MzMwNjUzNzczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA2SL2DD",
+        "transaction_id": "MzI5ODIzMDY3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-14",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA2F6Y0I",
+        "transaction_id": "MzI5Nzc0MzE2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-12-24",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 28,
+        "barcode": "A9K5HKTL",
+        "transaction_id": "MzI4Njc0ODQzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-07",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9D2HMY3",
+        "transaction_id": "MzI3NzA4NDU1MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-09-07",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "X9D2HMFE",
+        "transaction_id": "MzI3NzA4MjMzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X93CRQHF",
+        "transaction_id": "MzI2Mjc0Nzc0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X910FTGW",
+        "transaction_id": "MzI2MDAyMDI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-09-27",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 28,
+        "barcode": "A8ELVWY1",
+        "transaction_id": "MzI0NTE5ODkzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-04-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X83MOH3S",
+        "transaction_id": "MzIzMjM2OTA5MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-01-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X7X7IR42",
+        "transaction_id": "MzIyNDUwMzQxNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 103,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "revenue": 3783468,
+    "ebitda": 811452,
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Lab49.com",
+    "headcount": 14,
+    "tech_stack": [],
+    "business_keywords": [
+      "consultancy",
+      "technology solutions",
+      "financial markets",
+      "digital disruption",
+      "blockchain",
+      "crypto",
+      "product innovation",
+      "simplification",
+      "big data",
+      "cloud",
+      "regulation",
+      "strategy",
+      "data and analytics",
+      "DeFi",
+      "Web3.0",
+      "delivery management",
+      "systems integration",
+      "AI",
+      "Machine Learning",
+      "UX design",
+      "agile delivery",
+      "full-stack software development",
+      "smart contracts",
+      "private blockchain",
+      "tokenomics",
+      "NFTs",
+      "dApps"
+    ],
+    "services": [
+      "Strategy and product development",
+      "Data and analytics optimization",
+      "AI and Machine Learning deployment",
+      "DeFi and Web3.0 solutions",
+      "Wallet development",
+      "Smart contract development",
+      "Private blockchain development",
+      "Tokenomics",
+      "NFT solutions",
+      "dApp support",
+      "Delivery management (program setup, governance, agile delivery, testing)",
+      "Full-stack software development",
+      "Systems integration post-implementation",
+      "Blockchain and crypto end-to-end solutions",
+      "UX design",
+      "Legacy system simplification",
+      "Cloud-based solution implementation",
+      "Regulatory compliance and adaptation"
+    ],
+    "customer_segments": [
+      "financial markets participants",
+      "leading financial institutions",
+      "early-stage startups",
+      "premium game-studios",
+      "cross-chain NFT marketplaces",
+      "securitized debt industry utilities"
+    ],
+    "business_description": "Lab49 is a specialist consultancy that designs and develops bespoke and innovative technology solutions for financial markets participants. The company supports business-critical transformation, focusing on areas such as digital disruption, blockchain, crypto, product innovation, big data, cloud, and regulation, while providing services like strategy, data analytics, DeFi, Web3.0, delivery management, and systems integration.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T03:52:10.624Z"
+  },
+  "scraped_at": "2026-01-10T03:52:02.752Z",
+  "updated_at": "2026-01-10T03:52:10.624Z",
+  "version": 1
+}

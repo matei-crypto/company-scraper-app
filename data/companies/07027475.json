@@ -1,0 +1,428 @@
+{
+  "company_name": "IB BOOST LTD",
+  "company_number": "07027475",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-09-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "86-90 Paul Street, London, EC2A 4NE, England",
+  "registered_address_structured": {
+    "address_line_1": "86-90 Paul Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 4NE"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-07",
+    "last_made_up_to": "2025-09-23",
+    "next_made_up_to": "2026-09-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GOODLEY, Nicholas Craig",
+        "officer_role": "director",
+        "appointed_on": "2009-09-23",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "100 Salmon Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 7PQ",
+          "premises": "Flat 12"
+        }
+      },
+      {
+        "name": "RIOLAND, Philippe",
+        "officer_role": "director",
+        "appointed_on": "2009-09-23",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1974,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Belmont Park",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE13 5FY",
+          "premises": "Flat 6"
+        }
+      },
+      {
+        "name": "BAUDIER, Mathieu Emmanuel Louis-Michel Marie",
+        "officer_role": "director",
+        "appointed_on": "2009-09-23",
+        "resigned_on": "2010-03-25",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1979,
+        "nationality": "French",
+        "address": {
+          "address_line_1": "/ 29",
+          "country": "Austria",
+          "locality": "Wien",
+          "premises": "Gassergasse 38",
+          "region": "1050"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Nicholas Craig Goodley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Havillands Place",
+          "address_line_2": "Wye",
+          "country": "England",
+          "locality": "Ashford",
+          "postal_code": "TN25 5GJ",
+          "premises": "21"
+        }
+      },
+      {
+        "name": "Mr Philippe Rioland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1974,
+        "nationality": "French",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Billingshurst House",
+          "address_line_2": "Belmont Park",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE13 5FY",
+          "premises": "Flat 6"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XEC9DEZ7",
+        "transaction_id": "MzQ4MzQ0NjQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-26",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XE5K2OTF",
+        "transaction_id": "MzQ3MTY3NjI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDC8B556",
+        "transaction_id": "MzQzNjg0NjA2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XD66S76J",
+        "transaction_id": "MzQyNzA3MjIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCXE6A26",
+        "transaction_id": "MzQxMjA0MzEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCCUA3PE",
+        "transaction_id": "MzM5NDIwNjEyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XC6QN82I",
+        "transaction_id": "MzM4NDY2Mzg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDC9DAJ",
+        "transaction_id": "MzM1Mjk3NTU4OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XB79EYK2",
+        "transaction_id": "MzM0NDMzNTcwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XADNVB42",
+        "transaction_id": "MzMxNDc0Mjg1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XA7QKMQ8",
+        "transaction_id": "MzMwNjM1MDE2OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-03-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X9ZKV4BN",
+        "transaction_id": "MzI5MzMxOTkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X9ZKURGI",
+        "transaction_id": "MzI5MzMxNzAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9E66X8Q",
+        "transaction_id": "MzI3ODUyNzM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-29",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "X987UOSO",
+        "transaction_id": "MzI3MTg1MzgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8EPJD1K",
+        "transaction_id": "MzI0NTAxODkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2019-08-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X8CAOFNS",
+        "transaction_id": "MzI0MjI2MjgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-07-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "L88IPPO9",
+        "transaction_id": "MzIzODMzMzQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7F5XLKO",
+        "transaction_id": "MzIxNTE4NTcwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-26",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "L78NS275",
+        "transaction_id": "MzIwODE3ODQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-10-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6G6YOM3",
+        "transaction_id": "MzE4Njc2NzkyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-28",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "L69EVDVU",
+        "transaction_id": "MzE3OTE2Nzc0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-09-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "X5G622FF",
+        "transaction_id": "MzE1ODE0NDgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "L59BVS01",
+        "transaction_id": "MzE1MTA5MTUwOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-03-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X53Y0OKX",
+        "transaction_id": "MzE0NTMxNjgxOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 49,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 17
+  },
+  "enrichment": {
+    "website": "https://Ibboost.com",
+    "headcount": 17,
+    "tech_stack": [
+      "ORQA (Testing Automation)",
+      "OCTANE (Data Hub Platform)",
+      "OCTANE RPA"
+    ],
+    "business_keywords": [
+      "RPA",
+      "Intelligent Automation",
+      "Data Reporting",
+      "Integration",
+      "Test Automation",
+      "DevOps",
+      "Cloud Technologies",
+      "Data Management",
+      "Automation",
+      "Data Analytics",
+      "Robotic Process Automation",
+      "Cloud Consultancy",
+      "Data Hub Platform",
+      "End-to-End Process Automation",
+      "Enterprise Technology"
+    ],
+    "services": [
+      "RPA (Robotic Process Automation)",
+      "Intelligent Automation",
+      "Data Reporting",
+      "Integration",
+      "Test Automation",
+      "DevOps",
+      "Cloud Design",
+      "Cloud Development",
+      "Cloud Operation",
+      "Data Analytics",
+      "End-to-End Process Automation"
+    ],
+    "customer_segments": [
+      "Enterprises"
+    ],
+    "business_description": "IB Boost specializes in data and automation solutions for enterprises, including RPA, intelligent automation, data reporting, integration, test automation, DevOps, and cloud technologies. The company offers products like ORQA for testing automation and OCTANE for data analytics, automation, and integration, along with cloud-agnostic consultancy services.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:31:08.298Z"
+  },
+  "scraped_at": "2026-01-10T07:31:02.828Z",
+  "updated_at": "2026-01-10T07:31:08.298Z",
+  "version": 1
+}

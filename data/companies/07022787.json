@@ -1,0 +1,413 @@
+{
+  "company_name": "PROJECT ASSOCIATES LIMITED",
+  "company_number": "07022787",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2009-09-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 2a Smiths Way Saxon Business Park, Stoke Prior, Bromsgrove, Worcestershire, B60 4AD, England",
+  "registered_address_structured": {
+    "address_line_1": "Unit 2a Smiths Way Saxon Business Park",
+    "address_line_2": "Stoke Prior",
+    "country": "England",
+    "locality": "Bromsgrove",
+    "postal_code": "B60 4AD",
+    "region": "Worcestershire"
+  },
+  "sic_codes": [
+    "43999",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-19",
+    "last_made_up_to": "2025-09-05",
+    "next_made_up_to": "2026-09-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TWIST, Michael",
+        "officer_role": "director",
+        "appointed_on": "2009-09-17",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Appletrees Crescent",
+          "country": "England",
+          "locality": "Bromsgrove",
+          "postal_code": "B61 0UE",
+          "premises": "66",
+          "region": "Worcestershire"
+        }
+      },
+      {
+        "name": "DOWLING, Pauline Ann",
+        "officer_role": "director",
+        "appointed_on": "2009-09-17",
+        "resigned_on": "2013-12-04",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1953,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Corunna Court",
+          "address_line_2": "Corunna Road",
+          "care_of": "Varney Barfield",
+          "country": "England",
+          "locality": "Warwick",
+          "postal_code": "CV34 5HQ",
+          "premises": "6"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Michael Twist",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Saxon Business Park",
+          "address_line_2": "Stoke Prior",
+          "country": "England",
+          "locality": "Bromsgrove",
+          "postal_code": "B60 4AD",
+          "premises": "Unit 2a Smiths Way",
+          "region": "Worcestershire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Debenture"
+          }
+        ],
+        "created_on": "2010-05-14",
+        "delivered_on": "2010-05-19",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery."
+        },
+        "persons_entitled": [
+          {
+            "name": "Barclays Bank PLC"
+          }
+        ],
+        "satisfied_on": "2012-11-20",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAQH1Q3",
+        "transaction_id": "MzQ4MDI1NDYzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-09-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XEAQGX6P",
+        "transaction_id": "MzQ4MDI1MzUyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XE5S1D6P",
+        "transaction_id": "MzQ3MTkxMDQzNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-10-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDDDBJ4H",
+        "transaction_id": "MzQzODkyNzg4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XD6915EI",
+        "transaction_id": "MzQyNjk5OTQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCCJTROO",
+        "transaction_id": "MzM5Mzk1MDM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XC6L0IIB",
+        "transaction_id": "MzM4NDI5MzEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBGC1H7M",
+        "transaction_id": "MzM1Nzc5NzY5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-11-08",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBGC1C5S",
+        "transaction_id": "MzM1Nzc5NjM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-09-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBC050JL",
+        "transaction_id": "MzM1MDkwNzczOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XB79AVUY",
+        "transaction_id": "MzM0NDMwMzM0NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAEN9EA3",
+        "transaction_id": "MzMxNjM5MjI1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA7L2G7N",
+        "transaction_id": "MzMwNTkxNDgxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9DSXNT4",
+        "transaction_id": "MzI3Nzk2ODkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X985A2PS",
+        "transaction_id": "MzI3MTgyNjgxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8E740Q1",
+        "transaction_id": "MzI0NDQwNzEwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-06-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "X87T1PY3",
+        "transaction_id": "MzIzNzAxMDg5OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2019-05-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X86K83HC",
+        "transaction_id": "MzIzNTcxNDA2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7DVCA63",
+        "transaction_id": "MzIxMzc3MjM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-06-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X78K5NB2",
+        "transaction_id": "MzIwNzkxMjQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6G0JEE2",
+        "transaction_id": "MzE4NjYwMzIwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-28",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X69KMTFV",
+        "transaction_id": "MzE3OTE1OTcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-09-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5GGKIP7",
+        "transaction_id": "MzE1ODQ1ODY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-06-21",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X59MFYWZ",
+        "transaction_id": "MzE1MTE4OTk3MGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-10-28",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X4IZM6VE",
+        "transaction_id": "MzEzNDAxMTA1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 52,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Pa-ltd.co.uk",
+    "headcount": 10,
+    "tech_stack": [],
+    "business_keywords": [
+      "structured cabling",
+      "copper cabling",
+      "fibre cabling",
+      "voice cabling",
+      "security",
+      "CCTV",
+      "IP CCTV",
+      "analogue CCTV",
+      "IT services",
+      "IT installation",
+      "IT decommission"
+    ],
+    "services": [
+      "structured cabling",
+      "copper cabling",
+      "fibre cabling",
+      "voice cabling",
+      "IP CCTV systems",
+      "analogue CCTV systems",
+      "IT services",
+      "IT installation",
+      "IT decommission"
+    ],
+    "customer_segments": [],
+    "business_description": "PROJECT ASSOCIATES LIMITED provides structured cabling services, including copper, fibre, and voice cabling. The company also offers security solutions such as IP and analogue CCTV systems, as well as IT services including installation and decommission.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:30:11.228Z"
+  },
+  "scraped_at": "2026-01-10T07:30:05.220Z",
+  "updated_at": "2026-01-10T07:30:11.228Z",
+  "version": 1
+}

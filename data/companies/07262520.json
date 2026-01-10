@@ -1,0 +1,604 @@
+{
+  "company_name": "BRICKENDON CONSULTING LIMITED",
+  "company_number": "07262520",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-05-24",
+  "jurisdiction": "england-wales",
+  "registered_address": "25 Eccleston Place, London, SW1W 9NF, England",
+  "registered_address_structured": {
+    "address_line_1": "25 Eccleston Place",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW1W 9NF"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "HOTROCK CONSULTING LIMITED",
+      "ceased_on": "2010-08-04",
+      "effective_from": "2010-05-24"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-19",
+    "last_made_up_to": "2025-05-05",
+    "next_made_up_to": "2026-05-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BURKE, Christopher Ross",
+        "officer_role": "director",
+        "appointed_on": "2010-05-24",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Eccleston Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1W 9NF",
+          "premises": "25"
+        }
+      },
+      {
+        "name": "BAKER, James Martin",
+        "officer_role": "director",
+        "appointed_on": "2013-09-12",
+        "resigned_on": "2015-12-22",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wallace Court",
+          "address_line_2": "288 Balham High Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW17 7AT",
+          "premises": "16"
+        }
+      },
+      {
+        "name": "BURKE, Alexandra Patricia",
+        "officer_role": "director",
+        "appointed_on": "2012-06-27",
+        "resigned_on": "2012-09-10",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "Uk",
+        "address": {
+          "address_line_1": "Croxted Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE21 8NW",
+          "premises": "156"
+        }
+      },
+      {
+        "name": "KAYE, Paul",
+        "officer_role": "director",
+        "appointed_on": "2010-05-24",
+        "resigned_on": "2012-06-27",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Floor",
+          "address_line_2": "85 Frampton Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW8 8NQ",
+          "premises": "2nd"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "SAVVY SOLUTIONS LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2024-10-21",
+        "address": {
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1W 9NF",
+          "premises": "25 Eccleston Place"
+        }
+      },
+      {
+        "name": "BAKER, James Martin",
+        "officer_role": "secretary",
+        "appointed_on": "2012-09-10",
+        "resigned_on": "2015-12-22",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Wallace Court",
+          "address_line_2": "288 Balham High Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SW17 7AT",
+          "premises": "16"
+        }
+      },
+      {
+        "name": "BURKE, Alexandra Patricia",
+        "officer_role": "secretary",
+        "appointed_on": "2012-06-27",
+        "resigned_on": "2012-09-10",
+        "address": {
+          "address_line_1": "Croxted Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE21 8NW",
+          "premises": "156"
+        }
+      },
+      {
+        "name": "KAYE, Jayne",
+        "officer_role": "secretary",
+        "appointed_on": "2010-08-10",
+        "resigned_on": "2012-06-27",
+        "address": {
+          "address_line_1": "Floor",
+          "address_line_2": "85 Frampton Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW8 8NQ",
+          "premises": "2nd"
+        }
+      },
+      {
+        "name": "WELLS, Lauren Mary",
+        "officer_role": "secretary",
+        "appointed_on": "2015-11-24",
+        "resigned_on": "2020-02-07",
+        "address": {
+          "address_line_1": "Prince Albert Road",
+          "locality": "London",
+          "postal_code": "NW1 7SN",
+          "premises": "4"
+        }
+      },
+      {
+        "name": "SD COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2020-02-07",
+        "resigned_on": "2024-10-21",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "NW8 0DL",
+          "premises": "55 Loudoun Road"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Brickendon Trustees Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-01-19",
+        "address": {
+          "address_line_1": "Eccleston Place",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW1W 9NF",
+          "premises": "25"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "Companies Act  2006",
+          "country_registered": "England",
+          "place_registered": "Companies House",
+          "registration_number": "14522755"
+        }
+      },
+      {
+        "name": "Mr Christopher Ross Burke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2023-01-19",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1973,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Prince Albert Road",
+          "locality": "London",
+          "postal_code": "NW1 7SN",
+          "premises": "4"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "072625200002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-01-18",
+        "delivered_on": "2022-01-18",
+        "particulars": {
+          "type": "brief-description",
+          "description": "The instrument contains charges (not expressed to be floating charges) over all rights in any land and intellectual property but no land or intellectual property is specified. See the instrument for more details.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Abn Amro Asset Based Finance N.V."
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "All assets debenture"
+          }
+        ],
+        "created_on": "2011-04-04",
+        "delivered_on": "2011-04-05",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details."
+        },
+        "persons_entitled": [
+          {
+            "name": "Venture Finance PLC Trading as Venture Factors"
+          }
+        ],
+        "satisfied_on": "2022-01-19",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEA7PY22",
+        "transaction_id": "MzQ3OTUyOTAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE35PJ00",
+        "transaction_id": "MzQ2NzcwMzc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-12-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDI6RRHF",
+        "transaction_id": "MzQ0ODExMjk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-12-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDI6JMGB",
+        "transaction_id": "MzQ0Nzk0NDAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-11",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XDFMFYZV",
+        "transaction_id": "MzQ0MjY3MjQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-11",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XDFMFXQH",
+        "transaction_id": "MzQ0MjY3MjIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XD84UQR5",
+        "transaction_id": "MzQzMDI1Njc5NmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-07-24",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQyOTc1NTQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD7Z30ER",
+        "transaction_id": "MzQyOTc1NTM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-07-23",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQyODg3MTg1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XCCBOW6W",
+        "transaction_id": "MzM5MzQ4NDY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XC3LQ8YA",
+        "transaction_id": "MzM3OTU0OTE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-12",
+        "description": "change-corporate-secretary-company-with-change-date",
+        "type": "CH04",
+        "pages": 1,
+        "barcode": "XC3DU6ZV",
+        "transaction_id": "MzM3OTM2NTY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XC3DU4Z5",
+        "transaction_id": "MzM3OTM2NTM4M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-03-31",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC0HIJMP",
+        "transaction_id": "MzM3NDg3NTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-02-23",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUJYVUU3TE5hZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-02-23",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 32,
+        "barcode": "YBXUE8UQ",
+        "transaction_id": "MzM3MDA5NzM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-02-17",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "ABXBEKF5",
+        "transaction_id": "MzM2OTMzODAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-15",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XBXEBWZC",
+        "transaction_id": "MzM2OTQ0MjA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-15",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBXEBVA8",
+        "transaction_id": "MzM2OTQ0MTYzNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-11-07",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 38,
+        "barcode": "ABFZA516",
+        "transaction_id": "MzM1NzUyODgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-11-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUJGWkE1MFlhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-09-21",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "transaction_id": "QUJDTDY2WE5hZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-09-21",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 33,
+        "barcode": "ABCL6714",
+        "transaction_id": "MzM1MjI2NzU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBD1D1H4",
+        "transaction_id": "MzM1MjQwNDk1M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 85,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Brickendon.com",
+    "headcount": 12,
+    "tech_stack": [
+      "Cloud"
+    ],
+    "business_keywords": [
+      "consulting",
+      "strategy execution",
+      "complex change",
+      "regulated organisations",
+      "digital transformation",
+      "AI",
+      "Agile",
+      "DevOps",
+      "people strategy",
+      "business strategy",
+      "programme design",
+      "technical architecture",
+      "cloud adoption",
+      "managed services",
+      "corporate advisory",
+      "data analytics",
+      "hybrid work management",
+      "wealth management",
+      "asset management",
+      "banking",
+      "capital markets",
+      "regulatory change"
+    ],
+    "services": [
+      "AI and Digital Strategy",
+      "Business Strategies",
+      "Programme Design",
+      "Business and Technical Architecture",
+      "Cloud selection/adoption",
+      "People Strategy including location optimisation",
+      "Business Case Preparation",
+      "Budget Planning",
+      "Change Services (people, processes, technology)",
+      "Managed Services",
+      "Corporate Advisory Services",
+      "Restructuring Advisory",
+      "Intelligent Data Analytics",
+      "Hybrid Work Management",
+      "Digital Compliance Trade Activity Monitoring",
+      "Streamlining Loan Approval",
+      "AI Advisory",
+      "Wealth & Asset Management services",
+      "Digital Transformation"
+    ],
+    "customer_segments": [
+      "highly regulated organisations",
+      "banking and capital markets",
+      "investment banks",
+      "global banking clients",
+      "European Investment Banks",
+      "international tier-one banks",
+      "wealth management firms",
+      "asset management firms"
+    ],
+    "business_description": "Brickendon Consulting is a transformation specialist providing business, technology, and consulting expertise to highly regulated organisations. The company focuses on delivering complex change, strategy execution, and digital transformation, including AI and cloud adoption, to enable clients to implement and manage regulatory and operational transformations. They offer advisory, change management, and managed services to industries such as banking, capital markets, and wealth and asset management.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 14,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T08:21:04.667Z"
+  },
+  "scraped_at": "2026-01-10T08:20:56.697Z",
+  "updated_at": "2026-01-10T08:21:04.667Z",
+  "version": 1
+}

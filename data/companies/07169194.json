@@ -1,0 +1,473 @@
+{
+  "company_name": "JANUS TECHNOLOGY LIMITED",
+  "company_number": "07169194",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-02-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 The Fairway, Bar Hill, Cambridge, CB23 8SR",
+  "registered_address_structured": {
+    "address_line_1": "9 The Fairway",
+    "address_line_2": "Bar Hill",
+    "locality": "Cambridge",
+    "postal_code": "CB23 8SR"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-11",
+    "last_made_up_to": "2025-02-25",
+    "next_made_up_to": "2026-02-25"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CATON, Richard Philip",
+        "officer_role": "director",
+        "appointed_on": "2010-02-25",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Fairway",
+          "address_line_2": "Bar Hill",
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB23 8SR",
+          "premises": "9"
+        }
+      },
+      {
+        "name": "FAUPEL, Matthew Christian",
+        "officer_role": "director",
+        "appointed_on": "2010-02-25",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Marys Road",
+          "address_line_2": "Sawston",
+          "country": "England",
+          "locality": "Cambridge",
+          "postal_code": "CB22 3SP",
+          "premises": "8"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CATON, Wendy",
+        "officer_role": "secretary",
+        "appointed_on": "2014-05-01",
+        "address": {
+          "address_line_1": "The Fairway",
+          "address_line_2": "Bar Hill",
+          "locality": "Cambridge",
+          "postal_code": "CB23 8SR",
+          "premises": "9"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Micropraxis Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "St. Marys Road",
+          "address_line_2": "Sawston",
+          "country": "England",
+          "locality": "Cambridge",
+          "postal_code": "CB22 3SP",
+          "premises": "8 St Mary's Road, Sawston"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 206"
+        }
+      },
+      {
+        "name": "Janus Home Systems Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "address": {
+          "address_line_1": "The Fairway",
+          "address_line_2": "Bar Hill",
+          "country": "England",
+          "locality": "Cambridge",
+          "postal_code": "CB23 8SR",
+          "premises": "9"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "England",
+          "registration_number": "04637150"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "071691940001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-02-01",
+        "delivered_on": "2021-02-02",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEF55EEZ",
+        "transaction_id": "MzQ4ODM4MzU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYM8NYA",
+        "transaction_id": "MzQ1OTA0MDU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDGAME9E",
+        "transaction_id": "MzQ0NDI2Mzc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYDJD0Q",
+        "transaction_id": "MzQxMzcyOTYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCGTV0AR",
+        "transaction_id": "MzQwMTE5ODc4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYQSPR7",
+        "transaction_id": "MzM3MTU4NzQ3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBHQXPAI",
+        "transaction_id": "MzM2MDAyMTQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB0R6VVN",
+        "transaction_id": "MzMzNDI2MjAwM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAJHMEQB",
+        "transaction_id": "MzMyMzg3MzcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-12-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XAJHMD1M",
+        "transaction_id": "MzMyMzg3MzI3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XABQRWKG",
+        "transaction_id": "MzMxMjAwNjAxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA1TR2I0",
+        "transaction_id": "MzI5Njg5MjY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-02-02",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 24,
+        "barcode": "X9XHOW0O",
+        "transaction_id": "MzI5MDMwOTA3NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-10-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9FAKALF",
+        "transaction_id": "MzI4MDEyODY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-03-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X901WQKW",
+        "transaction_id": "MzI1ODc5NjU0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X8J2DFA1",
+        "transaction_id": "MzI1MDMyMjUyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-03-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X80QRBLV",
+        "transaction_id": "MzIyODc5MDc1N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-11-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X7JBZEKB",
+        "transaction_id": "MzIyMDE3NzQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-03-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X71NWK1L",
+        "transaction_id": "MzE5OTk0NzI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-10-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X6H9WW7U",
+        "transaction_id": "MzE4Nzk4ODYxMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-03-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X623PNQO",
+        "transaction_id": "MzE3MDk1NDA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-10-13",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X5HJVJ8Q",
+        "transaction_id": "MzE1OTU5MDI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-03-02",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X51WQJR7",
+        "transaction_id": "MzE0MzE0ODkzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-11-16",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "X4KANB5L",
+        "transaction_id": "MzEzNTI1MTIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2015-07-20",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "A4BL6LG1",
+        "transaction_id": "MzEyNzM3NDQ1MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 37,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 12
+  },
+  "enrichment": {
+    "website": "https://Janustechnology.co.uk",
+    "headcount": 12,
+    "tech_stack": [
+      "Control4 Webview",
+      "Crestron Home",
+      "Control4 BMS Monitor driver",
+      "RTI",
+      "Q-SYS",
+      "Elan",
+      "Symmetrix",
+      "URC",
+      "AMX",
+      "AVPro Edge STILE App"
+    ],
+    "business_keywords": [
+      "technology integration",
+      "Smart Home",
+      "BMS",
+      "Smart Building",
+      "software consultancy",
+      "control system drivers",
+      "IoT",
+      "cloud services",
+      "iOS App creation",
+      "Android App creation",
+      "embedded system software",
+      "web development",
+      "residential solutions",
+      "commercial solutions",
+      "BMS consultancy"
+    ],
+    "services": [
+      "technology integration",
+      "software consultancy",
+      "development of Control4 Webview drivers",
+      "development of Crestron Home extensions",
+      "BMS consultancy",
+      "control system driver development",
+      "cloud services development",
+      "iOS App creation",
+      "Android App creation",
+      "embedded system software development",
+      "web development",
+      "hardware and technology evaluations",
+      "BMS integration",
+      "bespoke software creation",
+      "support for manufacturers, system integrators, and installers"
+    ],
+    "customer_segments": [
+      "manufacturers",
+      "system integrators",
+      "installers",
+      "companies looking to expand their products & services in IoT",
+      "global brands",
+      "residential clients",
+      "commercial clients"
+    ],
+    "business_description": "Janus Technology is a leading software consultancy specializing in technology integration, with a focus on the Smart Home, BMS, and Smart Building industries. The company develops bespoke software, drivers, and apps for major control systems and provides consultancy services for BMS and IoT solutions. Janus Technology supports manufacturers, integrators, and installers with expertise in control system drivers, cloud services, and app development.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T07:59:58.586Z"
+  },
+  "scraped_at": "2026-01-10T07:59:50.491Z",
+  "updated_at": "2026-01-10T07:59:58.585Z",
+  "version": 1
+}
