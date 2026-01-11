@@ -1,0 +1,159 @@
+{
+  "company_name": "HEALIO DIGITAL LTD",
+  "company_number": "14763873",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-03-28",
+  "jurisdiction": "england-wales",
+  "registered_address": "36 Hoadly Road, London, SW16 1AF, England",
+  "registered_address_structured": {
+    "address_line_1": "36 Hoadly Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW16 1AF"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "63990"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-01-31",
+    "next_accounts_period_end_on": "2026-04-30",
+    "next_accounts_period_start_on": "2025-05-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-10",
+    "last_made_up_to": "2025-03-27",
+    "next_made_up_to": "2026-03-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KHAN, Amjad Ahmed",
+        "officer_role": "director",
+        "appointed_on": "2023-03-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hoadly Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW16 1AF",
+          "premises": "36"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Amjad Ahmed Khan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-03-28",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hoadly Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW16 1AF",
+          "premises": "36"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-08-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE8HSTFL",
+        "transaction_id": "MzQ3NjYyNzM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZUNH7L",
+        "transaction_id": "MzQ2MTU0MDI0M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD340WWB",
+        "transaction_id": "MzQyMTgyNzEzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-29",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD227S7D",
+        "transaction_id": "MzQyMDAwMDQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD1ZK3AA",
+        "transaction_id": "MzQxOTk0NTkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-03-28",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XC065IIJ",
+        "transaction_id": "MzM3NDEwOTU0OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 6,
+    "recent_filings_count": 2
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:44:34.708Z",
+  "scraped_at": "2026-01-11T03:44:34.708Z"
+}

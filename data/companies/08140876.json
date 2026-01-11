@@ -80,22 +80,6 @@
         }
       },
       {
-        "name": "TAYLOR, David Alexander",
-        "officer_role": "director",
-        "appointed_on": "2022-01-01",
-        "date_of_birth_month": 2,
-        "date_of_birth_year": 1958,
-        "nationality": "British",
-        "country_of_residence": "England",
-        "address": {
-          "address_line_1": "31 Turnoak Avenue",
-          "country": "England",
-          "locality": "Woking",
-          "postal_code": "GU22 0AJ",
-          "premises": "Avalon"
-        }
-      },
-      {
         "name": "BI, Dong",
         "officer_role": "director",
         "appointed_on": "2012-07-12",
@@ -110,6 +94,23 @@
           "locality": "London",
           "postal_code": "W1W 8RL",
           "premises": "10"
+        }
+      },
+      {
+        "name": "TAYLOR, David Alexander",
+        "officer_role": "director",
+        "appointed_on": "2022-01-01",
+        "resigned_on": "2026-01-01",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1958,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "31 Turnoak Avenue",
+          "country": "England",
+          "locality": "Woking",
+          "postal_code": "GU22 0AJ",
+          "premises": "Avalon"
         }
       },
       {
@@ -213,6 +214,15 @@
   "filing_history": {
     "filing_history": [
       {
+        "category": "officers",
+        "date": "2026-01-07",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XET85GOH",
+        "transaction_id": "MzQ5ODExNDA0N2FkaXF6a2N4"
+      },
+      {
         "category": "persons-with-significant-control",
         "date": "2025-11-05",
         "description": "cessation-of-a-person-with-significant-control",
@@ -246,10 +256,7 @@
         "type": "AA",
         "pages": 2,
         "barcode": "XE05B2KZ",
-        "transaction_id": "MzQ2MTk1NDAyMWFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzQ2MTk1NDAyMWFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:26:46.156Z"
+        "transaction_id": "MzQ2MTk1NDAyMWFkaXF6a2N4"
       },
       {
         "category": "confirmation-statement",
@@ -267,10 +274,7 @@
         "type": "AA",
         "pages": 2,
         "barcode": "XD340LAA",
-        "transaction_id": "MzQyMTgyMjE4MWFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzQyMTgyMjE4MWFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:26:46.509Z"
+        "transaction_id": "MzQyMTgyMjE4MWFkaXF6a2N4"
       },
       {
         "category": "confirmation-statement",
@@ -288,10 +292,7 @@
         "type": "AA",
         "pages": 2,
         "barcode": "XC2KEHR5",
-        "transaction_id": "MzM3ODA2ODQyMWFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzM3ODA2ODQyMWFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:26:46.874Z"
+        "transaction_id": "MzM3ODA2ODQyMWFkaXF6a2N4"
       },
       {
         "category": "confirmation-statement",
@@ -336,10 +337,7 @@
         "type": "AA",
         "pages": 2,
         "barcode": "XAZXPRE3",
-        "transaction_id": "MzMzMzAxNTQ4OWFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzMzMzAxNTQ4OWFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:26:47.256Z"
+        "transaction_id": "MzMzMzAxNTQ4OWFkaXF6a2N4"
       },
       {
         "category": "confirmation-statement",
@@ -420,10 +418,7 @@
         "type": "AA",
         "pages": 2,
         "barcode": "XA0X9LU9",
-        "transaction_id": "MzI5NTQzMDA1N2FkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzI5NTQzMDA1N2FkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:26:47.668Z"
+        "transaction_id": "MzI5NTQzMDA1N2FkaXF6a2N4"
       },
       {
         "category": "accounts",
@@ -432,10 +427,7 @@
         "type": "AA",
         "pages": 2,
         "barcode": "X95KC7JK",
-        "transaction_id": "MzI2NTQ5MDMxOWFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzI2NTQ5MDMxOWFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:26:48.009Z"
+        "transaction_id": "MzI2NTQ5MDMxOWFkaXF6a2N4"
       },
       {
         "category": "confirmation-statement",
@@ -445,91 +437,10 @@
         "pages": 3,
         "barcode": "X90CME9M",
         "transaction_id": "MzI1OTI0NjgyOWFkaXF6a2N4"
-      },
-      {
-        "category": "resolution",
-        "date": "2019-03-19",
-        "description": "resolution",
-        "type": "RESOLUTIONS",
-        "pages": 3,
-        "barcode": "X81H5TC9",
-        "transaction_id": "MzIyOTY0ODM2MWFkaXF6a2N4"
-      },
-      {
-        "category": "accounts",
-        "date": "2019-03-04",
-        "description": "accounts-with-accounts-type-dormant",
-        "type": "AA",
-        "pages": 2,
-        "barcode": "X80IV9V6",
-        "transaction_id": "MzIyODUzNjcwN2FkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzIyODUzNjcwN2FkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:36:38.776Z"
-      },
-      {
-        "category": "accounts",
-        "date": "2018-06-30",
-        "description": "accounts-with-accounts-type-dormant",
-        "type": "AA",
-        "pages": 2,
-        "barcode": "X796K1E1",
-        "transaction_id": "MzIwODc0MTMyM2FkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzIwODc0MTMyM2FkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:36:38.776Z"
-      },
-      {
-        "category": "accounts",
-        "date": "2017-06-12",
-        "description": "accounts-with-accounts-type-dormant",
-        "type": "AA",
-        "pages": 2,
-        "barcode": "X68GOWLN",
-        "transaction_id": "MzE3Nzg5MDYzN2FkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzE3Nzg5MDYzN2FkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:36:38.776Z"
-      },
-      {
-        "category": "accounts",
-        "date": "2016-05-24",
-        "description": "accounts-with-accounts-type-dormant",
-        "type": "AA",
-        "pages": 2,
-        "barcode": "X57NXSBT",
-        "transaction_id": "MzE0OTI2MjU5N2FkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzE0OTI2MjU5N2FkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:36:38.776Z"
-      },
-      {
-        "category": "accounts",
-        "date": "2015-06-26",
-        "description": "accounts-with-accounts-type-dormant",
-        "type": "AA",
-        "pages": 2,
-        "barcode": "X4ADNTTD",
-        "transaction_id": "MzEyNTk1ODkyMmFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzEyNTk1ODkyMmFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:36:38.776Z"
-      },
-      {
-        "category": "accounts",
-        "date": "2014-03-17",
-        "description": "accounts-with-accounts-type-dormant",
-        "type": "AA",
-        "pages": 2,
-        "barcode": "X33VP1N4",
-        "transaction_id": "MzA5NjM5NjAxOGFkaXF6a2N4",
-        "document_downloaded": true,
-        "document_path": "data/companies/08140876/documents/MzA5NjM5NjAxOGFkaXF6a2N4.pdf",
-        "document_downloaded_at": "2025-12-21T16:36:38.776Z"
       }
     ],
-    "total_count": 45,
-    "recent_filings_count": 4
+    "total_count": 46,
+    "recent_filings_count": 5
   },
   "financials": {},
   "enrichment": {
@@ -562,6 +473,6 @@
     "computed_at": "2025-12-29T22:43:30.157Z"
   },
   "scraped_at": "2025-12-21T14:28:57.811Z",
-  "updated_at": "2025-12-29T22:43:30.158Z",
+  "updated_at": "2026-01-11T03:44:15.609Z",
   "version": 1
 }

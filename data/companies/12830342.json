@@ -1,0 +1,223 @@
+{
+  "company_name": "URGENT FREIGHT LTD",
+  "company_number": "12830342",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-08-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "80 Plumer Road, High Wycombe, HP11 2SR, England",
+  "registered_address_structured": {
+    "address_line_1": "80 Plumer Road",
+    "country": "England",
+    "locality": "High Wycombe",
+    "postal_code": "HP11 2SR"
+  },
+  "sic_codes": [
+    "41201",
+    "43341",
+    "49410",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-24",
+    "last_made_up_to": "2025-04-10",
+    "next_made_up_to": "2026-04-10"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MANCAS, Alexandru",
+        "officer_role": "director",
+        "appointed_on": "2020-08-21",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Plumer Road",
+          "country": "England",
+          "locality": "High Wycombe",
+          "postal_code": "HP11 2SR",
+          "premises": "80"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Alexandru Mancas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-08-21",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1984,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Plumer Road",
+          "country": "England",
+          "locality": "High Wycombe",
+          "postal_code": "HP11 2SR",
+          "premises": "80"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE3R4OWQ",
+        "transaction_id": "MzQ2ODUzODY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3R4K4P",
+        "transaction_id": "MzQ2ODUzNzU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD45NBH6",
+        "transaction_id": "MzQyMzU1MDI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD340SYJ",
+        "transaction_id": "MzQyMTgyNjIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-06",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC76Z7SY",
+        "transaction_id": "MzM4NTQ0MzI5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-06-05",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC50VEKQ",
+        "transaction_id": "MzM4MTkwMTA3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC50VDBC",
+        "transaction_id": "MzM4MTkwMDgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC4Q0VXE",
+        "transaction_id": "MzM4MTQyNDAxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3LS441",
+        "transaction_id": "MzM3OTU2NDM1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB4SQFNC",
+        "transaction_id": "MzM0MDY3MjMxMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XB4SQE40",
+        "transaction_id": "MzM0MDY3MTk5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-04-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA24K5BF",
+        "transaction_id": "MzI5NzQwMjk0OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-08-21",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X9BTR10R",
+        "transaction_id": "MzI3NTgwMjE4NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 13,
+    "recent_filings_count": 2
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:44:33.379Z",
+  "scraped_at": "2026-01-11T03:44:33.379Z"
+}

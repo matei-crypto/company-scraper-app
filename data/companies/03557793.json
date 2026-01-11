@@ -1,0 +1,381 @@
+{
+  "company_name": "YOUR IT LIMITED",
+  "company_number": "03557793",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1998-05-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "50 Rensherds Place, High Legh, Knutsford, WA16 6NG, England",
+  "registered_address_structured": {
+    "address_line_1": "50 Rensherds Place",
+    "address_line_2": "High Legh",
+    "country": "England",
+    "locality": "Knutsford",
+    "postal_code": "WA16 6NG"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-19",
+    "last_made_up_to": "2025-05-05",
+    "next_made_up_to": "2026-05-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAY, Colin James",
+        "officer_role": "director",
+        "appointed_on": "1998-05-05",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "9 Woodlands Crescent",
+          "address_line_2": "High Legh",
+          "locality": "Knutsford",
+          "postal_code": "WA16 6LP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "DEANSGATE COMPANY FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1998-05-05",
+        "resigned_on": "1998-05-05",
+        "address": {
+          "address_line_1": "The Britannia Suite International House",
+          "address_line_2": "82-86 Deansgate",
+          "locality": "Manchester",
+          "postal_code": "M3 2ER"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HAY, Claire",
+        "officer_role": "secretary",
+        "appointed_on": "2007-04-03",
+        "resigned_on": "2016-04-23",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "9 Woodlands Crescent",
+          "address_line_2": "High Legh",
+          "locality": "Knutsford",
+          "postal_code": "WA16 6LP",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "HAY, James Norman",
+        "officer_role": "secretary",
+        "appointed_on": "1998-05-05",
+        "resigned_on": "2007-04-23",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "23 Manor Close",
+          "locality": "Wilmslow",
+          "postal_code": "SK9 5PX",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "BRITANNIA COMPANY FORMATIONS LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1998-05-05",
+        "resigned_on": "1998-05-05",
+        "address": {
+          "address_line_1": "The Britannia Suite International House",
+          "address_line_2": "82-86 Deansgate",
+          "locality": "Manchester",
+          "postal_code": "M3 2ER"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Colin James Hay",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Rensherds Place",
+          "address_line_2": "High Legh",
+          "country": "England",
+          "locality": "Knutsford",
+          "postal_code": "WA16 6NG",
+          "premises": "50"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4CQVT4",
+        "transaction_id": "MzQ2OTQxNzY0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-25",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XDX3YHWB",
+        "transaction_id": "MzQ1NjMxNDM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD33Z38W",
+        "transaction_id": "MzQyMTc3NDMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-12",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCYQYUGX",
+        "transaction_id": "MzQxNDE5MjIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC41ZOE0",
+        "transaction_id": "MzM4MDM4MzY0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBYWCWVN",
+        "transaction_id": "MzM3MTkzNjg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-06-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB5GHVHN",
+        "transaction_id": "MzM0MTQ3NTAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XB08ERKR",
+        "transaction_id": "MzMzMzQyMDQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-11",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XA6EC67C",
+        "transaction_id": "MzMwNDE3NTE0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-05-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA4DQ1IB",
+        "transaction_id": "MzMwMDk5MjEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-06-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X96LGWOG",
+        "transaction_id": "MzI2NjY3MDU0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-03-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X90XOZOR",
+        "transaction_id": "MzI1OTg5NzQ2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-05-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X85TOL41",
+        "transaction_id": "MzIzNDcxOTIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-02-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X7Z763WQ",
+        "transaction_id": "MzIyNjk0NzQxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-05-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X762H130",
+        "transaction_id": "MzIwNTEzMDQ2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-02-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "X706U0PM",
+        "transaction_id": "MzE5ODE4NTY2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-05-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X66LQ7Q0",
+        "transaction_id": "MzE3NjAxNjcyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-03-01",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 1,
+        "barcode": "X61AVB14",
+        "transaction_id": "MzE3MDA4NDM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2016-08-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X5E29PNN",
+        "transaction_id": "MzE1NTgzMjY3OGFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2016-05-10",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 3,
+        "barcode": "X56POR20",
+        "transaction_id": "MzE0ODE3NDI4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2016-05-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "X56POQYO",
+        "transaction_id": "MzE0ODE3NDA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-03-15",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X52S64OZ",
+        "transaction_id": "MzE0NDA3ODg1NmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-05-20",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X47UBEKY",
+        "transaction_id": "MzEyMzUyMzIzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-04-14",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "A445FO49",
+        "transaction_id": "MzEyMDc4MzEyMmFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-05-06",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 4,
+        "barcode": "X37CGSVF",
+        "transaction_id": "MzA5OTQ4NjMwNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 67,
+    "recent_filings_count": 2
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:44:38.779Z",
+  "scraped_at": "2026-01-11T03:44:38.779Z"
+}

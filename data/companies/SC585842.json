@@ -1,0 +1,293 @@
+{
+  "company_name": "BRIGHT LIFT LTD",
+  "company_number": "SC585842",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-01-16",
+  "jurisdiction": "scotland",
+  "registered_address": "0/2 5 Drumry Place, Glasgow, G15 8PP, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "0/2 5 Drumry Place",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G15 8PP"
+  },
+  "sic_codes": [
+    "49420",
+    "62020",
+    "81222"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2024-10-31",
+    "next_accounts_period_end_on": "2024-01-31",
+    "next_accounts_period_start_on": "2023-02-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-01-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2024-01-29",
+    "last_made_up_to": "2023-01-15",
+    "next_made_up_to": "2024-01-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BHATTI, Hassan Raza",
+        "officer_role": "director",
+        "appointed_on": "2018-01-16",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Gavin Close",
+          "country": "United Kingdom",
+          "locality": "Leicester",
+          "postal_code": "LE3 3UG",
+          "premises": "23"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Hassan Raza Bhatti",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control-as-trust"
+        ],
+        "notified_on": "2018-01-16",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "23 Gavin Close",
+          "address_line_2": "Thorpe Ashley",
+          "country": "United Kingdom",
+          "locality": "Braunstone Town",
+          "postal_code": "LE3 3UG",
+          "premises": "23",
+          "region": "Leicestershire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2024-05-15",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQyMTgyNDgyMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-04-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD1GNRC2",
+        "transaction_id": "MzQxOTEzODA4NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-20",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD1GNRH6",
+        "transaction_id": "MzQxOTEzODA3MGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-04-02",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQxNjA1ODY0M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-02-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCX8L2FU",
+        "transaction_id": "MzQxMTYwNDM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCX8L22G",
+        "transaction_id": "MzQxMTYwNDIzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCX8L1XC",
+        "transaction_id": "MzQxMTYwNDEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCEFHS5F",
+        "transaction_id": "MzM5NzA1Njc0OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBW26OJT",
+        "transaction_id": "MzM2NzQwMzk1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBFIID1D",
+        "transaction_id": "MzM1NjcxNTQ4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAZ1XO2J",
+        "transaction_id": "MzMzMTk0NTY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XAFWS27N",
+        "transaction_id": "MzMxODIxODUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-03-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XA1014AH",
+        "transaction_id": "MzI5NTU4Mzc4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9XHJEKG",
+        "transaction_id": "MzI5MDIzMTA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-01-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "X9XC9F63",
+        "transaction_id": "MzI5MDEyMTkyNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8Y7Q3VK",
+        "transaction_id": "MzI1NjYyNzUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-10-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "X8G4D58H",
+        "transaction_id": "MzI0NjgyNjI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-01-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7Y0KNVM",
+        "transaction_id": "MzIyNTQ5MTgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-03-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X720ZQUY",
+        "transaction_id": "MzIwMDM4MTU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2018-03-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X720ZP2H",
+        "transaction_id": "MzIwMDM4MTUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2018-01-16",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X6XQBZOS",
+        "transaction_id": "MzE5NTM1NDAwNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 21,
+    "recent_filings_count": 0
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:44:24.009Z",
+  "scraped_at": "2026-01-11T03:44:24.009Z"
+}

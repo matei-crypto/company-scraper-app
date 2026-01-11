@@ -1,0 +1,318 @@
+{
+  "company_name": "DD IT SERVICES LTD",
+  "company_number": "11923073",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-04-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "Office 15 Ideal Offices, 23a London Road, Peterborough, PE2 8AN, England",
+  "registered_address_structured": {
+    "address_line_1": "Office 15 Ideal Offices",
+    "address_line_2": "23a London Road",
+    "country": "England",
+    "locality": "Peterborough",
+    "postal_code": "PE2 8AN"
+  },
+  "sic_codes": [
+    "62020",
+    "62030",
+    "62090",
+    "70221"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2024-01-31",
+    "next_accounts_period_end_on": "2023-04-30",
+    "next_accounts_period_start_on": "2022-05-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2022-04-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 4
+  },
+  "confirmation_statement": {
+    "next_due": "2024-03-23",
+    "last_made_up_to": "2023-03-09",
+    "next_made_up_to": "2024-03-09"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DUMITRU, Daniel",
+        "officer_role": "director",
+        "appointed_on": "2019-04-03",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1985,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "23a London Road",
+          "country": "England",
+          "locality": "Peterborough",
+          "postal_code": "PE2 8AN",
+          "premises": "Office 15 Ideal Offices"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Daniel Dumitru",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2019-04-03",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1985,
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "23a London Road",
+          "country": "England",
+          "locality": "Peterborough",
+          "postal_code": "PE2 8AN",
+          "premises": "Office 15 Ideal Offices"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2024-05-14",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQyMTQwNzE3OGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-04-02",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQxNTYwMTA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYWIEJD",
+        "transaction_id": "MzM3MjA5NDEyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-03-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBYDLSZ7",
+        "transaction_id": "MzM3MTIxOTI4MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-02-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBXX6SBT",
+        "transaction_id": "MzM3MDMwNzI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBXX6S1K",
+        "transaction_id": "MzM3MDMwNzIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-02-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBXX6RGH",
+        "transaction_id": "MzM3MDMwNzEzMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-02-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBXBRUHL",
+        "transaction_id": "MzM2OTM0NDQwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XB30DJFN",
+        "transaction_id": "MzMzNzk3NTUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-11",
+        "description": "change-person-director-company",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1ITDBT",
+        "transaction_id": "MzMzNTY5NTM5MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-11",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB1ITD89",
+        "transaction_id": "MzMzNTY5NTM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB1ITEF7",
+        "transaction_id": "MzMzNTY5NTg5OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-06-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XA7QMH2Y",
+        "transaction_id": "MzMwNjI1NDg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-06-16",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzMwNDQxMjQ3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-06-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XA6ORL42",
+        "transaction_id": "MzMwNDQxMjQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2021-06-15",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzMwMzA4MTYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-05-26",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X95USSEI",
+        "transaction_id": "MzI2NTczNDY5NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-05-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X95USO6P",
+        "transaction_id": "MzI2NTczMzc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-05-26",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X95USINU",
+        "transaction_id": "MzI2NTczMjUxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9270S3M",
+        "transaction_id": "MzI2MTcxMDY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2020-03-03",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "X901XKG8",
+        "transaction_id": "MzI1ODgwNDA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-03-03",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "X901XH8G",
+        "transaction_id": "MzI1ODgwMzIwNmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2020-03-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "X901XDEG",
+        "transaction_id": "MzI1ODgwMjEzM2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-04-03",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X82ITRU7",
+        "transaction_id": "MzIzMTAzOTY1MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 24,
+    "recent_filings_count": 0
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:44:28.368Z",
+  "scraped_at": "2026-01-11T03:44:28.368Z"
+}

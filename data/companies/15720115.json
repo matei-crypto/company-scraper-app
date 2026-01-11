@@ -1,0 +1,120 @@
+{
+  "company_name": "SENTECH GROUPS LTD",
+  "company_number": "15720115",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-05-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "28 Wharfedale Gardens, Thornton Heath, CR7 6LA, England",
+  "registered_address_structured": {
+    "address_line_1": "28 Wharfedale Gardens",
+    "country": "England",
+    "locality": "Thornton Heath",
+    "postal_code": "CR7 6LA"
+  },
+  "sic_codes": [
+    "62090",
+    "82990"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-14",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-05-14",
+    "next_accounts_overdue": false,
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-27",
+    "last_made_up_to": "2025-05-13",
+    "next_made_up_to": "2026-05-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HASSAN, Syed Manzar",
+        "officer_role": "director",
+        "appointed_on": "2024-05-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1938,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wharfedale Gardens",
+          "country": "England",
+          "locality": "Thornton Heath",
+          "postal_code": "CR7 6LA",
+          "premises": "28"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Syed Manzar Hassan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2024-05-14",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1938,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Wharfedale Gardens",
+          "country": "England",
+          "locality": "Thornton Heath",
+          "postal_code": "CR7 6LA",
+          "premises": "28"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE3R5NPE",
+        "transaction_id": "MzQ2ODU0NjQzM2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-05-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XD2YLIG2",
+        "transaction_id": "MzQyMTM1MTAyOWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 2,
+    "recent_filings_count": 1
+  },
+  "financials": {},
+  "enrichment": {
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:44:16.947Z",
+  "scraped_at": "2026-01-11T03:44:16.947Z"
+}
