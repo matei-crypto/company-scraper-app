@@ -1,0 +1,147 @@
+{
+  "company_name": "ETCHBEE LTD",
+  "company_number": "SC800379",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2024-02-23",
+  "jurisdiction": "scotland",
+  "registered_address": "Suite 317h 3 Fitzroy Place, Area 1/1, Sauchiehall Street, Glasgow City Centre, G3 7RH, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Suite 317h 3 Fitzroy Place, Area 1/1",
+    "address_line_2": "Sauchiehall Street",
+    "country": "United Kingdom",
+    "locality": "Glasgow City Centre",
+    "postal_code": "G3 7RH"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "74100"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 29,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-28",
+    "last_made_up_to": "2025-04-14",
+    "next_made_up_to": "2026-04-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ALBEIK, Hani",
+        "officer_role": "director",
+        "appointed_on": "2024-02-23",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "Jordanian",
+        "country_of_residence": "Turkey",
+        "address": {
+          "address_line_1": "3 Fitzroy Place, Area 1/1",
+          "address_line_2": "Sauchiehall Street",
+          "country": "United Kingdom",
+          "locality": "Glasgow City Centre",
+          "postal_code": "G3 7RH",
+          "premises": "Suite 317h"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Hani Albeik",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2024-02-23",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "Jordanian",
+        "country_of_residence": "Turkey",
+        "address": {
+          "address_line_1": "3 Fitzroy Place, Area 1/1",
+          "address_line_2": "Sauchiehall Street",
+          "country": "United Kingdom",
+          "locality": "Glasgow City Centre",
+          "postal_code": "G3 7RH",
+          "premises": "Suite 317h"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE2H6DUY",
+        "transaction_id": "MzQ2NTkzNjI2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0GCNS3",
+        "transaction_id": "MzQ2MjQ5MDU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4TZUPU",
+        "transaction_id": "MzQyNDY0NzQwNWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-02-23",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XCXGX9KG",
+        "transaction_id": "MzQxMjIwMTAyM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 4,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "revenue": 48714,
+    "ebitda": -936,
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:14:31.021Z",
+  "scraped_at": "2026-01-11T03:14:31.021Z"
+}

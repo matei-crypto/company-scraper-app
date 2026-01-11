@@ -1,0 +1,473 @@
+{
+  "company_name": "COBRY LTD",
+  "company_number": "SC454132",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2013-07-09",
+  "jurisdiction": "scotland",
+  "registered_address": "24 Sandyford Place, Glasgow, G3 7NG, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "24 Sandyford Place",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G3 7NG"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-30",
+    "last_made_up_to": "2025-10-16",
+    "next_made_up_to": "2026-10-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRYCE, Colin John",
+        "officer_role": "director",
+        "appointed_on": "2013-07-09",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Sandyford Place",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G3 7NG",
+          "premises": "24"
+        }
+      },
+      {
+        "name": "JUREK, Wiktor",
+        "officer_role": "director",
+        "appointed_on": "2022-05-31",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1999,
+        "nationality": "Polish",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Garthland Drive",
+          "address_line_2": "2/2",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G31 2RF",
+          "premises": "2/2, 55 Garthland Drive"
+        }
+      },
+      {
+        "name": "MCKENNA, Ryan",
+        "officer_role": "director",
+        "appointed_on": "2024-11-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1999,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Sandyford Place",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G3 7NG",
+          "premises": "24"
+        }
+      },
+      {
+        "name": "KEDSLIE, Gordon",
+        "officer_role": "director",
+        "appointed_on": "2022-05-31",
+        "resigned_on": "2024-11-06",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1992,
+        "nationality": "Scottish",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Farne Drive",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G44 5DN",
+          "premises": "17"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MCKENNA, Ryan",
+        "officer_role": "secretary",
+        "appointed_on": "2023-04-20",
+        "address": {
+          "address_line_1": "Sandyford Place",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G3 7NG",
+          "premises": "24"
+        }
+      },
+      {
+        "name": "BRYCE, Colin John",
+        "officer_role": "secretary",
+        "appointed_on": "2013-07-09",
+        "resigned_on": "2023-05-02",
+        "address": {
+          "address_line_1": "Sandyford Place",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G3 7NG",
+          "premises": "24"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Cobry Group Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2025-10-13",
+        "address": {
+          "address_line_1": "Sandyford Place",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G3 7NG",
+          "premises": "24"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Scotland",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "Sc859876"
+        }
+      },
+      {
+        "name": "Mr Colin John Bryce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-07-23",
+        "ceased_on": "2025-10-13",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Sandyford Place",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G3 7NG",
+          "premises": "24"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XEDBCROP",
+        "transaction_id": "MzQ4NTI1Nzk5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEDBCSBM",
+        "transaction_id": "MzQ4NTI1ODE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-10-16",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XEDBCPLC",
+        "transaction_id": "MzQ4NTI1NzYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE72DAJS",
+        "transaction_id": "MzQ3NDMzMzA3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE6U7V9F",
+        "transaction_id": "MzQ3MzczMjE5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDHNO0S3",
+        "transaction_id": "MzQ0Njc4ODEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDHKP5LV",
+        "transaction_id": "MzQ0NjUyMjYyNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-12-05",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XDHCQG8W",
+        "transaction_id": "MzQ0NjI0NjM3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-27",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD87FFEB",
+        "transaction_id": "MzQzMDMyOTg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD7OLCDL",
+        "transaction_id": "MzQyOTQ2MTEwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCFBVLOG",
+        "transaction_id": "MzM5ODQ1Njc1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8B532Q",
+        "transaction_id": "MzM4NzI2OTg2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-02",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XC2PKNKO",
+        "transaction_id": "MzM3ODE2NzEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-02",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XC2PKJF5",
+        "transaction_id": "MzM3ODE2NjE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XBGUUJEB",
+        "transaction_id": "MzM1ODU3NTQ3MGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-23",
+        "description": "second-filing-of-director-appointment-with-name",
+        "type": "RP04AP01",
+        "pages": 3,
+        "barcode": "XBD6TPSO",
+        "transaction_id": "MzM1Mjc0NDcxNWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-constitution",
+        "date": "2022-08-12",
+        "description": "statement-of-companys-objects",
+        "type": "CC04",
+        "pages": 2,
+        "barcode": "SBA9R6CI",
+        "transaction_id": "MzM0ODU2MTU0MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-08-12",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 33,
+        "barcode": "SBA9R6AQ",
+        "transaction_id": "MzM0ODU2MTU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-08-12",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "U0JBOVI2Q0FhZGlxemtjeA"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB9HNC2W",
+        "transaction_id": "MzM0NzQ1MzMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-01",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB9HNB8O",
+        "transaction_id": "MzM0NzQ1MzEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB8IQ6Q0",
+        "transaction_id": "MzM0NTk4MDIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-11-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XAHBKSY0",
+        "transaction_id": "MzMyMDIxOTI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-07-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XA9AQUWA",
+        "transaction_id": "MzMwODQ3OTg3OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-07-22",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XA9AP8HE",
+        "transaction_id": "MzMwODQ2NDE0M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 56,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 18
+  },
+  "enrichment": {
+    "website": "https://Cobry.co.uk",
+    "headcount": 18,
+    "tech_stack": [
+      "Google Cloud Platform",
+      "Google Workspace",
+      "Looker"
+    ],
+    "business_keywords": [
+      "Google Cloud Partner",
+      "Google Workspace",
+      "Google Cloud Platform",
+      "Looker",
+      "data services",
+      "cloud migration",
+      "data analytics",
+      "AI adoption",
+      "cloud solutions",
+      "collaboration tools",
+      "data pipeline management",
+      "ETL",
+      "dashboards",
+      "strategic consulting",
+      "team training"
+    ],
+    "services": [
+      "Google Workspace migration",
+      "Google Workspace adoption and training",
+      "Data pipeline management (ingestion, ETL, dashboards)",
+      "Looker dashboard development",
+      "AI adoption consulting and strategy",
+      "Team training on Google Cloud and AI",
+      "Strategic consulting for Google Cloud and Google Workspace",
+      "Full-service support for Google Cloud suite",
+      "Dedicated account management",
+      "Secure and seamless cloud migrations"
+    ],
+    "customer_segments": [
+      "businesses with 5 to 5000 employees",
+      "organizations seeking Google Cloud adoption",
+      "businesses looking to improve collaboration and data utilization"
+    ],
+    "business_description": "Cobry is a full-service Google Cloud partner specializing in Google Workspace, data services on the Google Cloud Platform, and Looker. They help businesses transform collaboration, manage data pipelines, and adopt AI, providing seamless migrations, adoption support, and strategic guidance to maximize the value of Google Cloud technologies.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T02:54:58.936Z"
+  },
+  "scraped_at": "2026-01-11T02:54:52.233Z",
+  "updated_at": "2026-01-11T02:54:58.935Z",
+  "version": 1
+}

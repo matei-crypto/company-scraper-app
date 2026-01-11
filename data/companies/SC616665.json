@@ -1,0 +1,421 @@
+{
+  "company_name": "PETROTECHNICAL DATA SYSTEMS SCOTLAND LIMITED",
+  "company_number": "SC616665",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2018-12-20",
+  "jurisdiction": "scotland",
+  "registered_address": "Burnside, Newtonhill, Stonehaven, AB39 3NP, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "Burnside",
+    "address_line_2": "Newtonhill",
+    "country": "Scotland",
+    "locality": "Stonehaven",
+    "postal_code": "AB39 3NP"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62030",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "medium",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-31",
+    "last_made_up_to": "2025-08-17",
+    "next_made_up_to": "2026-08-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARCLAY, Garry",
+        "officer_role": "director",
+        "appointed_on": "2018-12-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Newtonhill",
+          "country": "Scotland",
+          "locality": "Stonehaven",
+          "postal_code": "AB39 3NP",
+          "premises": "Burnside"
+        }
+      },
+      {
+        "name": "DAUM, Stephen",
+        "officer_role": "director",
+        "appointed_on": "2018-12-20",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "address_line_1": "Newtonhill",
+          "country": "Scotland",
+          "locality": "Stonehaven",
+          "postal_code": "AB39 3NP",
+          "premises": "Burnside"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "LITA, Nicoleta",
+        "officer_role": "secretary",
+        "appointed_on": "2019-04-09",
+        "address": {
+          "address_line_1": "Lange Kleiweg",
+          "address_line_2": "2288 Gk",
+          "care_of": "Finance Dept, Petrotechnical Data Systems International Holding",
+          "country": "Netherlands",
+          "locality": "Rijswijk",
+          "premises": "62h"
+        }
+      },
+      {
+        "name": "JOMAN, Jeroen",
+        "officer_role": "secretary",
+        "appointed_on": "2018-12-20",
+        "resigned_on": "2019-04-09",
+        "address": {
+          "country": "Scotland",
+          "locality": "Edinburgh",
+          "postal_code": "EH1 1DD",
+          "premises": "Suite 110, 12 South Bridge"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Stephen Daum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2018-12-20",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "Netherlands",
+        "address": {
+          "country": "England",
+          "locality": "London",
+          "postal_code": "2243HX",
+          "premises": "3rd Floor, 120 Baker Street"
+        }
+      },
+      {
+        "name": "Mr Garry Barclay",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2018-12-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Newtonhill",
+          "country": "Scotland",
+          "locality": "Stonehaven",
+          "postal_code": "AB39 3NP",
+          "premises": "Burnside"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC6166650001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-05-03",
+        "delivered_on": "2023-05-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "(A) by way of legal mortgage, all its estate or interest in the property (as defined in the instrument accompanying this MR01);. (B) by way of fixed charge all estates or interests in any freehold and leasehold property and its proceeds of sale now and in the future vested in or charged to the borrower other than the property charged under (a) above;. (C) by way of fixed charge all of the intellectual property rights (as defined in the instrument accompanying this MR01).",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Petrotechnical Data Systems International Holding Bv"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-26",
+        "description": "accounts-with-accounts-type-medium",
+        "type": "AA",
+        "pages": 26,
+        "barcode": "XEG48WFI",
+        "transaction_id": "MzQ5MTA1MDM5N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE9R9QI8",
+        "transaction_id": "MzQ3ODY3MDUyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-14",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "ADINUC9T",
+        "transaction_id": "MzQ0OTkzNTIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD9ZROGJ",
+        "transaction_id": "MzQzMjk4NjU3NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-22",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XCZFJN2J",
+        "transaction_id": "MzQxNTc5MDAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XCC3TX43",
+        "transaction_id": "MzM5MzI5Njk3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCA3NSFL",
+        "transaction_id": "MzM4OTk5MDQxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC35MQCP",
+        "transaction_id": "MzM3ODg4OTE5MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-05-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 19,
+        "barcode": "XC2VDQB6",
+        "transaction_id": "MzM3ODY4NjgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-constitution",
+        "date": "2023-05-04",
+        "description": "statement-of-companys-objects",
+        "type": "CC04",
+        "pages": 2,
+        "barcode": "YC2SJMMX",
+        "transaction_id": "MzM3ODUyNTA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-05-04",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 27,
+        "barcode": "YC2SJN9S",
+        "transaction_id": "MzM3ODUyNjIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-05-04",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUMyU0pNSU9hZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-04",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC2SJKY0",
+        "transaction_id": "MzM3ODUyMzUxOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC2MY6ZV",
+        "transaction_id": "MzM3ODEwMDIzMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-12-20",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 48,
+        "barcode": "YBJ6F0M3",
+        "transaction_id": "MzM2MjkyMTIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-12-20",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUJKNkYwT0FhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-15",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBIVQ9JD",
+        "transaction_id": "MzM2MjI0Njc0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBIQ26QY",
+        "transaction_id": "MzM2MTgxNjg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBIQ25QP",
+        "transaction_id": "MzM2MTgxNjYwMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-12",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBIQ1Y17",
+        "transaction_id": "MzM2MTgxNDc4MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHAW4H5",
+        "transaction_id": "MzM1OTM0NjcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHAW3X4",
+        "transaction_id": "MzM1OTM0NjU3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-11-22",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBHAVWIX",
+        "transaction_id": "MzM1OTM0NDU5MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-11-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBHAVTUJ",
+        "transaction_id": "MzM1OTM0MzgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBDVBN7N",
+        "transaction_id": "MzM1Mzg5MDcxM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 36,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "revenue": 1405055,
+    "ebitda": 163669,
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T03:05:29.769Z",
+  "scraped_at": "2026-01-11T03:05:29.769Z"
+}

@@ -1,0 +1,390 @@
+{
+  "company_name": "MAPTEK LTD",
+  "company_number": "SC642782",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2019-09-26",
+  "jurisdiction": "scotland",
+  "registered_address": "76 George Street, Ground Floor, Edinburgh, EH2 3BU, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "76 George Street",
+    "address_line_2": "Ground Floor",
+    "country": "Scotland",
+    "locality": "Edinburgh",
+    "postal_code": "EH2 3BU"
+  },
+  "sic_codes": [
+    "47410",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-10-01",
+    "last_made_up_to": "2025-09-17",
+    "next_made_up_to": "2026-09-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "JOHNSON, Peter Andrew",
+        "officer_role": "director",
+        "appointed_on": "2019-09-26",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "George Street",
+          "address_line_2": "Ground Floor",
+          "country": "Scotland",
+          "locality": "Edinburgh",
+          "postal_code": "EH2 3BU",
+          "premises": "76"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "MONCRIEFF, James",
+        "officer_role": "secretary",
+        "appointed_on": "2019-12-02",
+        "address": {
+          "address_line_1": "Darnaway Street",
+          "country": "Scotland",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 6DW",
+          "premises": "3"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Dr Keith Robert Johnson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2019-09-26",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1947,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Flemington St",
+          "country": "Australia",
+          "locality": "Glenside",
+          "premises": "31",
+          "region": "Sa, 5065"
+        }
+      },
+      {
+        "name": "Mr Peter Andrew Johnson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2019-09-26",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1974,
+        "nationality": "Australian",
+        "country_of_residence": "Australia",
+        "address": {
+          "address_line_1": "Algernon St",
+          "country": "Australia",
+          "locality": "Oatley",
+          "premises": "70",
+          "region": "Nsw"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC6427820002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-07-03",
+        "delivered_on": "2020-07-06",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "SC6427820001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-07-03",
+        "delivered_on": "2020-07-06",
+        "particulars": {
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XEHQQ4G8",
+        "transaction_id": "MzQ5NTM3Mjg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-12-10",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEH4959F",
+        "transaction_id": "MzQ5MzQ0Mjk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEC6929C",
+        "transaction_id": "MzQ4MzE2NzY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-28",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDZB54C3",
+        "transaction_id": "MzQ2MDU1NDc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBUU3HN",
+        "transaction_id": "MzQzNjIxOTMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDJGCN5",
+        "transaction_id": "MzM5NTU0Mjc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XCCXJGB7",
+        "transaction_id": "MzM5NDY1NjA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC0EDSU0",
+        "transaction_id": "MzM3NDYzNTgxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-10-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBE3TWIB",
+        "transaction_id": "MzM1NDQ1NTczM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XAYINX23",
+        "transaction_id": "MzMzMDkzNTgyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAE4JA2J",
+        "transaction_id": "MzMxNTY4MjU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-15",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XA2HWUXC",
+        "transaction_id": "MzI5Nzg3ODUwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-09-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9EM39WW",
+        "transaction_id": "MzI3OTAyMTc3MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-07-06",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 4,
+        "barcode": "X98QOT0H",
+        "transaction_id": "MzI3MjQ4MDMyOWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-07-06",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 5,
+        "barcode": "X98QOUGX",
+        "transaction_id": "MzI3MjQ4MDU2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-09",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X92MS6DK",
+        "transaction_id": "MzI2MjE1NDA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2019-12-02",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "X8JFS0TT",
+        "transaction_id": "MzI1MDkwNDEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2019-09-26",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 12,
+        "barcode": "X8ESEJPD",
+        "transaction_id": "MzI0NTIyMTEzNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 18
+  },
+  "enrichment": {
+    "website": "https://Maptek.com",
+    "headcount": 18,
+    "tech_stack": [
+      "Google Tag Manager (GTM-PH7MWZ)",
+      "Google reCAPTCHA"
+    ],
+    "business_keywords": [
+      "mining software",
+      "mining hardware",
+      "mining services",
+      "3D mine planning",
+      "geological modelling",
+      "drill & blast management",
+      "3D laser scanning",
+      "point cloud processing",
+      "mine scheduling",
+      "proximity awareness",
+      "LiDAR-based stability monitoring",
+      "material tracking",
+      "reconciliation systems",
+      "automation",
+      "orchestration"
+    ],
+    "services": [
+      "software development for the mining industry",
+      "hardware provision for the mining industry",
+      "consulting",
+      "training (online and in-person)",
+      "technical support",
+      "early access programs for new technology",
+      "newsletter publishing (Forge)",
+      "webinars",
+      "case studies",
+      "university engagement",
+      "intern programs"
+    ],
+    "customer_segments": [
+      "mining industry",
+      "mine sites"
+    ],
+    "business_description": "Maptek is a provider of innovative software, hardware, and services for the mining industry. The company develops technology solutions covering the entire mining cycle from exploration to reclamation, used at over 2500 sites in 90 countries. Maptek specializes in 3D mine planning, geological modelling, automation, and operational efficiency tools.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T03:07:50.325Z"
+  },
+  "scraped_at": "2026-01-11T03:07:42.972Z",
+  "updated_at": "2026-01-11T03:07:50.325Z",
+  "version": 1
+}
