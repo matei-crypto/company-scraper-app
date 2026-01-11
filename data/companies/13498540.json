@@ -1,0 +1,324 @@
+{
+  "company_name": "CHALEIT HOLDINGS LIMITED",
+  "company_number": "13498540",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-07-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "Botanic House, 100 Hills Rd, Cambridge, Cambridgeshire, CB2 1PH, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Botanic House",
+    "address_line_2": "100 Hills Rd",
+    "country": "United Kingdom",
+    "locality": "Cambridge",
+    "postal_code": "CB2 1PH",
+    "region": "Cambridgeshire"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "group",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-20",
+    "last_made_up_to": "2025-07-06",
+    "next_made_up_to": "2026-07-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FORD, Eric Kenelm",
+        "officer_role": "director",
+        "appointed_on": "2021-07-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1949,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB1 2JD",
+          "premises": "22 Station Road"
+        }
+      },
+      {
+        "name": "HAAGMAN, Daniel Stuart",
+        "officer_role": "director",
+        "appointed_on": "2021-07-07",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1975,
+        "nationality": "British",
+        "country_of_residence": "Australia",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB1 2JD",
+          "premises": "22 Station Road"
+        }
+      },
+      {
+        "name": "HYDE, Jody",
+        "officer_role": "director",
+        "appointed_on": "2022-05-20",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "country": "United Kingdom",
+          "locality": "Cambridge",
+          "postal_code": "CB1 2JD",
+          "premises": "22 Station Road"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Haagman Family Office Private Investment Pty Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-07-07",
+        "address": {
+          "address_line_1": "5 Davidson Terrace",
+          "country": "Australia",
+          "locality": "Joondalup",
+          "postal_code": "6027",
+          "premises": "Level 2",
+          "region": "Western Australia"
+        },
+        "identification": {
+          "legal_form": "Pty",
+          "legal_authority": "Australia",
+          "country_registered": "Australia, Western Australia",
+          "place_registered": "Australia",
+          "registration_number": "642526305"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-11-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEFO87KW",
+        "transaction_id": "MzQ4OTg0NDM0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-11-14",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 37,
+        "barcode": "AEF7YE7D",
+        "transaction_id": "MzQ4ODg0OTg4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-13",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE8V7F26",
+        "transaction_id": "MzQ3NzEwNDYyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-13",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE8V6L43",
+        "transaction_id": "MzQ3NzA5ODAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE729LBN",
+        "transaction_id": "MzQ3NDMwMTg1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE729KXT",
+        "transaction_id": "MzQ3NDMwMTgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE729KYH",
+        "transaction_id": "MzQ3NDMwMTc2MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-11",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 33,
+        "barcode": "ADHDZ336",
+        "transaction_id": "MzQ0Njc3OTk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD8I9FC4",
+        "transaction_id": "MzQzMDc2MzQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-08",
+        "description": "accounts-with-accounts-type-group",
+        "type": "AA",
+        "pages": 32,
+        "barcode": "ACZQILAH",
+        "transaction_id": "MzQxNjg1ODQ2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-10",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC7HIVTV",
+        "transaction_id": "MzM4NTgyNDEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-12-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XBIPZ9QX",
+        "transaction_id": "MzM2MTc5MDEyNGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-10-28",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBFLBJTF",
+        "transaction_id": "MzM1Njg1NjgzOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-19",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB8LBZ8Y",
+        "transaction_id": "MzM0NjA2MjY3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB7PD0AQ",
+        "transaction_id": "MzM0NDg2OTQyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-29",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB76G45U",
+        "transaction_id": "MzM0NDEzNjMzN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-21",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB6NFSJ5",
+        "transaction_id": "MzM0MzE0MzM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-06-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB6NFRR5",
+        "transaction_id": "MzM0MzE0MzE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-06-06",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "AB596NEO",
+        "transaction_id": "MzM0MTUxOTIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-07-07",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 31,
+        "barcode": "XA8443CJ",
+        "transaction_id": "MzMwNjcyNjE0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 1739480,
+    "ebitda": 153417,
+    "employees": 12
+  },
+  "enrichment": {
+    "headcount": 12,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:03:45.963Z",
+  "scraped_at": "2026-01-11T00:03:45.963Z"
+}

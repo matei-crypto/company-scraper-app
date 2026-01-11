@@ -1,0 +1,436 @@
+{
+  "company_name": "MAINCE LIMITED",
+  "company_number": "13726052",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-11-05",
+  "jurisdiction": "england-wales",
+  "registered_address": "7 Bell Yard, London, WC2A 2JR, England",
+  "registered_address_structured": {
+    "address_line_1": "7 Bell Yard",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2A 2JR"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "HAL24K INFRA LIMITED",
+      "ceased_on": "2024-07-08",
+      "effective_from": "2022-01-18"
+    },
+    {
+      "name": "ASSETVIEW LTD",
+      "ceased_on": "2022-01-18",
+      "effective_from": "2021-11-05"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-08-31",
+    "next_accounts_period_end_on": "2025-11-30",
+    "next_accounts_period_start_on": "2024-12-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-11-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 11
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-22",
+    "last_made_up_to": "2025-11-08",
+    "next_made_up_to": "2026-11-08"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PUIJK, Marcel Clemens Maria",
+        "officer_role": "director",
+        "appointed_on": "2021-11-08",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1960,
+        "nationality": "Dutch",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bell Yard",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2A 2JR",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "NEVILLE, Peter Michael",
+        "officer_role": "director",
+        "appointed_on": "2021-11-05",
+        "resigned_on": "2021-11-08",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Nottingham Road",
+          "address_line_2": "Keyworth",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG12 5FD",
+          "premises": "22"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Tower Bridge Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2022-07-27",
+        "address": {
+          "address_line_1": "Great Portland Street",
+          "address_line_2": "First Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1W 7LT",
+          "premises": "85"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "09774771"
+        }
+      },
+      {
+        "name": "Trailblazer Associates Bv",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-03-31",
+        "address": {
+          "address_line_1": "Hullenbergweg 278",
+          "address_line_2": "1101 Bv",
+          "country": "Netherlands",
+          "locality": "Amsterdam",
+          "postal_code": "1101 BV",
+          "premises": "B2.10"
+        },
+        "identification": {
+          "legal_form": "Besloten Vennootschap",
+          "legal_authority": "Dutch Civil Code",
+          "country_registered": "Netherlands",
+          "place_registered": "Netherlands",
+          "registration_number": "59544570"
+        }
+      },
+      {
+        "name": "Tower Bridge Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-11-15",
+        "ceased_on": "2022-03-17",
+        "address": {
+          "address_line_1": "Howard Way",
+          "address_line_2": "Interchange Park",
+          "country": "England",
+          "locality": "Newport Pagnell",
+          "postal_code": "MK16 9FY",
+          "premises": "Office 406, Icentre, Interchange Park"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "Register Of Companies",
+          "registration_number": "09774771"
+        }
+      },
+      {
+        "name": "Mr Peter Michael Neville",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-11-05",
+        "ceased_on": "2021-11-08",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Nottingham Road",
+          "address_line_2": "Keyworth",
+          "country": "United Kingdom",
+          "locality": "Nottingham",
+          "postal_code": "NG12 5FD",
+          "premises": "22"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 7,
+        "barcode": "XEIKOQAJ",
+        "transaction_id": "MzQ5NzExODUzOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-11",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YEEU5AZU",
+        "transaction_id": "MzQ4Nzg1Mzk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEZ97ZD",
+        "transaction_id": "WUVFWjk3WkRhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEU5AZE",
+        "transaction_id": "WUVFVTVBWkVhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-11",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YEEU595L",
+        "transaction_id": "MzQ4Nzg1MzY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEU50R7",
+        "transaction_id": "WUVFVTUwUjdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-11",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YEEU4SS2",
+        "transaction_id": "MzQ4Nzg1MDAyNWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEU4SRM",
+        "transaction_id": "WUVFVTRTUk1hZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEU4L57",
+        "transaction_id": "WUVFVTRMNTdhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-11",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YEEU4LGQ",
+        "transaction_id": "MzQ4Nzg0ODUyNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEU40JC",
+        "transaction_id": "WUVFVTQwSkNhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-11",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YEEU40JS",
+        "transaction_id": "MzQ4Nzg0MzYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-11",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YEEU40K0",
+        "transaction_id": "MzQ4Nzg0MzYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-11-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 13,
+        "barcode": "YEEZ9801",
+        "transaction_id": "MzQ4NzkyNDg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2025-11-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YEEU1629",
+        "transaction_id": "WUVFVTE2MjlhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2025-11-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 13,
+        "barcode": "YEEU16PD",
+        "transaction_id": "MzQ4NzgxOTQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-07",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 6,
+        "barcode": "XEEU1Y2G",
+        "transaction_id": "MzQ4NzgyNTU5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XEEU1JDD",
+        "transaction_id": "MzQ4NzgyMjE4MmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-10-29",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ4NjIzNzAxN2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-10-28",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ4NTYxOTE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-24",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XEDUHG5L",
+        "transaction_id": "MzQ4NjIzNjgyNGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-07-19",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ3MzkxMjAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-07-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XE6WS6JK",
+        "transaction_id": "MzQ3MzkxMTkzOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-07-15",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ3MjgzNTUyM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XDXQ7VDD",
+        "transaction_id": "MzQ1NzU4MjUwMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 73,
+    "recent_filings_count": 25
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Hal24k-infra.com",
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:20:07.924Z",
+  "scraped_at": "2026-01-11T00:20:07.924Z"
+}

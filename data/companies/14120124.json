@@ -1,0 +1,157 @@
+{
+  "company_name": "CLEARSPEED UK LIMITED",
+  "company_number": "14120124",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-05-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 New Street Square, London, EC4A 3TW, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "5 New Street Square",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4A 3TW"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-02",
+    "last_made_up_to": "2025-05-19",
+    "next_made_up_to": "2026-05-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ZAAL, John",
+        "officer_role": "director",
+        "appointed_on": "2022-05-20",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1981,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "West Beech St",
+          "address_line_2": "Suite 502",
+          "country": "United States",
+          "locality": "San Diego",
+          "premises": "555",
+          "region": "Ca 92101"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XEC3B9F7",
+        "transaction_id": "MzQ4Mjk2MTIzM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE32T82I",
+        "transaction_id": "MzQ2NzQ5MTU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-06-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD4GE2PV",
+        "transaction_id": "MzQyNDAxNjMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XD42OVR4",
+        "transaction_id": "MzQyMzMwNTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCF12RLF",
+        "transaction_id": "MzM5ODA3NTkwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC3TZNGB",
+        "transaction_id": "MzM4MDE0NDk1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-08",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB5R33PN",
+        "transaction_id": "MzM0MTgzNjM3NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-05-20",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 52,
+        "barcode": "XB4F0DIX",
+        "transaction_id": "MzMzOTkzNzU0OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 8,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:50:35.872Z",
+  "scraped_at": "2026-01-11T00:50:35.872Z"
+}

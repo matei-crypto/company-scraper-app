@@ -1,0 +1,173 @@
+{
+  "company_name": "BRIGHT FUTURE CONSULTANCY MANCHESTER LTD",
+  "company_number": "14738652",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-03-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "Office No. 13, 4th Floor Universal Square, Manchester, Lancashire, M12 6JH, England",
+  "registered_address_structured": {
+    "address_line_1": "Office No. 13, 4th Floor Universal Square",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M12 6JH",
+    "region": "Lancashire"
+  },
+  "sic_codes": [
+    "62020",
+    "85600"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-30",
+    "last_made_up_to": "2025-03-16",
+    "next_made_up_to": "2026-03-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "YASIN, Muhammad",
+        "officer_role": "director",
+        "appointed_on": "2023-03-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1982,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Universal Square",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M12 6JH",
+          "premises": "Office No. 13, 4th Floor",
+          "region": "Lancashire"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Muhammad Yasin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-03-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1982,
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Universal Square",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M12 6JH",
+          "premises": "Office No. 13, 4th Floor",
+          "region": "Lancashire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-09-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEANSN9L",
+        "transaction_id": "MzQ4MDEzODY3NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-22",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XE32YZ15",
+        "transaction_id": "MzQ2NzU0MzM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYJH5MH",
+        "transaction_id": "MzQ1ODg2NTA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XD9U7AG3",
+        "transaction_id": "MzQzMjYyMjA2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD916M8B",
+        "transaction_id": "MzQzMTY0MzMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD09DS9C",
+        "transaction_id": "MzQxNzAyMzg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-03-17",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XBZCM53E",
+        "transaction_id": "MzM3MjcyNzQyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 7,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:32:15.605Z",
+  "scraped_at": "2026-01-11T01:32:15.605Z"
+}

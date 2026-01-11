@@ -1,0 +1,282 @@
+{
+  "company_name": "ADNAMI LTD",
+  "company_number": "13048136",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-11-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "65 London Wall, London, EC2M 5TU, England",
+  "registered_address_structured": {
+    "address_line_1": "65 London Wall",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2M 5TU"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-28",
+    "next_accounts_period_end_on": "2025-12-28",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-10",
+    "last_made_up_to": "2025-11-26",
+    "next_made_up_to": "2026-11-26"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KVIST, Simon",
+        "officer_role": "director",
+        "appointed_on": "2020-11-27",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "Danish",
+        "country_of_residence": "Denmark",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 5TU",
+          "premises": "65"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Simon Kvist",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2020-11-27",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1983,
+        "nationality": "Danish",
+        "country_of_residence": "Denmark",
+        "address": {
+          "address_line_1": "London Wall",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2M 5TU",
+          "premises": "65"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHQY8DD",
+        "transaction_id": "MzQ5NTQ0NTY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEHQR2JD",
+        "transaction_id": "MzQ5NTM4MDMxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-24",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEBSC6Y1",
+        "transaction_id": "MzQ4MjQ4NzExOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDICQ2MO",
+        "transaction_id": "MzQ0ODU4MzIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-12-14",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ0NzA3MzI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHT1EMH",
+        "transaction_id": "MzQ0NzA3MzIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-12-10",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ0NTE5NDM2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD0V617F",
+        "transaction_id": "MzQxODAzNzE3N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-25",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCVDEFTU",
+        "transaction_id": "MzQwODc1NzU1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVDEZ40",
+        "transaction_id": "MzQwODc2MjA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCVDEHAI",
+        "transaction_id": "MzQwODc1Nzg5MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-24",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCVD9TUI",
+        "transaction_id": "MzQwODY4NDAxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-24",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCVD9TM9",
+        "transaction_id": "MzQwODY4Mzk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCIY5KUQ",
+        "transaction_id": "MzQwNTQwMzQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-28",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCD0DR92",
+        "transaction_id": "MzM5NDgxODM5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBUC78XU",
+        "transaction_id": "MzM2NDM1NzIyOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAZHSXYO",
+        "transaction_id": "MzMzMjQ2MzczMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAV6BNTL",
+        "transaction_id": "MzMyNjAyODQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-04-21",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XA2VBSFV",
+        "transaction_id": "MzI5ODQ0ODU3OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-11-27",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X9IMHMK3",
+        "transaction_id": "MzI4NDQ2MzQyN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:24:06.713Z",
+  "scraped_at": "2026-01-10T23:24:06.713Z"
+}

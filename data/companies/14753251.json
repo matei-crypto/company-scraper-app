@@ -1,0 +1,163 @@
+{
+  "company_name": "MS13 TALENT CONSULTANCY LIMITED",
+  "company_number": "14753251",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-03-23",
+  "jurisdiction": "england-wales",
+  "registered_address": "11 Dodgson Close, Longford, Coventry, CV6 6PX, England",
+  "registered_address_structured": {
+    "address_line_1": "11 Dodgson Close",
+    "address_line_2": "Longford",
+    "country": "England",
+    "locality": "Coventry",
+    "postal_code": "CV6 6PX"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-12-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-05",
+    "last_made_up_to": "2025-03-22",
+    "next_made_up_to": "2026-03-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAYRE, Manvir",
+        "officer_role": "director",
+        "appointed_on": "2023-03-23",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dodgson Close",
+          "address_line_2": "Longford",
+          "country": "England",
+          "locality": "Coventry",
+          "postal_code": "CV6 6PX",
+          "premises": "11"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Manvir Hayre",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-03-23",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dodgson Close",
+          "address_line_2": "Longford",
+          "country": "England",
+          "locality": "Coventry",
+          "postal_code": "CV6 6PX",
+          "premises": "11"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "gazette",
+        "date": "2025-06-11",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQ2OTEzOTY0N2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2025-06-10",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQ2ODg4MTEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE44Q1TL",
+        "transaction_id": "MzQ2OTEzOTY0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-01-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDUUUBKZ",
+        "transaction_id": "MzQ1MjQxODg1OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2DKKUQ",
+        "transaction_id": "MzQyMDcxOTg5MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-03-23",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XBZXWOO8",
+        "transaction_id": "MzM3MzcxOTc3M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 6,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 3425548,
+    "ebitda": 1112806,
+    "employees": 42
+  },
+  "enrichment": {
+    "headcount": 42,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:33:36.693Z",
+  "scraped_at": "2026-01-11T01:33:36.693Z"
+}

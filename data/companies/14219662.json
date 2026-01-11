@@ -1,0 +1,189 @@
+{
+  "company_name": "W3 GBP LIMITED",
+  "company_number": "14219662",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-07-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "8 High Street, Ipswich, IP1 3JX, England",
+  "registered_address_structured": {
+    "address_line_1": "8 High Street",
+    "country": "England",
+    "locality": "Ipswich",
+    "postal_code": "IP1 3JX"
+  },
+  "sic_codes": [
+    "62012",
+    "62090",
+    "73110",
+    "85600"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-04-30",
+    "next_accounts_period_end_on": "2025-07-31",
+    "next_accounts_period_start_on": "2024-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-13",
+    "last_made_up_to": "2025-03-30",
+    "next_made_up_to": "2026-03-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HUTULEAC, Daniel",
+        "officer_role": "director",
+        "appointed_on": "2022-07-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Ipswich",
+          "postal_code": "IP1 3JX",
+          "premises": "8"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Daniel Hutuleac",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-07-06",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "England",
+          "locality": "Ipswich",
+          "postal_code": "IP1 3JX",
+          "premises": "8"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-04-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XE1L0OAI",
+        "transaction_id": "MzQ2NDY5MTMyMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE0G3L9S",
+        "transaction_id": "MzQ2MjM3NjY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE0G3K8R",
+        "transaction_id": "MzQ2MjM3NjMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE0G3JPS",
+        "transaction_id": "MzQ2MjM3NjI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-14",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE0G3ISJ",
+        "transaction_id": "MzQ2MjM3NTk4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "barcode": "XD0HICCQ",
+        "transaction_id": "MzQxNzM1NzgwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0C67VN",
+        "transaction_id": "MzQxNzE2NjU4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-30",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0EM4C2",
+        "transaction_id": "MzM3NDcwODIwMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-07-06",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XB7PGR2X",
+        "transaction_id": "MzM0NDkwMTM4MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 9,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:58:01.939Z",
+  "scraped_at": "2026-01-11T00:58:01.939Z"
+}

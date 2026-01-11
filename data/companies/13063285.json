@@ -1,0 +1,306 @@
+{
+  "company_name": "CIRCLE TRAINING LTD",
+  "company_number": "13063285",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-12-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "4 The Boulevard, Department Leeds Docks, Leeds, LS10 1PZ, England",
+  "registered_address_structured": {
+    "address_line_1": "4 The Boulevard",
+    "address_line_2": "Department Leeds Docks",
+    "country": "England",
+    "locality": "Leeds",
+    "postal_code": "LS10 1PZ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-11",
+    "last_made_up_to": "2025-11-27",
+    "next_made_up_to": "2026-11-27"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "METCALFE, Nicholas Luke",
+        "officer_role": "director",
+        "appointed_on": "2020-12-04",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Portland Street",
+          "country": "England",
+          "locality": "Lincoln",
+          "postal_code": "LN5 7JX",
+          "premises": "50"
+        }
+      },
+      {
+        "name": "PEAKE, Sarah-Jane",
+        "officer_role": "director",
+        "appointed_on": "2020-12-04",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Hangingroyd Lane",
+          "country": "England",
+          "locality": "Hebden Bridge",
+          "postal_code": "HX7 7DD",
+          "premises": "23"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Launchpad Assistive Technology Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-12-04",
+        "address": {
+          "address_line_1": "Market Street",
+          "country": "England",
+          "locality": "Hebden Bridge",
+          "postal_code": "HX7 6AD",
+          "premises": "12"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Uk Register Of Companies",
+          "registration_number": "08618744"
+        }
+      },
+      {
+        "name": "S & D Metcalfe Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-12-04",
+        "address": {
+          "address_line_1": "Portland Street",
+          "country": "England",
+          "locality": "Lincoln",
+          "postal_code": "LN5 7JX",
+          "premises": "50"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Uk Register Of Companies",
+          "registration_number": "12364778"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEGKNB1U",
+        "transaction_id": "MzQ5MTg5MTMzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEBY01DN",
+        "transaction_id": "MzQ4MjgxNjg3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDGQYCE8",
+        "transaction_id": "MzQ0NTExMjkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDCOOJDE",
+        "transaction_id": "MzQzNzY1MTcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-21",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCZCV0E3",
+        "transaction_id": "MzQxNTY1Nzk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCHNG94P",
+        "transaction_id": "MzQwMjQ1NTAyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC6YWG8B",
+        "transaction_id": "MzM4NTA0MjE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBIVHTV6",
+        "transaction_id": "MzM2MjEwODc2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-19",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBAR1I7C",
+        "transaction_id": "MzM0OTE5MjA5OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-27",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAWKZ1YR",
+        "transaction_id": "MzMyODA0ODc3NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-10-19",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAFE0VAW",
+        "transaction_id": "MzMxNzQxMTc3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-10-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAFDVN4Z",
+        "transaction_id": "MzMxNzMyMTY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-12-04",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 13,
+        "barcode": "X9J5BWBV",
+        "transaction_id": "MzI4NTEyNzA5M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 13,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Innercircletraining.co.uk",
+    "headcount": 14,
+    "tech_stack": [],
+    "business_keywords": [
+      "advanced motorcycle training",
+      "motorcycle riding instruction",
+      "DVSA Enhanced Rider Scheme",
+      "ERS Assessment",
+      "RoSPA Gold",
+      "IAM Masters",
+      "Advanced Riding Foundation course",
+      "Online Motorcycle Roadcraft course",
+      "Advanced Riding Masterclass",
+      "RoSPA Advanced Riding Test",
+      "IAM Roadsmart Advanced Riding Test",
+      "Back2Biking course",
+      "Motorcycle Touring Masterclass",
+      "motorcycle tours",
+      "full motorcycle licences"
+    ],
+    "services": [
+      "DVSA Enhanced Rider Scheme (ERS) Assessment",
+      "Advanced Riding Foundation course",
+      "Online Motorcycle Roadcraft course",
+      "Advanced Riding Masterclass",
+      "RoSPA Advanced Riding Test organisation",
+      "Back2Biking course",
+      "Motorcycle Touring Masterclass",
+      "Motorcycle Tours"
+    ],
+    "customer_segments": [
+      "riders of all abilities",
+      "riders with full (A1, A2 or A) licences",
+      "riders returning to biking",
+      "riders looking to undertake a motorcycle tour with or without a pillion"
+    ],
+    "business_description": "Inner Circle Training Ltd provides professional advanced motorcycle training to help riders improve their skills and achieve high standards such as RoSPA Gold or IAM Masters. They offer courses like the DVSA Enhanced Rider Scheme (ERS) Assessment, Advanced Riding Foundation, and Masterclass, as well as specialized courses for returning riders and motorcycle touring. The company also organizes motorcycle tours.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:26:06.928Z"
+  },
+  "scraped_at": "2026-01-10T23:25:57.785Z",
+  "updated_at": "2026-01-10T23:26:06.928Z",
+  "version": 1
+}

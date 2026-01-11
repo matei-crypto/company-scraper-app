@@ -1,0 +1,156 @@
+{
+  "company_name": "MEDIAHUB SERVICES LTD",
+  "company_number": "15071005",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-08-14",
+  "jurisdiction": "england-wales",
+  "registered_address": "28b Lawrence Road, London, N15 4EG, England",
+  "registered_address_structured": {
+    "address_line_1": "28b Lawrence Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N15 4EG"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "73110",
+    "73120"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-05-31",
+    "next_accounts_period_end_on": "2026-08-31",
+    "next_accounts_period_start_on": "2025-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-27",
+    "last_made_up_to": "2025-08-13",
+    "next_made_up_to": "2026-08-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CERKOSOVAS, Marius",
+        "officer_role": "director",
+        "appointed_on": "2023-08-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "Lithuanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lawrence Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N15 4EG",
+          "premises": "28b"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Marius Cerkosovas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-08-14",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1983,
+        "nationality": "Lithuanian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Lawrence Road",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "N15 4EG",
+          "premises": "28b"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-14",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XED5SN1T",
+        "transaction_id": "MzQ4NDg1ODczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE9R5QEH",
+        "transaction_id": "MzQ3ODYxMTE0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 16,
+        "barcode": "XE2H29D7",
+        "transaction_id": "MzQ2NTkwMDE1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDBXH9KA",
+        "transaction_id": "MzQzNjM2NjgzNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-08-14",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XC9SWBNK",
+        "transaction_id": "MzM4OTM5NTU5M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 5,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "revenue": 1462538,
+    "ebitda": 930264,
+    "employees": 14
+  },
+  "enrichment": {
+    "headcount": 14,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:45:44.692Z",
+  "scraped_at": "2026-01-11T01:45:44.692Z"
+}

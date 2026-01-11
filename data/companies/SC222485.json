@@ -1,0 +1,457 @@
+{
+  "company_name": "SUPPLY DESIGN LIMITED",
+  "company_number": "SC222485",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2001-08-23",
+  "jurisdiction": "scotland",
+  "registered_address": "13 Comely Park, Dunfermline, Fife, KY12 7HU",
+  "registered_address_structured": {
+    "address_line_1": "13 Comely Park",
+    "address_line_2": "Dunfermline",
+    "locality": "Fife",
+    "postal_code": "KY12 7HU"
+  },
+  "sic_codes": [
+    "62020",
+    "72190"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-30",
+    "next_accounts_period_end_on": "2026-03-30",
+    "next_accounts_period_start_on": "2025-03-31",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-06",
+    "last_made_up_to": "2025-08-23",
+    "next_made_up_to": "2026-08-23"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BRAND, Marc",
+        "officer_role": "director",
+        "appointed_on": "2017-10-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "13 Comely Park",
+          "address_line_2": "Dunfermline",
+          "locality": "Fife",
+          "postal_code": "KY12 7HU"
+        }
+      },
+      {
+        "name": "BRITTON, Craig Alexander",
+        "officer_role": "director",
+        "appointed_on": "2001-08-23",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "13 Comely Park",
+          "locality": "Dunfermline",
+          "postal_code": "KY12 7HU",
+          "region": "Fife"
+        }
+      },
+      {
+        "name": "WATSON, Andrew John",
+        "officer_role": "director",
+        "appointed_on": "2017-09-06",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "13 Comely Park",
+          "address_line_2": "Dunfermline",
+          "locality": "Fife",
+          "postal_code": "KY12 7HU"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BRITTON, Jennifer Claire",
+        "officer_role": "secretary",
+        "appointed_on": "2001-08-23",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "13 Comely Park",
+          "locality": "Dunfermline",
+          "postal_code": "KY12 7HU",
+          "region": "Fife"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Craig Alexander Britton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "13 Comely Park",
+          "address_line_2": "Dunfermline",
+          "locality": "Fife",
+          "postal_code": "KY12 7HU"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC2224850002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-03-10",
+        "delivered_on": "2021-03-16",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "SC2224850001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2018-04-18",
+        "delivered_on": "2018-04-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Just Cash Flow PLC"
+          }
+        ],
+        "satisfied_on": "2023-01-13",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XEHQTNEP",
+        "transaction_id": "MzQ5NTQwMDk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEAAGTZE",
+        "transaction_id": "MzQ3OTcxMjE2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDI716T6",
+        "transaction_id": "MzQ0ODE5MjQ0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDAYL2ZS",
+        "transaction_id": "MzQzNDQ5MDgyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XCG7Y3VW",
+        "transaction_id": "MzM5OTcwMjc5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBCRED6",
+        "transaction_id": "MzM5MTcxNDY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-01-13",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XBV379R4",
+        "transaction_id": "MzM2NTY0NDc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-18",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XBEWXDBU",
+        "transaction_id": "MzM1NTYzMDkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBCLPD2B",
+        "transaction_id": "MzM1MTk5ODIzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-12-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XAJKFUSJ",
+        "transaction_id": "MzMyNDAxMzQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XACX7OPD",
+        "transaction_id": "MzMxMzY1NzIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-03-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 16,
+        "barcode": "XA0ECMRL",
+        "transaction_id": "MzI5NDQ5NzIyMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-02-12",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X9Y5UI6W",
+        "transaction_id": "MzI5MTI4MzIwNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-08-25",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9C6RGUJ",
+        "transaction_id": "MzI3NjEwMTQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X8JADIPT",
+        "transaction_id": "MzI1MDcyMDIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-09-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8DTXIQO",
+        "transaction_id": "MzI0NDA4OTY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-12-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "X7L9N8OZ",
+        "transaction_id": "MzIyMjgxMTcxMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-09-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7EBI6IX",
+        "transaction_id": "MzIxNDMyNzY0MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2018-09-12",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X7EBHP8P",
+        "transaction_id": "MzIxNDMyNzE4M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2018-04-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 14,
+        "barcode": "X745EIAN",
+        "transaction_id": "MzIwMjg3NjU1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-03-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "S728QFCX",
+        "transaction_id": "MzIwMDcwNzM3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-12-22",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "X6LUR4EX",
+        "transaction_id": "MzE5MzYyMDU0M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2017-09-14",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X6EZA6E1",
+        "transaction_id": "MzE4NTM0NDc4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-09-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6EESU8T",
+        "transaction_id": "MzE4NDczNjI0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "X5MG45TF",
+        "transaction_id": "MzE2NTIxMjU0N2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 59,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 14
+  },
+  "enrichment": {
+    "website": "https://Supplydesign.com",
+    "headcount": 14,
+    "tech_stack": [
+      "GaN",
+      "SiC"
+    ],
+    "business_keywords": [
+      "power conversion",
+      "high performance power conversion",
+      "net-zero",
+      "GaN",
+      "SiC",
+      "modular scalable power",
+      "hardware and control systems",
+      "immersion-cooled power",
+      "AC-DC power conversion",
+      "DC-DC power conversion",
+      "wave energy PTO",
+      "power converter specialists",
+      "high density power conversion",
+      "patented AC-DC power",
+      "energy efficiency"
+    ],
+    "services": [
+      "High performance power conversion for net-zero applications",
+      "Modular scalable power hardware and control systems",
+      "Immersion-cooled power systems for performance and energy savings",
+      "High density AC-DC and DC-DC power conversion to reduce size, heat, and weight",
+      "Wave energy PTO power conversion with rotary and linear machine technologies",
+      "Patented high-efficiency AC-DC power technology",
+      "Resolution of critical performance challenges in power systems"
+    ],
+    "customer_segments": [],
+    "business_description": "Supply Design Limited specializes in high-performance power conversion, delivering advanced power systems for net-zero and beyond. They provide modular, scalable, and immersion-cooled power solutions, including AC-DC and DC-DC conversion, to improve energy efficiency, reduce size, and enhance system performance. The company also offers expertise in wave energy PTO and patented AC-DC power technologies.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T02:16:53.577Z"
+  },
+  "scraped_at": "2026-01-11T02:16:46.343Z",
+  "updated_at": "2026-01-11T02:16:53.577Z",
+  "version": 1
+}

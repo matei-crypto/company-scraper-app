@@ -1,0 +1,165 @@
+{
+  "company_name": "BPB TRADE LTD",
+  "company_number": "14139580",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-05-30",
+  "jurisdiction": "england-wales",
+  "registered_address": "Flat 23, 90, John Adams Court Church Street, London, N9 9XA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Flat 23, 90, John Adams Court Church Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N9 9XA"
+  },
+  "sic_codes": [
+    "59112",
+    "62020",
+    "62030",
+    "63990"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-12",
+    "last_made_up_to": "2025-05-29",
+    "next_made_up_to": "2026-05-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LOMANGA, Fabien Bazard",
+        "officer_role": "director",
+        "appointed_on": "2022-05-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N9 9XA",
+          "premises": "Flat 23, 90, John Adams Court"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Fabien Bazard Lomanga",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-05-30",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Church Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N9 9XA",
+          "premises": "Flat 23, 90, John Adams Court"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4KVO0G",
+        "transaction_id": "MzQ2OTgzNTY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XDXCKH23",
+        "transaction_id": "MzQ1NjkyMDg2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD4WISVN",
+        "transaction_id": "MzQyNDY1NDg4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XCZ1SF3M",
+        "transaction_id": "MzQxNDg2NzM1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC5P8275",
+        "transaction_id": "MzM4MzE2NzA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-05-30",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XB4VDKL5",
+        "transaction_id": "MzM0MDc4MzE3MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 6,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "revenue": 4039658,
+    "ebitda": 65362,
+    "employees": 14
+  },
+  "enrichment": {
+    "headcount": 14,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:51:47.063Z",
+  "scraped_at": "2026-01-11T00:51:47.063Z"
+}

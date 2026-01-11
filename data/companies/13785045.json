@@ -1,0 +1,415 @@
+{
+  "company_name": "KEEPIT TECHNOLOGIES UK, LTD",
+  "company_number": "13785045",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-12-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "8 Devonshire Square, London, EC2M 4PL, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "8 Devonshire Square",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2M 4PL"
+  },
+  "sic_codes": [
+    "62020",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-06-30",
+    "next_accounts_period_end_on": "2025-09-30",
+    "next_accounts_period_start_on": "2024-10-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-09-30",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 9
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-19",
+    "last_made_up_to": "2025-12-05",
+    "next_made_up_to": "2026-12-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FELSVANG, Morten",
+        "officer_role": "director",
+        "appointed_on": "2021-12-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "Danish",
+        "country_of_residence": "Denmark",
+        "address": {
+          "address_line_1": "Devonshire Square",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 4PL",
+          "premises": "8"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BIRD & BIRD COMPANY SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2021-12-06",
+        "address": {
+          "address_line_1": "New Fetter Lane",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4A 1JP",
+          "premises": "12"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Morten Felsvang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-12-06",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1972,
+        "nationality": "Danish",
+        "country_of_residence": "Denmark",
+        "address": {
+          "address_line_1": "Devonshire Square",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2M 4PL",
+          "premises": "8"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "137850450004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-01",
+        "delivered_on": "2025-07-08",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Bank Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "137850450003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-12-15",
+        "delivered_on": "2023-12-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Bank Limited (As Collateral Agent)"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "137850450002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-02-27",
+        "delivered_on": "2023-03-03",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley UK Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "137850450001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-03-29",
+        "delivered_on": "2022-04-05",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley Bank as Collateral Agent"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 4,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2026-01-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XET4T041",
+        "transaction_id": "MzQ5NzU1OTg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-19",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHQU8TU",
+        "transaction_id": "MzQ5NTQwNTYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-08",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 43,
+        "barcode": "XE6DYROH",
+        "transaction_id": "MzQ3MjkyMDY0MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE5S9J1M",
+        "transaction_id": "MzQ3MTk4MjIyNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDZJKXCB",
+        "transaction_id": "MzQ2MDk3MTM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDTD4JGZ",
+        "transaction_id": "MzQ0OTc2NjgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-12-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDICPQLL",
+        "transaction_id": "MzQ0ODU4MDM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-02",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XD8NPAAG",
+        "transaction_id": "MzQzMTAxOTg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-11",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD0SJEKG",
+        "transaction_id": "MzQxNzk0NzY0NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-09",
+        "description": "move-registers-to-sail-company-with-new-address",
+        "type": "AD03",
+        "pages": 1,
+        "barcode": "XCUBTU03",
+        "transaction_id": "MzQwNzAwMDEyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-09",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XCUBTTZV",
+        "transaction_id": "MzQwNzAwMDEyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCTY77S2",
+        "transaction_id": "MzQwNjM4MzE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCJB8ZDF",
+        "transaction_id": "MzQwNTgyMTI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-12-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 41,
+        "barcode": "XCIMUBHK",
+        "transaction_id": "MzQwNDcwOTUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-05",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCBFJ6HT",
+        "transaction_id": "MzM5MTg5MTkyNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-03-03",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 40,
+        "barcode": "XBYIZLVC",
+        "transaction_id": "MzM3MTQ1Njc3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-27",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "pages": 4,
+        "barcode": "ABXLIVE2",
+        "transaction_id": "MzM3MDc4Mzk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XBIVQLI2",
+        "transaction_id": "MzM2MjI0OTg0MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-04-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 40,
+        "barcode": "XB1AJNMG",
+        "transaction_id": "MzMzNTI1MjM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-02-21",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAYANR2B",
+        "transaction_id": "MzMzMDUwNzgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-02-21",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAYANQQ8",
+        "transaction_id": "MzMzMDUwNzY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-12-06",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 21,
+        "barcode": "XAIQNPFV",
+        "transaction_id": "MzMyMjU4OTI1NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:24:28.916Z",
+  "scraped_at": "2026-01-11T00:24:28.916Z"
+}

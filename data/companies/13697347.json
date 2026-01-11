@@ -1,0 +1,477 @@
+{
+  "company_name": "VOXGEN UK LIMITED",
+  "company_number": "13697347",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-10-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "The Old Dairy 12 Stephen Road, Headington, Oxford, OX3 9AY, England",
+  "registered_address_structured": {
+    "address_line_1": "The Old Dairy 12 Stephen Road",
+    "address_line_2": "Headington",
+    "country": "England",
+    "locality": "Oxford",
+    "postal_code": "OX3 9AY"
+  },
+  "sic_codes": [
+    "61900",
+    "62012",
+    "62020",
+    "63110"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-09-30",
+    "next_accounts_period_end_on": "2024-12-31",
+    "next_accounts_period_start_on": "2023-11-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-10-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-04",
+    "last_made_up_to": "2025-10-21",
+    "next_made_up_to": "2026-10-21"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WATERFIELD, John Randall",
+        "officer_role": "director",
+        "appointed_on": "2021-11-17",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1973,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Suite 2502",
+          "address_line_2": "Tulsa",
+          "country": "United States",
+          "locality": "Ok74120",
+          "premises": "110s Hartford Ave"
+        }
+      },
+      {
+        "name": "ASLET, Daniel John",
+        "officer_role": "director",
+        "appointed_on": "2021-10-22",
+        "resigned_on": "2021-11-17",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      },
+      {
+        "name": "CARTER, Christopher Michael David",
+        "officer_role": "director",
+        "appointed_on": "2021-10-22",
+        "resigned_on": "2021-11-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      },
+      {
+        "name": "ROBINSON, Kerry Wayne",
+        "officer_role": "director",
+        "appointed_on": "2021-10-22",
+        "resigned_on": "2021-11-17",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Wti Holdings Llc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-11-17",
+        "address": {
+          "address_line_1": "Hartford Avenue",
+          "address_line_2": "Suite 2502",
+          "country": "United States",
+          "locality": "Tulsa",
+          "premises": "110 S",
+          "region": "Ok 74120"
+        },
+        "identification": {
+          "legal_form": "Limited Liability Company",
+          "legal_authority": "Us",
+          "country_registered": "Delaware, United States",
+          "place_registered": "State Of Delaware",
+          "registration_number": "5531912"
+        }
+      },
+      {
+        "name": "Mr Daniel John Aslet",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2021-10-22",
+        "ceased_on": "2023-10-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "12 Stephen Road",
+          "address_line_2": "Headington",
+          "country": "England",
+          "locality": "Oxford",
+          "postal_code": "OX3 9AY",
+          "premises": "The Old Dairy"
+        }
+      },
+      {
+        "name": "Voxgen Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-10-22",
+        "ceased_on": "2021-11-17",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "12314071"
+        }
+      },
+      {
+        "name": "Mr Kerry Wayne Robinson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2021-10-22",
+        "ceased_on": "2021-11-17",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      },
+      {
+        "name": "Mr Christopher Michael David Carter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2021-10-22",
+        "ceased_on": "2021-11-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71-75"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEF4UWKY",
+        "transaction_id": "MzQ4ODE5OTI4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-07-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE6GTSIW",
+        "transaction_id": "MzQ3MzE4MTMxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-12",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XE4KVO5R",
+        "transaction_id": "MzQ2OTgzNTc1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XDYP1B2W",
+        "transaction_id": "MzQ1OTMyNjUwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDGG50W3",
+        "transaction_id": "MzQ0NDU5MDUxN2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-01-24",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzQwODU1MDc5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCVAOV56",
+        "transaction_id": "MzQwODU1MDc3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCVAONR7",
+        "transaction_id": "MzQwODU0OTExMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCVD4J0A",
+        "transaction_id": "MzQwODUzMTMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-01-16",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQwNjMzOTE3MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCUH3TNV",
+        "transaction_id": "MzQwNzIyODQ1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCUH3TEA",
+        "transaction_id": "MzQwNzIyODQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-25",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCEVLS5F",
+        "transaction_id": "MzM5Nzc5MDcwNWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-02-01",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM2Nzc2MDE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBWCSZ8Q",
+        "transaction_id": "MzM2Nzc2MDA2NGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-01-10",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM2NDQwMDM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-26",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XAI2J9UY",
+        "transaction_id": "MzMyMTUwNzIyMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAI2IVGO",
+        "transaction_id": "MzMyMTUwMzk3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAI2IVB4",
+        "transaction_id": "MzMyMTUwMzg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-11-26",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAI2IV49",
+        "transaction_id": "MzMyMTUwMzgzMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAI2IT20",
+        "transaction_id": "MzMyMTUwMzMyNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAI2IT0W",
+        "transaction_id": "MzMyMTUwMzE4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-26",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAI2ISWH",
+        "transaction_id": "MzMyMTUwMzEzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAI2IP9N",
+        "transaction_id": "MzMyMTUwMjM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-11-10",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAGYDUBL",
+        "transaction_id": "MzMxOTc5NTUzMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 26,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:19:01.750Z",
+  "scraped_at": "2026-01-11T00:19:01.750Z"
+}

@@ -1,0 +1,205 @@
+{
+  "company_name": "CRM ERP LTD",
+  "company_number": "13891413",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-02-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "28 Mason Street, Manchester, M4 5EY, England",
+  "registered_address_structured": {
+    "address_line_1": "28 Mason Street",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M4 5EY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2025-11-30",
+    "next_accounts_period_end_on": "2025-02-28",
+    "next_accounts_period_start_on": "2024-03-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2024-02-29",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-14",
+    "last_made_up_to": "2025-03-31",
+    "next_made_up_to": "2026-03-31"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "NAHAJEC, Philip",
+        "officer_role": "director",
+        "appointed_on": "2022-02-03",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mason Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M4 5EY",
+          "premises": "28"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Philip Nahajec",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-02-03",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1971,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Mason Street",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M4 5EY",
+          "premises": "28"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-31",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZGQLBM",
+        "transaction_id": "MzQ2MDc5NzAxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDUBQC88",
+        "transaction_id": "MzQ1MTIxMDk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-29",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDGWNN0I",
+        "transaction_id": "MzQ0NTUxOTgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDGIRKO0",
+        "transaction_id": "MzQ0NDY5NDY1M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-15",
+        "description": "accounts-amended-with-accounts-type-micro-entity",
+        "type": "AAMD",
+        "pages": 6,
+        "barcode": "ADFRB29L",
+        "transaction_id": "MzQ0MzU3MDU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXGX8A2",
+        "transaction_id": "MzQxMjIwMDY2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-12-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCHI9TMB",
+        "transaction_id": "MzQwMjM4NjQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-03",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XCFHJ34G",
+        "transaction_id": "MzM5ODg0ODkwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-21",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3Z7QCY",
+        "transaction_id": "MzM4MDI4NTMyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-04-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "AC1VYOPF",
+        "transaction_id": "MzM3NzMyODI0OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-02-03",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 16,
+        "barcode": "XAWYMFGY",
+        "transaction_id": "MzMyODY0MzA5NGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 11,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "headcount": 13,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:34:28.763Z",
+  "scraped_at": "2026-01-11T00:34:28.763Z"
+}

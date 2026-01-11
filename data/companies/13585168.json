@@ -1,0 +1,391 @@
+{
+  "company_name": "SEQUENCE HQ LTD",
+  "company_number": "13585168",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-08-25",
+  "jurisdiction": "england-wales",
+  "registered_address": "27 New Dover Road, Canterbury, CT1 3DN, England",
+  "registered_address_structured": {
+    "address_line_1": "27 New Dover Road",
+    "country": "England",
+    "locality": "Canterbury",
+    "postal_code": "CT1 3DN"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-07",
+    "last_made_up_to": "2025-08-24",
+    "next_made_up_to": "2026-08-24"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GROVER, Riya",
+        "officer_role": "director",
+        "appointed_on": "2021-08-25",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Dover Road",
+          "country": "England",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "27"
+        }
+      },
+      {
+        "name": "JUBBAWY, Eamon",
+        "officer_role": "director",
+        "appointed_on": "2021-09-17",
+        "date_of_birth_month": 12,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Dover Road",
+          "country": "England",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "27"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mrs Riya Grover",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-08-25",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1988,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "New Dover Road",
+          "country": "England",
+          "locality": "Canterbury",
+          "postal_code": "CT1 3DN",
+          "premises": "27"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2025-11-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "barcode": "AEG28U43",
+        "transaction_id": "MzQ5MTI4MDQ2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-27",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "barcode": "AEG28U6R",
+        "transaction_id": "MzQ5MTI4MDMwNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-27",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date",
+        "type": "RP04CS01",
+        "barcode": "AEG28U23",
+        "transaction_id": "MzQ5MTI3OTM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-24",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEFYWSZ4",
+        "transaction_id": "MzQ5MDYyODcyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEC6FE0Y",
+        "transaction_id": "MzQ4MzIyMjAyOGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEB6VUKX",
+        "transaction_id": "MzQ4MTQzMDMwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-26",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE9R3WKZ",
+        "transaction_id": "MzQ3ODU5NDIzNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-25",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDX3YP1N",
+        "transaction_id": "MzQ1NjMxNTk0NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-05",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 7,
+        "barcode": "ADGYDMOS",
+        "transaction_id": "MzQ0NjI2MDA0OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDCRD7O1",
+        "transaction_id": "MzQzNzcxNTQ2NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDB1C6P6",
+        "transaction_id": "MzQzNDY0MzU1N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-22",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCVAE2MH",
+        "transaction_id": "MzQwODM2ODgwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 11,
+        "barcode": "XCCBO1I0",
+        "transaction_id": "MzM5MzQ3NzYwN2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-07-26",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM4NzM3ODE3M2FkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2023-07-25",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM4NjMxMzkzM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC8GFG8G",
+        "transaction_id": "MzM4NzM3ODE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-30",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBJX9743",
+        "transaction_id": "MzM2NDE1MzEyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 11,
+        "barcode": "XBC2TCWQ",
+        "transaction_id": "MzM1MTA3MzQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBBMYSD5",
+        "transaction_id": "MzM1MDQ4MjI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-09-01",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBBMYRYB",
+        "transaction_id": "MzM1MDQ4MjEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-17",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBALOEZD",
+        "transaction_id": "MzM0ODk2ODM3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-09",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB5TQWER",
+        "transaction_id": "MzM0MTk0OTU3NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-03-29",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUIwRTQ4WFVhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-03-29",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 52,
+        "barcode": "YB0E48S9",
+        "transaction_id": "MzMzMzg0MDk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-02-22",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YAY2S3LL",
+        "transaction_id": "MzMzMDMwNDkzNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 33,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Sequencehq.com",
+    "headcount": 16,
+    "tech_stack": [
+      "Slack",
+      "Salesforce",
+      "Stripe Billing",
+      "Chargebee",
+      "Notion"
+    ],
+    "business_keywords": [
+      "billing automation",
+      "CPQ",
+      "revenue recognition",
+      "accounts receivable",
+      "finance platform",
+      "AI revenue platform",
+      "contract intake",
+      "invoicing",
+      "usage metering",
+      "pricing engine",
+      "ASC606",
+      "revenue operations",
+      "automation",
+      "hybrid pricing",
+      "custom contracts"
+    ],
+    "services": [
+      "Billing Automation",
+      "CPQ (Configure, Price, Quote)",
+      "Pricing Engine",
+      "Revenue Recognition (ASC606)",
+      "Contract Intake with AI",
+      "Agents for receivables automation",
+      "Reporting with real-time event ingestion APIs",
+      "Invoicing",
+      "Usage Metering with real-time event ingestion APIs",
+      "Workflow automation for revenue operations",
+      "AI-assisted revenue collection",
+      "Real-time contract processing"
+    ],
+    "customer_segments": [
+      "software companies with custom contracts and hybrid pricing",
+      "modern B2B companies",
+      "Next Gen Finance teams",
+      "Finance teams",
+      "Sales teams"
+    ],
+    "business_description": "Sequence is an AI-powered revenue platform that automates billing, CPQ, and accounts receivable for finance teams. It unifies revenue operations to enable error-free revenue collection at scale, particularly for software companies with custom contracts and hybrid pricing. The platform provides tools for billing automation, revenue recognition, contract intake, and workflow automation.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T00:11:48.970Z"
+  },
+  "scraped_at": "2026-01-11T00:11:41.404Z",
+  "updated_at": "2026-01-11T00:11:48.970Z",
+  "version": 1
+}

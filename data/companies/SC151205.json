@@ -1,0 +1,478 @@
+{
+  "company_name": "SCIAMED LIMITED",
+  "company_number": "SC151205",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "1994-06-02",
+  "jurisdiction": "scotland",
+  "registered_address": "48 48 Main Street, Alford, AB33 8PX, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "48 48 Main Street",
+    "country": "Scotland",
+    "locality": "Alford",
+    "postal_code": "AB33 8PX"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-20",
+    "last_made_up_to": "2025-12-06",
+    "next_made_up_to": "2026-12-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HENRY, Ian George",
+        "officer_role": "director",
+        "appointed_on": "1994-06-02",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1948,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "12 Balfluig View",
+          "country": "Britain",
+          "locality": "Alford",
+          "postal_code": "AB33 8FF",
+          "region": "Aberdeenshire"
+        }
+      },
+      {
+        "name": "HENRY, Stephen Ian",
+        "officer_role": "director",
+        "appointed_on": "1996-01-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Cairn Cottage",
+          "address_line_2": "Ord-Head",
+          "locality": "Sauchen, Inverurie",
+          "postal_code": "AB51 7QS",
+          "region": "Aberdeenshire"
+        }
+      },
+      {
+        "name": "JORDANS (SCOTLAND) LIMITED",
+        "officer_role": "corporate-nominee-director",
+        "appointed_on": "1994-06-02",
+        "resigned_on": "1994-06-02",
+        "address": {
+          "address_line_1": "24 Great King Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 6QN"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "HENRY, Anne",
+        "officer_role": "secretary",
+        "appointed_on": "1994-06-02",
+        "resigned_on": "2025-12-05",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "12 Balfluig View",
+          "country": "Britain",
+          "locality": "Alford",
+          "postal_code": "AB33 8FF",
+          "region": "Aberdeenshire"
+        }
+      },
+      {
+        "name": "OSWALDS OF EDINBURGH LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "1994-06-02",
+        "resigned_on": "1994-06-02",
+        "address": {
+          "address_line_1": "24 Great King Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 6QN"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Stephen Ian Henry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2016-06-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Ordhead",
+          "country": "Scotland",
+          "locality": "Inverurie",
+          "postal_code": "AB51 7QS",
+          "premises": "Cairn Cottage"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Bond & floating charge"
+          }
+        ],
+        "created_on": "2002-03-20",
+        "delivered_on": "2002-04-04",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "Undertaking and all property and assets present and future of the company including uncalled capital.",
+          "contains_floating_charge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All sums due or to become due"
+        },
+        "status": "outstanding"
+      },
+      {
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "Bond & floating charge"
+          }
+        ],
+        "created_on": "1995-07-25",
+        "delivered_on": "1995-08-08",
+        "particulars": {
+          "type": "short-particulars",
+          "description": "The whole assets of the company.",
+          "contains_floating_charge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Governor and Company of the Bank of Scotland"
+          }
+        ],
+        "satisfied_on": "2002-12-24",
+        "secured_details": {
+          "type": "amount-secured",
+          "description": "All sums due or to become due"
+        },
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEHKSWQ0",
+        "transaction_id": "MzQ5NDkzODIyOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-12-17",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XEHKQXZ5",
+        "transaction_id": "MzQ5NDkyMTMwOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-27",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XE5MPZSY",
+        "transaction_id": "MzQ3MTc2OTIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDHKPHSP",
+        "transaction_id": "MzQ0NjUyNTY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-22",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD7WEG15",
+        "transaction_id": "MzQyOTYwNDUzM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-03-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCZ4E0PN",
+        "transaction_id": "MzQxNDkwNjA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCI97JEA",
+        "transaction_id": "MzQwMzc0Nzk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XC0EH7TS",
+        "transaction_id": "MzM3NDY2NDA4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-12-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBIFE6A9",
+        "transaction_id": "MzM2MTQ2NTQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-05",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB7MR39V",
+        "transaction_id": "MzM0NDc1MzI3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAIQMTZ7",
+        "transaction_id": "MzMyMjU4MTI0MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XA1G6JGB",
+        "transaction_id": "MzI5NjM4NDQzOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9JFW0BL",
+        "transaction_id": "MzI4NTQxODU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-05-28",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X9603HCY",
+        "transaction_id": "MzI2NTk2NDI4MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-12-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8JYCF6Q",
+        "transaction_id": "MzI1MTYxMzA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-03-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X81S3X6P",
+        "transaction_id": "MzIzMDA4NjY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7KQH3UI",
+        "transaction_id": "MzIyMjA3ODY0N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-04-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "X74KREVV",
+        "transaction_id": "MzIwMzMyNzc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X6LJW7KP",
+        "transaction_id": "MzE5MzExNjczMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-06-21",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X6933SZT",
+        "transaction_id": "MzE3ODUxMzIxOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-01-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X5XVJXAO",
+        "transaction_id": "MzE2NjQyOTkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-03-16",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X52UWLDF",
+        "transaction_id": "MzE0NDIzMzIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2015-12-15",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X4MBYJ8H",
+        "transaction_id": "MzEzNzU4NDY3N2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2015-04-09",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X44Y78YA",
+        "transaction_id": "MzEyMDkwMDkwM2FkaXF6a2N4"
+      },
+      {
+        "category": "annual-return",
+        "date": "2014-12-08",
+        "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+        "type": "AR01",
+        "pages": 5,
+        "barcode": "X3MA7M3D",
+        "transaction_id": "MzExMjk5NjkyMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 84,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 20
+  },
+  "enrichment": {
+    "website": "https://Sciamed.co.uk",
+    "headcount": 20,
+    "tech_stack": [
+      "Zebra Technologies barcode solutions",
+      "Zebra Technologies labelling solutions",
+      "Zebra Technologies mobile computing solutions"
+    ],
+    "business_keywords": [
+      "barcode solutions",
+      "labelling solutions",
+      "mobile solutions",
+      "healthcare solutions",
+      "patient safety",
+      "patient care",
+      "traceability",
+      "accuracy",
+      "patient location tracking",
+      "health monitoring",
+      "healthcare devices",
+      "workflow simplification",
+      "operational efficiency",
+      "laser marking",
+      "pre printed labels",
+      "mobile computing solutions"
+    ],
+    "services": [
+      "barcode solutions",
+      "labelling solutions",
+      "mobile solutions",
+      "laser marking",
+      "pre printed labels",
+      "healthcare solutions delivery"
+    ],
+    "customer_segments": [
+      "NHS",
+      "healthcare settings",
+      "healthcare professionals"
+    ],
+    "business_description": "Sciamed Limited provides barcode, labelling, and mobile solutions to the NHS with over 25 years of experience. The company delivers innovative and reliable solutions aimed at improving patient safety, traceability, and operational efficiency in healthcare settings, in partnership with Zebra Technologies.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T02:00:55.540Z"
+  },
+  "scraped_at": "2026-01-11T02:00:48.741Z",
+  "updated_at": "2026-01-11T02:00:55.540Z",
+  "version": 1
+}

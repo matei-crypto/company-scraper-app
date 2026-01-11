@@ -1,0 +1,366 @@
+{
+  "company_name": "SUPERCO HOLDINGS LTD",
+  "company_number": "13239372",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-03-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "35 Ballards Lane, London, N3 1XW, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "35 Ballards Lane",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N3 1XW"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-15",
+    "last_made_up_to": "2025-03-01",
+    "next_made_up_to": "2026-03-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CAREW, Thomas Mohun",
+        "officer_role": "director",
+        "appointed_on": "2021-03-02",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Weston St",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 3QJ",
+          "premises": "60"
+        }
+      },
+      {
+        "name": "MUCKLOW, Thomas Patrick Jothan",
+        "officer_role": "director",
+        "appointed_on": "2021-03-02",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Weston St",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 3QJ",
+          "premises": "60"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Thomas Mohun Carew",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-03-02",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Weston St",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 3QJ",
+          "premises": "60"
+        }
+      },
+      {
+        "name": "Mr Thomas Patrick Jothan Mucklow",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-03-02",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Weston St",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "SE1 3QJ",
+          "premises": "60"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "officers",
+        "date": "2025-08-29",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE9WR99E",
+        "transaction_id": "MzQ3ODk5OTA3OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-08-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE9WR99M",
+        "transaction_id": "MzQ3ODk5OTA4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XE4NNV2P",
+        "transaction_id": "MzQ3MDA2MjA1M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYJMY3D",
+        "transaction_id": "MzQ1ODkxMzI3NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDYJMY55",
+        "transaction_id": "MzQ1ODkxMzI5OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYJMY35",
+        "transaction_id": "MzQ1ODkxMzI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYJMY8P",
+        "transaction_id": "MzQ1ODkxMzI3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYJMY3L",
+        "transaction_id": "MzQ1ODkxMzI2NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYEB87T",
+        "transaction_id": "MzQ1ODc5OTYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDYEB89L",
+        "transaction_id": "MzQ1ODc5OTYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYEB881",
+        "transaction_id": "MzQ1ODc5OTYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-15",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDYEB8CW",
+        "transaction_id": "MzQ1ODc5OTYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDC0CADC",
+        "transaction_id": "MzQzNjU1NTkxMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD8KZGYX",
+        "transaction_id": "MzQzMDkwMzc4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYDO6VN",
+        "transaction_id": "MzQxMzc3MDI2OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-11-13",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XCG8669K",
+        "transaction_id": "MzM5OTc5NjUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-28",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC066I8Z",
+        "transaction_id": "MzM3NDExNzk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XC066II1",
+        "transaction_id": "MzM3NDExNzk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBZVIIEB",
+        "transaction_id": "MzM3Mzc2ODYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBZFBYW3",
+        "transaction_id": "MzM3MzAyNDk2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBZFBYUR",
+        "transaction_id": "MzM3MzAyNDk2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBZ9S7WW",
+        "transaction_id": "MzM3MjU0MTgyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBZ9S80W",
+        "transaction_id": "MzM3MjU0MTgyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBZ9S82W",
+        "transaction_id": "MzM3MjU0MTgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-03-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBZ9S84P",
+        "transaction_id": "MzM3MjU0MTgyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 29,
+    "recent_filings_count": 12
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:43:34.257Z",
+  "scraped_at": "2026-01-10T23:43:34.257Z"
+}

@@ -1,0 +1,169 @@
+{
+  "company_name": "GVHDS LTD",
+  "company_number": "14700500",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-03-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "98 Burges Road, London, E6 2BH, England",
+  "registered_address_structured": {
+    "address_line_1": "98 Burges Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E6 2BH"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-03-31",
+    "next_accounts_period_start_on": "2024-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-15",
+    "last_made_up_to": "2025-03-01",
+    "next_made_up_to": "2026-03-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CHANGAL, Durga Prasanna Rao",
+        "officer_role": "director",
+        "appointed_on": "2023-03-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Burges Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E6 2BH",
+          "premises": "98"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Durga Prasanna Rao Changal",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-03-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1978,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Burges Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "E6 2BH",
+          "premises": "98"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDY67RMJ",
+        "transaction_id": "MzQ1ODIzMDg2MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDXSIAD6",
+        "transaction_id": "MzQ1NzUxODcxNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-03-06",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDXSIAA2",
+        "transaction_id": "MzQ1NzUxODc0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-03-06",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDXSIA15",
+        "transaction_id": "MzQ1NzUxODY4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-23",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDGIRS7U",
+        "transaction_id": "MzQ0NDY5NjYzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-03-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCYNZ8OZ",
+        "transaction_id": "MzQxMzk2NTExMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-03-02",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XBYGAYQQ",
+        "transaction_id": "MzM3MTM1MjczMmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 7,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:30:59.804Z",
+  "scraped_at": "2026-01-11T01:30:59.804Z"
+}

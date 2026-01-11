@@ -1,0 +1,362 @@
+{
+  "company_name": "TEKCOR4 LIMITED",
+  "company_number": "14607833",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-01-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Amelia House, Crescent Road, Worthing, BN11 1RL, England",
+  "registered_address_structured": {
+    "address_line_1": "Amelia House",
+    "address_line_2": "Crescent Road",
+    "country": "England",
+    "locality": "Worthing",
+    "postal_code": "BN11 1RL"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-02-02",
+    "last_made_up_to": "2025-01-19",
+    "next_made_up_to": "2026-01-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "RIMMER, Alexander",
+        "officer_role": "director",
+        "appointed_on": "2023-01-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Crescent Road",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN11 1RL",
+          "premises": "Amelia House"
+        }
+      },
+      {
+        "name": "SCHNABL, Marco",
+        "officer_role": "director",
+        "appointed_on": "2023-01-20",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1983,
+        "nationality": "German",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Crescent Road",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN11 1RL",
+          "premises": "Amelia House"
+        }
+      },
+      {
+        "name": "POPE, Raymond James",
+        "officer_role": "director",
+        "appointed_on": "2023-01-20",
+        "resigned_on": "2024-10-31",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1955,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Crescent Road",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN11 1RL",
+          "premises": "Amelia House"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mera Ventures Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2023-07-28",
+        "address": {
+          "address_line_1": "Crescent Road",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN11 1RL",
+          "premises": "Amelia House"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "England",
+          "place_registered": "United Kingdom",
+          "registration_number": "14590728"
+        }
+      },
+      {
+        "name": "Arms Ventures Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2023-01-20",
+        "address": {
+          "address_line_1": "Crescent Road",
+          "country": "England",
+          "locality": "Worthing",
+          "postal_code": "BN11 1RL",
+          "premises": "Amelia House"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Uk Register Of Companies",
+          "registration_number": "14591577"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "146078330001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-12",
+        "delivered_on": "2023-10-16",
+        "particulars": {
+          "type": "brief-description",
+          "description": "A fixed and floating charge over all assets.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc UK Bank PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "capital",
+        "date": "2026-01-08",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XETAVZSY",
+        "transaction_id": "MzQ5ODI2ODAyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XEIHZ5IO",
+        "transaction_id": "MzQ5NjkxNzUxNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-02-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XDW4YI6Q",
+        "transaction_id": "MzQ1NDUxNzcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-11-12",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDFP9B1E",
+        "transaction_id": "MzQ0Mjg0MjcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "ADAM6CZ5",
+        "transaction_id": "MzQzNDYxNjYxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-17",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XD18JTEJ",
+        "transaction_id": "MzQxODcxMjc2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-29",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XCVQO7AJ",
+        "transaction_id": "MzQwOTE3NTEwN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-16",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 16,
+        "barcode": "XCE9RSZM",
+        "transaction_id": "MzM5NjU2NTg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-09-13",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCBYEJ63",
+        "transaction_id": "MzM5Mjc4OTU2OWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCBYEIJU",
+        "transaction_id": "MzM5Mjc4OTQwNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-09-08",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 32,
+        "barcode": "ACB8FLQ9",
+        "transaction_id": "MzM5MjIzNDQwMmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-09-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "QUNCOEZTM1RhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2023-09-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUNCOEZMUUhhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-07",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YCB2E8T7",
+        "transaction_id": "MzM5MTQ3NjcyMWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-06",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "YCB2E9YI",
+        "transaction_id": "MzM5MTQ3Njk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-23",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCAJHIL5",
+        "transaction_id": "MzM5MDU1OTE5OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCAJHHQX",
+        "transaction_id": "MzM5MDU1ODk2MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-23",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCAJHGQO",
+        "transaction_id": "MzM5MDU1ODc2MmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-01-20",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 11,
+        "barcode": "XBVLWYI9",
+        "transaction_id": "MzM2NjY0MjE4NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "website": "https://Tekcor4.com",
+    "headcount": 16,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:25:33.805Z",
+  "scraped_at": "2026-01-11T01:25:33.805Z"
+}

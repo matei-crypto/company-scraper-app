@@ -1,0 +1,618 @@
+{
+  "company_name": "I-CONFIDENTIAL LIMITED",
+  "company_number": "SC384647",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2010-09-01",
+  "jurisdiction": "scotland",
+  "registered_address": "21 Lansdowne Crescent, Edinburgh, EH12 5EH, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "21 Lansdowne Crescent",
+    "country": "Scotland",
+    "locality": "Edinburgh",
+    "postal_code": "EH12 5EH"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-05-31",
+    "next_accounts_period_end_on": "2025-08-31",
+    "next_accounts_period_start_on": "2024-09-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-08-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 8
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-15",
+    "last_made_up_to": "2025-09-01",
+    "next_made_up_to": "2026-09-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BEATTIE, Louise Jane",
+        "officer_role": "director",
+        "appointed_on": "2024-03-04",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Lansdowne Crescent",
+          "country": "Scotland",
+          "locality": "Edinburgh",
+          "postal_code": "EH12 5EH",
+          "premises": "21"
+        }
+      },
+      {
+        "name": "FRASER, Colin Sturrock",
+        "officer_role": "director",
+        "appointed_on": "2010-09-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Broomieknowe",
+          "country": "Scotland",
+          "locality": "Lasswade",
+          "postal_code": "EH18 1LN",
+          "premises": "1a",
+          "region": "Midlothian"
+        }
+      },
+      {
+        "name": "HARRAGAN, Ian",
+        "officer_role": "director",
+        "appointed_on": "2010-09-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Lansdowne Crescent",
+          "country": "Scotland",
+          "locality": "Edinburgh",
+          "postal_code": "EH12 5EH",
+          "premises": "21"
+        }
+      },
+      {
+        "name": "HUSKIE, Nicola",
+        "officer_role": "director",
+        "appointed_on": "2025-09-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Lansdowne Crescent",
+          "country": "Scotland",
+          "locality": "Edinburgh",
+          "postal_code": "EH12 5EH",
+          "premises": "21"
+        }
+      },
+      {
+        "name": "LAWRENCE, Simon Edward",
+        "officer_role": "director",
+        "appointed_on": "2010-09-01",
+        "resigned_on": "2025-03-30",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Torphichen Street",
+          "address_line_2": "Torphichen Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 8HX",
+          "premises": "1a"
+        }
+      },
+      {
+        "name": "MABBOTT, Stephen George",
+        "officer_role": "director",
+        "appointed_on": "2010-09-01",
+        "resigned_on": "2010-09-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1950,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Mitchell Lane",
+          "locality": "Glasgow",
+          "postal_code": "G1 3NU",
+          "premises": "14"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BRIAN REID LTD.",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2010-09-01",
+        "resigned_on": "2010-09-01",
+        "address": {
+          "address_line_1": "Logie Mill, Beaverbank Office Park",
+          "address_line_2": "Logie Green Road",
+          "locality": "Edinburgh",
+          "postal_code": "EH7 4HH",
+          "premises": "5"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "I-Confidential Corporate Trustee Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust"
+        ],
+        "notified_on": "2023-02-15",
+        "address": {
+          "address_line_1": "1a Torphichen Street",
+          "country": "Scotland",
+          "locality": "Edinburgh, Scotland, Eh3 8hx",
+          "postal_code": "EH3 8HX",
+          "premises": "1a Torphichen Street, Edinburgh, Scotland, Eh3 8hx"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Guarantee Without Share Capital",
+          "legal_authority": "Scottish Law"
+        }
+      },
+      {
+        "name": "Ms Kathryn Walker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust",
+          "voting-rights-50-to-75-percent-as-trust"
+        ],
+        "notified_on": "2022-01-01",
+        "ceased_on": "2023-11-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1989,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Torphichen Street",
+          "address_line_2": "Torphichen Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 8HX",
+          "premises": "1a"
+        }
+      },
+      {
+        "name": "Mr Nicola Huskie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust",
+          "voting-rights-50-to-75-percent-as-trust"
+        ],
+        "notified_on": "2022-01-01",
+        "ceased_on": "2023-11-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Torphichen Street",
+          "address_line_2": "Torphichen Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 8HX",
+          "premises": "1a"
+        }
+      },
+      {
+        "name": "Mrs Carole Leslie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust",
+          "voting-rights-50-to-75-percent-as-firm"
+        ],
+        "notified_on": "2022-01-01",
+        "ceased_on": "2023-11-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Torphichen Street",
+          "address_line_2": "Torphichen Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 8HX",
+          "premises": "1a"
+        }
+      },
+      {
+        "name": "Mr Ian Harragan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust",
+          "voting-rights-50-to-75-percent-as-trust"
+        ],
+        "notified_on": "2016-07-01",
+        "ceased_on": "2023-11-01",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Torphichen Street",
+          "address_line_2": "Torphichen Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 8HX",
+          "premises": "1a"
+        }
+      },
+      {
+        "name": "Mr Colin Sturrock Fraser",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust",
+          "voting-rights-50-to-75-percent-as-trust",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2016-07-01",
+        "ceased_on": "2023-11-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1960,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Broomieknowe",
+          "country": "Scotland",
+          "locality": "Lasswade",
+          "postal_code": "EH18 1LN",
+          "premises": "1a"
+        }
+      },
+      {
+        "name": "Mr Simon Edward Lawrence",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent-as-trust",
+          "voting-rights-50-to-75-percent-as-trust"
+        ],
+        "notified_on": "2016-07-01",
+        "ceased_on": "2023-11-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Torphichen Street",
+          "address_line_2": "Torphichen Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 8HX",
+          "premises": "1a"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC3846470001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-09-02",
+        "delivered_on": "2022-09-13",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank Commercial Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XECMTZ80",
+        "transaction_id": "MzQ4Mzg4NjgyN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-05",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XEAFUGIO",
+        "transaction_id": "MzQ3OTkyOTk1NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-04-02",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDZMFLOY",
+        "transaction_id": "MzQ2MTE3NDc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-04-01",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDZJREIA",
+        "transaction_id": "MzQ2MTAyNjQ0MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-27",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDX9J2QZ",
+        "transaction_id": "MzQ1NjY5ODU2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-01-21",
+        "description": "capital-return-purchase-own-shares",
+        "type": "SH03",
+        "pages": 4,
+        "barcode": "ADI2W28X",
+        "transaction_id": "MzQ1MTg4OTAyN2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-12-24",
+        "description": "capital-cancellation-shares",
+        "type": "SH06",
+        "pages": 6,
+        "barcode": "ADI2W295",
+        "transaction_id": "MzQ0ODEwMDI1OGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2024-12-13",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YDHQ97UR",
+        "transaction_id": "MzQ0NjkyMDQ0OWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-12-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 18,
+        "barcode": "YDHQ9ACJ",
+        "transaction_id": "MzQ0NjkyMDk5NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-12-11",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "barcode": "YDHQ9AZ4",
+        "transaction_id": "WURIUTlBWjRhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDBEVVLC",
+        "transaction_id": "MzQzNTMwODQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-09-03",
+        "description": "second-filing-of-director-appointment-with-name",
+        "type": "RP04AP01",
+        "pages": 3,
+        "barcode": "XDAVRZD5",
+        "transaction_id": "MzQzNDI4MTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-08-30",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDAL5YUY",
+        "transaction_id": "MzQzMzk1MTkyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-29",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XD229ZOP",
+        "transaction_id": "MzQyMDAyMzUyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-23",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XD1M1A3M",
+        "transaction_id": "MzQxOTM0NDg1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-05",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCY833WL",
+        "transaction_id": "MzQxMzQyNDIzNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-05",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCY833NU",
+        "transaction_id": "MzQxMzQyNDIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-03-05",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCY8335L",
+        "transaction_id": "MzQxMzQyNDE2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-01",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XCFEMLRC",
+        "transaction_id": "MzM5ODYzOTc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCFEMNZ5",
+        "transaction_id": "MzM5ODY0MDM1M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCFEMNLU",
+        "transaction_id": "MzM5ODY0MDIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-11-01",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XCFEMMW2",
+        "transaction_id": "MzM5ODY0MDAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCBIC7WY",
+        "transaction_id": "MzM5MjA4Njk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBZSGYM2",
+        "transaction_id": "MzM3MzM5MzY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-10-11",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBEE604R",
+        "transaction_id": "MzM1NDY4MzEyMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 75,
+    "recent_filings_count": 6
+  },
+  "financials": {
+    "employees": 23
+  },
+  "enrichment": {
+    "website": "https://I-confidential.com",
+    "headcount": 23,
+    "tech_stack": [],
+    "business_keywords": [
+      "cyber security",
+      "risk management",
+      "resilience",
+      "technology risk",
+      "governance",
+      "security architecture",
+      "security maturity",
+      "board metrics",
+      "talent sourcing",
+      "sustainability",
+      "social responsibility",
+      "employee owned",
+      "security controls",
+      "risk assessment",
+      "security outcomes"
+    ],
+    "services": [
+      "cyber security services",
+      "technology risk services",
+      "risk assessment",
+      "security architecture talent sourcing",
+      "board metrics enhancement",
+      "security maturity assessment",
+      "governance establishment",
+      "resilience building",
+      "security controls implementation",
+      "risk management optimization",
+      "security roadmap development"
+    ],
+    "customer_segments": [
+      "organisations",
+      "global banks",
+      "insurers"
+    ],
+    "business_description": "i-confidential delivers expert-led cyber security and technology risk services to help organisations reduce risk and build long-term resilience. With tailored solutions, deep industry knowledge, and a relationship-driven approach, the company empowers businesses to strengthen security, assess and manage risk, and achieve lasting security outcomes. They are employee-owned and committed to sustainability and social responsibility.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 11,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T02:43:00.626Z"
+  },
+  "scraped_at": "2026-01-11T02:42:55.184Z",
+  "updated_at": "2026-01-11T02:43:00.626Z",
+  "version": 1
+}

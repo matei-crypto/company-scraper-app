@@ -1,0 +1,371 @@
+{
+  "company_name": "EMMA LIVE LTD",
+  "company_number": "13115354",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-01-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "Soho Works 7th Floor, 2 Television Centre, 101 Wood Lane, London, W12 7FR, England",
+  "registered_address_structured": {
+    "address_line_1": "Soho Works 7th Floor, 2 Television Centre",
+    "address_line_2": "101 Wood Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W12 7FR"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2027-01-19",
+    "last_made_up_to": "2026-01-05",
+    "next_made_up_to": "2027-01-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DOUGLAS, Jonathan James",
+        "officer_role": "director",
+        "appointed_on": "2021-01-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "7th Floor, 2 Television Centre",
+          "address_line_2": "101 Wood Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W12 7FR",
+          "premises": "Soho Works"
+        }
+      },
+      {
+        "name": "STANIER, Adam Douglas Richard",
+        "officer_role": "director",
+        "appointed_on": "2022-01-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Wood Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W12 7FR",
+          "premises": "Soho Works 7th Floor 101"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Adam Stanier",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-07",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "7th Floor, 2 Television Centre",
+          "address_line_2": "101 Wood Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W12 7FR",
+          "premises": "Soho Works"
+        }
+      },
+      {
+        "name": "Mr Jonathan James Douglas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-06",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "7th Floor, 2 Television Centre",
+          "address_line_2": "101 Wood Lane",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W12 7FR",
+          "premises": "Soho Works"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2026-01-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XET4SVQ3",
+        "transaction_id": "MzQ5NzU1ODkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE3FZ7Y9",
+        "transaction_id": "MzQ2Nzg5OTE0OGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-05-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE3FZ7MJ",
+        "transaction_id": "MzQ2Nzg5OTA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-26",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XDZ5RRVC",
+        "transaction_id": "MzQ2MDI3NTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-06",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDTNMLXC",
+        "transaction_id": "MzQ1MDAyNDY4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XD1M2TAW",
+        "transaction_id": "MzQxOTM1OTMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCUBR2NC",
+        "transaction_id": "MzQwNjk3Njc2MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-09",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBUUSS4X",
+        "transaction_id": "MzM2NTAyNDUwNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 4,
+        "barcode": "XBUKGCTE",
+        "transaction_id": "MzM2NDc4MDc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-22",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 6,
+        "barcode": "ABIQ7LYN",
+        "transaction_id": "MzM2MzQwNTM4MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-20",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 6,
+        "barcode": "ABIQ7LYR",
+        "transaction_id": "MzM2MzA0NjkzNGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-20",
+        "description": "second-filing-capital-allotment-shares",
+        "type": "RP04SH01",
+        "pages": 6,
+        "barcode": "ABIQ7M0Q",
+        "transaction_id": "MzM2MzA0NTY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-12-20",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBJ6BAMW",
+        "transaction_id": "MzM2Mjg4ODk3M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-19",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBJ6BACZ",
+        "transaction_id": "MzM2Mjg4ODc1MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-10-11",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 49,
+        "barcode": "YBDYEZZD",
+        "transaction_id": "MzM1NDIxNTcxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-05-19",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB4CGKHN",
+        "transaction_id": "MzMzOTgzNzIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-04-05",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "AB10ZSC8",
+        "transaction_id": "MzMzNTIzOTg0N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAVZD0YA",
+        "transaction_id": "MzMyNjkzMzk3MmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-18",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XAVZCRCR",
+        "transaction_id": "MzMyNjkzMTE4NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XAVZC2O8",
+        "transaction_id": "MzMyNjkyNDg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XAVZBC5D",
+        "transaction_id": "MzMyNjkxODA0M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-18",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XAVZBBDL",
+        "transaction_id": "MzMyNjkxNzg0MWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-10-27",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUFGRUNVR0dhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2021-10-27",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 7,
+        "barcode": "AAFECUGO",
+        "transaction_id": "MzMxNzQxNjA3M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-06-25",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA7D4QKG",
+        "transaction_id": "MzMwNTY1MjMzNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 26,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:30:59.261Z",
+  "scraped_at": "2026-01-10T23:30:59.261Z"
+}

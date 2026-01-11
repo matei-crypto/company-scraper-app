@@ -1,0 +1,395 @@
+{
+  "company_name": "ZERO IMPRINT LIMITED",
+  "company_number": "13366032",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-04-29",
+  "jurisdiction": "england-wales",
+  "registered_address": "1 Finsbury Market, London, EC2A 2BN, England",
+  "registered_address_structured": {
+    "address_line_1": "1 Finsbury Market",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 2BN"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-13",
+    "last_made_up_to": "2025-04-29",
+    "next_made_up_to": "2026-04-29"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "FILMANOVIC, Maria Eugenia",
+        "officer_role": "director",
+        "appointed_on": "2021-09-13",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1991,
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Finsbury Market",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2BN",
+          "premises": "1"
+        }
+      },
+      {
+        "name": "MAGLIULO, Valerio",
+        "officer_role": "director",
+        "appointed_on": "2021-04-29",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1991,
+        "nationality": "British,Italian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Finsbury Market",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC2A 2BN",
+          "premises": "1"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Maria Eugenia Filmanovic",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2021-08-02",
+        "ceased_on": "2023-03-31",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1991,
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Unit Lm08.1.1",
+          "address_line_2": "11-13 Weston Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 3ER",
+          "premises": "The Leather Market"
+        }
+      },
+      {
+        "name": "Mr Valerio Magliulo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2021-04-29",
+        "ceased_on": "2023-03-31",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1991,
+        "nationality": "British,Italian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "11-13 Weston Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SE1 3ER",
+          "premises": "The Leather Market, Unit Lm8.1.1"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-07-09",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE6GOP3N",
+        "transaction_id": "MzQ3MzA4Mzg4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE20S7ZN",
+        "transaction_id": "MzQ2NTE2NTIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE1NMJPU",
+        "transaction_id": "MzQ2NDc5NTcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-01",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XE1NMHYG",
+        "transaction_id": "MzQ2NDc5NTM1NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-08-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD9E94RC",
+        "transaction_id": "MzQzMTk2ODYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD227X9F",
+        "transaction_id": "MzQyMDAwNDMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-04-04",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 12,
+        "barcode": "XD0C69VT",
+        "transaction_id": "MzQxNzE2NzEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCZ4H17M",
+        "transaction_id": "MzQxNDkzNDEwMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XCEQ8NJL",
+        "transaction_id": "MzM5NzQ5OTE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-25",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XC8J44SY",
+        "transaction_id": "MzM4NzUyNjIwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XC58XLSB",
+        "transaction_id": "MzM4MjI4MTc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-08",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XC58XLXU",
+        "transaction_id": "MzM4MjI4MTcyMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-08",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC58XLRN",
+        "transaction_id": "MzM4MjI4MTcxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-06-08",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC58XLKW",
+        "transaction_id": "MzM4MjI4MTY1NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XBVAYFOJ",
+        "transaction_id": "MzM2NTc4MzIzMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-08-22",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 21,
+        "barcode": "YBALPK4J",
+        "transaction_id": "MzM0ODk4MDE5NmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-08-22",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WUJBTFBLSlRhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-05-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB4F5Y1C",
+        "transaction_id": "MzMzOTk4Nzc2NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-17",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB46V5W2",
+        "transaction_id": "MzMzOTQ5MTk1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-05-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XB46V5QJ",
+        "transaction_id": "MzMzOTQ5MTgxNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB46V4V7",
+        "transaction_id": "MzMzOTQ5MTY0MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB3876O9",
+        "transaction_id": "MzMzODEyNjc0NWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-12-08",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAIW268R",
+        "transaction_id": "MzMyMjg4NTkwN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-09-16",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "AACUBDIA",
+        "transaction_id": "MzMxMzc3MTQxNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-04-29",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XA3BKUO8",
+        "transaction_id": "MzI5OTEyMjU0MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 25,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 32
+  },
+  "enrichment": {
+    "website": "https://Ecosphere.plus",
+    "headcount": 32,
+    "tech_stack": [],
+    "business_keywords": [
+      "climate change",
+      "ecology",
+      "global temperature",
+      "carbon calculator",
+      "ecosystem disruption",
+      "weather events",
+      "climate research",
+      "warming threshold",
+      "Paris agreement",
+      "greenhouse gas",
+      "global warming",
+      "climate projections",
+      "ecosystem stress",
+      "heat waves",
+      "food insecurity",
+      "water insecurity"
+    ],
+    "services": [
+      "climate change research publication",
+      "carbon footprint measurement (via Carbon Calculator)"
+    ],
+    "customer_segments": [],
+    "business_description": "Ecosphere+ publishes research on ecology and climate change, focusing on the impacts of global temperature trends, such as exceeding the 1.5-degree warming threshold. The organization provides a Carbon Calculator to measure atmospheric and environmental data, aiming to inform about climate-related risks and ecosystem disruptions.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:53:06.035Z"
+  },
+  "scraped_at": "2026-01-10T23:53:01.663Z",
+  "updated_at": "2026-01-10T23:53:06.034Z",
+  "version": 1
+}

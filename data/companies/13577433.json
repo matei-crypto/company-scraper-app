@@ -1,0 +1,199 @@
+{
+  "company_name": "SOUTRON GLOBAL UK LTD",
+  "company_number": "13577433",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-08-20",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit #2030, 275 New North Road, London, N1 7AA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Unit #2030, 275 New North Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N1 7AA"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-27",
+    "last_made_up_to": "2025-09-13",
+    "next_made_up_to": "2026-09-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MACDONALD, Bart",
+        "officer_role": "director",
+        "appointed_on": "2021-08-20",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1988,
+        "nationality": "Australian",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "275 New North Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N1 7AA",
+          "premises": "Unit #2030,"
+        }
+      },
+      {
+        "name": "VASANTHARAJAH, Jay",
+        "officer_role": "director",
+        "appointed_on": "2021-08-20",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1990,
+        "nationality": "Canadian",
+        "country_of_residence": "Canada",
+        "address": {
+          "address_line_1": "275 New North Road",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "N1 7AA",
+          "premises": "Unit #2030,"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEE56MI0",
+        "transaction_id": "MzQ4NjU3ODY2MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEC6LKAB",
+        "transaction_id": "MzQ4MzI3NDQyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFXGER5",
+        "transaction_id": "MzQ0MzU5NTE5MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XDCRHCYR",
+        "transaction_id": "MzQzNzc1MDMwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-10-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCDGGPWX",
+        "transaction_id": "MzM5NTMzMzk4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-18",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 5,
+        "barcode": "XC3TRIBD",
+        "transaction_id": "MzM4MDAyNjUzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-16",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBCOFBE1",
+        "transaction_id": "MzM1MjEwOTk3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-07-29",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB99SCVS",
+        "transaction_id": "MzM0NzI4MjU2NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-11-09",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAGVH8CN",
+        "transaction_id": "MzMxOTU2MDI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-09-14",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAD0160G",
+        "transaction_id": "MzMxMzgxMDAzMmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-08-20",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 9,
+        "barcode": "XABAQPRV",
+        "transaction_id": "MzMxMTI4NDExN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 11,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:11:17.956Z",
+  "scraped_at": "2026-01-11T00:11:17.956Z"
+}

@@ -1,0 +1,419 @@
+{
+  "company_name": "ZERO FINTECH LTD",
+  "company_number": "13818217",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-12-26",
+  "jurisdiction": "england-wales",
+  "registered_address": "C/O Regus, 5th Floor 1 Capital Quarter, Tyndall Street, Cardiff, CF10 4BZ, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "C/O Regus, 5th Floor 1 Capital Quarter",
+    "address_line_2": "Tyndall Street",
+    "country": "United Kingdom",
+    "locality": "Cardiff",
+    "postal_code": "CF10 4BZ"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "ZER0 FS LTD",
+      "ceased_on": "2022-10-25",
+      "effective_from": "2021-12-26"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-06-29",
+    "last_made_up_to": "2025-06-15",
+    "next_made_up_to": "2026-06-15"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DIXON, Benjamin Daniel",
+        "officer_role": "director",
+        "appointed_on": "2021-12-26",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "1 Capital Quarter",
+          "address_line_2": "Tyndall Street",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 4BZ",
+          "premises": "C/O Regus, 5th Floor"
+        }
+      },
+      {
+        "name": "ELLIS, Paul Charles",
+        "officer_role": "director",
+        "appointed_on": "2023-07-01",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1957,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "1 Capital Quarter",
+          "address_line_2": "Tyndall Street",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 4BZ",
+          "premises": "C/O Regus, 5th Floor"
+        }
+      },
+      {
+        "name": "THEODOSSIADES, Richard Byron",
+        "officer_role": "director",
+        "appointed_on": "2022-12-20",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "1 Capital Quarter",
+          "address_line_2": "Tyndall Street",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 4BZ",
+          "premises": "C/O Regus, 5th Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Zero Fintech Group Plc",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-05-05",
+        "address": {
+          "address_line_1": "1 Capital Quarter",
+          "address_line_2": "Tyndall Street",
+          "country": "United Kingdom",
+          "locality": "Cardiff",
+          "postal_code": "CF10 4BZ",
+          "premises": "C/O Regus, 5th Floor"
+        },
+        "identification": {
+          "legal_form": "Public Limited Company",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "14738824"
+        }
+      },
+      {
+        "name": "Mr Richard Byron Theodossiades",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2022-07-01",
+        "ceased_on": "2023-05-05",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1963,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Dunleavy Drive",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF11 0SN",
+          "premises": "Global Reach"
+        }
+      },
+      {
+        "name": "Mr Benjamin Daniel Dixon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-12-26",
+        "ceased_on": "2023-05-05",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1984,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Dunleavy Drive",
+          "country": "Wales",
+          "locality": "Cardiff",
+          "postal_code": "CF11 0SN",
+          "premises": "Global Reach"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4SR05T",
+        "transaction_id": "MzQ3MDE4MjkyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-20",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XE2ZSIDU",
+        "transaction_id": "MzQ2NzEwMzkwMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-06-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XD5I68AB",
+        "transaction_id": "MzQyNTcyNTk2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-31",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD4B0PJS",
+        "transaction_id": "MzQyMzgzNTIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-01-05",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XCU3O3MA",
+        "transaction_id": "MzQwNjYzMDM3OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-01-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCU13VF5",
+        "transaction_id": "MzQwNjU2MDI0M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-21",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XCIV6616",
+        "transaction_id": "MzQwNTIwMTk5OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-26",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XCCUNH1F",
+        "transaction_id": "MzM5NDQzMTczOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-08-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XC9FJ0JM",
+        "transaction_id": "MzM4ODgzMTU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-24",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC8GA8EZ",
+        "transaction_id": "MzM4NzMyOTE2NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-06-15",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC5RLMNM",
+        "transaction_id": "MzM4MzExODcyN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC3DXN7M",
+        "transaction_id": "MzM3OTM5MzgwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-12",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XC3DXHHT",
+        "transaction_id": "MzM3OTM5MjYwNmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-12",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XC3DXGP5",
+        "transaction_id": "MzM3OTM5MjQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-28",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC2F4JCJ",
+        "transaction_id": "MzM3Nzk0NjkyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC2F4JFC",
+        "transaction_id": "MzM3Nzk0NjkyOWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC2F49A0",
+        "transaction_id": "MzM3Nzk0NDU3NWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC2F490J",
+        "transaction_id": "MzM3Nzk0NDU4OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-02-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBX3REOZ",
+        "transaction_id": "MzM2ODk2NzQxM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-02-11",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBX3R9K9",
+        "transaction_id": "MzM2ODk2NjM3M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-01-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBUC7OW2",
+        "transaction_id": "MzM2NDM2MDU2OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-12-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBJ95B57",
+        "transaction_id": "MzM2MzA1ODEyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-11-23",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBHDPF9N",
+        "transaction_id": "MzM1OTUyOTU2MWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-10-25",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XBFD0H95",
+        "transaction_id": "MzM1NjQyMzQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-constitution",
+        "date": "2022-02-16",
+        "description": "statement-of-companys-objects",
+        "type": "CC04",
+        "pages": 2,
+        "barcode": "YAXX7NQI",
+        "transaction_id": "MzMyOTkxMDMzMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 31,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "headcount": 10,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:27:31.121Z",
+  "scraped_at": "2026-01-11T00:27:31.121Z"
+}

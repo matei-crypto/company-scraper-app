@@ -1,0 +1,502 @@
+{
+  "company_name": "LUGO LIMITED",
+  "company_number": "SC258909",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2003-11-07",
+  "jurisdiction": "scotland",
+  "registered_address": "16 High Street, Linlithgow, EH49 7AE",
+  "registered_address_structured": {
+    "address_line_1": "16 High Street",
+    "locality": "Linlithgow",
+    "postal_code": "EH49 7AE"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SCOTICT LIMITED",
+      "ceased_on": "2011-05-03",
+      "effective_from": "2003-11-07"
+    }
+  ],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-05",
+    "last_made_up_to": "2025-10-22",
+    "next_made_up_to": "2026-10-22"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "WEATHERUP, Ciara",
+        "officer_role": "director",
+        "appointed_on": "2007-10-24",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1987,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "United Kingdom",
+          "locality": "Linlithgow",
+          "postal_code": "EH49 7AE",
+          "premises": "16"
+        }
+      },
+      {
+        "name": "WEATHERUP, Ron Samuel",
+        "officer_role": "director",
+        "appointed_on": "2003-11-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "Scotland",
+          "locality": "Linlithgow",
+          "postal_code": "EH49 7AE",
+          "premises": "16",
+          "region": "West Lothian"
+        }
+      },
+      {
+        "name": "BROWN, Anne Maria",
+        "officer_role": "director",
+        "appointed_on": "2012-12-28",
+        "resigned_on": "2014-11-30",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1959,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Seaside Place",
+          "address_line_2": "Aberdour",
+          "country": "Scotland",
+          "locality": "Burntisland",
+          "postal_code": "KY3 0TX",
+          "premises": "17",
+          "region": "Fife"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "WEATHERUP, Ciara",
+        "officer_role": "secretary",
+        "appointed_on": "2007-10-24",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "United Kingdom",
+          "locality": "Linlithgow",
+          "postal_code": "EH49 7AE",
+          "premises": "16"
+        }
+      },
+      {
+        "name": "WEATHERUP, Robert Samuel",
+        "officer_role": "secretary",
+        "appointed_on": "2003-11-07",
+        "resigned_on": "2007-10-24",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Romavale",
+          "locality": "Hawick",
+          "postal_code": "TD9 8SZ"
+        }
+      },
+      {
+        "name": "OSWALDS OF EDINBURGH LIMITED",
+        "officer_role": "corporate-nominee-secretary",
+        "appointed_on": "2003-11-07",
+        "resigned_on": "2003-11-07",
+        "address": {
+          "address_line_1": "24 Great King Street",
+          "locality": "Edinburgh",
+          "postal_code": "EH3 6QN"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ron Samuel Weatherup",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent"
+        ],
+        "notified_on": "2016-11-07",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "High Street",
+          "country": "Scotland",
+          "locality": "Linlithgow",
+          "postal_code": "EH49 7AE",
+          "premises": "16"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC2589090001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2015-01-12",
+        "delivered_on": "2015-01-14",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-10-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEDP266P",
+        "transaction_id": "MzQ4NTk4MDA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-02",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XE1QG2IO",
+        "transaction_id": "MzQ2NDk0NzM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-11",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full",
+        "type": "AAMD",
+        "pages": 9,
+        "barcode": "ADF228I3",
+        "transaction_id": "MzQ0MjQ1OTI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFEF0FD",
+        "transaction_id": "MzQ0MjM4NTgxNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-11-07",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XDFEEXUO",
+        "transaction_id": "MzQ0MjM4NTMyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 13,
+        "barcode": "XDAL5V17",
+        "transaction_id": "MzQzMzk1MTA2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-03-06",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCYAWPT4",
+        "transaction_id": "MzQxMzYxNjg2OGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFXJ4CA",
+        "transaction_id": "MzM5OTQwMDE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 14,
+        "barcode": "XC5M45BU",
+        "transaction_id": "MzM4MjY5MDA0MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-11-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBG9B3IP",
+        "transaction_id": "MzM1NzY3Mjk5MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-19",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 15,
+        "barcode": "XB295AB7",
+        "transaction_id": "MzMzNjU2MDQ1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-11-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAGVNJ0S",
+        "transaction_id": "MzMxOTY0MzE0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-08-19",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAB7ZPKB",
+        "transaction_id": "MzMxMTEyMDQxNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-12-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9JD8J8P",
+        "transaction_id": "MzI4NTMzNjQ4MGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-04-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9249NSX",
+        "transaction_id": "MzI2MTU5NjM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-11-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8I11UL6",
+        "transaction_id": "MzI0ODk5MzY5OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-05-16",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X85LYAAR",
+        "transaction_id": "MzIzNDU4MTE4N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-11-20",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "X7J3Z6XF",
+        "transaction_id": "MzIxOTg1NjA3OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-08-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "X7CTBSGO",
+        "transaction_id": "MzIxMjU1NzcxNmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2018-03-16",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "S71R7BRU",
+        "transaction_id": "MzIwMDIwNTgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2018-03-16",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 18,
+        "transaction_id": "UzcxUjdCUzJhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2017-12-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X6KO9XX5",
+        "transaction_id": "MzE5MTk3NDUyOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2017-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "S6EF7SF6",
+        "transaction_id": "MzE4NDc0MTI5NmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2016-11-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "X5J88GG9",
+        "transaction_id": "MzE2MTQwMzQyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2016-09-02",
+        "description": "accounts-with-accounts-type-total-exemption-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "S5EIQJEH",
+        "transaction_id": "MzE1NjM3NTAyNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 76,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 23
+  },
+  "enrichment": {
+    "website": "https://Lugoit.co.uk",
+    "headcount": 23,
+    "tech_stack": [
+      "Dell computer systems",
+      "Microsoft Microsoft 365",
+      "Microsoft Teams",
+      "Microsoft SharePoint",
+      "Microsoft InTune",
+      "Microsoft Azure",
+      "SonicWall",
+      "Horizon phone systems"
+    ],
+    "business_keywords": [
+      "IT Support",
+      "Managed IT Services",
+      "IT Managed Services",
+      "Cloud Services",
+      "Security",
+      "Backup",
+      "Disaster Recovery",
+      "Telephony Services",
+      "Internet Services",
+      "VOIP",
+      "Broadband",
+      "VPN",
+      "Remote Access",
+      "IT Support for Accountants",
+      "IT Support for Housing Associations",
+      "Microsoft 365",
+      "Teams",
+      "SharePoint",
+      "Azure",
+      "Cyber Essentials"
+    ],
+    "services": [
+      "Managed IT Services",
+      "Helpdesk",
+      "IT Upgrades",
+      "Virtual IT Director",
+      "IT Reporting",
+      "Cloud Services",
+      "Microsoft 365",
+      "Teams",
+      "SharePoint",
+      "InTune",
+      "Azure",
+      "Security",
+      "Backup",
+      "Disaster Recovery",
+      "Server backup",
+      "SaaS Backup",
+      "EDR",
+      "Firewall",
+      "Telephony Services",
+      "VOIP",
+      "Phones",
+      "Video Conferencing",
+      "Broadband",
+      "Remote Access",
+      "VPN",
+      "IT Support for Accountants",
+      "IT Support for Housing Associations"
+    ],
+    "customer_segments": [
+      "Businesses in Scotland",
+      "Accountants",
+      "Housing Associations"
+    ],
+    "business_description": "Lugo provides IT Support and Managed IT Services for businesses throughout Scotland, covering areas including Glasgow, Edinburgh, Fife, Perth, Dundee, and Inverness. They offer services such as cloud solutions, security, backup, disaster recovery, telephony, and internet services, supported by partnerships with vendors like Dell, Microsoft, SonicWall, and Horizon.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 42,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-11T02:23:59.967Z"
+  },
+  "scraped_at": "2026-01-11T02:23:51.665Z",
+  "updated_at": "2026-01-11T02:23:59.967Z",
+  "version": 1
+}

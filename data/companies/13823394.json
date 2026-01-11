@@ -1,0 +1,498 @@
+{
+  "company_name": "ARCWIDE UK LIMITED",
+  "company_number": "13823394",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-12-31",
+  "jurisdiction": "england-wales",
+  "registered_address": "140 Aldersgate Street, 1st Floor, London, EC1A 4HY, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "140 Aldersgate Street",
+    "address_line_2": "1st Floor",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1A 4HY"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BRITTANY UK 123 LIMITED",
+      "ceased_on": "2022-03-25",
+      "effective_from": "2021-12-31"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-13",
+    "last_made_up_to": "2024-12-30",
+    "next_made_up_to": "2025-12-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BARR, Steven John",
+        "officer_role": "director",
+        "appointed_on": "2024-12-12",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1972,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Aldersgate Street",
+          "address_line_2": "1st Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1A 4HY",
+          "premises": "140"
+        }
+      },
+      {
+        "name": "BINSTEAD, Andrew Richard",
+        "officer_role": "director",
+        "appointed_on": "2021-12-31",
+        "resigned_on": "2022-04-04",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1977,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Watermans Business Park",
+          "address_line_2": "The Causeway",
+          "country": "United Kingdom",
+          "locality": "Staines-Upon-Thames",
+          "postal_code": "TW18 3BA",
+          "premises": "Bourne House"
+        }
+      },
+      {
+        "name": "GREEN, Andrew Robert",
+        "officer_role": "director",
+        "appointed_on": "2022-03-31",
+        "resigned_on": "2025-05-01",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1962,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "100 Lower Thames Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3R 6DL",
+          "premises": "Centennium House"
+        }
+      },
+      {
+        "name": "HENRITZE-HOYE, Jason Jeffrey",
+        "officer_role": "director",
+        "appointed_on": "2025-05-01",
+        "resigned_on": "2025-10-01",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1985,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Aldersgate Street",
+          "address_line_2": "1st Floor",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC1A 4HY",
+          "premises": "140"
+        }
+      },
+      {
+        "name": "LOEBICH, Matthias Ferdinand",
+        "officer_role": "director",
+        "appointed_on": "2022-03-31",
+        "resigned_on": "2024-12-12",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1972,
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "address": {
+          "country": "Germany",
+          "locality": "Munich",
+          "postal_code": "D-80636",
+          "premises": "Erika-Mann-Strabe 9"
+        }
+      },
+      {
+        "name": "LYNCH, David",
+        "officer_role": "director",
+        "appointed_on": "2022-03-31",
+        "resigned_on": "2023-03-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1965,
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "address": {
+          "address_line_1": "100 Lower Thames St",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC3R 6DL",
+          "premises": "Centennium House"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "KILTY, Ian",
+        "officer_role": "secretary",
+        "appointed_on": "2022-02-08",
+        "address": {
+          "address_line_1": "100 Lower Thames Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "EC3R 6DL",
+          "premises": "Centennium House"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Industrial And Financial Systems, Ifs Uk Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-12-31",
+        "ceased_on": "2022-04-04",
+        "address": {
+          "address_line_1": "Watermans Business Park",
+          "address_line_2": "The Causeway",
+          "country": "United Kingdom",
+          "locality": "Staines-Upon-Thames",
+          "postal_code": "TW18 3BA",
+          "premises": "Bourne House"
+        },
+        "identification": {
+          "legal_form": "Private Company Limited By Shares",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Uk Register Of Companies",
+          "registration_number": "03277022"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "resolution",
+        "date": "2025-12-31",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "AEHP4GQY",
+        "transaction_id": "QUVIUDRHUVlhZGlxemtjeA"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-12-24",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 34,
+        "barcode": "AEHP4GR6",
+        "transaction_id": "MzQ5NTM0NzA1NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-11-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XEFLJHDU",
+        "transaction_id": "MzQ4OTM3Nzk4MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-07-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XE63BYQ2",
+        "transaction_id": "MzQ3MjU5MjEwMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-09",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE26LFCX",
+        "transaction_id": "MzQ2NTY0NDQ5N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-05-09",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XE26LCXK",
+        "transaction_id": "MzQ2NTY0MzkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDU69HPS",
+        "transaction_id": "MzQ1MDc1MzUzNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-13",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDHVUN4B",
+        "transaction_id": "MzQ0NzIzMTY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-13",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDHVUN43",
+        "transaction_id": "MzQ0NzIzMTY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-28",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 34,
+        "barcode": "ADC3ARV6",
+        "transaction_id": "MzQzNzAxODkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCUJXNKR",
+        "transaction_id": "MzQwNzM3NzA2OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCUJXL9N",
+        "transaction_id": "MzQwNzM3NjU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-01-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XCUJXJQY",
+        "transaction_id": "MzQwNzM3NjIyNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-03",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 32,
+        "barcode": "ACCS511C",
+        "transaction_id": "MzM5NTExMzAyNmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-04-03",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XC0MXI36",
+        "transaction_id": "MzM3NTA2NTI0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBVGHTVT",
+        "transaction_id": "MzM2NjMwNzE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-11",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XBINC5HT",
+        "transaction_id": "MzM2MTcxNzg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-15",
+        "description": "notification-of-a-person-with-significant-control-statement",
+        "type": "PSC08",
+        "pages": 2,
+        "barcode": "XB8AWDIG",
+        "transaction_id": "MzM0NTgyOTkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-07-15",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XB8AWBW8",
+        "transaction_id": "MzM0NTgyOTU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-15",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB8AWBHI",
+        "transaction_id": "MzM0NTgyOTUyOGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-18",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB49MDAW",
+        "transaction_id": "MzMzOTY1OTE2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-11",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XB3TF2TF",
+        "transaction_id": "MzMzODk2NzE1MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB3QTVPF",
+        "transaction_id": "MzMzODgzODM5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB3QTVYH",
+        "transaction_id": "MzMzODgzODM4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-05-10",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB3QTVSW",
+        "transaction_id": "MzMzODgzODQwMGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 30,
+    "recent_filings_count": 7
+  },
+  "financials": {
+    "revenue": 5963000,
+    "ebitda": -1295000,
+    "employees": 27
+  },
+  "enrichment": {
+    "website": "https://Ifsworld.com",
+    "headcount": 27,
+    "tech_stack": [
+      "IFS Cloud",
+      "IFS.ai",
+      "IFS Nexus Black",
+      "Anthropic (partner for Industrial AI solutions)",
+      "Boston Dynamics (collaboration for robotics and agentic AI)"
+    ],
+    "business_keywords": [
+      "enterprise software solutions",
+      "ERP",
+      "Enterprise Resource Planning",
+      "EAM",
+      "Enterprise Asset Management",
+      "FSM",
+      "Field Service Management",
+      "Industrial AI",
+      "AI-driven insights",
+      "predictive analytics",
+      "intelligent asset management",
+      "sustainability software solutions",
+      "IFS Cloud",
+      "IFS.ai",
+      "agentic AI",
+      "workflow automation",
+      "composable ERP",
+      "asset lifecycle management",
+      "field service optimization"
+    ],
+    "services": [
+      "Enterprise Resource Planning (ERP) software solutions",
+      "Enterprise Asset Management (EAM) software solutions",
+      "Field Service Management (FSM) software solutions",
+      "AI-powered solutions (IFS.ai)",
+      "Sustainability software solutions",
+      "IFS Success services (solution optimization)",
+      "IFS.ai Field Service Optimization",
+      "Workforce optimization with IFS PSO"
+    ],
+    "customer_segments": [
+      "manufacturing",
+      "aerospace",
+      "energy",
+      "construction",
+      "motorsport (e.g., Formula 1 teams)",
+      "utilities",
+      "food and beverage (e.g., large food companies)",
+      "industrial companies"
+    ],
+    "business_description": "IFS is a global enterprise software solution provider specializing in ERP, EAM, and FSM solutions powered by AI and cloud technology. The company delivers integrated tools to optimize operations, automate workflows, and drive efficiency across industries such as manufacturing, aerospace, energy, and construction. IFS also offers sustainability solutions and Industrial AI to enhance decision-making and productivity.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T00:28:32.255Z"
+  },
+  "scraped_at": "2026-01-11T00:28:24.051Z",
+  "updated_at": "2026-01-11T00:28:32.255Z",
+  "version": 1
+}

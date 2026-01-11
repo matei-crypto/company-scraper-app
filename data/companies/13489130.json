@@ -1,0 +1,230 @@
+{
+  "company_name": "NINJAONE UK LTD",
+  "company_number": "13489130",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-07-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 4 7th Floor, 50 Broadway, London, SW1H 0DB",
+  "registered_address_structured": {
+    "address_line_1": "Suite 4 7th Floor, 50 Broadway",
+    "locality": "London",
+    "postal_code": "SW1H 0DB"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "NINJARMM UK LTD",
+      "ceased_on": "2022-03-29",
+      "effective_from": "2021-07-01"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-14",
+    "last_made_up_to": "2025-06-30",
+    "next_made_up_to": "2026-06-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "MATARESE, Christopher John",
+        "officer_role": "director",
+        "appointed_on": "2021-07-01",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1974,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "7th Floor, 50 Broadway",
+          "locality": "London",
+          "postal_code": "SW1H 0DB",
+          "premises": "Suite 4"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ZEDRA COSEC (UK) LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2021-07-01",
+        "resigned_on": "2023-07-10",
+        "address": {
+          "address_line_1": "4th Floor",
+          "address_line_2": "283-288 High Holborn",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC1V 7HP",
+          "premises": "New Penderel House"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-19",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEBEZEWX",
+        "transaction_id": "MzQ4MTkyNTk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-30",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE5S1ZIJ",
+        "transaction_id": "MzQ3MTkxNjA5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-03",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDXKC3QX",
+        "transaction_id": "MzQ1NzA0ODM3NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-07-18",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD7LVS62",
+        "transaction_id": "MzQyOTM0Mjc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-14",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD5A4SNV",
+        "transaction_id": "MzQyNTQzMzYxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-31",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC8WN540",
+        "transaction_id": "MzM4ODEwMzAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-07-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 2,
+        "barcode": "AC70Q4IW",
+        "transaction_id": "MzM4NTY3NTk1NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-07-10",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XC7HDSDK",
+        "transaction_id": "MzM4NTc1NjkxM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-07",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC79MR3K",
+        "transaction_id": "MzM4NTYzNDQ5MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-07-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XB7ZXN46",
+        "transaction_id": "MzM0NTIwNjIxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-07-10",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XB7XE7PL",
+        "transaction_id": "MzM0NTE4NTgyOWFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2022-03-29",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 2,
+        "barcode": "XB0R8BNV",
+        "transaction_id": "MzMzNDQzMzE0OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-07-02",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XA7W9NRC",
+        "transaction_id": "MzMwNjU1MTY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-07-01",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 35,
+        "barcode": "XA7THCN7",
+        "transaction_id": "MzMwNjQxOTc3M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 14,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "headcount": 16,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:02:30.716Z",
+  "scraped_at": "2026-01-11T00:02:30.716Z"
+}

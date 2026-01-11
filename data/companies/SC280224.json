@@ -1,0 +1,454 @@
+{
+  "company_name": "THELOGIC LIMITED",
+  "company_number": "SC280224",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2005-02-18",
+  "jurisdiction": "scotland",
+  "registered_address": "Munro House, Quarrywood Court, Livingston, West Lothian, EH54 6AX, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "Munro House",
+    "address_line_2": "Quarrywood Court",
+    "country": "Scotland",
+    "locality": "Livingston",
+    "postal_code": "EH54 6AX",
+    "region": "West Lothian"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-11-30",
+    "next_accounts_period_end_on": "2026-02-28",
+    "next_accounts_period_start_on": "2025-03-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-02-28",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-03-04",
+    "last_made_up_to": "2025-02-18",
+    "next_made_up_to": "2026-02-18"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "TOPTAS, Efem",
+        "officer_role": "director",
+        "appointed_on": "2005-02-18",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1972,
+        "nationality": "Dutch",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Quarrywood Court",
+          "country": "Scotland",
+          "locality": "Livingston",
+          "postal_code": "EH54 6AX",
+          "premises": "Munro House",
+          "region": "West Lothian"
+        }
+      },
+      {
+        "name": "MCPHERSON, Margaret Walker",
+        "officer_role": "director",
+        "appointed_on": "2006-05-01",
+        "resigned_on": "2021-04-19",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1964,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Quarrywood Court",
+          "country": "Scotland",
+          "locality": "Livingston",
+          "postal_code": "EH54 6AX",
+          "premises": "Munro House",
+          "region": "West Lothian"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "TOPTAS, Emma",
+        "officer_role": "secretary",
+        "appointed_on": "2005-02-18",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "Quarrywood Court",
+          "country": "Scotland",
+          "locality": "Livingston",
+          "postal_code": "EH54 6AX",
+          "premises": "Munro House",
+          "region": "West Lothian"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Efem Toptas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1972,
+        "nationality": "Dutch",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "Quarrywood Court",
+          "country": "Scotland",
+          "locality": "Livingston",
+          "postal_code": "EH54 6AX",
+          "premises": "Munro House",
+          "region": "West Lothian"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC2802240002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-07-02",
+        "delivered_on": "2024-07-05",
+        "particulars": {
+          "type": "brief-description",
+          "description": "Munro house, quarrywood court, kirkton north, livingston."
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "SC2802240001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-06-26",
+        "delivered_on": "2024-07-09",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "The Royal Bank of Scotland PLC"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-03",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEAABK76",
+        "transaction_id": "MzQ3OTY2Njk3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDXN248H",
+        "transaction_id": "MzQ1NzIwOTAyMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDDAJ8GJ",
+        "transaction_id": "MzQzODcxOTM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "XD705GUR",
+        "transaction_id": "MzQyODA5NTYwOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-07-05",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 6,
+        "barcode": "AD6ON9MJ",
+        "transaction_id": "MzQyODI0NjU5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-02-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCXX5DXU",
+        "transaction_id": "MzQxMjk0MDAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-08-16",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCA0UV43",
+        "transaction_id": "MzM4OTg0MTU3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-07",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYTN3O2",
+        "transaction_id": "MzM3MTc5ODk4NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-13",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBCGBZ4G",
+        "transaction_id": "MzM1MTc0MTczMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAZ4G5RT",
+        "transaction_id": "MzMzMTk5ODI4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-09-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XAD833UI",
+        "transaction_id": "MzMxNDE3MTg3MmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-04-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XA2Q0O2J",
+        "transaction_id": "MzI5ODE2NzQ4MWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-04-19",
+        "description": "capital-variation-of-rights-attached-to-shares",
+        "type": "SH10",
+        "pages": 2,
+        "barcode": "SA2EVVM1",
+        "transaction_id": "MzI5NzczODgzNWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-04-19",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "SA2EVVM9",
+        "transaction_id": "MzI5NzczODgzM2FkaXF6a2N4"
+      },
+      {
+        "category": "change-of-constitution",
+        "date": "2021-04-15",
+        "description": "statement-of-companys-objects",
+        "type": "CC04",
+        "pages": 2,
+        "barcode": "SA2EVVMP",
+        "transaction_id": "MzI5NzczODgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-04-14",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 9,
+        "barcode": "SA2EVVMX",
+        "transaction_id": "MzI5NzczODgzMGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-04-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "U0EyRVZWTjVhZGlxemtjeA"
+      },
+      {
+        "category": "resolution",
+        "date": "2021-04-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "U0EyRVZWTUhhZGlxemtjeA"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-03-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X9ZI65H4",
+        "transaction_id": "MzI5MzE4NjgxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-11-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "X9IJWD2Y",
+        "transaction_id": "MzI4NDM2NzI2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2020-02-24",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X8ZGNYE8",
+        "transaction_id": "MzI1ODEwMDQzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2019-11-21",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X8IP36HU",
+        "transaction_id": "MzI0OTkwODU1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2019-02-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X7ZUS0FC",
+        "transaction_id": "MzIyNzY2NzM4NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2018-10-01",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X7FMCV6J",
+        "transaction_id": "MzIxNTg3NzYwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2018-02-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "X706NQNV",
+        "transaction_id": "MzE5ODE3OTAxM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 62,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "website": "https://Thelogic.co.uk",
+    "headcount": 8,
+    "tech_stack": [
+      "Microsoft Office 365",
+      "Azure",
+      "AWS",
+      "Cisco Meraki"
+    ],
+    "business_keywords": [
+      "Managed Technology Provider",
+      "Managed Security",
+      "Managed Cloud",
+      "Managed IT",
+      "Telecoms",
+      "Office 365",
+      "Cyber Security",
+      "IT Security",
+      "Cloud Managed Wireless",
+      "Cyber Essentials",
+      "Azure",
+      "AWS",
+      "Cisco Meraki",
+      "Microsoft Office 365"
+    ],
+    "services": [
+      "Office 365 email migration",
+      "Security advice and management",
+      "Azure Cloud services",
+      "AWS Cloud services",
+      "Managed IT Support",
+      "Managed Services",
+      "Dedicated internet lines",
+      "Broadband services",
+      "Cloud Managed Wireless services",
+      "Cyber Essentials accreditation",
+      "Cyber Essentials certification signing off"
+    ],
+    "customer_segments": [
+      "businesses in the UK"
+    ],
+    "business_description": "TheLogic LIMITED is a managed technology provider offering services including managed security, managed cloud, managed IT support, and telecoms solutions. They assist businesses with migrating to Microsoft Office 365, provide cloud services on Azure and AWS, and deliver Cyber Essentials accreditation in the UK.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 40,
+    "msp_likelihood_confidence": "high",
+    "msp_likelihood_computed_at": "2026-01-11T02:28:24.878Z"
+  },
+  "scraped_at": "2026-01-11T02:28:18.480Z",
+  "updated_at": "2026-01-11T02:28:24.878Z",
+  "version": 1
+}

@@ -1,0 +1,264 @@
+{
+  "company_name": "JCJ COMPANY LIMITED",
+  "company_number": "13127503",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-01-12",
+  "jurisdiction": "england-wales",
+  "registered_address": "46/47, 5th Floor The Whitehouse, 111 New Street, Birmingham, B2 4EU, England",
+  "registered_address_structured": {
+    "address_line_1": "46/47, 5th Floor The Whitehouse",
+    "address_line_2": "111 New Street",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B2 4EU"
+  },
+  "sic_codes": [
+    "41202",
+    "62020",
+    "71111"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-30",
+    "next_accounts_period_end_on": "2026-01-30",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-27",
+    "last_made_up_to": "2025-01-13",
+    "next_made_up_to": "2026-01-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "LAM, Cho Shun",
+        "officer_role": "director",
+        "appointed_on": "2021-01-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1979,
+        "nationality": "Hong Konger",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Whitehouse",
+          "address_line_2": "111 New Street",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B2 4EU",
+          "premises": "46/47, 5th Floor"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Cho Shun Lam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-01-12",
+        "date_of_birth_month": 1,
+        "date_of_birth_year": 1979,
+        "nationality": "Hong Konger",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "The Whitehouse",
+          "address_line_2": "111 New Street",
+          "country": "England",
+          "locality": "Birmingham",
+          "postal_code": "B2 4EU",
+          "premises": "46/47, 5th Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-10-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XEDDYE2H",
+        "transaction_id": "MzQ4NTM0MDE5MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDU68UI9",
+        "transaction_id": "MzQ1MDc0Nzg1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-10",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XDDFY1WI",
+        "transaction_id": "MzQzOTAyMjM5NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2024-06-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XD5I5IGW",
+        "transaction_id": "MzQyNTcyMDI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD5I5HSH",
+        "transaction_id": "MzQyNTcyMDEyMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVACCCB",
+        "transaction_id": "MzQwODM1MTk0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XCUX95D6",
+        "transaction_id": "MzQwNzk2NzE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-11-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCG80A3U",
+        "transaction_id": "MzM5OTcyMTk4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-31",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCFBOZKJ",
+        "transaction_id": "MzM5ODQwMTY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVLU0BE",
+        "transaction_id": "MzM2NjYxMTc2MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-06-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XB6Q7G7S",
+        "transaction_id": "MzM0MzM0MDg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-03-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAYYV0BE",
+        "transaction_id": "MzMzMTY1MzQxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAVGQIRF",
+        "transaction_id": "MzMyNjI3MzU4MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAV6BPLU",
+        "transaction_id": "MzMyNjAyODg3OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-01-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XAV6BOUQ",
+        "transaction_id": "MzMyNjAyODY1NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-01-27",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 3,
+        "barcode": "X9X1KWQJ",
+        "transaction_id": "MzI4OTc5NjY5NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-01-12",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "X9VXECM2",
+        "transaction_id": "MzI4ODIzMTY1NWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 17,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 6
+  },
+  "enrichment": {
+    "headcount": 6,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:32:54.723Z",
+  "scraped_at": "2026-01-10T23:32:54.723Z"
+}

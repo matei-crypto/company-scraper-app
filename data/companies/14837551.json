@@ -1,0 +1,146 @@
+{
+  "company_name": "ZOOZ LABS LTD",
+  "company_number": "14837551",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-05-01",
+  "jurisdiction": "england-wales",
+  "registered_address": "6956 182-184 High Street North, East Ham, London, E6 2JA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "6956 182-184 High Street North",
+    "country": "United Kingdom",
+    "locality": "East Ham",
+    "postal_code": "E6 2JA",
+    "region": "London"
+  },
+  "sic_codes": [
+    "62020",
+    "62030"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-05-31",
+    "next_accounts_period_start_on": "2024-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-05-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-14",
+    "last_made_up_to": "2025-04-30",
+    "next_made_up_to": "2026-04-30"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DILSHAN MADURANGA, Hewa Mainaththuge",
+        "officer_role": "director",
+        "appointed_on": "2023-05-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1994,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "Sri Lanka",
+        "address": {
+          "address_line_1": "182-184 High Street North",
+          "country": "United Kingdom",
+          "locality": "East Ham",
+          "postal_code": "E6 2JA",
+          "premises": "6956",
+          "region": "London"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Hewa Mainaththuge Dilshan Maduranga",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-05-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1994,
+        "nationality": "Sri Lankan",
+        "country_of_residence": "Sri Lanka",
+        "address": {
+          "address_line_1": "182-184 High Street North",
+          "country": "United Kingdom",
+          "locality": "East Ham",
+          "postal_code": "E6 2JA",
+          "premises": "6956",
+          "region": "London"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-06-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE4SR2YJ",
+        "transaction_id": "MzQ3MDE4MzUzN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-05",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDVRAB1N",
+        "transaction_id": "MzQ1MzgyMzQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3HKBGG",
+        "transaction_id": "MzQyMjQ1Nzk2NWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-05-01",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XC2CDUQW",
+        "transaction_id": "MzM3Nzc4NjQwNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 4,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 15
+  },
+  "enrichment": {
+    "headcount": 15,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:37:20.622Z",
+  "scraped_at": "2026-01-11T01:37:20.622Z"
+}

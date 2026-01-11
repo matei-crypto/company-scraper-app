@@ -1,0 +1,505 @@
+{
+  "company_name": "SPIDER ONLINE LIMITED",
+  "company_number": "SC262065",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2004-01-18",
+  "jurisdiction": "scotland",
+  "registered_address": "First Floor, 185 St. Vincent Street, Glasgow, G2 5QD, Scotland",
+  "registered_address_structured": {
+    "address_line_1": "First Floor, 185 St. Vincent Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G2 5QD"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_been_liquidated": false,
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-12-31",
+    "next_accounts_period_end_on": "2026-03-31",
+    "next_accounts_period_start_on": "2025-04-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-03-31",
+    "last_accounts_type": "unaudited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-27",
+    "last_made_up_to": "2025-01-13",
+    "next_made_up_to": "2026-01-13"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HAMILL, James Ross",
+        "officer_role": "director",
+        "appointed_on": "2020-11-11",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "St. Vincent Street",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5QD",
+          "premises": "First Floor, 185"
+        }
+      },
+      {
+        "name": "CAMPBELL, John Baird",
+        "officer_role": "director",
+        "appointed_on": "2004-01-18",
+        "resigned_on": "2025-01-03",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "St. Vincent Street",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5QD",
+          "premises": "First Floor, 185"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CONNELLY, Lesley",
+        "officer_role": "secretary",
+        "appointed_on": "2008-06-19",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "St. Vincent Street",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5QD",
+          "premises": "First Floor, 185"
+        }
+      },
+      {
+        "name": "CAMPBELL, Lesley Noel",
+        "officer_role": "secretary",
+        "appointed_on": "2004-01-18",
+        "resigned_on": "2008-06-19",
+        "nationality": "British",
+        "address": {
+          "address_line_1": "2 David Dale Avenue",
+          "address_line_2": "Stewarton",
+          "locality": "Kilmarnock",
+          "postal_code": "KA3 3AX",
+          "region": "Ayrshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Trustees Of The Spider Online Limited Employee Ownership Trust",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2021-12-14",
+        "address": {
+          "address_line_1": "St. Vincent Street",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5QD",
+          "premises": "C/O Ground Floor"
+        },
+        "identification": {
+          "legal_form": "Trust",
+          "legal_authority": "Trusts"
+        }
+      },
+      {
+        "name": "Mr John Baird Campbell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent"
+        ],
+        "notified_on": "2016-04-06",
+        "ceased_on": "2021-12-14",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1965,
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "address": {
+          "address_line_1": "185 St. Vincent Street",
+          "country": "Scotland",
+          "locality": "Glasgow",
+          "postal_code": "G2 5QD",
+          "premises": "Ground Floor"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "SC2620650002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2021-12-14",
+        "delivered_on": "2021-12-21",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "John Baird Campbell as Security Trustee"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "SC2620650001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2020-11-11",
+        "delivered_on": "2020-11-17",
+        "particulars": {
+          "contains_floating_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lesley Connelly"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 2,
+    "unsatisfied_count": 2,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-13",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEF7YVLT",
+        "transaction_id": "MzQ4ODY0MzY4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-01-15",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDU9C2TS",
+        "transaction_id": "MzQ1MTMyMzQ4OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-15",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDU9BZK3",
+        "transaction_id": "MzQ1MTMxOTY3NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-01-15",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDU9BYOZ",
+        "transaction_id": "MzQ1MTMxOTQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-01-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDU9BY7C",
+        "transaction_id": "MzQ1MTMxOTMwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDGDCGFS",
+        "transaction_id": "MzQ0NDQxNTk5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCUZWEHM",
+        "transaction_id": "MzQwODA2Njc2NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-15",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIEU9A9",
+        "transaction_id": "MzQwNDI0MTc3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-18",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBVGH20B",
+        "transaction_id": "MzM2NjMwMDMyM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-14",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XBCJ2088",
+        "transaction_id": "MzM1MTg4OTU0NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-21",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XAW4Y5AA",
+        "transaction_id": "MzMyNzQxMjY2N2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-24",
+        "description": "mortgage-alter-floating-charge-with-number",
+        "type": "466(Scot)",
+        "pages": 10,
+        "barcode": "SAK1JGVN",
+        "transaction_id": "MzMyNTIyOTIxNmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-24",
+        "description": "mortgage-alter-floating-charge-with-number",
+        "type": "466(Scot)",
+        "pages": 11,
+        "barcode": "SAK1JGU2",
+        "transaction_id": "MzMyNTIyOTY5MmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-23",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YAJVFWSW",
+        "transaction_id": "MzMyNDUyMjUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-12-23",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XAJY4M2H",
+        "transaction_id": "MzMyNDYzMzMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2021-12-23",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC02",
+        "pages": 2,
+        "barcode": "XAJVI2SP",
+        "transaction_id": "MzMyNDUzOTQwM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2021-12-21",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 8,
+        "barcode": "XAJSN7N5",
+        "transaction_id": "MzMyNDMyMTAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2021-10-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XAENGWQ2",
+        "transaction_id": "MzMxNjUyNzUwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-02-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "X9XKFVPT",
+        "transaction_id": "MzI5MDQ0OTIxOGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-23",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "pages": 6,
+        "barcode": "Y9I6I954",
+        "transaction_id": "MzI4Mzg5MTg4NGFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2020-11-19",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 3,
+        "transaction_id": "WTlJNkk5N0RhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-11-19",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 19,
+        "barcode": "Y9I6I975",
+        "transaction_id": "MzI4Mzg5MTg4NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2020-11-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "X9I3PKCG",
+        "transaction_id": "MzI4MzczMTk0MGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2020-11-17",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 7,
+        "barcode": "X9I11WF5",
+        "transaction_id": "MzI4MzYyMzE2NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2020-08-23",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "X9C1G74Q",
+        "transaction_id": "MzI3NTk0NDY3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 67,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Spideronline.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "APMG International AgilePM®"
+    ],
+    "business_keywords": [
+      "web design",
+      "digital agency",
+      "mobile app development",
+      "Government solutions",
+      "Transport solutions",
+      "HR solutions",
+      "cross-platform solutions",
+      "user experience",
+      "user interface design",
+      "accessibility",
+      "low-code platforms",
+      "Agile project management",
+      "eTickets",
+      "mTickets",
+      "timetables",
+      "journey planning",
+      "route mapping",
+      "onboarding",
+      "ATS development",
+      "system integration",
+      "open data",
+      "location-based content"
+    ],
+    "services": [
+      "web design",
+      "mobile app development",
+      "cross-platform solutions",
+      "user interface design",
+      "benchmarking development",
+      "eTickets development",
+      "mTickets development",
+      "timetables development",
+      "journey planning solutions",
+      "route mapping",
+      "Next Bus functionality",
+      "onboarding solutions",
+      "ATS development and integration",
+      "location-based content development",
+      "open data solutions",
+      "MyAccount – Online Public Services",
+      "system integration",
+      "accessible website development"
+    ],
+    "customer_segments": [
+      "Government",
+      "Transport operators",
+      "HR & Recruitment organizations",
+      "Third Sector",
+      "Education",
+      "Finance",
+      "Retail",
+      "Logistics",
+      "Media"
+    ],
+    "business_description": "Spider Online is an award-winning digital agency based in Glasgow, Scotland, specializing in web design and mobile app development. The company focuses on delivering solutions for Government, Transport, and HR sectors, emphasizing innovation, interaction, and measurable impact. They provide cross-platform solutions and have expertise in creating accessible and user-friendly digital experiences.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T02:25:01.379Z"
+  },
+  "scraped_at": "2026-01-11T02:24:53.108Z",
+  "updated_at": "2026-01-11T02:25:01.379Z",
+  "version": 1
+}

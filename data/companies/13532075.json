@@ -1,0 +1,407 @@
+{
+  "company_name": "ABBEYX LTD",
+  "company_number": "13532075",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-07-27",
+  "jurisdiction": "england-wales",
+  "registered_address": "5 Approach Road, Raynes Park, London, SW20 8BA, England",
+  "registered_address_structured": {
+    "address_line_1": "5 Approach Road",
+    "address_line_2": "Raynes Park",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW20 8BA"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-04-30",
+    "next_accounts_period_end_on": "2026-07-31",
+    "next_accounts_period_start_on": "2025-08-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-07-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 7
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-02",
+    "last_made_up_to": "2025-08-19",
+    "next_made_up_to": "2026-08-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "BROWN, Adrian David Ian",
+        "officer_role": "director",
+        "appointed_on": "2021-07-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1969,
+        "nationality": "Australian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Midway",
+          "country": "United Kingdom",
+          "locality": "St Albans",
+          "postal_code": "AL3 4BB",
+          "premises": "55"
+        }
+      },
+      {
+        "name": "JACOBS, Nicolaas Kritzinger",
+        "officer_role": "director",
+        "appointed_on": "2022-09-01",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1980,
+        "nationality": "South African,British",
+        "country_of_residence": "South Africa",
+        "address": {
+          "address_line_1": "Raynes Park",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "SW20 8BA",
+          "premises": "5 Approach Road"
+        }
+      },
+      {
+        "name": "ROBERTSON, Michael Robert",
+        "officer_role": "director",
+        "appointed_on": "2021-07-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "12th Street",
+          "country": "United States",
+          "locality": "Brooklyn",
+          "postal_code": "NY, 11215",
+          "premises": "Apartment 3, 316"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "BROWN, Adrian David Ian",
+        "officer_role": "secretary",
+        "appointed_on": "2021-07-27",
+        "address": {
+          "address_line_1": "Midway",
+          "country": "United Kingdom",
+          "locality": "St Albans",
+          "postal_code": "AL3 4BB",
+          "premises": "55"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Michael Robert Robertson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-07-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1966,
+        "nationality": "British",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "12th Street",
+          "country": "United States",
+          "locality": "Brooklyn",
+          "postal_code": "NY, 11215",
+          "premises": "Apartment 3, 316"
+        }
+      },
+      {
+        "name": "Mr Adrian David Ian Brown",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-07-27",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1969,
+        "nationality": "Australian",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Midway",
+          "country": "United Kingdom",
+          "locality": "St Albans",
+          "postal_code": "AL3 4BB",
+          "premises": "55"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "135320750001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-12-04",
+        "delivered_on": "2024-12-06",
+        "particulars": {
+          "type": "brief-description",
+          "description": "No specific land, ship, aircraft or intellectual property has been charged. For full details of the charges, please refer to the charging document directly.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Silicon Valley Bank, a Division of First-Citizens Bank & Trust Company"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-12-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEGQ92XV",
+        "transaction_id": "MzQ5MjM2MjI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2025-11-27",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XEG7889D",
+        "transaction_id": "MzQ5MTMzNjIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-10-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEDUE7EQ",
+        "transaction_id": "MzQ4NjIxMDExNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-28",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE9WN31F",
+        "transaction_id": "MzQ3ODk2MzIwMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2024-12-23",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 26,
+        "barcode": "YDI6OC69",
+        "transaction_id": "MzQ0Nzk4MzQ0N2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-12-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 4,
+        "barcode": "YDHT83LK",
+        "transaction_id": "WURIVDgzTEthZGlxemtjeA"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-12-06",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 51,
+        "barcode": "XDHD1FM3",
+        "transaction_id": "MzQ0NjQ2MzMzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDDW9KKR",
+        "transaction_id": "MzQzOTkzOTEzNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-20",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD9X01EX",
+        "transaction_id": "MzQzMjc3MzkwMmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-12-22",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCIY04C3",
+        "transaction_id": "MzQwNTMyNTYxNGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-22",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCAGU9UJ",
+        "transaction_id": "MzM5MDQwMDU1MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-20",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XBEZY76Z",
+        "transaction_id": "MzM1NTk3OTE5NWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-08",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBC322AB",
+        "transaction_id": "MzM1MTIxMjA4NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBAR2WK2",
+        "transaction_id": "MzM0OTIwMzM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBAR2V43",
+        "transaction_id": "MzM0OTIwMzAwMGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-08-19",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XBAR2V1E",
+        "transaction_id": "MzM0OTIwMjk1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-08",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XB9XRB2P",
+        "transaction_id": "MzM0ODEyMzQyM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-30",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB53AZPL",
+        "transaction_id": "MzM0MDk4ODY1NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-07-27",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 31,
+        "barcode": "XA9IN2OH",
+        "transaction_id": "MzMwODc0MjA0NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 19,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Abbeycross.com",
+    "headcount": 9,
+    "tech_stack": [],
+    "business_keywords": [
+      "FX payment network",
+      "deliverable FX rates",
+      "payment capabilities",
+      "FX payment providers",
+      "payment providers",
+      "FX payments",
+      "market data",
+      "analytics",
+      "FX payment activity",
+      "transparency",
+      "scalability",
+      "flexibility",
+      "integration",
+      "provider selection",
+      "FX payment routing",
+      "harmonised execution",
+      "settlement rails"
+    ],
+    "services": [
+      "Integration of multiple FX payment providers through a single connection",
+      "Access to pricing and payment capabilities from a network of payment partners",
+      "Streamlined FX payments by connecting to multiple payment providers",
+      "Unique and tailored data for actionable insights on FX payment activity",
+      "Full control over integration, provider selection, and FX payment routing logic"
+    ],
+    "customer_segments": [
+      "banks",
+      "payment companies"
+    ],
+    "business_description": "AbbeyCross provides a transparent, scalable, and flexible FX payment network that enables businesses to integrate multiple FX payment providers through a single connection. The platform offers access to deliverable FX rates, payment capabilities, and tailored market data for actionable insights on FX payment activity. It aims to streamline FX payments and optimize provider selection and routing logic.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T00:06:42.051Z"
+  },
+  "scraped_at": "2026-01-11T00:06:36.747Z",
+  "updated_at": "2026-01-11T00:06:42.051Z",
+  "version": 1
+}

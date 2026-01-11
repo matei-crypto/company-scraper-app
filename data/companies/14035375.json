@@ -1,0 +1,462 @@
+{
+  "company_name": "EIM GROUP LTD",
+  "company_number": "14035375",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-04-08",
+  "jurisdiction": "england-wales",
+  "registered_address": "Unit 5, Woking 8, Forsyth Road, Woking, Surrey, GU21 5SB, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Unit 5, Woking 8",
+    "address_line_2": "Forsyth Road",
+    "country": "United Kingdom",
+    "locality": "Woking",
+    "postal_code": "GU21 5SB",
+    "region": "Surrey"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [
+    {
+      "name": "MAYFAIR HOLDCO LIMITED",
+      "ceased_on": "2022-05-27",
+      "effective_from": "2022-04-08"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-07-31",
+    "next_accounts_period_end_on": "2025-10-31",
+    "next_accounts_period_start_on": "2024-11-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-10-31",
+    "last_accounts_type": "audit-exemption-subsidiary",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 10
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-18",
+    "last_made_up_to": "2025-04-04",
+    "next_made_up_to": "2026-04-04"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KANG, Anoop",
+        "officer_role": "director",
+        "appointed_on": "2022-04-08",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1974,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Waterside 1310 Arlington Business Park",
+          "country": "United Kingdom",
+          "locality": "Theale",
+          "postal_code": "RG7 4SA",
+          "premises": "2nd Floor",
+          "region": "Reading"
+        }
+      },
+      {
+        "name": "MEADEN, David John",
+        "officer_role": "director",
+        "appointed_on": "2022-09-16",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1961,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Woking 8",
+          "address_line_2": "Forsyth Road",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU21 5SB",
+          "premises": "Unit 5,",
+          "region": "Surrey"
+        }
+      },
+      {
+        "name": "GRUBB, Robert James",
+        "officer_role": "director",
+        "appointed_on": "2022-09-16",
+        "resigned_on": "2023-09-18",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1980,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Woking 8",
+          "address_line_2": "Forsyth Road",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU21 5SB",
+          "premises": "Unit 5,",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "PATERSON, Ruth",
+        "officer_role": "secretary",
+        "appointed_on": "2024-02-28",
+        "address": {
+          "address_line_1": "Woking 8",
+          "address_line_2": "Forsyth Road",
+          "country": "United Kingdom",
+          "locality": "Woking",
+          "postal_code": "GU21 5SB",
+          "premises": "Unit 5,",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Idox Software Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-04-08",
+        "address": {
+          "address_line_1": "Waterside 1310 Arlington Business Park",
+          "country": "United Kingdom",
+          "locality": "Theale",
+          "postal_code": "RG7 4SA",
+          "premises": "2nd Floor",
+          "region": "Reading"
+        },
+        "identification": {
+          "legal_form": "Limited By Shares",
+          "legal_authority": "United Kingdom (England And Wales)",
+          "country_registered": "England And Wales",
+          "place_registered": "Companies House",
+          "registration_number": "02933889"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "140353750001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-02",
+        "delivered_on": "2023-10-09",
+        "particulars": {
+          "type": "brief-description",
+          "description": "N/A.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Hsbc Innovation Bank Limited (As Security Agent)"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-05-22",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 20,
+        "barcode": "AE31BDYO",
+        "transaction_id": "MzQ2NzUwMTIxNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-05-22",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 120,
+        "barcode": "AE31BDYW",
+        "transaction_id": "MzQ2NzUwMDg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-05-22",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 1,
+        "barcode": "AE31BDZK",
+        "transaction_id": "MzQ2NzQ5ODkyM2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2025-05-22",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AE31BDZC",
+        "transaction_id": "MzQ2NzQ5NjYyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDZRZE68",
+        "transaction_id": "MzQ2MTQ1Nzk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-22",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 19,
+        "barcode": "AD3DU077",
+        "transaction_id": "MzQyMjg0OTExOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-05-22",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 121,
+        "barcode": "AD3DU0AB",
+        "transaction_id": "MzQyMjg0ODYyNWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-05-22",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 1,
+        "barcode": "AD3DU07F",
+        "transaction_id": "MzQyMjg0ODA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2024-05-22",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AD3DU07N",
+        "transaction_id": "MzQyMjg0Nzk3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD0EUVBE",
+        "transaction_id": "MzQxNzI3MjMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-02-28",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XCXUILNM",
+        "transaction_id": "MzQxMjgxMzA4OGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 62,
+        "barcode": "XCDR6LZS",
+        "transaction_id": "MzM5NTcxNzY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-09-18",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XCCBM42W",
+        "transaction_id": "MzM5MzQ2MDk4OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-05",
+        "description": "accounts-with-accounts-type-audit-exemption-subsiduary",
+        "type": "AA",
+        "pages": 19,
+        "barcode": "ACALO8E2",
+        "transaction_id": "MzM5MTkxMjcyNmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-05",
+        "description": "legacy",
+        "type": "PARENT_ACC",
+        "pages": 122,
+        "barcode": "ACALO8EA",
+        "transaction_id": "MzM5MTkxMTk1MGFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-09-05",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 1,
+        "barcode": "ACALO8DU",
+        "transaction_id": "MzM5MTkxMTgzMWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-09-05",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "ACALO8DM",
+        "transaction_id": "MzM5MTkxMTYzMWFkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-08-04",
+        "description": "legacy",
+        "type": "AGREEMENT2",
+        "pages": 1,
+        "barcode": "AC8MUCKG",
+        "transaction_id": "MzM4ODY2ODgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "other",
+        "date": "2023-08-04",
+        "description": "legacy",
+        "type": "GUARANTEE2",
+        "pages": 1,
+        "barcode": "AC8MUCKO",
+        "transaction_id": "MzM4ODY2ODcyMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-08-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC8ZGPGA",
+        "transaction_id": "MzM4ODI4MjY2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-08-01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC8ZGGKB",
+        "transaction_id": "MzM4ODI4MDUwN2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-04",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0PKS5D",
+        "transaction_id": "MzM3NTE1NDMwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-20",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBCOGVIQ",
+        "transaction_id": "MzM1MjEyNDIxMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-09-16",
+        "description": "change-account-reference-date-company-current-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBCOG9XV",
+        "transaction_id": "MzM1MjExODY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-09-16",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBCOG8UH",
+        "transaction_id": "MzM1MjExODQwM2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 27,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "revenue": 4092625,
+    "ebitda": 712802,
+    "employees": 19
+  },
+  "enrichment": {
+    "website": "https://Idoxplc.com",
+    "headcount": 19,
+    "tech_stack": [],
+    "business_keywords": [
+      "specialist software",
+      "software development",
+      "government software",
+      "industry software",
+      "regulated markets",
+      "local authorities software",
+      "health software",
+      "engineering software",
+      "transport software",
+      "property software",
+      "workflow software",
+      "ESG",
+      "sustainability",
+      "UN Sustainable Development Goals",
+      "digital technology"
+    ],
+    "services": [
+      "specialist software development",
+      "software designed for critical operations",
+      "workflow embedding for efficiency and best practice"
+    ],
+    "customer_segments": [
+      "government",
+      "local authorities",
+      "health sector",
+      "engineering sector",
+      "transport sector",
+      "property sector",
+      "industry"
+    ],
+    "business_description": "Idox is a leading developer of specialist software for government and industry, focusing on tightly regulated markets such as local authorities, health, engineering, transport, and property. The company designs software in collaboration with experts to deliver exceptional functionality, reliability, and workflows that drive efficiency and best practice. Idox also emphasizes sustainability and responsible business conduct aligned with the UN Sustainable Development Goals.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T00:45:17.564Z"
+  },
+  "scraped_at": "2026-01-11T00:45:06.191Z",
+  "updated_at": "2026-01-11T00:45:17.564Z",
+  "version": 1
+}

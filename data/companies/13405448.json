@@ -1,0 +1,307 @@
+{
+  "company_name": "GIVETREE LTD",
+  "company_number": "13405448",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-05-18",
+  "jurisdiction": "england-wales",
+  "registered_address": "6-8 Great Eastern Street, London, EC2A 3NT, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "6-8 Great Eastern Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 3NT"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-03-31",
+    "next_accounts_period_end_on": "2025-06-30",
+    "next_accounts_period_start_on": "2024-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-06-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-31",
+    "last_made_up_to": "2025-05-17",
+    "next_made_up_to": "2026-05-17"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DAINEHINE, Ismael",
+        "officer_role": "director",
+        "appointed_on": "2021-05-18",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Great Eastern Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 3NT",
+          "premises": "6-8"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "1ST SECRETARIES LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2021-05-30",
+        "resigned_on": "2024-03-01",
+        "address": {
+          "address_line_1": "Shelton Street",
+          "address_line_2": "Covent Garden",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "WC2H 9JQ",
+          "premises": "71 - 75"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Ismael Dainehine",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-05-18",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1985,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Great Eastern Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 3NT",
+          "premises": "6-8"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-27",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XE3G008Q",
+        "transaction_id": "MzQ2NzkwODI2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-03-31",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDZGXPUQ",
+        "transaction_id": "MzQ2MDg1Mzk0NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-11-08",
+        "description": "change-account-reference-date-company-previous-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDFH613F",
+        "transaction_id": "MzQ0MjQ5MjM0OWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2024-10-30",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "barcode": "YDE9OQ6Y",
+        "transaction_id": "WURFOU9RNllhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-25",
+        "description": "capital-alter-shares-subdivision",
+        "type": "SH02",
+        "barcode": "YDE9OQB5",
+        "transaction_id": "MzQ0MDUwNjM4MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD3C3E5V",
+        "transaction_id": "MzQyMjI2MzE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-03-19",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XCZ797MJ",
+        "transaction_id": "MzQxNTE5NzM3NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-01-08",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 6,
+        "barcode": "XCUBF8QX",
+        "transaction_id": "MzQwNjgwMTAxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-20",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XCEIF6UO",
+        "transaction_id": "MzM5NzMyODM2M2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-10-20",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XCEIF6SO",
+        "transaction_id": "MzM5NzMyODM2MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-18",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC3R8AMG",
+        "transaction_id": "MzM3OTk3NjI1M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-18",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC3R8AIW",
+        "transaction_id": "MzM3OTk3NjI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC3R2234",
+        "transaction_id": "MzM3OTkyMDA0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-05-16",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XC3OI06H",
+        "transaction_id": "MzM3OTcwMzc3OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-05-16",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XC3OI06P",
+        "transaction_id": "MzM3OTcwMzc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-06",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XBYQWA7V",
+        "transaction_id": "MzM3MTYxODUzNWFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-08-13",
+        "description": "gazette-filings-brought-up-to-date",
+        "type": "DISS40",
+        "pages": 1,
+        "transaction_id": "MzM0ODU0MjA5NWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-12",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBA8ESIP",
+        "transaction_id": "MzM0ODU0MjAwOGFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2022-08-09",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzM0NzAxODY1OGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-06-14",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XA6M6A81",
+        "transaction_id": "MzMwNDM0MDAxMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-05-18",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 29,
+        "barcode": "XA4O5NVF",
+        "transaction_id": "MzMwMTIyNzc2NmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 21,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 13
+  },
+  "enrichment": {
+    "headcount": 13,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:55:19.951Z",
+  "scraped_at": "2026-01-10T23:55:19.951Z"
+}

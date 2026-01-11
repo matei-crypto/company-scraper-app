@@ -1,0 +1,199 @@
+{
+  "company_name": "TAUPE GLOBAL SYSTEMS LTD",
+  "company_number": "14978273",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2023-07-04",
+  "jurisdiction": "england-wales",
+  "registered_address": "Level 18 40 Bank Street, London, E14 5NR, England",
+  "registered_address_structured": {
+    "address_line_1": "Level 18 40 Bank Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 5NR"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "63110",
+    "66190"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-03-31",
+    "next_accounts_period_end_on": "2026-06-30",
+    "next_accounts_period_start_on": "2025-07-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-06-30",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 6
+  },
+  "confirmation_statement": {
+    "next_due": "2026-07-17",
+    "last_made_up_to": "2025-07-03",
+    "next_made_up_to": "2026-07-03"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "GHANCHI, Sajid",
+        "officer_role": "director",
+        "appointed_on": "2023-07-04",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "40 Bank Street",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "E14 5NR",
+          "premises": "Level 18"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Sajid Ghanchi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2023-07-04",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1976,
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "address": {
+          "address_line_1": "Sun Street",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC2A 2EP",
+          "premises": "1st Floor 1-3"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-18",
+        "description": "accounts-amended-with-accounts-type-micro-entity",
+        "type": "AAMD",
+        "pages": 4,
+        "barcode": "XEBCCSHL",
+        "transaction_id": "MzQ4MTczOTgyNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-17",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEB9I1UR",
+        "transaction_id": "MzQ4MTU3MzQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-09-17",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XEB9G6FL",
+        "transaction_id": "MzQ4MTU1Njg2N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-07-24",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE7FQWV7",
+        "transaction_id": "MzQ3NDkzMDkwNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-02-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDWVXE2G",
+        "transaction_id": "MzQ1NTk4OTg2M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD9H1VX6",
+        "transaction_id": "MzQzMjE2MjIwNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-06-27",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD66HZHN",
+        "transaction_id": "MzQyNjk0MjcwM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD66HY8X",
+        "transaction_id": "MzQyNjk0MjQ2N2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-06-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD4GKFXN",
+        "transaction_id": "MzQyNDA3Njg3NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2023-07-04",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 29,
+        "barcode": "XC6YR019",
+        "transaction_id": "MzM4NDk5MjE3OGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 10,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:42:27.553Z",
+  "scraped_at": "2026-01-11T01:42:27.553Z"
+}

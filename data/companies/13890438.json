@@ -1,0 +1,274 @@
+{
+  "company_name": "MY SMART GROUP LIMITED",
+  "company_number": "13890438",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-02-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "Office 149, Unit 5 399-405 Oxford Street, Mayfair, London, W1C 2BU, England",
+  "registered_address_structured": {
+    "address_line_1": "Office 149, Unit 5 399-405 Oxford Street",
+    "address_line_2": "Mayfair",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1C 2BU"
+  },
+  "sic_codes": [
+    "62020",
+    "62090",
+    "70229"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-02-28",
+    "next_accounts_period_end_on": "2025-02-28",
+    "next_accounts_period_start_on": "2024-02-29",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-02-28",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 28,
+    "accounting_reference_date_month": 2
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-02",
+    "last_made_up_to": "2024-12-19",
+    "next_made_up_to": "2025-12-19"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "IDAM ALUU, Stephen",
+        "officer_role": "director",
+        "appointed_on": "2023-01-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1990,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "2 Sawley Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M40 8BB",
+          "premises": "Unit 73 Carioca Business Park"
+        }
+      },
+      {
+        "name": "EGUKAWHORE, Benedicta Bina",
+        "officer_role": "director",
+        "appointed_on": "2022-02-03",
+        "resigned_on": "2023-01-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sawley Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M40 8BB",
+          "premises": "Unit 73, Cariocca Business Park"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Stephen Idam Aluu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "notified_on": "2023-01-03",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1990,
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "399-405 Oxford Street",
+          "address_line_2": "Mayfair",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W1C 2BU",
+          "premises": "Office 149, Unit 5"
+        }
+      },
+      {
+        "name": "Miss Benedicta Bina Egukawhore",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-02-03",
+        "ceased_on": "2023-01-01",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1989,
+        "nationality": "English",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Sawley Road",
+          "country": "England",
+          "locality": "Manchester",
+          "postal_code": "M40 8BB",
+          "premises": "Unit 73, Cariocca Business Park"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "address",
+        "date": "2025-10-22",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEDP3MOO",
+        "transaction_id": "MzQ4NjAwNTA4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDI9RLZ6",
+        "transaction_id": "MzQ0ODMxODI3MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDI6XTHM",
+        "transaction_id": "MzQ0ODE2NDY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-07-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XD6HE2WY",
+        "transaction_id": "MzQyNzM3NzY5M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2ASBFV",
+        "transaction_id": "MzQyMDU2MDY4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-02",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XC6W7883",
+        "transaction_id": "MzM4NDk3MDIyM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-03",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC0P9LO3",
+        "transaction_id": "MzM3NTAxNjEzMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-03-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XBYTHKA8",
+        "transaction_id": "MzM3MTc0MjE2MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-03-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XBYGE6MB",
+        "transaction_id": "MzM3MTM4MDA4MWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-04",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XBUHLPDN",
+        "transaction_id": "MzM2NDYxNTUxNWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2023-01-04",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBUHLO8W",
+        "transaction_id": "MzM2NDYxNTI1MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-04",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XBUHLNNN",
+        "transaction_id": "MzM2NDYxNTA1OWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-01-04",
+        "description": "cessation-of-a-person-with-significant-control",
+        "type": "PSC07",
+        "pages": 1,
+        "barcode": "XBUHLJGY",
+        "transaction_id": "MzM2NDYxMzk2NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-02-03",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 27,
+        "barcode": "XAWYJBP6",
+        "transaction_id": "MzMyODYxMzU0MGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 14,
+    "recent_filings_count": 1
+  },
+  "financials": {
+    "employees": 37
+  },
+  "enrichment": {
+    "headcount": 37,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:34:20.952Z",
+  "scraped_at": "2026-01-11T00:34:20.952Z"
+}

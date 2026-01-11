@@ -1,0 +1,271 @@
+{
+  "company_name": "SANITY UK INC LTD",
+  "company_number": "13812276",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-12-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "Floor 2, Suite 3 The Outset, Sankey Street, Warrington, Cheshire, WA1 1NN, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Floor 2, Suite 3 The Outset",
+    "address_line_2": "Sankey Street",
+    "country": "United Kingdom",
+    "locality": "Warrington",
+    "postal_code": "WA1 1NN",
+    "region": "Cheshire"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-12-26",
+    "last_made_up_to": "2025-12-12",
+    "next_made_up_to": "2026-12-12"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "HILLESTAD, Magnus",
+        "officer_role": "director",
+        "appointed_on": "2021-12-21",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1981,
+        "nationality": "Norwegian",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "The Outset",
+          "address_line_2": "Sankey Street",
+          "country": "United Kingdom",
+          "locality": "Warrington",
+          "postal_code": "WA1 1NN",
+          "premises": "Floor 2, Suite 3",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "ESTRADA, Jose",
+        "officer_role": "director",
+        "appointed_on": "2021-12-21",
+        "resigned_on": "2022-03-18",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1983,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "Shackleford Road",
+          "country": "United States",
+          "locality": "Elstead",
+          "postal_code": "GU8 6LB",
+          "premises": "Oak House, Tanshire Park",
+          "region": "Surrey"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "CHAO, Helen",
+        "officer_role": "secretary",
+        "appointed_on": "2021-12-21",
+        "address": {
+          "address_line_1": "The Outset",
+          "address_line_2": "Sankey Street",
+          "country": "United Kingdom",
+          "locality": "Warrington",
+          "postal_code": "WA1 1NN",
+          "premises": "Floor 2, Suite 3",
+          "region": "Cheshire"
+        }
+      },
+      {
+        "name": "THE BRIARS GROUP LIMITED",
+        "officer_role": "corporate-secretary",
+        "appointed_on": "2021-12-21",
+        "resigned_on": "2024-05-01",
+        "address": {
+          "address_line_1": "Shackleford Road",
+          "country": "United Kingdom",
+          "locality": "Elstead",
+          "postal_code": "GU8 6LB",
+          "premises": "Oak House, Tanshire Park",
+          "region": "Surrey"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": []
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-12-23",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEI1MG7E",
+        "transaction_id": "MzQ5NTk2Njg4N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XEB9K93F",
+        "transaction_id": "MzQ4MTU5MjYyMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-09-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XEB9K937",
+        "transaction_id": "MzQ4MTU5MjYxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-09-17",
+        "description": "change-person-secretary-company-with-change-date",
+        "type": "CH03",
+        "pages": 1,
+        "barcode": "XEB9K92X",
+        "transaction_id": "MzQ4MTU5MjYxN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-08-18",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "AE90P0CH",
+        "transaction_id": "MzQ3NzQyMDQ4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-12-12",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XDHT2OGO",
+        "transaction_id": "MzQ0NzA4MzYxOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-23",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "ADBVN1CX",
+        "transaction_id": "MzQzNjc1NjMyMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-05-08",
+        "description": "termination-secretary-company-with-name-termination-date",
+        "type": "TM02",
+        "pages": 1,
+        "barcode": "XD2O4MTD",
+        "transaction_id": "MzQyMTA2NzA3N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-12-13",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCIBOQC1",
+        "transaction_id": "MzQwMzczOTU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-21",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCCJXHAB",
+        "transaction_id": "MzM5Mzk4Mzc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-05",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBUK96CZ",
+        "transaction_id": "MzM2NDcxMzIxNWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-10-25",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBFCZIQ8",
+        "transaction_id": "MzM1NjM3MTQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-08-24",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XBB1L7MR",
+        "transaction_id": "MzM0OTYyMTMxN2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-12-22",
+        "description": "appoint-corporate-secretary-company-with-name-date",
+        "type": "AP04",
+        "pages": 2,
+        "barcode": "XAJV7YTF",
+        "transaction_id": "MzMyNDQ1NTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-12-21",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 9,
+        "barcode": "XAJSKEKR",
+        "transaction_id": "MzMyNDI5NzExNmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 15,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 27
+  },
+  "enrichment": {
+    "headcount": 27,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:27:23.319Z",
+  "scraped_at": "2026-01-11T00:27:23.319Z"
+}

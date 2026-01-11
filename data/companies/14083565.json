@@ -1,0 +1,415 @@
+{
+  "company_name": "WRK DIGITAL LTD",
+  "company_number": "14083565",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-05-03",
+  "jurisdiction": "england-wales",
+  "registered_address": "7 Waterside Court, St. Helens, WA9 1UA, England",
+  "registered_address_structured": {
+    "address_line_1": "7 Waterside Court",
+    "country": "England",
+    "locality": "St. Helens",
+    "postal_code": "WA9 1UA"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2027-02-28",
+    "next_accounts_period_end_on": "2026-05-31",
+    "next_accounts_period_start_on": "2025-06-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-05-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 5
+  },
+  "confirmation_statement": {
+    "next_due": "2026-05-16",
+    "last_made_up_to": "2025-05-02",
+    "next_made_up_to": "2026-05-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "PARKER, William James",
+        "officer_role": "director",
+        "appointed_on": "2022-05-03",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Waterside Court",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA9 1UA",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "TIPPING, Katie Jane",
+        "officer_role": "director",
+        "appointed_on": "2022-06-29",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Waterside Court",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA9 1UA",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "WESTWOOD, James Anthony",
+        "officer_role": "director",
+        "appointed_on": "2022-06-29",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Waterside Court",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA9 1UA",
+          "premises": "7"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "James Anthony Westwood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-06-29",
+        "date_of_birth_month": 2,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Waterside Court",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA9 1UA",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "Katie Jane Tipping",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-06-10",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1982,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Waterside Court",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA9 1UA",
+          "premises": "7"
+        }
+      },
+      {
+        "name": "Mr William James Parker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-05-03",
+        "date_of_birth_month": 10,
+        "date_of_birth_year": 1990,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Waterside Court",
+          "country": "England",
+          "locality": "St. Helens",
+          "postal_code": "WA9 1UA",
+          "premises": "7"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "140835650001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2023-10-13",
+        "delivered_on": "2023-10-18",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Lloyds Bank Commercial Finance Limited"
+          }
+        ],
+        "status": "outstanding"
+      }
+    ],
+    "total_count": 1,
+    "unsatisfied_count": 1,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-06",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEERDFIP",
+        "transaction_id": "MzQ4NzcwNzY2OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-05-08",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 6,
+        "barcode": "XE23RYU3",
+        "transaction_id": "MzQ2NTQ5MjY2NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-26",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XDCGQ79U",
+        "transaction_id": "MzQzNzQwODc4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-05-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD2ANYXC",
+        "transaction_id": "MzQyMDUyNTMxOGFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2023-10-18",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 23,
+        "barcode": "XCEFDAB5",
+        "transaction_id": "MzM5NzAxODg3MWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2023-09-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XCD05O8J",
+        "transaction_id": "MzM5NDc0NzI1NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-07-24",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 11,
+        "barcode": "XC8GBJCZ",
+        "transaction_id": "MzM4NzM0MzY1MGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-05-22",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XC41USOA",
+        "transaction_id": "MzM4MDM0Mzg3NWFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-09-07",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUJDMDQwNkFhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-09-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 4,
+        "barcode": "XBC03U6O",
+        "transaction_id": "MzM1MDg5NzQxOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-30",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB76HBAR",
+        "transaction_id": "MzM0NDE0Nzg1OWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-06-30",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XB76HCIH",
+        "transaction_id": "MzM0NDE0ODA1MGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB76IZM1",
+        "transaction_id": "MzM0NDE2MjU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-06-29",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB76IV2W",
+        "transaction_id": "MzM0NDE2MTYxNmFkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-06-17",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 1,
+        "transaction_id": "WUI2N0wzTVphZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-06-15",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB67L0CZ",
+        "transaction_id": "MzM0MjY0NjE1OGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-06-07",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB5OFBGH",
+        "transaction_id": "MzM0MTY5NTQzNGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-05-03",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XB35GKHU",
+        "transaction_id": "MzMzODAwOTc3MmFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 9
+  },
+  "enrichment": {
+    "website": "https://Wrkdigital.co.uk",
+    "headcount": 9,
+    "tech_stack": [
+      "SAP S4 HANA",
+      "CRM integration"
+    ],
+    "business_keywords": [
+      "technology recruitment",
+      "tech talent",
+      "technology teams",
+      "recruitment partner",
+      "hiring process",
+      "employer value proposition",
+      "EVP",
+      "onboarding",
+      "technology stack",
+      "culture",
+      "leadership",
+      "architecture",
+      "strategy",
+      "transformation",
+      "programme delivery",
+      "AI",
+      "data",
+      "software engineering",
+      "ERP",
+      "testing",
+      "QA",
+      "Web 3"
+    ],
+    "services": [
+      "technology recruitment",
+      "job advert refinement",
+      "interview process streamlining",
+      "employer value proposition (EVP) optimization",
+      "candidate management",
+      "onboarding support",
+      "recruitment campaign management",
+      "job profile creation",
+      "leader workshops",
+      "recruitment process advice"
+    ],
+    "customer_segments": [
+      "visionary companies",
+      "businesses undergoing technology-driven transformation",
+      "organizations with multi-year, multi-country, multi-language delivery programmes",
+      "companies hiring temporary or permanent technology staff",
+      "businesses seeking high-performing technology teams"
+    ],
+    "business_description": "WRK Digital is a technology recruitment company that connects exceptional technology talent with visionary businesses. They act as trusted partners to help companies build high-performing technology teams through a tailored recruitment process, offering support from job profiling to onboarding and beyond. Their focus is on delivering authentic, pragmatic, and responsive recruitment services across multiple technology disciplines.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-11T00:47:44.308Z"
+  },
+  "scraped_at": "2026-01-11T00:47:34.844Z",
+  "updated_at": "2026-01-11T00:47:44.308Z",
+  "version": 1
+}

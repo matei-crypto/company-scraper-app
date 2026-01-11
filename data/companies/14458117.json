@@ -1,0 +1,182 @@
+{
+  "company_name": "SYNACK EUROPE LIMITED",
+  "company_number": "14458117",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-11-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "Suite 4, 7th Floor 50 Broadway, London, SW1H 0DB, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Suite 4, 7th Floor 50 Broadway",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "SW1H 0DB"
+  },
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-10-31",
+    "next_accounts_period_end_on": "2026-01-31",
+    "next_accounts_period_start_on": "2025-02-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2025-01-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 1
+  },
+  "confirmation_statement": {
+    "next_due": "2026-11-16",
+    "last_made_up_to": "2025-11-02",
+    "next_made_up_to": "2026-11-02"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KAPLAN, Jay",
+        "officer_role": "director",
+        "appointed_on": "2022-11-02",
+        "date_of_birth_month": 9,
+        "date_of_birth_year": 1985,
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "address": {
+          "address_line_1": "6th Floor",
+          "country": "United States",
+          "locality": "Redwood City",
+          "postal_code": "CA 94065",
+          "premises": "303 Twin Dolphin Drive"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Synack, Inc.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-11-02",
+        "address": {
+          "address_line_1": "6th Floor",
+          "country": "United States",
+          "locality": "Redwood City",
+          "postal_code": "CA 94065",
+          "premises": "303 Twin Dolphin Drive"
+        },
+        "identification": {
+          "legal_form": "Corporation",
+          "legal_authority": "Delaware, Usa",
+          "country_registered": "Delaware, Usa",
+          "place_registered": "Usa",
+          "registration_number": "5279952"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-11-20",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XEFQUHU3",
+        "transaction_id": "MzQ5MDA0NzI1OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-11-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XEER7OG9",
+        "transaction_id": "MzQ4NzY1NDY1MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-11-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDFBL1MP",
+        "transaction_id": "MzQ0MjE4NzUwOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-02",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XD8NN21S",
+        "transaction_id": "MzQzMTAwMDQyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-11-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCFEUVZS",
+        "transaction_id": "MzM5ODc1NDEzNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-12-29",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XBJX1IGP",
+        "transaction_id": "MzM2NDAzNDkzOWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-02",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBFYPL6I",
+        "transaction_id": "MzM1NzMzMDI3NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-11-02",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 26,
+        "barcode": "XBFVZGC8",
+        "transaction_id": "MzM1NzE5NjQzN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 8,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 29
+  },
+  "enrichment": {
+    "headcount": 29,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T01:14:05.571Z",
+  "scraped_at": "2026-01-11T01:14:05.571Z"
+}

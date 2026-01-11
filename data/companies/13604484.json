@@ -1,0 +1,390 @@
+{
+  "company_name": "APG DIGITAL LIMITED",
+  "company_number": "13604484",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-09-06",
+  "jurisdiction": "england-wales",
+  "registered_address": "86 Gloucester Place, London, W1U 6HP, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "86 Gloucester Place",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "W1U 6HP"
+  },
+  "sic_codes": [
+    "62090"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "small",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-09-19",
+    "last_made_up_to": "2025-09-05",
+    "next_made_up_to": "2026-09-05"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "DONLEY, Charles John",
+        "officer_role": "director",
+        "appointed_on": "2021-09-06",
+        "date_of_birth_month": 11,
+        "date_of_birth_year": 1972,
+        "nationality": "Canadian",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Gloucester Place",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "W1U 6HP",
+          "premises": "86"
+        }
+      },
+      {
+        "name": "JONES, Matthew Tristan",
+        "officer_role": "director",
+        "appointed_on": "2021-09-06",
+        "resigned_on": "2025-08-20",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1981,
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "address": {
+          "address_line_1": "Prospect Place",
+          "address_line_2": "Swansea",
+          "country": "United Kingdom",
+          "locality": "Wales",
+          "postal_code": "SA1 1QP",
+          "premises": "5"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Assura Protect Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-09-06",
+        "address": {
+          "address_line_1": "Stirling Way",
+          "address_line_2": "Borehamwood",
+          "country": "United Kingdom",
+          "locality": "Herts",
+          "postal_code": "WD6 2FX",
+          "premises": "Spitafields House"
+        },
+        "identification": {
+          "legal_form": "Private Limited Company",
+          "legal_authority": "Companies Act 2006",
+          "country_registered": "United Kingdom",
+          "place_registered": "Companies House",
+          "registration_number": "08403633"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [
+      {
+        "charge_code": "136044840004",
+        "charge_number": 4,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-10-21",
+        "delivered_on": "2025-10-23",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust (London) Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "136044840003",
+        "charge_number": 3,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2025-07-21",
+        "delivered_on": "2025-07-29",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust (London) Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "136044840002",
+        "charge_number": 2,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2024-04-05",
+        "delivered_on": "2024-04-09",
+        "particulars": {
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust (London) Limited"
+          }
+        ],
+        "status": "outstanding"
+      },
+      {
+        "charge_code": "136044840001",
+        "charge_number": 1,
+        "classification": [
+          {
+            "type": "charge-description",
+            "description": "A registered charge"
+          }
+        ],
+        "created_on": "2022-01-24",
+        "delivered_on": "2022-02-04",
+        "particulars": {
+          "type": "brief-description",
+          "description": "None.",
+          "contains_floating_charge": true,
+          "contains_fixed_charge": true,
+          "floating_charge_covers_all": true,
+          "contains_negative_pledge": true
+        },
+        "persons_entitled": [
+          {
+            "name": "Wilmington Trust (London) Limited as Security Agent."
+          }
+        ],
+        "satisfied_on": "2024-04-11",
+        "status": "fully-satisfied"
+      }
+    ],
+    "total_count": 4,
+    "unsatisfied_count": 3,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-12-24",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XEI27M8Z",
+        "transaction_id": "MzQ5NjI2ODExMmFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-10-23",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 15,
+        "barcode": "XEDRTWQI",
+        "transaction_id": "MzQ4NjExNzIzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-09-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XEB6VNN0",
+        "transaction_id": "MzQ4MTQyODcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-08-20",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XE9B8VJN",
+        "transaction_id": "MzQ3ODA2MDE5M2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2025-07-29",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 15,
+        "barcode": "XE7T3K6X",
+        "transaction_id": "MzQ3NTQzOTAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDCRO7EW",
+        "transaction_id": "MzQzNzgwNTkzMmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-09-17",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XDBUTM8Q",
+        "transaction_id": "MzQzNjIxNDgzN2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-04-11",
+        "description": "mortgage-satisfy-charge-full",
+        "type": "MR04",
+        "pages": 1,
+        "barcode": "XD0SLA8G",
+        "transaction_id": "MzQxNzk2MjQ3MWFkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2024-04-09",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 58,
+        "barcode": "XD0N2VOR",
+        "transaction_id": "MzQxNzY0MDQ4MmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-09-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XCCED8LL",
+        "transaction_id": "MzM5MzYwOTg5NWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-06",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XC53MVIY",
+        "transaction_id": "MzM4MjA0Nzc0NmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-26",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBHLOTEI",
+        "transaction_id": "MzM1OTkzMzcwOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-09-28",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBDHO1EO",
+        "transaction_id": "MzM1MzMxNzU4M2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-02-08",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "QUFYMlVDSTNhZGlxemtjeA"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-02-08",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 31,
+        "barcode": "AAX2UCLE",
+        "transaction_id": "MzMyODc2MjAzNmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-02-08",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 31,
+        "barcode": "AAX2UCLM",
+        "transaction_id": "MzMyODc2MjAzM2FkaXF6a2N4"
+      },
+      {
+        "category": "mortgage",
+        "date": "2022-02-04",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+        "type": "MR01",
+        "pages": 57,
+        "barcode": "XAX3XVAG",
+        "transaction_id": "MzMyODg1NjIwOWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-09-06",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 30,
+        "barcode": "XACBZ38B",
+        "transaction_id": "MzMxMjgzMjc2MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 5
+  },
+  "financials": {
+    "employees": 36
+  },
+  "enrichment": {
+    "website": "https://Quote.assuraprotect.com",
+    "headcount": 36,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:13:18.544Z",
+  "scraped_at": "2026-01-11T00:13:18.544Z"
+}

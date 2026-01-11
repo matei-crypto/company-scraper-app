@@ -1,0 +1,337 @@
+{
+  "company_name": "JFROG UK LIMITED",
+  "company_number": "13317983",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-04-07",
+  "jurisdiction": "england-wales",
+  "registered_address": "30 Old Bailey, London, EC4M 7AU, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "30 Old Bailey",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4M 7AU"
+  },
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-04-20",
+    "last_made_up_to": "2025-04-06",
+    "next_made_up_to": "2026-04-06"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "REFAELY, Efrat",
+        "officer_role": "director",
+        "appointed_on": "2024-12-16",
+        "date_of_birth_month": 8,
+        "date_of_birth_year": 1977,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "address_line_1": "Old Bailey",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7AU",
+          "premises": "30"
+        }
+      },
+      {
+        "name": "GOREN, Orit",
+        "officer_role": "director",
+        "appointed_on": "2021-04-07",
+        "resigned_on": "2024-12-16",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1969,
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "address": {
+          "address_line_1": "Old Bailey",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "EC4M 7AU",
+          "premises": "30"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Jfrog Ltd.",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-04-07",
+        "address": {
+          "address_line_1": "Hamachshev Street",
+          "country": "Israel",
+          "locality": "Netanya",
+          "postal_code": "4250713",
+          "premises": "3"
+        },
+        "identification": {
+          "legal_form": "Public Company",
+          "legal_authority": "Israeli (But Subject To U.S. Securities Law)",
+          "country_registered": "Israel",
+          "place_registered": "Israel",
+          "registration_number": "514130491"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-15",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 24,
+        "barcode": "XEB44DO0",
+        "transaction_id": "MzQ4MTEzMjU1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-04-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE1I3G75",
+        "transaction_id": "MzQ2NDQzNDE4NmFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-29",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE1F8RZ4",
+        "transaction_id": "MzQ2NDIyMDkzN2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-28",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC05",
+        "pages": 2,
+        "barcode": "XE1F8RDT",
+        "transaction_id": "MzQ2NDIyMDgwOWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-19",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XDI9N5SI",
+        "transaction_id": "MzQ0ODI4MTUxMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-18",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XDI6M9UB",
+        "transaction_id": "MzQ0Nzk2NjI0N2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-12-17",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDI6M4U1",
+        "transaction_id": "MzQ0Nzk2NTEyN2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-08-21",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 23,
+        "barcode": "XD9ZNK4H",
+        "transaction_id": "MzQzMjkzOTY1MWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-07-17",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XD7J2FOJ",
+        "transaction_id": "MzQyOTE5MTg1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-04-17",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD18N8NE",
+        "transaction_id": "MzQxODc0MjIyMGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-04-12",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XD0V7S69",
+        "transaction_id": "MzQxODA1MTg5M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-10-16",
+        "description": "accounts-with-accounts-type-full",
+        "type": "AA",
+        "pages": 22,
+        "barcode": "XCE9TFUH",
+        "transaction_id": "MzM5NjU3OTUyMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-04-06",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC0V3ZBC",
+        "transaction_id": "MzM3NTQ4MjgwNGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-17",
+        "description": "accounts-with-accounts-type-small",
+        "type": "AA",
+        "pages": 18,
+        "barcode": "ABAJJJKO",
+        "transaction_id": "MzM0ODc5NDUwM2FkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2022-05-05",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XB3DN1QG",
+        "transaction_id": "MzMzODQwOTI1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-04-19",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XB2937IW",
+        "transaction_id": "MzMzNjUzODUxM2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-04-07",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XB1G4SQY",
+        "transaction_id": "MzMzNTU4ODk1MGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-04-07",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 50,
+        "barcode": "XA1TKBPM",
+        "transaction_id": "MzI5NjgzNTcyNWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 18,
+    "recent_filings_count": 4
+  },
+  "financials": {
+    "revenue": 4551422,
+    "ebitda": 238789,
+    "employees": 15
+  },
+  "enrichment": {
+    "website": "https://Jfrog.com",
+    "headcount": 15,
+    "tech_stack": [
+      "NPM"
+    ],
+    "business_keywords": [
+      "Software Supply Chain Solutions",
+      "DevOps",
+      "Security",
+      "Artifact Management",
+      "Supply Chain Security",
+      "AI/ML Delivery",
+      "App Risk Governance",
+      "AI Era",
+      "Software Delivery",
+      "DevSecOps",
+      "MLOps",
+      "DevGovOps",
+      "Software Updates",
+      "Binary Management",
+      "AI Model Registry"
+    ],
+    "services": [
+      "End-to-end pipeline to control binaries from build to production",
+      "Artifact Management",
+      "Supply Chain Security",
+      "AI/ML Delivery",
+      "App Risk Governance",
+      "Modern code-to-runtime security with contextualized and agent-ready scanners",
+      "AI/ML lifecycle solution for discovery, creation, governance, and deployment",
+      "Evidence-based policy gates across the SDLC for compliant releases",
+      "Centralized security and governance for AI workloads",
+      "Streamlined attestation evidence collection with integrations across the SDLC"
+    ],
+    "customer_segments": [
+      "Enterprise Teams",
+      "Developers",
+      "Leaders",
+      "DevOps",
+      "Security",
+      "AI/MLOps",
+      "IoT"
+    ],
+    "business_description": "JFrog provides software supply chain solutions that offer an end-to-end pipeline to manage, secure, and govern binaries from build to production. The company delivers trusted software in the AI era, breaking down software delivery silos with a unified system of record for artifact management, supply chain security, AI/ML delivery, and app risk governance.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 10,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:49:04.339Z"
+  },
+  "scraped_at": "2026-01-10T23:48:57.981Z",
+  "updated_at": "2026-01-10T23:49:04.339Z",
+  "version": 1
+}

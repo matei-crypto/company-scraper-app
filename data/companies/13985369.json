@@ -1,0 +1,159 @@
+{
+  "company_name": "BENJAMIN IT COMMUNICATIONS LIMITED",
+  "company_number": "13985369",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "company_type": "ltd",
+  "date_of_incorporation": "2022-03-17",
+  "jurisdiction": "england-wales",
+  "registered_address": "37 Bradford Road, Cleckheaton, BD19 3JN, England",
+  "registered_address_structured": {
+    "address_line_1": "37 Bradford Road",
+    "country": "England",
+    "locality": "Cleckheaton",
+    "postal_code": "BD19 3JN"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2024-12-31",
+    "next_accounts_period_end_on": "2024-03-31",
+    "next_accounts_period_start_on": "2023-04-01",
+    "next_accounts_overdue": true,
+    "last_accounts_made_up_to": "2023-03-31",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 3
+  },
+  "confirmation_statement": {
+    "next_due": "2024-03-30",
+    "last_made_up_to": "2023-03-16",
+    "next_made_up_to": "2024-03-16"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "KING, Benjamin",
+        "officer_role": "director",
+        "appointed_on": "2022-03-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bradford Road",
+          "country": "England",
+          "locality": "Cleckheaton",
+          "postal_code": "BD19 3JN",
+          "premises": "37"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Benjamin King",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2022-03-17",
+        "date_of_birth_month": 3,
+        "date_of_birth_year": 1991,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Bradford Road",
+          "country": "England",
+          "locality": "Cleckheaton",
+          "postal_code": "BD19 3JN",
+          "premises": "37"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "dissolution",
+        "date": "2024-07-09",
+        "description": "dissolved-compulsory-strike-off-suspended",
+        "type": "DISS16(SOAS)",
+        "pages": 1,
+        "transaction_id": "MzQyNzk3NzY2MmFkaXF6a2N4"
+      },
+      {
+        "category": "gazette",
+        "date": "2024-06-04",
+        "description": "gazette-notice-compulsory",
+        "type": "GAZ1",
+        "pages": 1,
+        "transaction_id": "MzQyMzI4OTM1N2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-07-09",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC7EU135",
+        "transaction_id": "MzM4NTczNDA3NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2023-06-15",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XC5RJOKA",
+        "transaction_id": "MzM4MjkyMDA1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-05-17",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XC3R31F6",
+        "transaction_id": "MzM3OTkyODMwN2FkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-03-17",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XAZY3TEI",
+        "transaction_id": "MzMzMzIxNzgwN2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 6,
+    "recent_filings_count": 0
+  },
+  "financials": {
+    "employees": 8
+  },
+  "enrichment": {
+    "headcount": 8,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:41:19.115Z",
+  "scraped_at": "2026-01-11T00:41:19.115Z"
+}

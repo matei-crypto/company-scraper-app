@@ -1,0 +1,312 @@
+{
+  "company_name": "SSINGECO LTD",
+  "company_number": "13095955",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2020-12-22",
+  "jurisdiction": "england-wales",
+  "registered_address": "9 Litchfield Close, Bradford, West Yorkshire, BD5 0DS, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "9 Litchfield Close",
+    "country": "United Kingdom",
+    "locality": "Bradford",
+    "postal_code": "BD5 0DS",
+    "region": "West Yorkshire"
+  },
+  "sic_codes": [
+    "01130",
+    "03220",
+    "62020",
+    "72110"
+  ],
+  "previous_company_names": [
+    {
+      "name": "SSING ECO-ORGANIC LTD",
+      "ceased_on": "2021-11-04",
+      "effective_from": "2020-12-22"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "micro-entity",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-01-28",
+    "last_made_up_to": "2025-01-14",
+    "next_made_up_to": "2026-01-14"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ORIMOGUNJE, Busayo Michael",
+        "officer_role": "director",
+        "appointed_on": "2020-12-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Arden Road",
+          "country": "England",
+          "locality": "Bradford",
+          "postal_code": "BD8 0PN",
+          "premises": "24"
+        }
+      }
+    ],
+    "secretaries": [
+      {
+        "name": "ORIMOGUNJE, Abolanle Abiodun",
+        "officer_role": "secretary",
+        "appointed_on": "2024-10-22",
+        "address": {
+          "address_line_1": "Litchfield Close",
+          "country": "United Kingdom",
+          "locality": "Bradford",
+          "postal_code": "BD5 0DS",
+          "premises": "9",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Busayo Michael Orimogunje",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2020-12-22",
+        "date_of_birth_month": 6,
+        "date_of_birth_year": 1970,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Litchfield Close",
+          "country": "United Kingdom",
+          "locality": "Bradford",
+          "postal_code": "BD5 0DS",
+          "premises": "9",
+          "region": "West Yorkshire"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-08",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XEANTKTF",
+        "transaction_id": "MzQ4MDE3MTcwMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-03-11",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XDY3KWJF",
+        "transaction_id": "MzQ1ODAyNDI5MGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-03-11",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDY3KVM3",
+        "transaction_id": "MzQ1ODAyNDA5NmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2024-12-27",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDIV6UXF",
+        "transaction_id": "MzQ0OTE5OTAzNGFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2024-10-22",
+        "description": "appoint-person-secretary-company-with-name-date",
+        "type": "AP03",
+        "pages": 2,
+        "barcode": "XDE9P9T7",
+        "transaction_id": "MzQ0MDUxMDczMWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-10-04",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 3,
+        "barcode": "XDCZXYZL",
+        "transaction_id": "MzQzODM4MTYzMGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-01-31",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XCVW44EZ",
+        "transaction_id": "MzQwOTM5NjY3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-09-21",
+        "description": "accounts-with-accounts-type-micro-entity",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XCCJUTM1",
+        "transaction_id": "MzM5Mzk2MDIzMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-01-16",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBVB2LTV",
+        "transaction_id": "MzM2NTg0MjU4NGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-08-22",
+        "description": "accounts-with-accounts-type-dormant",
+        "type": "AA",
+        "pages": 2,
+        "barcode": "XBAYS7PK",
+        "transaction_id": "MzM0OTM1NzQ4N2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAVOUZ8Y",
+        "transaction_id": "MzMyNjY5MjgyOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAVOV06X",
+        "transaction_id": "MzMyNjY5MzEzOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-01-14",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAVOXFV7",
+        "transaction_id": "MzMyNjcxNjAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-14",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAVOTY68",
+        "transaction_id": "MzMyNjY4MjgwMWFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2022-01-07",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XAV69IV4",
+        "transaction_id": "MzMyNjAwNzMyNWFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-01-07",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XAV69I8Z",
+        "transaction_id": "MzMyNjAwNzE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-12-23",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XAJYCVZF",
+        "transaction_id": "MzMyNDcxMDQ5OWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-12-16",
+        "description": "change-sail-address-company-with-new-address",
+        "type": "AD02",
+        "pages": 1,
+        "barcode": "XAJC6QH4",
+        "transaction_id": "MzMyMzU5NDI5OGFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2021-11-04",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XAGIAFQ0",
+        "transaction_id": "MzMxOTE5NTQwMGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2020-12-22",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "X9KC3K2V",
+        "transaction_id": "MzI4NjUzNTk4M2FkaXF6a2N4"
+      }
+    ],
+    "total_count": 20,
+    "recent_filings_count": 3
+  },
+  "financials": {
+    "employees": 7
+  },
+  "enrichment": {
+    "website": "https://Ssingecoorganic.com",
+    "headcount": 7,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-10T23:29:31.171Z",
+  "scraped_at": "2026-01-10T23:29:31.171Z"
+}

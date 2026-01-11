@@ -1,0 +1,405 @@
+{
+  "company_name": "BGTS LTD",
+  "company_number": "13280202",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-03-21",
+  "jurisdiction": "england-wales",
+  "registered_address": "Soho Works, 180 Strand, London, WC2R 1EA, United Kingdom",
+  "registered_address_structured": {
+    "address_line_1": "Soho Works",
+    "address_line_2": "180 Strand",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2R 1EA"
+  },
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090",
+    "85410"
+  ],
+  "previous_company_names": [
+    {
+      "name": "BILGE ADAM TECHNOLOGIES UK LTD",
+      "ceased_on": "2025-02-03",
+      "effective_from": "2021-03-21"
+    }
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-31",
+    "next_accounts_period_start_on": "2025-01-01",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-31",
+    "last_accounts_type": "audited-abridged",
+    "accounting_reference_date_day": 31,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-15",
+    "last_made_up_to": "2025-08-01",
+    "next_made_up_to": "2026-08-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "ALAMSETTI, Suman",
+        "officer_role": "director",
+        "appointed_on": "2021-08-01",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1979,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "180 Strand",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2R 1EA",
+          "premises": "Soho Works"
+        }
+      },
+      {
+        "name": "SONMEZ, Devrim",
+        "officer_role": "director",
+        "appointed_on": "2021-03-21",
+        "resigned_on": "2021-08-01",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1974,
+        "nationality": "Turkish",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "Malthouse Drive",
+          "country": "England",
+          "locality": "London",
+          "postal_code": "W4 2NR",
+          "premises": "23"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Mr Cuneyt Hakan Cevik",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-50-to-75-percent",
+          "voting-rights-50-to-75-percent",
+          "right-to-appoint-and-remove-directors"
+        ],
+        "notified_on": "2021-08-02",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1970,
+        "nationality": "Turkish",
+        "country_of_residence": "Turkey",
+        "address": {
+          "address_line_1": "180 Strand",
+          "country": "United Kingdom",
+          "locality": "London",
+          "postal_code": "WC2R 1EA",
+          "premises": "Soho Works"
+        }
+      },
+      {
+        "name": "Mr Ibrahim Cevik",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "significant-influence-or-control"
+        ],
+        "notified_on": "2021-03-21",
+        "date_of_birth_month": 4,
+        "date_of_birth_year": 1942,
+        "nationality": "Turkish",
+        "country_of_residence": "Turkey",
+        "address": {
+          "address_line_1": "Reşitpaşa Mah. Tuncay Artun Cad.",
+          "address_line_2": "Blok 15 No: 80ac",
+          "country": "Turkey",
+          "locality": "Sariyer",
+          "premises": "İç Kapi No: 4",
+          "region": "Istanbul"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-01",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XE81JLCI",
+        "transaction_id": "MzQ3NTkzMjEzOGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2025-06-04",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XE3ZCM7V",
+        "transaction_id": "MzQ2ODk0MTQwOGFkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-04-17",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XE0LS360",
+        "transaction_id": "MzQ2Mjk2MTQ0M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2025-02-04",
+        "description": "change-to-a-person-with-significant-control",
+        "type": "PSC04",
+        "pages": 2,
+        "barcode": "XDVOLW02",
+        "transaction_id": "MzQ1MzYzODAyM2FkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2025-02-04",
+        "description": "change-person-director-company-with-change-date",
+        "type": "CH01",
+        "pages": 2,
+        "barcode": "XDVOLVSR",
+        "transaction_id": "MzQ1MzYzNzkzNWFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-02-04",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDVLYR8G",
+        "transaction_id": "MzQ1MzUwOTkzMGFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2025-02-03",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XDVLZLVC",
+        "transaction_id": "MzQ1MzUxNzAxMmFkaXF6a2N4"
+      },
+      {
+        "category": "change-of-name",
+        "date": "2025-02-03",
+        "description": "certificate-change-of-name-company",
+        "type": "CERTNM",
+        "pages": 3,
+        "barcode": "XDVLYQNV",
+        "transaction_id": "MzQ1MzUwOTk4MmFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "accounts-with-accounts-type-audited-abridged",
+        "type": "AA",
+        "pages": 9,
+        "barcode": "XDCRDJUR",
+        "transaction_id": "MzQzNzcxODAxMWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-02",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8NMJDV",
+        "transaction_id": "MzQzMDk5NTk0MWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-03",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC950Y5F",
+        "transaction_id": "MzM4ODU5MjU4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-03-21",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XBZSMWIO",
+        "transaction_id": "MzM3MzQ0MzYwM2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XBA5PKEO",
+        "transaction_id": "MzM0ODQzODc4MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-03-31",
+        "description": "accounts-with-accounts-type-unaudited-abridged",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XB0XAWMG",
+        "transaction_id": "MzMzNDg1MTc1NGFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-03-30",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XB0UGVTM",
+        "transaction_id": "MzMzNDY4Mjc3M2FkaXF6a2N4"
+      },
+      {
+        "category": "persons-with-significant-control",
+        "date": "2022-03-30",
+        "description": "notification-of-a-person-with-significant-control",
+        "type": "PSC01",
+        "pages": 2,
+        "barcode": "XB0UGVY2",
+        "transaction_id": "MzMzNDY4Mjc4M2FkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-02-07",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XAXBSNEG",
+        "transaction_id": "MzMyOTA3MDU2NmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-03",
+        "description": "termination-director-company-with-name-termination-date",
+        "type": "TM01",
+        "pages": 1,
+        "barcode": "XAA47Q3U",
+        "transaction_id": "MzMwOTU4OTQ4M2FkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2021-08-02",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 4,
+        "barcode": "XAA1DDMZ",
+        "transaction_id": "MzMwOTQzMTgwMmFkaXF6a2N4"
+      },
+      {
+        "category": "officers",
+        "date": "2021-08-02",
+        "description": "appoint-person-director-company-with-name-date",
+        "type": "AP01",
+        "pages": 2,
+        "barcode": "XAA1DCUR",
+        "transaction_id": "MzMwOTQzMTc3MmFkaXF6a2N4"
+      },
+      {
+        "category": "address",
+        "date": "2021-07-13",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address",
+        "type": "AD01",
+        "pages": 1,
+        "barcode": "XA8MUWVV",
+        "transaction_id": "MzMwNzU0NzQ3NGFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-03-21",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 10,
+        "barcode": "XA0MEYP6",
+        "transaction_id": "MzI5NDg2Mjc4MWFkaXF6a2N4"
+      }
+    ],
+    "total_count": 22,
+    "recent_filings_count": 8
+  },
+  "financials": {
+    "employees": 10
+  },
+  "enrichment": {
+    "website": "https://Bilgeadamtechnologies.com",
+    "headcount": 10,
+    "tech_stack": [
+      "Temenos",
+      "Microsoft",
+      "AWS",
+      "ServiceNow"
+    ],
+    "business_keywords": [
+      "software development",
+      "technology solutions",
+      "engineering",
+      "digital transformation",
+      "artificial intelligence",
+      "AI-powered solutions",
+      "banking technology",
+      "financial services technology",
+      "insurance technology",
+      "retail transformation",
+      "quality engineering",
+      "cloud solutions",
+      "data analytics",
+      "technology consulting",
+      "IT service management"
+    ],
+    "services": [
+      "Digital Transformation & Engineering",
+      "Software Development",
+      "Artificial Intelligence",
+      "Quality Engineering & Assurance",
+      "Cloud",
+      "Data & Analytics",
+      "Technology Consulting",
+      "Digital Strategy",
+      "Technology Roadmap",
+      "Agile Project Delivery",
+      "Enterprise Service Management",
+      "Endpoint Management",
+      "Cloud & Data Centre Operations",
+      "DevOps",
+      "NOC Monitoring",
+      "End User Support"
+    ],
+    "customer_segments": [
+      "banking institutions",
+      "financial institutions",
+      "financial services",
+      "insurance sector",
+      "retailers",
+      "diverse industries"
+    ],
+    "business_description": "BGTS is a software and technology solutions company with over 25 years of experience and 1,800+ professionals, delivering tailored, AI-powered, and scalable solutions. The company specializes in digital transformation, engineering, and technology services for industries such as banking, financial services, insurance, and retail, helping clients achieve measurable results and sustainable success.",
+    "enrichment_status": "completed",
+    "msp_likelihood_score": 12,
+    "msp_likelihood_confidence": "low",
+    "msp_likelihood_computed_at": "2026-01-10T23:46:27.468Z"
+  },
+  "scraped_at": "2026-01-10T23:46:20.008Z",
+  "updated_at": "2026-01-10T23:46:27.468Z",
+  "version": 1
+}

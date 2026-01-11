@@ -1,0 +1,293 @@
+{
+  "company_name": "OXWOOD GROUP LTD",
+  "company_number": "13543572",
+  "company_status": "active",
+  "company_type": "ltd",
+  "date_of_incorporation": "2021-08-02",
+  "jurisdiction": "england-wales",
+  "registered_address": "30 St. Giles, Oxford, OX1 3LE, England",
+  "registered_address_structured": {
+    "address_line_1": "30 St. Giles",
+    "country": "England",
+    "locality": "Oxford",
+    "postal_code": "OX1 3LE"
+  },
+  "sic_codes": [
+    "62020"
+  ],
+  "previous_company_names": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "accounts": {
+    "next_accounts_due_on": "2026-09-30",
+    "next_accounts_period_end_on": "2025-12-30",
+    "next_accounts_period_start_on": "2024-12-31",
+    "next_accounts_overdue": false,
+    "last_accounts_made_up_to": "2024-12-30",
+    "last_accounts_type": "total-exemption-full",
+    "accounting_reference_date_day": 30,
+    "accounting_reference_date_month": 12
+  },
+  "confirmation_statement": {
+    "next_due": "2026-08-15",
+    "last_made_up_to": "2025-08-01",
+    "next_made_up_to": "2026-08-01"
+  },
+  "officers": {
+    "directors": [
+      {
+        "name": "CLARKE, Stephen Geoffrey",
+        "officer_role": "director",
+        "appointed_on": "2021-08-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Giles",
+          "country": "England",
+          "locality": "Oxford",
+          "postal_code": "OX1 3LE",
+          "premises": "30"
+        }
+      },
+      {
+        "name": "FREEMAN, Graeme Gideon",
+        "officer_role": "director",
+        "appointed_on": "2021-08-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Giles",
+          "country": "England",
+          "locality": "Oxford",
+          "postal_code": "OX1 3LE",
+          "premises": "30"
+        }
+      }
+    ],
+    "secretaries": []
+  },
+  "persons_with_significant_control": {
+    "persons_with_significant_control": [
+      {
+        "name": "Stephen Geoffrey Clarke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-08-02",
+        "date_of_birth_month": 5,
+        "date_of_birth_year": 1968,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Giles",
+          "country": "England",
+          "locality": "Oxford",
+          "postal_code": "OX1 3LE",
+          "premises": "30"
+        }
+      },
+      {
+        "name": "Mr Graeme Gideon Freeman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": [
+          "ownership-of-shares-25-to-50-percent",
+          "voting-rights-25-to-50-percent"
+        ],
+        "notified_on": "2021-08-02",
+        "date_of_birth_month": 7,
+        "date_of_birth_year": 1967,
+        "nationality": "British",
+        "country_of_residence": "England",
+        "address": {
+          "address_line_1": "St. Giles",
+          "country": "England",
+          "locality": "Oxford",
+          "postal_code": "OX1 3LE",
+          "premises": "30"
+        }
+      }
+    ]
+  },
+  "charges": {
+    "charges": [],
+    "total_count": 0,
+    "unsatisfied_count": 0,
+    "satisfied_count": 0,
+    "part_satisfied_count": 0
+  },
+  "filing_history": {
+    "filing_history": [
+      {
+        "category": "accounts",
+        "date": "2025-09-25",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 10,
+        "barcode": "XEBV8280",
+        "transaction_id": "MzQ4MjY3ODAyNmFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2025-08-29",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XE9ZCIJK",
+        "transaction_id": "MzQ3OTExMzc3OGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-12-23",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 8,
+        "barcode": "XDIKK1GH",
+        "transaction_id": "MzQ0ODczODM1MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2024-09-30",
+        "description": "change-account-reference-date-company-previous-shortened",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XDCRA3I3",
+        "transaction_id": "MzQzNzY5MDI4OWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2024-08-05",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XD8VH1C3",
+        "transaction_id": "MzQzMTE3MjYyOWFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2023-08-01",
+        "description": "confirmation-statement-with-no-updates",
+        "type": "CS01",
+        "pages": 3,
+        "barcode": "XC8ZGB4I",
+        "transaction_id": "MzM4ODI3OTE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2023-06-30",
+        "description": "accounts-with-accounts-type-total-exemption-full",
+        "type": "AA",
+        "pages": 7,
+        "barcode": "XC6QVSPV",
+        "transaction_id": "MzM4NDgzODAyMGFkaXF6a2N4"
+      },
+      {
+        "category": "accounts",
+        "date": "2022-11-07",
+        "description": "change-account-reference-date-company-current-extended",
+        "type": "AA01",
+        "pages": 1,
+        "barcode": "XBG9F0G0",
+        "transaction_id": "MzM1NzcxMTE1NGFkaXF6a2N4"
+      },
+      {
+        "category": "confirmation-statement",
+        "date": "2022-08-11",
+        "description": "confirmation-statement-with-updates",
+        "type": "CS01",
+        "pages": 5,
+        "barcode": "XBA5SBDF",
+        "transaction_id": "MzM0ODQ2NjE3MWFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2022-06-14",
+        "description": "memorandum-articles",
+        "type": "MA",
+        "pages": 54,
+        "barcode": "YB5R688J",
+        "transaction_id": "MzM0MTg2ODgxN2FkaXF6a2N4"
+      },
+      {
+        "category": "resolution",
+        "date": "2022-06-14",
+        "description": "resolution",
+        "type": "RESOLUTIONS",
+        "pages": 2,
+        "transaction_id": "WUI1UjY4MUNhZGlxemtjeA"
+      },
+      {
+        "category": "capital",
+        "date": "2022-06-09",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YB5R68AJ",
+        "transaction_id": "MzM0MTg2ODgxOWFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-17",
+        "description": "capital-alter-shares-consolidation",
+        "type": "SH02",
+        "pages": 4,
+        "barcode": "YAVOW7G9",
+        "transaction_id": "MzMyNjcwNTQ5NmFkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-13",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAVM58E9",
+        "transaction_id": "MzMyNjU4NjI4M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-06",
+        "description": "capital-allotment-shares",
+        "type": "SH01",
+        "pages": 3,
+        "barcode": "XAV3HZCI",
+        "transaction_id": "MzMyNTg0OTQ1M2FkaXF6a2N4"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-24",
+        "description": "capital-name-of-class-of-shares",
+        "type": "SH08",
+        "pages": 2,
+        "barcode": "YAJSLSMG",
+        "transaction_id": "MzMyNDMwODg5NmFkaXF6a2N4"
+      },
+      {
+        "category": "incorporation",
+        "date": "2021-08-02",
+        "description": "incorporation-company",
+        "type": "NEWINC",
+        "pages": 13,
+        "barcode": "XAA1GYCC",
+        "transaction_id": "MzMwOTQ2MzUyNGFkaXF6a2N4"
+      }
+    ],
+    "total_count": 17,
+    "recent_filings_count": 2
+  },
+  "financials": {
+    "employees": 16
+  },
+  "enrichment": {
+    "headcount": 16,
+    "enrichment_status": "pending"
+  },
+  "version": 1,
+  "updated_at": "2026-01-11T00:07:59.463Z",
+  "scraped_at": "2026-01-11T00:07:59.463Z"
+}
